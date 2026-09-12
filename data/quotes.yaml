@@ -1,0 +1,5438 @@
+# ═══════════════════════════════════════════════════════════════
+# AI孙子兵法 · 经典语录数据源
+# 13 篇 · 299 条
+# ═══════════════════════════════════════════════════════════════
+
+# ═══════════════════════════════════════════════════════════════
+# chapter-01-shi-ji 始计篇（19 条）
+# ═══════════════════════════════════════════════════════════════
+
+- id: "shi-ji-001"
+  chapter_slug: "chapter-01-shi-ji"
+  chapter: "始计篇"
+  chapter_order: 1
+  order: 1
+  slug: "bing-zhe-guo-zhi-da-shi-si-sheng-zhi-di"
+  quote_dimension: "战略"
+  quote_sub_dimension: ""
+  original: "孙子曰：兵者，国之大事，死生之地，存亡之道，不可不察也。"
+  translation: "孙子说：战争是国家的大事，关系到军民的生死，国家的存亡，是不可以不认真考察研究的。"
+  source: "《孙子兵法·始计篇》"
+  sport_application: "重大比赛前，对场地、赛程、对手等信息的收集深度，直接决定战术方案的针对性与临场调整空间。"
+  faq_short:
+    - q: "重大比赛前，对场地、赛程、对手等信息的收集深度，会如何影响选手的战术选择？"
+      a: "信息深度决定战术方案的针对性与临场调整空间。"
+  draft: false
+  date: 2026-09-12
+
+- id: "shi-ji-002"
+  chapter_slug: "chapter-01-shi-ji"
+  chapter: "始计篇"
+  chapter_order: 1
+  order: 2
+  slug: "gu-jing-zhi-yi-wu-shi-xiao-zhi-yi-ji"
+  quote_dimension: "战略"
+  quote_sub_dimension: ""
+  original: "故经之以五事，校之以计，而索其情：一曰道，二曰天，三曰地，四曰将，五曰法。"
+  translation: "所以要用五项基本要素来统摄全局，用计算比较的方法来探求胜负的情势：第一是道，第二是天，第三是地，第四是将，第五是法。"
+  source: "《孙子兵法·始计篇》"
+  sport_application: "赛前准备时，把道天地将法五个维度转化为可观测、可打分的指标，再按权重评分比较。"
+  faq_short:
+    - q: "赛前准备时，如何将五个维度转化为可比较、可计算的指标？"
+      a: "定义各维度可观测指标，再按权重评分比较。"
+  draft: false
+  date: 2026-09-12
+
+- id: "shi-ji-003"
+  chapter_slug: "chapter-01-shi-ji"
+  chapter: "始计篇"
+  chapter_order: 1
+  order: 3
+  slug: "dao-zhe-ling-min-yu-shang-tong-yi-ye"
+  quote_dimension: "战略"
+  quote_sub_dimension: ""
+  original: "道者，令民与上同意也，故可以与之死，可以与之生，而不畏危。"
+  translation: "道，是使民众与君主的意愿一致，这样民众就可以与君主同生共死，而不害怕危险。"
+  source: "《孙子兵法·始计篇》"
+  sport_application: "在需要牺牲个人数据的角色定位上，运动员对团队目标的认同度越高，战术执行越稳定。"
+  faq_short:
+    - q: "在需要牺牲个人数据的角色定位上，运动员的认同程度如何影响整体战术效果？"
+      a: "认同度高则执行稳，低则角色脱节。"
+  draft: false
+  date: 2026-09-12
+
+- id: "shi-ji-004"
+  chapter_slug: "chapter-01-shi-ji"
+  chapter: "始计篇"
+  chapter_order: 1
+  order: 4
+  slug: "tian-zhe-yin-yang-han-shu-shi-zhi-ye"
+  quote_dimension: "资源约束"
+  quote_sub_dimension: ""
+  original: "天者，阴阳、寒暑、时制也。"
+  translation: "天，是指昼夜、阴晴、寒暑、季节等气候条件的变化规律。"
+  source: "《孙子兵法·始计篇》"
+  sport_application: "高温高湿环境下，长距离耐力项目的有氧效率下降，配速策略必须比常温更保守。"
+  faq_short:
+    - q: "高温高湿环境下，长距离耐力项目的配速策略为什么需要比常温环境更保守？"
+      a: "高温高湿致有氧效率下降，须降低配速。"
+  draft: false
+  date: 2026-09-12
+
+- id: "shi-ji-005"
+  chapter_slug: "chapter-01-shi-ji"
+  chapter: "始计篇"
+  chapter_order: 1
+  order: 5
+  slug: "di-zhe-yuan-jin-xian-yi-guang-xia-si-sheng-ye"
+  quote_dimension: "资源约束"
+  quote_sub_dimension: ""
+  original: "地者，远近、险易、广狭、死生也。"
+  translation: "地，是指路程的远近、地势的险阻或平坦、场地的宽广或狭窄、地形的死地或生地。"
+  source: "《孙子兵法·始计篇》"
+  sport_application: "赛前勘察场地时，教练应记录距离、坡度、宽窄与危险区域，用于调整战术。"
+  faq_short:
+    - q: "赛前勘察场地时，教练应重点记录哪些地形数据来优化战术？"
+      a: "记录距离、坡度、宽窄与危险区域，用于调整战术。"
+  draft: false
+  date: 2026-09-12
+
+- id: "shi-ji-006"
+  chapter_slug: "chapter-01-shi-ji"
+  chapter: "始计篇"
+  chapter_order: 1
+  order: 6
+  slug: "jiang-zhe-zhi-xin-ren-yong-yan-ye"
+  quote_dimension: "战略"
+  quote_sub_dimension: ""
+  original: "将者，智、信、仁、勇、严也。"
+  translation: "将，是指将领的智谋、威信、仁爱、勇敢、严明五种素质。"
+  source: "《孙子兵法·始计篇》"
+  sport_application: "评估一名年轻运动员是否具备成为核心选手的潜质，应从智、信、仁、勇、严五方面考察。"
+  faq_short:
+    - q: "评估一名年轻运动员是否具备成为核心选手的潜质，应从哪五种素质入手？"
+      a: "从智、信、仁、勇、严五方面考察其领导与竞技素质。"
+  draft: false
+  date: 2026-09-12
+
+- id: "shi-ji-007"
+  chapter_slug: "chapter-01-shi-ji"
+  chapter: "始计篇"
+  chapter_order: 1
+  order: 7
+  slug: "fa-zhe-qu-zhi-guan-dao-zhu-yong-ye"
+  quote_dimension: "资源约束"
+  quote_sub_dimension: ""
+  original: "法者，曲制、官道、主用也。"
+  translation: "法，是指军队的组织编制、将吏的职责区分、军需物资的供应管理制度。"
+  source: "《孙子兵法·始计篇》"
+  sport_application: "教练在制定队内规则时，要明确职责分工与物资保障的边界，避免重叠与遗漏。"
+  faq_short:
+    - q: "教练在制定队内规则时，应如何区分“官道”（职责分工）与“主用”（物资保障）以避免执行混乱？"
+      a: "明确职责分工与物资保障边界，避免重叠与遗漏。"
+  draft: false
+  date: 2026-09-12
+
+- id: "shi-ji-008"
+  chapter_slug: "chapter-01-shi-ji"
+  chapter: "始计篇"
+  chapter_order: 1
+  order: 8
+  slug: "fan-ci-wu-zhe-jiang-mo-bu-wen"
+  quote_dimension: "战略"
+  quote_sub_dimension: ""
+  original: "凡此五者，将莫不闻，知之者胜，不知者不胜。"
+  translation: "以上五个方面，将领没有不曾听说过的；但只有真正理解其中道理的人才能取胜，不能真正理解的就不能取胜。"
+  source: "《孙子兵法·始计篇》"
+  sport_application: "教练应通过情境模拟与重复训练，帮助队员把纸面战术转化为场上直觉。"
+  faq_short:
+    - q: "教练应通过哪些训练设计，帮助队员把纸面战术转化为场上直觉？"
+      a: "通过情境模拟与重复训练，将战术认知转化为自动反应。"
+  draft: false
+  date: 2026-09-12
+
+- id: "shi-ji-009"
+  chapter_slug: "chapter-01-shi-ji"
+  chapter: "始计篇"
+  chapter_order: 1
+  order: 9
+  slug: "gu-xiao-zhi-yi-ji-er-suo-qi-qing"
+  quote_dimension: "战略"
+  quote_sub_dimension: ""
+  original: "故校之以计，而索其情，曰：主孰有道？将孰有能？天地孰得？法令孰行？兵众孰强？士卒孰练？赏罚孰明？吾以此知胜负矣。"
+  translation: "所以用计算比较的方法来探求胜负的情势，要问：哪一方的君主更得人心？哪一方的将领更有才能？哪一方更能掌握天时地利？哪一方的法令更能贯彻执行？哪一方的武器装备更精良？哪一方的士兵更训练有素？哪一方的赏罚更公正严明？我根据这些就能判断谁胜谁负了。"
+  source: "《孙子兵法·始计篇》"
+  sport_application: "设计一份赛前对比清单，把七个比较项转化为可打分的评估工具，逐项对比后综合判断。"
+  faq_short:
+    - q: "如何设计一份赛前对比清单，将七个比较项转化为可打分的评估工具？"
+      a: "将七个比较项量化打分，逐项对比后综合判断。"
+  draft: false
+  date: 2026-09-12
+
+- id: "shi-ji-010"
+  chapter_slug: "chapter-01-shi-ji"
+  chapter: "始计篇"
+  chapter_order: 1
+  order: 10
+  slug: "jiang-ting-wu-ji-yong-zhi-bi-sheng"
+  quote_dimension: "战略"
+  quote_sub_dimension: ""
+  original: "将听吾计，用之必胜，留之；将不听吾计，用之必败，去之。"
+  translation: "将领如果听从我的计策，任用他作战一定胜利，就留下他；将领如果不听从我的计策，任用他作战一定失败，就撤换他。"
+  source: "《孙子兵法·始计篇》"
+  sport_application: "团队项目中，一名不执行战术纪律的球员即使个人能力突出，也会成为体系中的不稳定因素。"
+  faq_short:
+    - q: "为什么在团队项目中，一名不执行战术纪律的球员即使个人能力突出，也会成为体系中的不稳定因素？"
+      a: "战术体系依赖每个位置的执行，个人偏离会破坏整体协同。"
+  draft: false
+  date: 2026-09-12
+
+- id: "shi-ji-011"
+  chapter_slug: "chapter-01-shi-ji"
+  chapter: "始计篇"
+  chapter_order: 1
+  order: 11
+  slug: "ji-li-yi-ting-nai-wei-zhi-shi"
+  quote_dimension: "战略"
+  quote_sub_dimension: ""
+  original: "计利以听，乃为之势，以佐其外。"
+  translation: "有利的计策被采纳之后，就要设法造成一种态势，用来辅助对外的军事行动。"
+  source: "《孙子兵法·始计篇》"
+  sport_application: "战术方案被队员接受后，还需要通过训练中的模拟对抗来“造势”，才能提高执行成功率。"
+  faq_short:
+    - q: "为什么战术方案被队员接受后，还需要通过训练中的模拟对抗来“造势”，才能提高执行成功率？"
+      a: "模拟对抗能提前适应实战压力，提升战术执行的稳定性。"
+  draft: false
+  date: 2026-09-12
+
+- id: "shi-ji-012"
+  chapter_slug: "chapter-01-shi-ji"
+  chapter: "始计篇"
+  chapter_order: 1
+  order: 12
+  slug: "shi-zhe-yin-li-er-zhi-quan-ye"
+  quote_dimension: "战术"
+  quote_sub_dimension: ""
+  original: "势者，因利而制权也。"
+  translation: "势，就是根据有利的情况而采取相应的权变措施。"
+  source: "《孙子兵法·始计篇》"
+  sport_application: "顶尖选手在比赛中做出“因利制权”的即兴选择，这种能力来自大量情境训练与模式识别。"
+  faq_short:
+    - q: "为什么顶尖选手在比赛中总能做出“因利制权”的即兴选择，这种能力是如何训练的？"
+      a: "顶尖选手的权变能力来自大量情境训练与模式识别。"
+  draft: false
+  date: 2026-09-12
+
+- id: "shi-ji-013"
+  chapter_slug: "chapter-01-shi-ji"
+  chapter: "始计篇"
+  chapter_order: 1
+  order: 13
+  slug: "bing-zhe-gui-dao-ye"
+  quote_dimension: "战术"
+  quote_sub_dimension: ""
+  original: "兵者，诡道也。"
+  translation: "用兵打仗是一种用假象迷惑敌人的诡变之术。"
+  source: "《孙子兵法·始计篇》"
+  sport_application: "顶尖选手在罚点球或关键分时，会刻意改变自己习惯的节奏和方向，降低对手预判准确性。"
+  faq_short:
+    - q: "为什么顶尖选手在罚点球或关键分时，会刻意改变自己习惯的节奏和方向？"
+      a: "改变节奏与方向可降低对手预判准确性，提升得分率。"
+  draft: false
+  date: 2026-09-12
+
+- id: "shi-ji-014"
+  chapter_slug: "chapter-01-shi-ji"
+  chapter: "始计篇"
+  chapter_order: 1
+  order: 14
+  slug: "gu-neng-er-shi-zhi-bu-neng"
+  quote_dimension: "战术"
+  quote_sub_dimension: ""
+  original: "故能而示之不能，用而示之不用，近而示之远，远而示之近。"
+  translation: "所以，有能力却显示没有能力，要进攻却显示不进攻，要近处行动却显示向远处，要向远处行动却显示向近处。"
+  source: "《孙子兵法·始计篇》"
+  sport_application: "足球比赛中，边锋在边路拿球时通过身体朝向和步频变化，让防守队员误判其内切或下底意图。"
+  faq_short:
+    - q: "足球比赛中，边锋在边路拿球时如何通过身体朝向和步频变化，让防守队员误判其内切或下底意图？"
+      a: "用身体朝向和步频变化隐藏真实突破方向。"
+  draft: false
+  date: 2026-09-12
+
+- id: "shi-ji-015"
+  chapter_slug: "chapter-01-shi-ji"
+  chapter: "始计篇"
+  chapter_order: 1
+  order: 15
+  slug: "li-er-you-zhi-luan-er-qu-zhi"
+  quote_dimension: "战术"
+  quote_sub_dimension: ""
+  original: "利而诱之，乱而取之，实而备之，强而避之，怒而挠之，卑而骄之，佚而劳之，亲而离之。"
+  translation: "敌人贪利就用利益引诱他，敌人混乱就趁机攻取他，敌人力量充实就防备他，敌人兵力强大就避开他，敌人恼怒就骚扰他，敌人谦卑就使他骄傲，敌人休整得好就使他疲劳，敌人内部和睦就离间他。"
+  source: "《孙子兵法·始计篇》"
+  sport_application: "在团体项目中，通过轮换和战术布置，让配合默契的对手组合出现沟通失误。"
+  faq_short:
+    - q: "在团体项目中，如何通过轮换和战术布置，让配合默契的对手组合出现沟通失误？"
+      a: "通过轮换和战术变化打乱对手配合节奏，制造沟通空当。"
+  draft: false
+  date: 2026-09-12
+
+- id: "shi-ji-016"
+  chapter_slug: "chapter-01-shi-ji"
+  chapter: "始计篇"
+  chapter_order: 1
+  order: 16
+  slug: "gong-qi-wu-bei-chu-qi-bu-yi"
+  quote_dimension: "战术"
+  quote_sub_dimension: ""
+  original: "攻其无备，出其不意。"
+  translation: "在敌人没有防备的时候发起攻击，在敌人意料不到的地方采取行动。"
+  source: "《孙子兵法·始计篇》"
+  sport_application: "足球比赛中，利用对方定位球防守站位未稳的瞬间，设计快速开球战术。"
+  faq_short:
+    - q: "足球比赛中，如何利用对方定位球防守站位未稳的瞬间，设计快速开球战术？"
+      a: "快速开球打乱防守站位，创造局部进攻优势。"
+  draft: false
+  date: 2026-09-12
+
+- id: "shi-ji-017"
+  chapter_slug: "chapter-01-shi-ji"
+  chapter: "始计篇"
+  chapter_order: 1
+  order: 17
+  slug: "ci-bing-jia-zhi-sheng-bu-ke-xian-chuan-ye"
+  quote_dimension: "战术"
+  quote_sub_dimension: ""
+  original: "此兵家之胜，不可先传也。"
+  translation: "这是军事家取胜的奥秘，不能事先传授固定不变的方法。"
+  source: "《孙子兵法·始计篇》"
+  sport_application: "顶尖教练的战术手册无法完全复制给另一支球队并取得同样效果。"
+  faq_short:
+    - q: "为什么顶尖教练的战术手册无法完全复制给另一支球队并取得同样效果？"
+      a: "战术依赖球队特质与临场判断，无法照搬。"
+  draft: false
+  date: 2026-09-12
+
+- id: "shi-ji-018"
+  chapter_slug: "chapter-01-shi-ji"
+  chapter: "始计篇"
+  chapter_order: 1
+  order: 18
+  slug: "fu-wei-zhan-er-miao-suan-sheng-zhe"
+  quote_dimension: "战略"
+  quote_sub_dimension: ""
+  original: "夫未战而庙算胜者，得算多也；未战而庙算不胜者，得算少也。"
+  translation: "开战之前就预计能够取胜的，是因为胜利的条件充分；开战之前就预计不能取胜的，是因为胜利的条件不足。"
+  source: "《孙子兵法·始计篇》"
+  sport_application: "赛前准备越充分的球队，在比赛中遭遇意外时调整速度越快。"
+  faq_short:
+    - q: "为什么赛前准备越充分的球队，在比赛中遭遇意外时调整速度越快？"
+      a: "赛前预案充分，临场调整有依据，反应更快。"
+  draft: false
+  date: 2026-09-12
+
+- id: "shi-ji-019"
+  chapter_slug: "chapter-01-shi-ji"
+  chapter: "始计篇"
+  chapter_order: 1
+  order: 19
+  slug: "duo-suan-sheng-shao-suan-bu-sheng"
+  quote_dimension: "战略"
+  quote_sub_dimension: ""
+  original: "多算胜，少算不胜，而况于无算乎？吾以此观之，胜负见矣。"
+  translation: "谋划充分的一方胜算大，谋划不足的一方胜算小，更何况毫无谋划的呢？我根据这些来观察，胜负就已经显现了。"
+  source: "《孙子兵法·始计篇》"
+  sport_application: "赛前“多算”包括对手、场地、体能等分析，这些内容能直接转化为比赛中的优势。"
+  faq_short:
+    - q: "赛前“多算”具体包括哪些内容，为什么这些内容能直接转化为比赛中的优势？"
+      a: "赛前多算包括对手、场地、体能等分析，转化为优势。"
+  draft: false
+  date: 2026-09-12
+
+# ═══════════════════════════════════════════════════════════════
+# chapter-02-zuo-zhan 作战篇（15 条）
+# ═══════════════════════════════════════════════════════════════
+
+- id: "zuo-zhan-001"
+  chapter_slug: "chapter-02-zuo-zhan"
+  chapter: "作战篇"
+  chapter_order: 2
+  order: 1
+  slug: "fan-yong-bing-zhi-fa-chi-che-qian-si"
+  quote_dimension: "资源约束"
+  quote_sub_dimension: ""
+  original: "孙子曰：凡用兵之法，驰车千驷，革车千乘，带甲十万，千里馈粮。"
+  translation: "孙子说：一般用兵的规律是，要出动轻快战车一千辆、重型战车一千辆、穿戴盔甲的士兵十万人，还要从千里之外运送粮食。"
+  source: "《孙子兵法·作战篇》"
+  sport_application: "训练营开始前，装备、场地、恢复手段的准备不足，往往比训练本身更容易导致计划失败。"
+  faq_short:
+    - q: "为什么训练营开始前，装备、场地、恢复手段的准备不足，往往比训练本身更容易导致计划失败？"
+      a: "资源准备不足会中断训练，恢复缺失累积疲劳导致失败。"
+  draft: false
+  date: 2026-09-12
+
+- id: "zuo-zhan-002"
+  chapter_slug: "chapter-02-zuo-zhan"
+  chapter: "作战篇"
+  chapter_order: 2
+  order: 2
+  slug: "ze-nei-wai-zhi-fei-bin-ke-zhi-yong"
+  quote_dimension: "资源约束"
+  quote_sub_dimension: ""
+  original: "则内外之费，宾客之用，胶漆之材，车甲之奉，日费千金，然后十万之师举矣。"
+  translation: "那么国内外的各种费用，招待宾客使节的用度，胶漆等器材的消耗，战车和盔甲的保养补充，每天要耗费巨额资金，然后十万人的军队才能出动。"
+  source: "《孙子兵法·作战篇》"
+  sport_application: "一支职业车队在赛季开始前的装备采购和后勤预算，往往超过很多人对“训练成本”的认知。"
+  faq_short:
+    - q: "为什么一支职业车队在赛季开始前的装备采购和后勤预算，往往超过很多人对“训练成本”的认知？"
+      a: "装备采购与后勤支出含维护及人员保障，远超训练费用。"
+  draft: false
+  date: 2026-09-12
+
+- id: "zuo-zhan-003"
+  chapter_slug: "chapter-02-zuo-zhan"
+  chapter: "作战篇"
+  chapter_order: 2
+  order: 3
+  slug: "qi-yong-zhan-ye-sheng-jiu-ze-dun-bing"
+  quote_dimension: "资源约束"
+  quote_sub_dimension: ""
+  original: "其用战也胜，久则钝兵挫锐，攻城则力屈，久暴师则国用不足。"
+  translation: "用兵作战，贵在速胜，如果拖延太久，军队就会疲惫，锐气受挫，攻城会使力量耗尽，长期在外作战会使国家财政困难。"
+  source: "《孙子兵法·作战篇》"
+  sport_application: "在长距离比赛中，前期过度消耗体能（如马拉松前半程过快）会导致后程配速严重下降甚至退赛。"
+  faq_short:
+    - q: "为什么在长距离比赛中，前期过度消耗体能（如马拉松前半程过快）会导致后程配速严重下降甚至退赛？"
+      a: "前期过快消耗糖原，后程能量不足导致掉速或退赛。"
+  draft: false
+  date: 2026-09-12
+
+- id: "zuo-zhan-004"
+  chapter_slug: "chapter-02-zuo-zhan"
+  chapter: "作战篇"
+  chapter_order: 2
+  order: 4
+  slug: "fu-dun-bing-cuo-rui-qu-li-dan-huo"
+  quote_dimension: "资源约束"
+  quote_sub_dimension: ""
+  original: "夫钝兵挫锐，屈力殚货，则诸侯乘其弊而起，虽有智者，不能善其后矣。"
+  translation: "军队疲惫、锐气受挫，力量耗尽、财力枯竭，那么其他诸侯就会趁这个危机来进攻，即使有智慧的人，也不能妥善收拾这个局面了。"
+  source: "《孙子兵法·作战篇》"
+  sport_application: "在赛季中段过度消耗主力球员的体能，会导致球队在关键比赛中的竞争力下降，即使有优秀教练也难以调整。"
+  faq_short:
+    - q: "为什么在赛季中段过度消耗主力球员的体能，会导致球队在关键比赛中的竞争力下降，即使有优秀教练也难以调整？"
+      a: "主力体能透支致战术执行下降，对手趁机攻击难补救。"
+  draft: false
+  date: 2026-09-12
+
+- id: "zuo-zhan-005"
+  chapter_slug: "chapter-02-zuo-zhan"
+  chapter: "作战篇"
+  chapter_order: 2
+  order: 5
+  slug: "gu-bing-wen-zhuo-su-wei-du-qiao-zhi-jiu"
+  quote_dimension: "资源约束"
+  quote_sub_dimension: ""
+  original: "故兵闻拙速，未睹巧之久也。"
+  translation: "所以用兵打仗，只听说过宁可笨拙地速战速决，也没见过为了追求巧妙而把战争拖久的。"
+  source: "《孙子兵法·作战篇》"
+  sport_application: "在业余羽毛球比赛中，“快速拿下第一局”往往比“靠耐心拖到第三局”更有利于最终获胜。"
+  faq_short:
+    - q: "为什么说在业余羽毛球比赛中，“快速拿下第一局”往往比“靠耐心拖到第三局”更有利于最终获胜？"
+      a: "快速拿下首局节省体能，避免被拖入消耗战。"
+  draft: false
+  date: 2026-09-12
+
+- id: "zuo-zhan-006"
+  chapter_slug: "chapter-02-zuo-zhan"
+  chapter: "作战篇"
+  chapter_order: 2
+  order: 6
+  slug: "fu-bing-jiu-er-guo-li-zhe-wei-zhi-you-ye"
+  quote_dimension: "资源约束"
+  quote_sub_dimension: ""
+  original: "夫兵久而国利者，未之有也。"
+  translation: "用兵拖得很久却对国家有利，这种事从来没有过。"
+  source: "《孙子兵法·作战篇》"
+  sport_application: "“长期处于疲劳状态”对运动员的反应速度和决策能力有隐性损害，即使表面成绩尚可。"
+  faq_short:
+    - q: "为什么说“长期处于疲劳状态”对运动员的反应速度和决策能力有隐性损害，即使表面成绩尚可？"
+      a: "长期疲劳降低神经反应和决策质量，表面成绩未明显下滑。"
+  draft: false
+  date: 2026-09-12
+
+- id: "zuo-zhan-007"
+  chapter_slug: "chapter-02-zuo-zhan"
+  chapter: "作战篇"
+  chapter_order: 2
+  order: 7
+  slug: "gu-bu-jin-zhi-yong-bing-zhi-hai-zhe"
+  quote_dimension: "资源约束"
+  quote_sub_dimension: ""
+  original: "故不尽知用兵之害者，则不能尽知用兵之利也。"
+  translation: "所以，不完全了解用兵害处的人，就不能完全了解用兵的好处。"
+  source: "《孙子兵法·作战篇》"
+  sport_application: "“不知道体力透支的后果，就不能合理分配比赛中的体能”。"
+  faq_short:
+    - q: "为什么说“不知道体力透支的后果，就不能合理分配比赛中的体能”？"
+      a: "不了解透支后果，就无法合理分配体能。"
+  draft: false
+  date: 2026-09-12
+
+- id: "zuo-zhan-008"
+  chapter_slug: "chapter-02-zuo-zhan"
+  chapter: "作战篇"
+  chapter_order: 2
+  order: 8
+  slug: "shan-yong-bing-zhe-yi-bu-zai-ji"
+  quote_dimension: "资源约束"
+  quote_sub_dimension: ""
+  original: "善用兵者，役不再籍，粮不三载，取用于国，因粮于敌，故军食可足也。"
+  translation: "善于用兵的人，兵员不第二次征集，粮草不多次运送；武器装备从国内取用，粮食从敌人那里夺取，所以军队的粮食就能充足。"
+  source: "《孙子兵法·作战篇》"
+  sport_application: "在篮球比赛中，善于制造对手犯规并利用罚球得分的球队，实质上是在消耗对手的“犯规资源”而增强自身。"
+  faq_short:
+    - q: "为什么说在篮球比赛中，善于制造对手犯规并利用罚球得分的球队，实质上是在消耗对手的“犯规资源”而增强自身？"
+      a: "制造犯规减少对手可用球员，罚球得分提升己方。"
+  draft: false
+  date: 2026-09-12
+
+- id: "zuo-zhan-009"
+  chapter_slug: "chapter-02-zuo-zhan"
+  chapter: "作战篇"
+  chapter_order: 2
+  order: 9
+  slug: "guo-zhi-pin-yu-shi-zhe-yuan-shu"
+  quote_dimension: "资源约束"
+  quote_sub_dimension: ""
+  original: "国之贫于师者远输，远输则百姓贫；近于师者贵卖，贵卖则百姓财竭，财竭则急于丘役。"
+  translation: "国家因为用兵而变得贫穷，远途运输是重要原因；远途运输就会使百姓贫困。靠近军队驻扎的地方物价会上涨，物价上涨就会使百姓财富枯竭，财富枯竭就急于增加赋税徭役。"
+  source: "《孙子兵法·作战篇》"
+  sport_application: "参加远离常住地的赛事，交通与住宿成本会成为影响业余运动员参赛频率的关键因素。"
+  faq_short:
+    - q: "为什么参加远离常住地的赛事，交通与住宿成本会成为影响业余运动员参赛频率的关键因素？"
+      a: "远途参赛的交通住宿成本侵占训练恢复资源，制约频率。"
+  draft: false
+  date: 2026-09-12
+
+- id: "zuo-zhan-010"
+  chapter_slug: "chapter-02-zuo-zhan"
+  chapter: "作战篇"
+  chapter_order: 2
+  order: 10
+  slug: "li-qu-cai-dan-zhong-yuan-nei-xu-yu-jia"
+  quote_dimension: "资源约束"
+  quote_sub_dimension: ""
+  original: "力屈财殚，中原内虚于家，百姓之费，十去其七；公家之费，破车罢马，甲胄矢弩，戟楯蔽橹，丘牛大车，十去其六。"
+  translation: "力量耗尽，财力枯竭，国内家家空虚。百姓的财产耗费了十分之七；公家的耗费，战车破损，马匹疲惫，盔甲、弓箭、戟盾、大盾牌、牛车等，也损失了十分之六。"
+  source: "《孙子兵法·作战篇》"
+  sport_application: "“长期高强度训练导致的器材损耗”与“运动员伤病风险上升”背后是同一类资源管理问题。"
+  faq_short:
+    - q: "为什么说“长期高强度训练导致的器材损耗”与“运动员伤病风险上升”背后是同一类资源管理问题？"
+      a: "两者都源于资源消耗超过恢复能力。"
+  draft: false
+  date: 2026-09-12
+
+- id: "zuo-zhan-011"
+  chapter_slug: "chapter-02-zuo-zhan"
+  chapter: "作战篇"
+  chapter_order: 2
+  order: 11
+  slug: "gu-zhi-jiang-wu-shi-yu-di"
+  quote_dimension: "资源约束"
+  quote_sub_dimension: ""
+  original: "故智将务食于敌，食敌一钟，当吾二十钟；𦮼秆一石，当吾二十石。"
+  translation: "所以聪明的将领务求在敌国解决粮食问题。吃敌国一钟粮食，相当于从本国运输二十钟；用敌国一石草料，相当于从本国运输二十石。"
+  source: "《孙子兵法·作战篇》"
+  sport_application: "“在训练中利用对手或队友的反馈来改进技术”比“自己闷头重复训练”的效率更高。"
+  faq_short:
+    - q: "为什么说“在训练中利用对手或队友的反馈来改进技术”比“自己闷头重复训练”的效率更高？"
+      a: "借助他人反馈减少试错，提升技术改进效率。"
+  draft: false
+  date: 2026-09-12
+
+- id: "zuo-zhan-012"
+  chapter_slug: "chapter-02-zuo-zhan"
+  chapter: "作战篇"
+  chapter_order: 2
+  order: 12
+  slug: "gu-sha-di-zhe-nu-ye-qu-di-zhi-li-zhe"
+  quote_dimension: "资源约束"
+  quote_sub_dimension: ""
+  original: "故杀敌者，怒也；取敌之利者，货也。"
+  translation: "所以士兵奋勇杀敌，是因为被激发了愤怒；士兵勇于夺取敌人的物资，是因为有财物奖赏。"
+  source: "《孙子兵法·作战篇》"
+  sport_application: "“用奖金和荣誉激励运动员”与“用愤怒激发斗志”本质上是两种不同的资源调动方式。"
+  faq_short:
+    - q: "为什么说“用奖金和荣誉激励运动员”与“用愤怒激发斗志”本质上是两种不同的资源调动方式？"
+      a: "奖金激励是外部资源，愤怒激励是内部情绪。"
+  draft: false
+  date: 2026-09-12
+
+- id: "zuo-zhan-013"
+  chapter_slug: "chapter-02-zuo-zhan"
+  chapter: "作战篇"
+  chapter_order: 2
+  order: 13
+  slug: "gu-che-zhan-de-che-shi-cheng-yi-shang"
+  quote_dimension: "资源约束"
+  quote_sub_dimension: ""
+  original: "故车战，得车十乘以上，赏其先得者，而更其旌旗，车杂而乘之，卒善而养之，是谓胜敌而益强。"
+  translation: "所以车战中，缴获战车十辆以上的，奖赏最先夺得战车的人，并更换战车上的旗帜，把缴获的战车混编入自己的车队，俘虏的士兵要善待和使用，这就叫战胜敌人而使自己更强大。"
+  source: "《孙子兵法·作战篇》"
+  sport_application: "在篮球比赛中，成功制造对手进攻犯规，不仅能获得球权，还能削弱对手核心球员的出场时间。"
+  faq_short:
+    - q: "为什么在篮球比赛中，成功制造对手进攻犯规，不仅能获得球权，还能削弱对手核心球员的出场时间？"
+      a: "制造进攻犯规获球权并增对手犯规，削核心出场。"
+  draft: false
+  date: 2026-09-12
+
+- id: "zuo-zhan-014"
+  chapter_slug: "chapter-02-zuo-zhan"
+  chapter: "作战篇"
+  chapter_order: 2
+  order: 14
+  slug: "gu-bing-gui-sheng-bu-gui-jiu"
+  quote_dimension: "资源约束"
+  quote_sub_dimension: ""
+  original: "故兵贵胜，不贵久。"
+  translation: "所以用兵作战贵在速胜，而不在于拖延太久。"
+  source: "《孙子兵法·作战篇》"
+  sport_application: "“快速结束战斗”对业余羽毛球选手的体能保护，比“追求多拍相持”更实际。"
+  faq_short:
+    - q: "为什么说“快速结束战斗”对业余羽毛球选手的体能保护，比“追求多拍相持”更实际？"
+      a: "快速结束战斗节省体能，多拍相持消耗更大。"
+  draft: false
+  date: 2026-09-12
+
+- id: "zuo-zhan-015"
+  chapter_slug: "chapter-02-zuo-zhan"
+  chapter: "作战篇"
+  chapter_order: 2
+  order: 15
+  slug: "gu-zhi-bing-zhi-jiang-sheng-min-zhi-si-ming"
+  quote_dimension: "资源约束"
+  quote_sub_dimension: ""
+  original: "故知兵之将，生民之司命，国家安危之主也。"
+  translation: "所以懂得用兵的将领，是民众命运的掌握者，国家安危的主宰者。"
+  source: "《孙子兵法·作战篇》"
+  sport_application: "一支球队的主教练在赛季中的阵容轮换决策，直接决定了球队体能资源能否撑到关键比赛。"
+  faq_short:
+    - q: "为什么说一支球队的主教练在赛季中的阵容轮换决策，直接决定了球队体能资源能否撑到关键比赛？"
+      a: "主教练轮换决定体能分配，影响关键比赛表现。"
+  draft: false
+  date: 2026-09-12
+
+  # ═══════════════════════════════════════════════════════════════
+# chapter-03-mou-gong 谋攻篇（16 条）
+# ═══════════════════════════════════════════════════════════════
+
+- id: "mou-gong-001"
+  chapter_slug: "chapter-03-mou-gong"
+  chapter: "谋攻篇"
+  chapter_order: 3
+  order: 1
+  slug: "quan-guo-wei-shang-po-guo-ci-zhi"
+  quote_dimension: "战略"
+  quote_sub_dimension: ""
+  original: "孙子曰：夫用兵之法，全国为上，破国次之；全军为上，破军次之；全旅为上，破旅次之；全卒为上，破卒次之；全伍为上，破伍次之。"
+  translation: "用兵的原则是：使敌人整个国家完整地降服是上策，击破敌国就次一等；使敌人全军完整降服是上策，击破敌军就次一等；使敌人全旅完整降服是上策，击破敌旅就次一等；使敌人全卒完整降服是上策，击破敌卒就次一等；使敌人全伍完整降服是上策，击破敌伍就次一等。"
+  source: "《孙子兵法·谋攻篇》"
+  sport_application: "在实力接近的比赛中，一方常常选择控制节奏而非频繁发动强攻——控制节奏可减少自身损耗，以完整状态取胜。"
+  faq_short:
+    - q: "在实力接近的比赛中，为什么一方常常选择控制节奏而非频繁发动强攻？"
+      a: "控制节奏可减少自身损耗，以完整状态取胜。"
+  draft: false
+  date: 2026-09-12
+
+- id: "mou-gong-002"
+  chapter_slug: "chapter-03-mou-gong"
+  chapter: "谋攻篇"
+  chapter_order: 3
+  order: 2
+  slug: "bai-zhan-bai-sheng-fei-shan-zhi-shan-zhe-ye"
+  quote_dimension: "战略"
+  quote_sub_dimension: ""
+  original: "是故百战百胜，非善之善者也；不战而屈人之兵，善之善者也。"
+  translation: "因此，百战百胜，不算好中最好的；不通过交战就使敌人屈服，才是好中最好的。"
+  source: "《孙子兵法·谋攻篇》"
+  sport_application: "长期保持统治地位的运动员，依靠战术与心理优势提前瓦解对手抵抗力，很少需要拼到最后一刻才取胜。"
+  faq_short:
+    - q: "长期保持统治地位的运动员，为何很少出现需要拼到最后一刻才取胜的场面？"
+      a: "他们依靠战术与心理优势提前瓦解对手抵抗力。"
+  draft: false
+  date: 2026-09-12
+
+- id: "mou-gong-003"
+  chapter_slug: "chapter-03-mou-gong"
+  chapter: "谋攻篇"
+  chapter_order: 3
+  order: 3
+  slug: "shang-bing-fa-mou-qi-ci-fa-jiao"
+  quote_dimension: "战略"
+  quote_sub_dimension: "战术"
+  original: "故上兵伐谋，其次伐交，其次伐兵，其下攻城。"
+  translation: "所以，上等的用兵策略是挫败敌人的谋略，其次是挫败敌人的外交，再次是进攻敌人的军队，最下策是攻打敌人的城池。"
+  source: "《孙子兵法·谋攻篇》"
+  sport_application: "高水平教练在赛前更重视研究对手的战术习惯，而不是单纯加强本方训练强度——识破对手战术能以更低消耗获得优势。"
+  faq_short:
+    - q: "为什么高水平教练在赛前更重视研究对手的战术习惯，而不是单纯加强本方训练强度？"
+      a: "识破对手战术能以更低消耗获得优势。"
+  draft: false
+  date: 2026-09-12
+
+- id: "mou-gong-004"
+  chapter_slug: "chapter-03-mou-gong"
+  chapter: "谋攻篇"
+  chapter_order: 3
+  order: 4
+  slug: "gong-cheng-zhi-fa-wei-bu-de-yi"
+  quote_dimension: "战略"
+  quote_sub_dimension: ""
+  original: "攻城之法为不得已。"
+  translation: "攻打城池的方法是不得已时才采用的。"
+  source: "《孙子兵法·谋攻篇》"
+  sport_application: "许多球队在久攻不下时，选择更直接的冲吊或远射，而非继续耐心传导——耐心传导难以撕开密集防守，直接冲击试图制造变数。"
+  faq_short:
+    - q: "为什么许多球队在久攻不下时，反而选择更直接的冲吊或远射，而非继续耐心传导？"
+      a: "耐心传导难以撕开密集防守，直接冲击试图制造变数。"
+  draft: false
+  date: 2026-09-12
+
+- id: "mou-gong-005"
+  chapter_slug: "chapter-03-mou-gong"
+  chapter: "谋攻篇"
+  chapter_order: 3
+  order: 5
+  slug: "xiu-lu-fen-wen-ju-qi-xie-san-yue-er-hou-cheng"
+  quote_dimension: "资源约束"
+  quote_sub_dimension: ""
+  original: "修橹轒辒，具器械，三月而后成，距闉，又三月而后已。"
+  translation: "修造大盾和攻城车，准备各种器械，要三个月才能完成；构筑攻城的土山，又要三个月才能完工。"
+  source: "《孙子兵法·谋攻篇》"
+  sport_application: "赛前备战中，体能储备若长期高强度维持，易出现过度训练与状态下滑，导致边际效益递减。"
+  faq_short:
+    - q: "赛前备战中，哪些资源投入（如训练时间、体能储备、器材调试）最容易因准备周期过长而导致边际效益递减？"
+      a: "体能储备若长期高强度维持，易出现过度训练与状态下滑。"
+  draft: false
+  date: 2026-09-12
+
+- id: "mou-gong-006"
+  chapter_slug: "chapter-03-mou-gong"
+  chapter: "谋攻篇"
+  chapter_order: 3
+  order: 6
+  slug: "jiang-bu-sheng-qi-fen-er-yi-fu-zhi"
+  quote_dimension: "战略"
+  quote_sub_dimension: "执行"
+  original: "将不胜其忿而蚁附之，杀士三分之一而城不拔者，此攻之灾也。"
+  translation: "将领克制不住愤怒，命令士兵像蚂蚁一样爬梯攻城，士兵伤亡了三分之一，城还是攻不下来，这就是攻城的灾难。"
+  source: "《孙子兵法·谋攻篇》"
+  sport_application: "比赛中因急躁而连续发动低效进攻，导致失误增多——急躁导致战术执行偏离，失误率上升。"
+  faq_short:
+    - q: "比赛中因急躁而连续发动低效进攻，导致失误增多，这种现象在哪些项目中最为常见？"
+      a: "急躁导致战术执行偏离，失误率上升。"
+  draft: false
+  date: 2026-09-12
+
+- id: "mou-gong-007"
+  chapter_slug: "chapter-03-mou-gong"
+  chapter: "谋攻篇"
+  chapter_order: 3
+  order: 7
+  slug: "gu-shan-yong-bing-zhe-qu-ren-zhi-bing"
+  quote_dimension: "战略"
+  quote_sub_dimension: "战术"
+  original: "故善用兵者，屈人之兵而非战也，拔人之城而非攻也，毁人之国而非久也。"
+  translation: "所以善于用兵的人，使敌人屈服而不通过交战，夺取敌人的城池而不靠硬攻，毁灭敌人的国家而不靠久战。"
+  source: "《孙子兵法·谋攻篇》"
+  sport_application: "在赛前准备中，通过视频分析和战术预演让对手在关键回合中陷入犹豫——提前暴露对手习惯，迫使其临场自我怀疑。"
+  faq_short:
+    - q: "在赛前准备中，如何通过视频分析和战术预演让对手在关键回合中陷入犹豫？"
+      a: "提前暴露对手习惯，迫使其临场自我怀疑。"
+  draft: false
+  date: 2026-09-12
+
+- id: "mou-gong-008"
+  chapter_slug: "chapter-03-mou-gong"
+  chapter: "谋攻篇"
+  chapter_order: 3
+  order: 8
+  slug: "bi-yi-quan-zheng-yu-tian-xia"
+  quote_dimension: "战略"
+  quote_sub_dimension: ""
+  original: "必以全争于天下，故兵不顿而利可全，此谋攻之法也。"
+  translation: "一定要用全胜的策略争胜于天下，这样军队不会疲惫受挫，利益却可以完整保全，这就是谋攻的方法。"
+  source: "《孙子兵法·谋攻篇》"
+  sport_application: "一些成熟球队在赛季中更注重轮换和体能分配，而不是每场都派出最强阵容——轮换与体能分配能保持全季战力，避免核心过度消耗。"
+  faq_short:
+    - q: "为什么一些成熟球队在赛季中更注重轮换和体能分配，而不是每场都派出最强阵容？"
+      a: "轮换与体能分配能保持全季战力，避免核心过度消耗。"
+  draft: false
+  date: 2026-09-12
+
+- id: "mou-gong-009"
+  chapter_slug: "chapter-03-mou-gong"
+  chapter: "谋攻篇"
+  chapter_order: 3
+  order: 9
+  slug: "gu-yong-bing-zhi-fa-shi-ze-wei-zhi"
+  quote_dimension: "战术"
+  quote_sub_dimension: ""
+  original: "故用兵之法，十则围之，五则攻之，倍则分之，敌则能战之，少则能逃之，不若则能避之。"
+  translation: "用兵的法则是：有十倍于敌人的兵力就包围它，五倍于敌人的兵力就进攻它，一倍于敌人的兵力就设法分散它，兵力与敌人相当就要能与之交战，兵力少于敌人就要能退却，兵力不如敌人就要能避开决战。"
+  source: "《孙子兵法·谋攻篇》"
+  sport_application: "在竞技对抗中，根据对手实力调整己方战术强度的决策依据是双方实力对比与风险承受能力。"
+  faq_short:
+    - q: "在竞技对抗中，根据对手实力调整己方战术强度的决策依据是什么？"
+      a: "核心依据是双方实力对比与风险承受能力。"
+  draft: false
+  date: 2026-09-12
+
+- id: "mou-gong-010"
+  chapter_slug: "chapter-03-mou-gong"
+  chapter: "谋攻篇"
+  chapter_order: 3
+  order: 10
+  slug: "gu-xiao-di-zhi-jian-da-di-zhi-qin-ye"
+  quote_dimension: "战术"
+  quote_sub_dimension: ""
+  original: "故小敌之坚，大敌之擒也。"
+  translation: "所以，弱小的军队如果固执地坚守硬拼，就会成为强大军队的俘虏。"
+  source: "《孙子兵法·谋攻篇》"
+  sport_application: "在实力差距明显的比赛中，弱队有时反而选择与强队正面硬拼，导致早早失去悬念——弱队误判硬拼收益，忽视实力差距导致速败。"
+  faq_short:
+    - q: "在实力差距明显的比赛中，为什么弱队有时反而选择与强队正面硬拼，导致早早失去悬念？"
+      a: "弱队误判硬拼收益，忽视实力差距导致速败。"
+  draft: false
+  date: 2026-09-12
+
+- id: "mou-gong-011"
+  chapter_slug: "chapter-03-mou-gong"
+  chapter: "谋攻篇"
+  chapter_order: 3
+  order: 11
+  slug: "fu-jiang-zhe-guo-zhi-fu-ye"
+  quote_dimension: "战略"
+  quote_sub_dimension: ""
+  original: "夫将者，国之辅也，辅周则国必强，辅隙则国必弱。"
+  translation: "将领是国家的辅助，辅助得周密，国家就强盛；辅助有漏洞，国家就衰弱。"
+  source: "《孙子兵法·谋攻篇》"
+  sport_application: "一支球队在核心球员缺阵时，整体表现往往大幅下滑——核心球员承担战术枢纽与心理稳定作用。"
+  faq_short:
+    - q: "为什么一支球队在核心球员缺阵时，整体表现往往大幅下滑？"
+      a: "核心球员承担战术枢纽与心理稳定作用。"
+  draft: false
+  date: 2026-09-12
+
+- id: "mou-gong-012"
+  chapter_slug: "chapter-03-mou-gong"
+  chapter: "谋攻篇"
+  chapter_order: 3
+  order: 12
+  slug: "gu-jun-zhi-suo-yi-huan-yu-jun-zhe-san"
+  quote_dimension: "战略"
+  quote_sub_dimension: "执行"
+  original: "故君之所以患于军者三：不知军之不可以进而谓之进，不知军之不可以退而谓之退，是谓縻军；不知三军之事而同三军之政者，则军士惑矣；不知三军之权而同三军之任，则军士疑矣。"
+  translation: "国君对军队造成危害的情况有三种：不了解军队不可以前进却命令它前进，不了解军队不可以后退却命令它后退，这叫束缚军队；不了解军队内部事务却干涉军队的行政管理，士兵就会迷惑；不了解军队的权变却干涉军队的指挥，士兵就会怀疑。"
+  source: "《孙子兵法·谋攻篇》"
+  sport_application: "在职业体育中，俱乐部管理层过度干预教练的战术安排，会导致战术执行混乱，球员信任度下降。"
+  faq_short:
+    - q: "在职业体育中，俱乐部管理层过度干预教练的战术安排，通常会导致什么后果？"
+      a: "战术执行混乱，球员信任度下降。"
+  draft: false
+  date: 2026-09-12
+
+- id: "mou-gong-013"
+  chapter_slug: "chapter-03-mou-gong"
+  chapter: "谋攻篇"
+  chapter_order: 3
+  order: 13
+  slug: "san-jun-ji-huo-qie-yi"
+  quote_dimension: "战略"
+  quote_sub_dimension: ""
+  original: "三军既惑且疑，则诸侯之难至矣，是谓乱军引胜。"
+  translation: "军队既迷惑又怀疑，那么各国诸侯乘机进攻的灾难就来了，这就是扰乱自己的军队，引导敌人取得胜利。"
+  source: "《孙子兵法·谋攻篇》"
+  sport_application: "内部混乱如果未能及时纠正，在关键比赛中可能被对手利用其战术分歧集中攻击薄弱点，迅速取胜。"
+  faq_short:
+    - q: "内部混乱如果未能及时纠正，在关键比赛中可能被对手怎样利用而造成致命打击？"
+      a: "对手会利用其战术分歧集中攻击薄弱点，迅速取胜。"
+  draft: false
+  date: 2026-09-12
+
+- id: "mou-gong-014"
+  chapter_slug: "chapter-03-mou-gong"
+  chapter: "谋攻篇"
+  chapter_order: 3
+  order: 14
+  slug: "gu-zhi-sheng-you-wu"
+  quote_dimension: "战略"
+  quote_sub_dimension: ""
+  original: "故知胜有五：知可以战与不可以战者胜，识众寡之用者胜，上下同欲者胜，以虞待不虞者胜，将能而君不御者胜。"
+  translation: "所以，预知胜利有五种情况：知道什么情况下可以打、什么情况下不可以打的，能胜利；懂得根据兵力多少采用不同打法的，能胜利；全军上下意愿一致的，能胜利；以有准备对待无准备的，能胜利；将领有才能而君主不干预的，能胜利。"
+  source: "《孙子兵法·谋攻篇》"
+  sport_application: "在实力相当的比赛中，通过分析对手的参赛状态来判断是否应该采取主动进攻还是保守应对——对手状态差则主动进攻，状态好则保守应对。"
+  faq_short:
+    - q: "在实力相当的比赛中，如何通过分析对手的参赛状态来判断是否应该采取主动进攻还是保守应对？"
+      a: "对手状态差则主动进攻，状态好则保守应对。"
+  draft: false
+  date: 2026-09-12
+
+- id: "mou-gong-015"
+  chapter_slug: "chapter-03-mou-gong"
+  chapter: "谋攻篇"
+  chapter_order: 3
+  order: 15
+  slug: "ci-wu-zhe-zhi-sheng-zhi-dao-ye"
+  quote_dimension: "战略"
+  quote_sub_dimension: ""
+  original: "此五者，知胜之道也。"
+  translation: "这五条，是预知胜利的方法。"
+  source: "《孙子兵法·谋攻篇》"
+  sport_application: "有些队伍看似实力不强，却总能赢下关键比赛——掌握知胜条件可弥补账面实力差距。"
+  faq_short:
+    - q: "为何有些队伍看似实力不强，却总能赢下关键比赛？"
+      a: "掌握知胜条件可弥补账面实力差距。"
+  draft: false
+  date: 2026-09-12
+
+- id: "mou-gong-016"
+  chapter_slug: "chapter-03-mou-gong"
+  chapter: "谋攻篇"
+  chapter_order: 3
+  order: 16
+  slug: "gu-yue-zhi-bi-zhi-ji-zhe"
+  quote_dimension: "复盘"
+  quote_sub_dimension: "战略"
+  original: "故曰：知彼知己者，百战不殆；不知彼而知己，一胜一负；不知彼，不知己，每战必殆。"
+  translation: "所以说：了解对方又了解自己，百次战斗都不会有危险；不了解对方但了解自己，胜负各半；不了解对方也不了解自己，每次战斗都必定危险。"
+  source: "《孙子兵法·谋攻篇》"
+  sport_application: "通过赛后复盘同时修正对对手的认知与对自身的评估偏差——复盘可同时校准对对手策略与自身状态的认知，减少评估偏差。"
+  faq_short:
+    - q: "如何通过赛后复盘同时修正对对手的认知与对自身的评估偏差？"
+      a: "复盘可同时校准对对手策略与自身状态的认知，减少评估偏差。"
+  draft: false
+  date: 2026-09-12
+
+# ═══════════════════════════════════════════════════════════════
+# chapter-04-jun-xing 军形篇（19 条）
+# ═══════════════════════════════════════════════════════════════
+
+- id: "jun-xing-001"
+  chapter_slug: "chapter-04-jun-xing"
+  chapter: "军形篇"
+  chapter_order: 4
+  order: 1
+  slug: "xi-zhi-shan-zhan-zhe"
+  quote_dimension: "物理极限"
+  quote_sub_dimension: ""
+  original: "昔之善战者，先为不可胜，以待敌之可胜。"
+  translation: "从前善于竞技的人，先让自己处于不会被击败的状态，然后等待对手出现可以被击败的时机。"
+  source: "《孙子兵法·军形篇》"
+  sport_application: "当对手没有出现明显漏洞时，选手应继续执行原定计划，等待对手因消耗或失误暴露漏洞。"
+  faq_short:
+    - q: "当对手没有出现明显漏洞时，选手应该主动改变节奏施压，还是继续执行原定计划等待机会？"
+      a: "应继续执行原定计划，等待对手因消耗或失误暴露漏洞。"
+  draft: false
+  date: 2026-09-12
+
+- id: "jun-xing-002"
+  chapter_slug: "chapter-04-jun-xing"
+  chapter: "军形篇"
+  chapter_order: 4
+  order: 2
+  slug: "bu-ke-sheng-zai-ji"
+  quote_dimension: "物理极限"
+  quote_sub_dimension: ""
+  original: "不可胜在己，可胜在敌。"
+  translation: "让自己不被击败的主动权在自己手中；能否击败对手，则取决于对手是否暴露可以被利用的弱点。"
+  source: "《孙子兵法·军形篇》"
+  sport_application: "运动员保持不败的关键，在于自身能力的均衡稳定，对手发挥属于不可控因素。"
+  faq_short:
+    - q: "运动员保持不败的关键，究竟是自身各项能力的均衡稳定，还是对手没有打出足够高的质量？"
+      a: "关键在于自身能力的均衡稳定，对手发挥属于不可控因素。"
+  draft: false
+  date: 2026-09-12
+
+- id: "jun-xing-003"
+  chapter_slug: "chapter-04-jun-xing"
+  chapter: "军形篇"
+  chapter_order: 4
+  order: 3
+  slug: "gu-shan-zhan-zhe-neng-wei-bu-ke-sheng"
+  quote_dimension: "物理极限"
+  quote_sub_dimension: ""
+  original: "故善战者，能为不可胜，不能使敌之必可胜。"
+  translation: "所以善于竞技的人，能够让自己做到不被击败，却无法强制对手一定可以被击败。"
+  source: "《孙子兵法·军形篇》"
+  sport_application: "运动员在技术动作与体能准备都已到位的情况下，对手的临场发挥仍属于自己无法控制的那部分胜负因素，但自身稳定可降低其影响。"
+  faq_short:
+    - q: "运动员在技术动作与体能准备都已到位的情况下，对手的临场发挥是否仍然构成了自己无法控制的那部分胜负因素？"
+      a: "对手发挥确属不可控，但自身稳定可降低其影响。"
+  draft: false
+  date: 2026-09-12
+
+- id: "jun-xing-004"
+  chapter_slug: "chapter-04-jun-xing"
+  chapter: "军形篇"
+  chapter_order: 4
+  order: 4
+  slug: "gu-yue-sheng-ke-zhi"
+  quote_dimension: "物理极限"
+  quote_sub_dimension: ""
+  original: "故曰：胜可知，而不可为。"
+  translation: "所以说，胜利可以预先判断，但不能强行制造。"
+  source: "《孙子兵法·军形篇》"
+  sport_application: "运动员在比赛中的胜负，赛前可判断大致趋势，但具体结果无法完全预知。"
+  faq_short:
+    - q: "运动员在比赛中的胜负，究竟有多少比例在赛前就可以通过双方实力对比与准备程度做出可靠判断？"
+      a: "赛前可判断大致趋势，但具体结果无法完全预知。"
+  draft: false
+  date: 2026-09-12
+
+- id: "jun-xing-005"
+  chapter_slug: "chapter-04-jun-xing"
+  chapter: "军形篇"
+  chapter_order: 4
+  order: 5
+  slug: "bu-ke-sheng-zhe-shou-ye"
+  quote_dimension: "物理极限"
+  quote_sub_dimension: "资源约束"
+  original: "不可胜者，守也；可胜者，攻也。"
+  translation: "当自身实力不足以战胜对手时，应当采取防守；当自身实力足以战胜对手时，应当采取进攻。"
+  source: "《孙子兵法·军形篇》"
+  sport_application: "进攻与防守的选择，主要由双方当前的实力差距决定，时间节点是次要因素。"
+  faq_short:
+    - q: "进攻与防守的选择，本质上是由双方当前的实力差距决定，还是由比赛时间节点决定？"
+      a: "主要由实力差距决定，时间节点是次要因素。"
+  draft: false
+  date: 2026-09-12
+
+- id: "jun-xing-006"
+  chapter_slug: "chapter-04-jun-xing"
+  chapter: "军形篇"
+  chapter_order: 4
+  order: 6
+  slug: "shou-ze-bu-zu"
+  quote_dimension: "资源约束"
+  quote_sub_dimension: "物理极限"
+  original: "守则不足，攻则有余。"
+  translation: "采取防守，是因为自身力量不足；采取进攻，是因为自身力量有余。"
+  source: "《孙子兵法·军形篇》"
+  sport_application: "选手判断自己“有余”或“不足”时，应综合体能储备、比分差距和技术对位综合判断。"
+  faq_short:
+    - q: "选手判断自己“有余”或“不足”时，主要依据是体能储备、比分差距还是技术对位？"
+      a: "应综合体能储备、比分差距和技术对位综合判断。"
+  draft: false
+  date: 2026-09-12
+
+- id: "jun-xing-007"
+  chapter_slug: "chapter-04-jun-xing"
+  chapter: "军形篇"
+  chapter_order: 4
+  order: 7
+  slug: "shan-shou-zhe-cang-yu-jiu-di-zhi-xia"
+  quote_dimension: "战术"
+  quote_sub_dimension: "物理极限"
+  original: "善守者，藏于九地之下；善攻者，动于九天之上，故能自保而全胜也。"
+  translation: "善于防守的人，像隐藏在极深的地下一样不露痕迹；善于进攻的人，像从极高的天上发动一样不可阻挡，所以既能保全自己，又能取得完整的胜利。"
+  source: "《孙子兵法·军形篇》"
+  sport_application: "防守时的“隐藏”与进攻时的“突然”，在节奏控制上都遵循隐蔽意图、突然改变节奏的原则。"
+  faq_short:
+    - q: "防守时的“隐藏”与进攻时的“突然”，在节奏控制上是否存在共同的战术原则？"
+      a: "两者都遵循隐蔽意图、突然改变节奏的原则。"
+  draft: false
+  date: 2026-09-12
+
+- id: "jun-xing-008"
+  chapter_slug: "chapter-04-jun-xing"
+  chapter: "军形篇"
+  chapter_order: 4
+  order: 8
+  slug: "jian-sheng-bu-guo-zhong-ren-zhi-suo-zhi"
+  quote_dimension: "物理极限"
+  quote_sub_dimension: ""
+  original: "见胜不过众人之所知，非善之善者也；战胜而天下曰善，非善之善者也。"
+  translation: "预见胜利不超过一般人的见识，不算是高明中最高明的；通过激烈战斗取得胜利，天下人都说好，也不算是高明中最高明的。"
+  source: "《孙子兵法·军形篇》"
+  sport_application: "顶尖选手的胜利往往在赛前就已基本确定，真正决定胜负的是准备阶段的差距，临场调整为辅。"
+  faq_short:
+    - q: "顶尖选手的胜利往往在赛前就已基本确定，真正决定胜负的是准备阶段的差距还是比赛中的临场调整？"
+      a: "准备阶段的差距是决定胜负的主因，临场调整为辅。"
+  draft: false
+  date: 2026-09-12
+
+- id: "jun-xing-009"
+  chapter_slug: "chapter-04-jun-xing"
+  chapter: "军形篇"
+  chapter_order: 4
+  order: 9
+  slug: "gu-ju-qiu-hao-bu-wei-duo-li"
+  quote_dimension: "物理极限"
+  quote_sub_dimension: ""
+  original: "故举秋毫不为多力，见日月不为明目，闻雷霆不为聪耳。"
+  translation: "所以，能举起秋天的细毛，不算力气大；能看见太阳和月亮，不算视力好；能听见雷声，不算听力灵敏。"
+  source: "《孙子兵法·军形篇》"
+  sport_application: "在竞技体育中，真正拉开选手差距的，是那些普通观众看不出来的细节能力，比显性的体能或技术指标更能决定高水平差距。"
+  faq_short:
+    - q: "在竞技体育中，真正拉开选手差距的，是那些普通观众看不出来的细节能力，还是显性的体能或技术指标？"
+      a: "细节能力比显性指标更能决定高水平差距。"
+  draft: false
+  date: 2026-09-12
+
+- id: "jun-xing-010"
+  chapter_slug: "chapter-04-jun-xing"
+  chapter: "军形篇"
+  chapter_order: 4
+  order: 10
+  slug: "gu-zhi-suo-wei-shan-zhan-zhe"
+  quote_dimension: "物理极限"
+  quote_sub_dimension: ""
+  original: "古之所谓善战者，胜于易胜者也。"
+  translation: "古代所谓善于竞技的人，是战胜那些容易被战胜的对手。"
+  source: "《孙子兵法·军形篇》"
+  sport_application: "真正决定比赛难易的，是选手在赛前通过准备将对手“变弱”的能力——赛前准备能将实际差距扩大，使比赛变易。"
+  faq_short:
+    - q: "真正决定比赛难易的，是双方实力差距本身，还是选手在赛前通过准备将对手“变弱”的能力？"
+      a: "赛前准备能将实际差距扩大，使比赛变易。"
+  draft: false
+  date: 2026-09-12
+
+- id: "jun-xing-011"
+  chapter_slug: "chapter-04-jun-xing"
+  chapter: "军形篇"
+  chapter_order: 4
+  order: 11
+  slug: "gu-shan-zhan-zhe-zhi-sheng-ye"
+  quote_dimension: "物理极限"
+  quote_sub_dimension: ""
+  original: "故善战者之胜也，无智名，无勇功。"
+  translation: "所以善于竞技的人取得的胜利，没有智谋的名声，也没有勇武的战功。"
+  source: "《孙子兵法·军形篇》"
+  sport_application: "高水平的对抗中，真正的胜负手往往发生在观众难以察觉的细节，而非戏剧性的高光时刻——细节处的持续优势积累才形成最终胜负手。"
+  faq_short:
+    - q: "为什么高水平的对抗中，真正的胜负手往往发生在观众难以察觉的细节，而非戏剧性的高光时刻？"
+      a: "细节处的持续优势积累才形成最终胜负手。"
+  draft: false
+  date: 2026-09-12
+
+- id: "jun-xing-012"
+  chapter_slug: "chapter-04-jun-xing"
+  chapter: "军形篇"
+  chapter_order: 4
+  order: 12
+  slug: "gu-qi-zhan-sheng-bu-te"
+  quote_dimension: "物理极限"
+  quote_sub_dimension: ""
+  original: "故其战胜不忒；不忒者，其所措必胜，胜已败者也。"
+  translation: "所以他的胜利不会有差错；之所以不会有差错，是因为他所采取的措施必然导向胜利，他战胜的是已经处于败势的对手。"
+  source: "《孙子兵法·军形篇》"
+  sport_application: "选手的胜利确定性，主要来自赛前战术设计的针对性——赛前战术针对性是确定性基础，赛中压制是执行。"
+  faq_short:
+    - q: "选手的胜利确定性，主要来自赛前战术设计的针对性，还是比赛过程中对对手的持续压制？"
+      a: "赛前战术针对性是确定性基础，赛中压制是执行。"
+  draft: false
+  date: 2026-09-12
+
+- id: "jun-xing-013"
+  chapter_slug: "chapter-04-jun-xing"
+  chapter: "军形篇"
+  chapter_order: 4
+  order: 13
+  slug: "gu-shan-zhan-zhe-li-yu-bu-bai-zhi-di"
+  quote_dimension: "物理极限"
+  quote_sub_dimension: "资源约束"
+  original: "故善战者，立于不败之地，而不失敌之败也。"
+  translation: "所以善于竞技的人，先让自己站在不会失败的位置，同时不放过对手出现的败势。"
+  source: "《孙子兵法·军形篇》"
+  sport_application: "选手在确保自身不失误与捕捉对手漏洞之间，应先保证自身稳定，再分配部分注意力捕捉漏洞。"
+  faq_short:
+    - q: "选手在确保自身不失误与捕捉对手漏洞之间，应如何分配注意力资源？"
+      a: "先保证自身稳定，再分配部分注意力捕捉漏洞。"
+  draft: false
+  date: 2026-09-12
+
+- id: "jun-xing-014"
+  chapter_slug: "chapter-04-jun-xing"
+  chapter: "军形篇"
+  chapter_order: 4
+  order: 14
+  slug: "shi-gu-sheng-bing-xian-sheng-er-hou-qiu-zhan"
+  quote_dimension: "战略"
+  quote_sub_dimension: "物理极限"
+  original: "是故胜兵先胜而后求战，败兵先战而后求胜。"
+  translation: "所以，能够取胜的选手，是先创造了胜利的条件然后再投入比赛；失败的选手，是先投入比赛然后再寻求胜利的机会。"
+  source: "《孙子兵法·军形篇》"
+  sport_application: "有些教练能够通过赛前部署让比赛在开局阶段就失去悬念，他们的判断依据是双方实力对比和针对性部署创造先手优势。"
+  faq_short:
+    - q: "为什么有些教练能够通过赛前部署让比赛在开局阶段就失去悬念，他们的判断依据是什么？"
+      a: "依据双方实力对比和针对性部署创造先手优势。"
+  draft: false
+  date: 2026-09-12
+
+- id: "jun-xing-015"
+  chapter_slug: "chapter-04-jun-xing"
+  chapter: "军形篇"
+  chapter_order: 4
+  order: 15
+  slug: "shan-yong-bing-zhe-xiu-dao-er-bao-fa"
+  quote_dimension: "战略"
+  quote_sub_dimension: ""
+  original: "善用兵者，修道而保法，故能为胜败之政。"
+  translation: "善于竞技的人，修明正确的原则，并确保制度和纪律得到执行，所以能够掌握胜负的决定权。"
+  source: "《孙子兵法·军形篇》"
+  sport_application: "在长期训练中，选手个人技术动作的稳定性，主要依赖自己建立的一套可重复的执行标准，教练纠正为辅。"
+  faq_short:
+    - q: "在长期训练中，选手个人技术动作的稳定性，主要依赖教练的外在纠正，还是自己建立的一套可重复的执行标准？"
+      a: "依赖自己建立的可重复执行标准，教练纠正为辅。"
+  draft: false
+  date: 2026-09-12
+
+- id: "jun-xing-016"
+  chapter_slug: "chapter-04-jun-xing"
+  chapter: "军形篇"
+  chapter_order: 4
+  order: 16
+  slug: "bing-fa-yi-yue-du"
+  quote_dimension: "资源约束"
+  quote_sub_dimension: "物理极限"
+  original: "兵法：一曰度，二曰量，三曰数，四曰称，五曰胜。"
+  translation: "用兵的方法有五个衡量步骤：第一是度（判断场地距离与地形条件），第二是量（计算资源总量），第三是数（计算可投入的单位数量），第四是称（对比双方实力强弱），第五是胜（得出胜负趋势的判断）。"
+  source: "《孙子兵法·军形篇》"
+  sport_application: "选手和教练通过可量化的训练数据和比赛表现指标，间接评估“体能储备”“技术稳定性”“战术适配性”等难以直接测量的因素。"
+  faq_short:
+    - q: "选手和教练如何量化评估“体能储备”“技术稳定性”“战术适配性”等难以直接测量的因素？"
+      a: "通过可量化的训练数据和比赛表现指标间接评估。"
+  draft: false
+  date: 2026-09-12
+
+- id: "jun-xing-017"
+  chapter_slug: "chapter-04-jun-xing"
+  chapter: "军形篇"
+  chapter_order: 4
+  order: 17
+  slug: "di-sheng-du-du-sheng-liang"
+  quote_dimension: "资源约束"
+  quote_sub_dimension: ""
+  original: "地生度，度生量，量生数，数生称，称生胜。"
+  translation: "场地的条件产生距离与空间的判断（度），距离与空间的判断产生资源总量的计算（量），资源总量的计算产生可投入单位的数量（数），可投入单位的数量产生双方实力的对比（称），双方实力的对比产生胜负趋势的判断（胜）。"
+  source: "《孙子兵法·军形篇》"
+  sport_application: "教练组在赛前根据场地尺寸估算跑动负荷，结合草皮状况定换人——根据场地尺寸估算跑动负荷，结合草皮状况定换人。"
+  faq_short:
+    - q: "教练组在赛前如何根据场地尺寸和草皮状况，推算出全队的总跑动距离和换人时机？"
+      a: "根据场地尺寸估算跑动负荷，结合草皮状况定换人。"
+  draft: false
+  date: 2026-09-12
+
+- id: "jun-xing-018"
+  chapter_slug: "chapter-04-jun-xing"
+  chapter: "军形篇"
+  chapter_order: 4
+  order: 18
+  slug: "gu-sheng-bing-ruo-yi-yi-cheng-zhu"
+  quote_dimension: "资源约束"
+  quote_sub_dimension: ""
+  original: "故胜兵若以镒称铢，败兵若以铢称镒。"
+  translation: "所以胜利的选手，就像用极重的“镒”去称量极轻的“铢”（拥有绝对优势）；失败的选手，就像用极轻的“铢”去称量极重的“镒”（处于绝对劣势）。"
+  source: "《孙子兵法·军形篇》"
+  sport_application: "选手在赛前通过可量化的指标判断自己与对手的整体差距，从而明确比赛目标是“争胜”还是“避免大败”——对比历史数据和近期表现指标判定差距大小。"
+  faq_short:
+    - q: "选手在赛前如何通过可量化的指标判断自己与对手的整体差距，从而明确比赛目标是“争胜”还是“避免大败”？"
+      a: "对比历史数据和近期表现指标判定差距大小。"
+  draft: false
+  date: 2026-09-12
+
+- id: "jun-xing-019"
+  chapter_slug: "chapter-04-jun-xing"
+  chapter: "军形篇"
+  chapter_order: 4
+  order: 19
+  slug: "sheng-zhe-zhi-zhan-min-ye"
+  quote_dimension: "物理极限"
+  quote_sub_dimension: "战术"
+  original: "胜者之战民也，若决积水于千仞之谿者，形也。"
+  translation: "胜利者指挥作战，就像在极高处的山谷掘开积水，水势奔涌而下，这是“形”的力量（实力对比达到绝对优势后的爆发）。"
+  source: "《孙子兵法·军形篇》"
+  sport_application: "高水平比赛中，领先一方往往在某个节点出现“一波流”带走比赛——领先方积累的优势在节点集中释放形成不可逆冲击。"
+  faq_short:
+    - q: "为什么高水平比赛中，领先一方往往在某个节点出现“一波流”带走比赛，而落后方无法做出有效回应？"
+      a: "领先方积累的优势在节点集中释放形成不可逆冲击。"
+  draft: false
+  date: 2026-09-12
+
+  # ═══════════════════════════════════════════════════════════════
+# chapter-05-bing-shi 兵势篇（18 条）
+# ═══════════════════════════════════════════════════════════════
+
+- id: "bing-shi-001"
+  chapter_slug: "chapter-05-bing-shi"
+  chapter: "兵势篇"
+  chapter_order: 5
+  order: 1
+  slug: "fan-zhi-zhong-ru-zhi-gua"
+  quote_dimension: "战术"
+  quote_sub_dimension: ""
+  original: "凡治众如治寡，分数是也；斗众如斗寡，形名是也；三军之众，可使必受敌而无败者，奇正是也；兵之所加，如以碫投卵者，虚实是也。"
+  translation: "管理大部队能像管理小部队一样有序，靠的是编制分层；指挥大部队作战能像指挥小部队一样灵活，靠的是号令系统；全军在遭受敌人攻击时能保持不败，靠的是奇正变化的运用；兵力所向，如同用石头砸鸡蛋一样轻易取胜，靠的是避实击虚。"
+  source: "《孙子兵法·兵势篇》"
+  sport_application: "对手全场紧逼导致己方出球困难时，既定路线牵制对手，变向出球破解紧逼。"
+  faq_short:
+    - q: "对手全场紧逼导致己方出球困难时，是通过改变传球路线破解，还是坚持既定出球方式？"
+      a: "既定路线牵制对手，变向出球破解紧逼。"
+  draft: false
+  date: 2026-09-12
+
+- id: "bing-shi-002"
+  chapter_slug: "chapter-05-bing-shi"
+  chapter: "兵势篇"
+  chapter_order: 5
+  order: 2
+  slug: "fan-zhan-zhe-yi-zheng-he"
+  quote_dimension: "战术"
+  quote_sub_dimension: ""
+  original: "凡战者，以正合，以奇胜。"
+  translation: "所有作战，都是用正面交锋来稳住阵脚，用出奇制胜来打破僵局。"
+  source: "《孙子兵法·兵势篇》"
+  sport_application: "强队面对弱队时，常规打法已被针对性限制，一次出人意料的战术变化却能瞬间改变比赛走势——奇招打破对手预判。"
+  faq_short:
+    - q: "为什么强队在面对弱队时，常规打法往往难以打开局面，而一次出人意料的战术变化却能瞬间改变比赛走势？"
+      a: "常规打法已被针对性限制，奇招打破对手预判。"
+  draft: false
+  date: 2026-09-12
+
+- id: "bing-shi-003"
+  chapter_slug: "chapter-05-bing-shi"
+  chapter: "兵势篇"
+  chapter_order: 5
+  order: 3
+  slug: "gu-shan-chu-qi-zhe"
+  quote_dimension: "战术"
+  quote_sub_dimension: ""
+  original: "故善出奇者，无穷如天地，不竭如江河。"
+  translation: "所以善于运用奇兵的人，战术变化像天地一样没有穷尽，像江河一样不会枯竭。"
+  source: "《孙子兵法·兵势篇》"
+  sport_application: "顶级运动员在关键分上总能让对手猜不到下一拍的落点——技术储备丰富，能在瞬间从多种选项中选最隐蔽的一种。"
+  faq_short:
+    - q: "为什么顶级运动员在关键分上总能让对手猜不到下一拍的落点？"
+      a: "技术储备丰富，能在瞬间从多种选项中选最隐蔽的一种。"
+  draft: false
+  date: 2026-09-12
+
+- id: "bing-shi-004"
+  chapter_slug: "chapter-05-bing-shi"
+  chapter: "兵势篇"
+  chapter_order: 5
+  order: 4
+  slug: "zhong-er-fu-shi"
+  quote_dimension: "战术"
+  quote_sub_dimension: ""
+  original: "终而复始，日月是也；死而复生，四时是也。"
+  translation: "终了又重新开始，如同日月运行；凋谢后重新生长，如同四季更替。"
+  source: "《孙子兵法·兵势篇》"
+  sport_application: "长跑训练中，如何安排高低强度交替的周计划，才能让体能稳步提升而不陷入平台期——高强度日与低强度日交替，用恢复期触发超量补偿。"
+  faq_short:
+    - q: "长跑训练中，如何安排高低强度交替的周计划，才能让体能稳步提升而不陷入平台期？"
+      a: "高强度日与低强度日交替，用恢复期触发超量补偿。"
+  draft: false
+  date: 2026-09-12
+
+- id: "bing-shi-005"
+  chapter_slug: "chapter-05-bing-shi"
+  chapter: "兵势篇"
+  chapter_order: 5
+  order: 5
+  slug: "sheng-bu-guo-wu"
+  quote_dimension: "战术"
+  quote_sub_dimension: ""
+  original: "声不过五，五声之变，不可胜听也；色不过五，五色之变，不可胜观也；味不过五，五味之变，不可胜尝也；战势不过奇正，奇正之变，不可胜穷也。"
+  translation: "基本音阶只有五个，但五音的变化组合，听都听不完；基本颜色只有五种，但五色的调配变化，看都看不完；基本味道只有五种，但五味的搭配变化，尝都尝不完；作战的基本态势不过奇和正两种，但奇正的变化组合，穷尽不完。"
+  source: "《孙子兵法·兵势篇》"
+  sport_application: "羽毛球单打中，用节奏、落点和力量变化组合基础技术，打破对手预判。"
+  faq_short:
+    - q: "羽毛球单打中，如何将有限的基本技术（高远球、吊球、杀球、搓球）组合成让对手无法预判的进攻序列？"
+      a: "用节奏、落点和力量变化组合基础技术，打破对手预判。"
+  draft: false
+  date: 2026-09-12
+
+- id: "bing-shi-006"
+  chapter_slug: "chapter-05-bing-shi"
+  chapter: "兵势篇"
+  chapter_order: 5
+  order: 6
+  slug: "qi-zheng-xiang-sheng"
+  quote_dimension: "战术"
+  quote_sub_dimension: ""
+  original: "奇正相生，如循环之无端，孰能穷之？"
+  translation: "奇和正相互转化生成，如同圆环没有起点和终点，谁能够穷尽它呢？"
+  source: "《孙子兵法·兵势篇》"
+  sport_application: "网球选手在连续使用强力发球（奇）后，对手的接发站位会逐渐后移，此时改用切削发球（正）反而更容易得分——强力发球压迫站位，切削发球改变节奏得分。"
+  faq_short:
+    - q: "为什么网球选手在连续使用强力发球（奇）后，对手的接发站位会逐渐后移，此时改用切削发球（正）反而更容易得分？"
+      a: "强力发球压迫站位，切削发球改变节奏得分。"
+  draft: false
+  date: 2026-09-12
+
+- id: "bing-shi-007"
+  chapter_slug: "chapter-05-bing-shi"
+  chapter: "兵势篇"
+  chapter_order: 5
+  order: 7
+  slug: "ji-shui-zhi-ji"
+  quote_dimension: "战术"
+  quote_sub_dimension: ""
+  original: "激水之疾，至于漂石者，势也；鸷鸟之疾，至于毁折者，节也。"
+  translation: "湍急的水流急速奔涌，能够冲起石头，是因为水势强大；猛禽俯冲急速，能够捕杀猎物，是因为节奏精准短促。"
+  source: "《孙子兵法·兵势篇》"
+  sport_application: "排球比赛中，当二传手传出快球时，攻手在二传触球瞬间起跳，抢在拦网前完成扣杀。"
+  faq_short:
+    - q: "排球比赛中，当二传手传出快球时，攻手应该在什么时机起跳才能最大化扣球威力？"
+      a: "二传触球瞬间起跳，抢在拦网前完成扣杀。"
+  draft: false
+  date: 2026-09-12
+
+- id: "bing-shi-008"
+  chapter_slug: "chapter-05-bing-shi"
+  chapter: "兵势篇"
+  chapter_order: 5
+  order: 8
+  slug: "shi-gu-shan-zhan-zhe-qi-shi-xian"
+  quote_dimension: "战术"
+  quote_sub_dimension: ""
+  original: "是故善战者，其势险，其节短。"
+  translation: "所以善于作战的人，他所造成的态势是险峻的（让对手感到巨大压力），他所把握的节奏是短促的（在极短时间内完成关键动作）。"
+  source: "《孙子兵法·兵势篇》"
+  sport_application: "篮球比赛中，当球队在最后 10 秒落后 2 分时，三分搏胜或两分追平，出手必须短促果断。"
+  faq_short:
+    - q: "篮球比赛中，当球队在最后 10 秒落后 2 分时，应该快速出手三分还是稳扎稳打寻找两分机会？"
+      a: "三分搏胜或两分追平，出手必须短促果断。"
+  draft: false
+  date: 2026-09-12
+
+- id: "bing-shi-009"
+  chapter_slug: "chapter-05-bing-shi"
+  chapter: "兵势篇"
+  chapter_order: 5
+  order: 9
+  slug: "shi-ru-guo-nu"
+  quote_dimension: "战术"
+  quote_sub_dimension: ""
+  original: "势如彍弩，节如发机。"
+  translation: "态势就像拉满的弩弓（蓄势待发），节奏就像扣动弩机（瞬间触发）。"
+  source: "《孙子兵法·兵势篇》"
+  sport_application: "网球比赛中，当对手回球出浅时，选手应缩短引拍，提前蓄力，在球弹起上升期出手。"
+  faq_short:
+    - q: "网球比赛中，当对手回球出浅时，选手应该如何调整引拍动作，才能在最短时间内完成致命一击？"
+      a: "缩短引拍，提前蓄力，在球弹起上升期出手。"
+  draft: false
+  date: 2026-09-12
+
+- id: "bing-shi-010"
+  chapter_slug: "chapter-05-bing-shi"
+  chapter: "兵势篇"
+  chapter_order: 5
+  order: 10
+  slug: "fen-fen-yun-yun"
+  quote_dimension: "战术"
+  quote_sub_dimension: ""
+  original: "纷纷纭纭，斗乱而不可乱也；浑浑沌沌，形圆而不可败也。"
+  translation: "表面混乱纷杂，战斗看似混乱但内部不能乱；阵形混沌不明，但保持圆形阵势就不会被击败。"
+  source: "《孙子兵法·兵势篇》"
+  sport_application: "篮球比赛中，对手加快节奏导致场面混乱时，球队应用预先设定的轮转规则应对混乱，保持防守站位不失位。"
+  faq_short:
+    - q: "篮球比赛中，对手加快节奏导致场面混乱时，球队如何通过固定防守轮转保持阵型完整？"
+      a: "用预先设定的轮转规则应对混乱，保持防守站位不失位。"
+  draft: false
+  date: 2026-09-12
+
+- id: "bing-shi-011"
+  chapter_slug: "chapter-05-bing-shi"
+  chapter: "兵势篇"
+  chapter_order: 5
+  order: 11
+  slug: "luan-sheng-yu-zhi"
+  quote_dimension: "战术"
+  quote_sub_dimension: ""
+  original: "乱生于治，怯生于勇，弱生于强。"
+  translation: "混乱可以从过度严整中产生，怯懦可以从过度勇猛中产生，虚弱可以从过度强大中产生。任何状态都不是绝对的，过度偏向一端，反而会引发相反的结果。"
+  source: "《孙子兵法·兵势篇》"
+  sport_application: "网球比赛中，当选手连续强力进攻未得分时，应降低球速增加旋转，用控制型打法恢复节奏。"
+  faq_short:
+    - q: "网球比赛中，当选手连续强力进攻未得分时，是否应该主动降低球速、增加旋转来恢复节奏控制？"
+      a: "降低球速增加旋转，用控制型打法恢复节奏。"
+  draft: false
+  date: 2026-09-12
+
+- id: "bing-shi-012"
+  chapter_slug: "chapter-05-bing-shi"
+  chapter: "兵势篇"
+  chapter_order: 5
+  order: 12
+  slug: "zhi-luan-shu-ye"
+  quote_dimension: "战术"
+  quote_sub_dimension: ""
+  original: "治乱，数也；勇怯，势也；强弱，形也。"
+  translation: "治理和混乱，取决于组织编制是否清晰；勇敢和怯懦，取决于所处态势是否有利；强大和弱小，取决于实力对比的客观形态。"
+  source: "《孙子兵法·兵势篇》"
+  sport_application: "一支球队只注重球员个人能力（形）而忽视战术纪律（数），在遇到组织严密的对手时会暴露配合断裂的问题。"
+  faq_short:
+    - q: "如果一支球队只注重球员个人能力（形）而忽视战术纪律（数），在遇到组织严密的对手时会暴露什么问题？"
+      a: "个人能力难补战术纪律缺失，遇严密对手易暴露配合断裂。"
+  draft: false
+  date: 2026-09-12
+
+- id: "bing-shi-013"
+  chapter_slug: "chapter-05-bing-shi"
+  chapter: "兵势篇"
+  chapter_order: 5
+  order: 13
+  slug: "gu-shan-dong-di-zhe"
+  quote_dimension: "战术"
+  quote_sub_dimension: ""
+  original: "故善动敌者，形之，敌必从之；予之，敌必取之。"
+  translation: "所以善于调动敌人的将领，用假象迷惑敌人，敌人必然跟着行动；给敌人一点小利，敌人必然来夺取。"
+  source: "《孙子兵法·兵势篇》"
+  sport_application: "网球比赛中，当对手频繁使用放小球时，判断落点深浅，球弹跳低且浅则上抢，否则回撤。"
+  faq_short:
+    - q: "网球比赛中，当对手频繁使用放小球时，如何判断是否应该上抢？"
+      a: "判断落点深浅，球弹跳低且浅则上抢，否则回撤。"
+  draft: false
+  date: 2026-09-12
+
+- id: "bing-shi-014"
+  chapter_slug: "chapter-05-bing-shi"
+  chapter: "兵势篇"
+  chapter_order: 5
+  order: 14
+  slug: "yi-li-dong-zhi"
+  quote_dimension: "战术"
+  quote_sub_dimension: ""
+  original: "以利动之，以卒待之。"
+  translation: "用小利引诱敌人行动，用重兵埋伏等待敌人进入圈套。"
+  source: "《孙子兵法·兵势篇》"
+  sport_application: "足球比赛中，故意让出边路空间引诱对手进攻，反而更容易打出致命反击——让出边路诱敌前压，用快速转换打身后空当。"
+  faq_short:
+    - q: "为什么足球比赛中，故意让出边路空间引诱对手进攻，有时反而更容易打出致命反击？"
+      a: "让出边路诱敌前压，用快速转换打身后空当。"
+  draft: false
+  date: 2026-09-12
+
+- id: "bing-shi-015"
+  chapter_slug: "chapter-05-bing-shi"
+  chapter: "兵势篇"
+  chapter_order: 5
+  order: 15
+  slug: "gu-shan-zhan-zhe-qiu-zhi-yu-shi"
+  quote_dimension: "战术"
+  quote_sub_dimension: ""
+  original: "故善战者，求之于势，不责于人，故能择人而任势。"
+  translation: "所以善于作战的人，从态势中寻求胜利，而不是苛责下属个人能力不足，因此能够选择合适的人选并充分利用态势。"
+  source: "《孙子兵法·兵势篇》"
+  sport_application: "有些运动员在A队表现平庸，转会到B队后却成为核心——球队战术态势更适合，个人能力得以释放。"
+  faq_short:
+    - q: "为什么有些运动员在A队表现平庸，转会到B队后却成为核心，是个人能力突然提升还是球队战术态势更适合他？"
+      a: "球队战术态势更适合，个人能力得以释放。"
+  draft: false
+  date: 2026-09-12
+
+- id: "bing-shi-016"
+  chapter_slug: "chapter-05-bing-shi"
+  chapter: "兵势篇"
+  chapter_order: 5
+  order: 16
+  slug: "ren-shi-zhe-qi-zhan-ren-ye"
+  quote_dimension: "战术"
+  quote_sub_dimension: ""
+  original: "任势者，其战人也，如转木石。"
+  translation: "善于利用态势的人，指挥士兵作战，就像转动木头和石头一样（借助其本身的特性，顺势而为）。"
+  source: "《孙子兵法·兵势篇》"
+  sport_application: "长跑比赛中，跟在领跑者身后可以减少风阻，从而节省体能并在后程实现超越——跟跑利用领跑者破风，节省体能后程超越。"
+  faq_short:
+    - q: "为什么长跑比赛中，跟在领跑者身后可以减少风阻，从而节省体能并在后程实现超越？"
+      a: "跟跑利用领跑者破风，节省体能后程超越。"
+  draft: false
+  date: 2026-09-12
+
+- id: "bing-shi-017"
+  chapter_slug: "chapter-05-bing-shi"
+  chapter: "兵势篇"
+  chapter_order: 5
+  order: 17
+  slug: "mu-shi-zhi-xing"
+  quote_dimension: "战术"
+  quote_sub_dimension: ""
+  original: "木石之性，安则静，危则动，方则止，圆则行。"
+  translation: "木头和石头的特性，放在平坦处就静止，放在陡坡上就滚动，方形的会停住，圆形的会滚动。"
+  source: "《孙子兵法·兵势篇》"
+  sport_application: "足球比赛中，领先一方回撤防守后，往往会被对手持续压制——领先回撤使态势由危转安，进攻威胁下降，主动权易失。"
+  faq_short:
+    - q: "为什么足球比赛中，领先一方回撤防守后，往往会被对手持续压制，甚至丢掉主动权？"
+      a: "领先回撤使态势由危转安，进攻威胁下降，主动权易失。"
+  draft: false
+  date: 2026-09-12
+
+- id: "bing-shi-018"
+  chapter_slug: "chapter-05-bing-shi"
+  chapter: "兵势篇"
+  chapter_order: 5
+  order: 18
+  slug: "gu-shan-zhan-ren-zhi-shi"
+  quote_dimension: "战术"
+  quote_sub_dimension: ""
+  original: "故善战人之势，如转圆石于千仞之山者，势也。"
+  translation: "所以善于指挥作战的人，他所造成的态势，就像从万丈高山上滚下圆石一样，这种不可阻挡的力量就是势。"
+  source: "《孙子兵法·兵势篇》"
+  sport_application: "篮球比赛中，连续得分后的球队往往防守强度也会提升，形成“攻防一体”的碾压态势——得分势头带动防守积极性。"
+  faq_short:
+    - q: "为什么篮球比赛中，连续得分后的球队往往防守强度也会提升，形成“攻防一体”的碾压态势？"
+      a: "得分势头带动防守积极性，攻防一体形成碾压。"
+  draft: false
+  date: 2026-09-12
+
+# ═══════════════════════════════════════════════════════════════
+# chapter-06-xu-shi 虚实篇（28 条）
+# ═══════════════════════════════════════════════════════════════
+
+- id: "xu-shi-001"
+  chapter_slug: "chapter-06-xu-shi"
+  chapter: "虚实篇"
+  chapter_order: 6
+  order: 1
+  slug: "fan-xian-chu-zhan-di-er-dai-di-zhe-yi"
+  quote_dimension: "战术"
+  quote_sub_dimension: ""
+  original: "孙子曰：凡先处战地而待敌者佚，后处战地而趋战者劳。"
+  translation: "孙子说：凡是先到达战场并等待敌人的一方就安逸，后到达战场匆忙投入战斗的一方就疲劳。"
+  source: "《孙子兵法·虚实篇》"
+  sport_application: "足球比赛中，率先进入比赛节奏的一方往往能控制上半场局面——先进入节奏者占据主动，迫使对手被动调整，消耗更大。"
+  faq_short:
+    - q: "为什么足球比赛中，率先进入比赛节奏的一方往往能控制上半场局面？"
+      a: "先进入节奏者占据主动，迫使对手被动调整，消耗更大。"
+  draft: false
+  date: 2026-09-12
+
+- id: "xu-shi-002"
+  chapter_slug: "chapter-06-xu-shi"
+  chapter: "虚实篇"
+  chapter_order: 6
+  order: 2
+  slug: "gu-shan-zhan-zhe-zhi-ren-er-bu-zhi-yu-ren"
+  quote_dimension: "战术"
+  quote_sub_dimension: ""
+  original: "故善战者，致人而不致于人。"
+  translation: "所以善于作战的人，能调动敌人而不被敌人调动。"
+  source: "《孙子兵法·虚实篇》"
+  sport_application: "篮球比赛中，控球后卫的节奏变化比单纯提速更能打乱对方防守部署——节奏变化迫使防守者持续调整，无法按既定部署应对。"
+  faq_short:
+    - q: "为什么篮球比赛中，控球后卫的节奏变化比单纯提速更能打乱对方防守部署？"
+      a: "节奏变化迫使防守者持续调整，无法按既定部署应对。"
+  draft: false
+  date: 2026-09-12
+
+- id: "xu-shi-003"
+  chapter_slug: "chapter-06-xu-shi"
+  chapter: "虚实篇"
+  chapter_order: 6
+  order: 3
+  slug: "neng-shi-di-ren-zi-zhi-zhe-li-zhi-ye"
+  quote_dimension: "战术"
+  quote_sub_dimension: ""
+  original: "能使敌人自至者，利之也；能使敌人不得至者，害之也。"
+  translation: "能够使敌人自己前来的，是用利益引诱它；能够使敌人不能前来的，是用祸害阻止它。"
+  source: "《孙子兵法·虚实篇》"
+  sport_application: "拳击对抗中，佯攻吸引对手防守重心偏移，本质上是利用“利之”制造进攻窗口——佯攻制造假目标，诱使对手防守偏移，暴露真实进攻点。"
+  faq_short:
+    - q: "拳击对抗中，佯攻吸引对手防守重心偏移，本质上是如何利用“利之”制造进攻窗口的？"
+      a: "佯攻制造假目标，诱使对手防守偏移，暴露真实进攻点。"
+  draft: false
+  date: 2026-09-12
+
+- id: "xu-shi-004"
+  chapter_slug: "chapter-06-xu-shi"
+  chapter: "虚实篇"
+  chapter_order: 6
+  order: 4
+  slug: "gu-di-yi-neng-lao-zhi-bao-neng-ji-zhi"
+  quote_dimension: "战术"
+  quote_sub_dimension: ""
+  original: "故敌佚能劳之，饱能饥之，安能动之。"
+  translation: "所以敌人安逸，能使它疲劳；敌人饱食，能使它饥饿；敌人安稳驻扎，能使它移动。"
+  source: "《孙子兵法·虚实篇》"
+  sport_application: "足球比赛中，通过连续的横向转移球可以让对手防守阵型反复移动，从而消耗其体能——横向转移球迫使防守阵型反复调整，消耗体能并打乱站位。"
+  faq_short:
+    - q: "为什么足球比赛中，通过连续的横向转移球可以让对手防守阵型反复移动，从而消耗其体能？"
+      a: "横向转移球迫使防守阵型反复调整，消耗体能并打乱站位。"
+  draft: false
+  date: 2026-09-12
+
+- id: "xu-shi-005"
+  chapter_slug: "chapter-06-xu-shi"
+  chapter: "虚实篇"
+  chapter_order: 6
+  order: 5
+  slug: "chu-qi-suo-bu-qu-qu-qi-suo-bu-yi"
+  quote_dimension: "战术"
+  quote_sub_dimension: ""
+  original: "出其所不趋，趋其所不意。"
+  translation: "出兵要指向敌人不去救援的地方，行动要指向敌人意料不到的方向。"
+  source: "《孙子兵法·虚实篇》"
+  sport_application: "羽毛球单打中，重复压后场后突然吊网前，能让对手重心调整不及——重复压后场使对手重心后移，突然吊网前迫使其急停前冲，调整不及。"
+  faq_short:
+    - q: "羽毛球单打中，重复压后场后突然吊网前，为什么能让对手重心调整不及？"
+      a: "重复压后场使对手重心后移，突然吊网前迫使其急停前冲，调整不及。"
+  draft: false
+  date: 2026-09-12
+
+- id: "xu-shi-006"
+  chapter_slug: "chapter-06-xu-shi"
+  chapter: "虚实篇"
+  chapter_order: 6
+  order: 6
+  slug: "xing-qian-li-er-bu-lao-zhe"
+  quote_dimension: "战术"
+  quote_sub_dimension: ""
+  original: "行千里而不劳者，行于无人之地也。"
+  translation: "行军千里而不疲劳，是因为走的是没有敌人防守的地区。"
+  source: "《孙子兵法·虚实篇》"
+  sport_application: "篮球进攻中，如果只强攻对方中锋镇守的篮下区域而忽视弱侧空切，会带来体能和效率损失——强攻密集区域增加对抗消耗，降低得分效率。"
+  faq_short:
+    - q: "篮球进攻中，如果只强攻对方中锋镇守的篮下区域而忽视弱侧空切，会带来什么体能和效率损失？"
+      a: "强攻密集区域增加对抗消耗，降低得分效率。"
+  draft: false
+  date: 2026-09-12
+
+- id: "xu-shi-007"
+  chapter_slug: "chapter-06-xu-shi"
+  chapter: "虚实篇"
+  chapter_order: 6
+  order: 7
+  slug: "gong-er-bi-qu-zhe-gong-qi-suo-bu-shou"
+  quote_dimension: "战术"
+  quote_sub_dimension: ""
+  original: "攻而必取者，攻其所不守也；守而必固者，守其所不攻也。"
+  translation: "进攻一定能得手，是因为攻击的是敌人没有防守的地方；防守一定能稳固，是因为防守的是敌人不会进攻的地方。"
+  source: "《孙子兵法·虚实篇》"
+  sport_application: "足球比赛中，定位球战术常将球发向对方盯人薄弱的后点区域，而不是争顶密集的前点——后点防守薄弱，攻击无人盯防区域更容易形成得分机会。"
+  faq_short:
+    - q: "足球比赛中，定位球战术为什么常将球发向对方盯人薄弱的后点区域，而不是争顶密集的前点？"
+      a: "后点防守薄弱，攻击无人盯防区域更容易形成得分机会。"
+  draft: false
+  date: 2026-09-12
+
+- id: "xu-shi-008"
+  chapter_slug: "chapter-06-xu-shi"
+  chapter: "虚实篇"
+  chapter_order: 6
+  order: 8
+  slug: "gu-shan-gong-zhe-di-bu-zhi-qi-suo-shou"
+  quote_dimension: "战术"
+  quote_sub_dimension: ""
+  original: "故善攻者，敌不知其所守；善守者，敌不知其所攻。"
+  translation: "所以善于进攻的人，敌人不知道应该防守哪里；善于防守的人，敌人不知道应该进攻哪里。"
+  source: "《孙子兵法·虚实篇》"
+  sport_application: "羽毛球单打防守时，故意暴露反手网前空当诱使对手进攻，但实际上已准备快速移动——主动设诱使对手进攻预设区域，实现预判防守。"
+  faq_short:
+    - q: "羽毛球单打防守时，故意暴露反手网前空当诱使对手进攻，但实际上已准备快速移动，这体现了什么防守逻辑？"
+      a: "主动设诱使对手进攻预设区域，实现预判防守。"
+  draft: false
+  date: 2026-09-12
+
+- id: "xu-shi-009"
+  chapter_slug: "chapter-06-xu-shi"
+  chapter: "虚实篇"
+  chapter_order: 6
+  order: 9
+  slug: "wei-hu-wei-hu-zhi-yu-wu-xing"
+  quote_dimension: "战术"
+  quote_sub_dimension: ""
+  original: "微乎微乎，至于无形；神乎神乎，至于无声，故能为敌之司命。"
+  translation: "微妙啊微妙，到了看不出形迹的地步；神奇啊神奇，到了听不到声息的地步，所以能成为敌人命运的主宰。"
+  source: "《孙子兵法·虚实篇》"
+  sport_application: "篮球控球后卫突破前不做加速准备动作，而是保持匀速运球，这样更难防守——匀速运球消除加速预兆，使防守者无法判断启动时机。"
+  faq_short:
+    - q: "篮球控球后卫突破前不做加速准备动作，而是保持匀速运球，为什么这样更难防守？"
+      a: "匀速运球消除加速预兆，使防守者无法判断启动时机。"
+  draft: false
+  date: 2026-09-12
+
+- id: "xu-shi-010"
+  chapter_slug: "chapter-06-xu-shi"
+  chapter: "虚实篇"
+  chapter_order: 6
+  order: 10
+  slug: "jin-er-bu-ke-yu-zhe-chong-qi-xu-ye"
+  quote_dimension: "战术"
+  quote_sub_dimension: ""
+  original: "进而不可御者，冲其虚也；退而不可追者，速而不可及也。"
+  translation: "进攻时不可抵挡，是因为冲击的是敌人虚弱的地方；撤退时不可追击，是因为速度让对方追不上。"
+  source: "《孙子兵法·虚实篇》"
+  sport_application: "网球对抗中，对手站位过于靠前时，突然挑高球到其身后空当，能直接得分或迫使对手被动转身——对手站位靠前，身后空当暴露，挑高球使其转身不及而失位。"
+  faq_short:
+    - q: "网球对抗中，对手站位过于靠前时，突然挑高球到其身后空当，为什么能直接得分或迫使对手被动转身？"
+      a: "对手站位靠前，身后空当暴露，挑高球使其转身不及而失位。"
+  draft: false
+  date: 2026-09-12
+
+- id: "xu-shi-011"
+  chapter_slug: "chapter-06-xu-shi"
+  chapter: "虚实篇"
+  chapter_order: 6
+  order: 11
+  slug: "gu-wo-yu-zhan-di-sui-gao-lei-shen-gou"
+  quote_dimension: "战术"
+  quote_sub_dimension: ""
+  original: "故我欲战，敌虽高垒深沟，不得不与我战者，攻其所必救也；我不欲战，画地而守之，敌不得与我战者，乖其所之也。"
+  translation: "所以当我想交战时，敌人即使有高垒深沟，也不得不与我交战，是因为我攻击了它必须救援的地方；当我不想交战时，即使就地防守，敌人也无法与我交战，是因为我使它的行动方向发生了错乱。"
+  source: "《孙子兵法·虚实篇》"
+  sport_application: "足球比赛中，面对密集防守，通过边路传中攻击对方中卫与边卫之间的空当，能迫使对方防守球员离开原有位置——攻击中卫与边卫间空当，迫使防守者离开原位补位。"
+  faq_short:
+    - q: "足球比赛中，面对密集防守，为什么通过边路传中攻击对方中卫与边卫之间的空当，能迫使对方防守球员离开原有位置？"
+      a: "攻击中卫与边卫间空当，迫使防守者离开原位补位。"
+  draft: false
+  date: 2026-09-12
+
+- id: "xu-shi-012"
+  chapter_slug: "chapter-06-xu-shi"
+  chapter: "虚实篇"
+  chapter_order: 6
+  order: 12
+  slug: "gu-xing-ren-er-wo-wu-xing"
+  quote_dimension: "战术"
+  quote_sub_dimension: ""
+  original: "故形人而我无形，则我专而敌分。"
+  translation: "所以使敌人暴露形迹而我方不露形迹，那么我方的兵力就可以集中，而敌人的兵力就不得不分散。"
+  source: "《孙子兵法·虚实篇》"
+  sport_application: "羽毛球单打中，通过出拍动作高度一致地交替吊网前和压底线，能让对手无法预判落点而暴露出防守重心——出拍动作一致隐藏落点意图，迫使对手无法预判，重心暴露。"
+  faq_short:
+    - q: "羽毛球单打中，通过出拍动作高度一致地交替吊网前和压底线，如何让对手无法预判落点而暴露出防守重心？"
+      a: "出拍动作一致隐藏落点意图，迫使对手无法预判，重心暴露。"
+  draft: false
+  date: 2026-09-12
+
+- id: "xu-shi-013"
+  chapter_slug: "chapter-06-xu-shi"
+  chapter: "虚实篇"
+  chapter_order: 6
+  order: 13
+  slug: "wo-zhuan-wei-yi-di-fen-wei-shi"
+  quote_dimension: "战术"
+  quote_sub_dimension: ""
+  original: "我专为一，敌分为十，是以十攻其一也，则我众而敌寡；能以众击寡者，则吾之所与战者约矣。"
+  translation: "我的兵力集中为一处，敌人的兵力分散为十处，因此我用十倍的兵力攻击它的一处，就形成我众敌寡的局面；能够以众击寡，那么与我交战的敌人就少了。"
+  source: "《孙子兵法·虚实篇》"
+  sport_application: "足球比赛中，通过快速转移球将进攻集中在对方防守弱侧，能在局部形成人数优势并提高突破成功率——快速转移球使防守重心来不及移动，弱侧形成局部人数优势。"
+  faq_short:
+    - q: "足球比赛中，通过快速转移球将进攻集中在对方防守弱侧，为什么能在局部形成人数优势并提高突破成功率？"
+      a: "快速转移球使防守重心来不及移动，弱侧形成局部人数优势。"
+  draft: false
+  date: 2026-09-12
+
+- id: "xu-shi-014"
+  chapter_slug: "chapter-06-xu-shi"
+  chapter: "虚实篇"
+  chapter_order: 6
+  order: 14
+  slug: "wu-suo-yu-zhan-zhi-di-bu-ke-zhi"
+  quote_dimension: "战术"
+  quote_sub_dimension: ""
+  original: "吾所与战之地不可知，不可知，则敌所备者多；敌所备者多，则吾所与战者寡矣。"
+  translation: "我要交战的地方敌人不知道，不知道，那么敌人要防备的地方就多；敌人防备的地方多，那么与我交战的敌人就少。"
+  source: "《孙子兵法·虚实篇》"
+  sport_application: "篮球进攻中，利用队友掩护后不急于出球，先观察防守反应再做选择，能迫使防守者无法提前站位，从而在局部形成以多打少——延迟决策使防守者无法预判传球方向，无法提前包夹。"
+  faq_short:
+    - q: "篮球进攻中，利用队友掩护后不急于出球，先观察防守反应再做选择，为什么能迫使防守者无法提前站位，从而在局部形成以多打少？"
+      a: "延迟决策使防守者无法预判传球方向，无法提前包夹。"
+  draft: false
+  date: 2026-09-12
+
+- id: "xu-shi-015"
+  chapter_slug: "chapter-06-xu-shi"
+  chapter: "虚实篇"
+  chapter_order: 6
+  order: 15
+  slug: "gu-bei-qian-ze-hou-gua"
+  quote_dimension: "战术"
+  quote_sub_dimension: ""
+  original: "故备前则后寡，备后则前寡，备左则右寡，备右则左寡，无所不备，则无所不寡。"
+  translation: "所以防备了前面，后面的兵力就薄弱；防备了后面，前面的兵力就薄弱；防备了左边，右边的兵力就薄弱；防备了右边，左边的兵力就薄弱；到处都防备，就到处都薄弱。"
+  source: "《孙子兵法·虚实篇》"
+  sport_application: "网球底线防守时，不预判对手回球线路而试图覆盖整个半场，移动效率会明显下降——不预判使移动方向盲目，跑动距离增加且到位迟缓。"
+  faq_short:
+    - q: "网球底线防守时，不预判对手回球线路而试图覆盖整个半场，为什么移动效率会明显下降？"
+      a: "不预判使移动方向盲目，跑动距离增加且到位迟缓。"
+  draft: false
+  date: 2026-09-12
+
+- id: "xu-shi-016"
+  chapter_slug: "chapter-06-xu-shi"
+  chapter: "虚实篇"
+  chapter_order: 6
+  order: 16
+  slug: "gua-zhe-bei-ren-zhe-ye"
+  quote_dimension: "战术"
+  quote_sub_dimension: ""
+  original: "寡者，备人者也；众者，使人备己者也。"
+  translation: "兵力薄弱，是因为要处处防备敌人；兵力雄厚，是因为能使敌人处处防备自己。"
+  source: "《孙子兵法·虚实篇》"
+  sport_application: "网球对抗中，通过左右大角度调动对手，能让对手在跑动中失去击球稳定性，而自己站位相对居中、消耗更少——大角度调动迫使对手跑动中击球，消耗体能并降低稳定性。"
+  faq_short:
+    - q: "网球对抗中，通过左右大角度调动对手，为什么能让对手在跑动中失去击球稳定性，而自己站位相对居中、消耗更少？"
+      a: "大角度调动迫使对手跑动中击球，消耗体能并降低稳定性。"
+  draft: false
+  date: 2026-09-12
+
+- id: "xu-shi-017"
+  chapter_slug: "chapter-06-xu-shi"
+  chapter: "虚实篇"
+  chapter_order: 6
+  order: 17
+  slug: "gu-zhi-zhan-zhi-di-zhi-zhan-zhi-ri"
+  quote_dimension: "战术"
+  quote_sub_dimension: ""
+  original: "故知战之地，知战之日，则可千里而会战。"
+  translation: "所以能预先知道交战的地点和时间，就可以行军千里去与敌人会战。"
+  source: "《孙子兵法·虚实篇》"
+  sport_application: "马拉松比赛中，选手在赛前勘察赛道并标记关键坡度点，能帮助他们在比赛中更合理地分配体能——提前掌握赛道坡度信息，可精准分配各段体能。"
+  faq_short:
+    - q: "马拉松比赛中，选手在赛前勘察赛道并标记关键坡度点，为什么能帮助他们在比赛中更合理地分配体能？"
+      a: "提前掌握赛道坡度信息，可精准分配各段体能。"
+  draft: false
+  date: 2026-09-12
+
+- id: "xu-shi-018"
+  chapter_slug: "chapter-06-xu-shi"
+  chapter: "虚实篇"
+  chapter_order: 6
+  order: 18
+  slug: "bu-zhi-zhan-di-bu-zhi-zhan-ri"
+  quote_dimension: "战术"
+  quote_sub_dimension: ""
+  original: "不知战地，不知战日，则左不能救右，右不能救左，前不能救后，后不能救前，而况远者数十里，近者数里乎？"
+  translation: "不知道交战的地点，不知道交战的日期，那么左翼就不能救援右翼，右翼就不能救援左翼，前队就不能救援后队，后队就不能救援前队，何况远的相隔几十里，近的也相隔几里呢？"
+  source: "《孙子兵法·虚实篇》"
+  sport_application: "排球比赛中，接发球阵型如果没有预先指定各区域负责球员，对手发球落点变化时会出现两人同时去接或无人去接的情况——分工不明确，责任区域重叠或遗漏。"
+  faq_short:
+    - q: "排球比赛中，接发球阵型如果没有预先指定各区域负责球员，为什么对手发球落点变化时会出现两人同时去接或无人去接的情况？"
+      a: "分工不明确，责任区域重叠或遗漏，导致同时接球或无人接球。"
+  draft: false
+  date: 2026-09-12
+
+- id: "xu-shi-019"
+  chapter_slug: "chapter-06-xu-shi"
+  chapter: "虚实篇"
+  chapter_order: 6
+  order: 19
+  slug: "yi-wu-duo-zhi-yue-ren-zhi-bing"
+  quote_dimension: "战略"
+  quote_sub_dimension: "资源约束"
+  original: "以吾度之，越人之兵虽多，亦奚益于胜败哉？故曰：胜可为也。"
+  translation: "以我的推测，越国的军队虽然多，对胜负又有什么帮助呢？所以说：胜利是可以主动争取的。"
+  source: "《孙子兵法·虚实篇》"
+  sport_application: "足球比赛中，控球率和射门次数都落后的一方，反而能通过更高效的反击赢得比赛——反击利用对手压上后的空当，把握关键机会的效率更高。"
+  faq_short:
+    - q: "为什么足球比赛中，控球率和射门次数都落后的一方，反而能通过更高效的反击赢得比赛？"
+      a: "反击利用对手压上后的空当，把握关键机会的效率更高。"
+  draft: false
+  date: 2026-09-12
+
+- id: "xu-shi-020"
+  chapter_slug: "chapter-06-xu-shi"
+  chapter: "虚实篇"
+  chapter_order: 6
+  order: 20
+  slug: "di-sui-zhong-ke-shi-wu-dou"
+  quote_dimension: "战术"
+  quote_sub_dimension: ""
+  original: "敌虽众，可使无斗。"
+  translation: "敌人虽然人数众多，但可以设法使它无法投入战斗。"
+  source: "《孙子兵法·虚实篇》"
+  sport_application: "篮球比赛中，用区域联防限制对方高大内线接球，能让对手的内线得分能力大幅下降——区域联防切断传球路线，使内线无法在有利位置接球。"
+  faq_short:
+    - q: "篮球比赛中，用区域联防限制对方高大内线接球，为什么能让对手的内线得分能力大幅下降？"
+      a: "区域联防切断传球路线，使内线无法在有利位置接球。"
+  draft: false
+  date: 2026-09-12
+
+- id: "xu-shi-021"
+  chapter_slug: "chapter-06-xu-shi"
+  chapter: "虚实篇"
+  chapter_order: 6
+  order: 21
+  slug: "gu-ce-zhi-er-zhi-de-shi-zhi-ji"
+  quote_dimension: "战术"
+  quote_sub_dimension: "执行"
+  original: "故策之而知得失之计，作之而知动静之理，形之而知死生之地，角之而知有余不足之处。"
+  translation: "所以通过筹算可以知道策略的得失，通过挑动可以知道对手的行动规律，通过显示形迹可以知道对手的生死要地，通过小规模接触可以知道对手兵力的有余和不足。"
+  source: "《孙子兵法·虚实篇》"
+  sport_application: "拳击比赛中，前几回合的轻刺拳试探，能帮助拳手判断对手的防守漏洞和出拳节奏——轻刺拳试探对手反应，暴露其防守漏洞与出拳节奏。"
+  faq_short:
+    - q: "拳击比赛中，前几回合的轻刺拳试探，如何帮助拳手判断对手的防守漏洞和出拳节奏？"
+      a: "轻刺拳试探对手反应，暴露其防守漏洞与出拳节奏。"
+  draft: false
+  date: 2026-09-12
+
+- id: "xu-shi-022"
+  chapter_slug: "chapter-06-xu-shi"
+  chapter: "虚实篇"
+  chapter_order: 6
+  order: 22
+  slug: "gu-xing-bing-zhi-ji-zhi-yu-wu-xing"
+  quote_dimension: "战术"
+  quote_sub_dimension: ""
+  original: "故形兵之极，至于无形；无形，则深间不能窥，智者不能谋。"
+  translation: "所以伪装佯动达到极致，就看不出形迹；看不出形迹，那么深藏的间谍也无法窥探，聪明的敌人也无法谋划。"
+  source: "《孙子兵法·虚实篇》"
+  sport_application: "拳击对抗中，选手通过不断切换步法和头部晃动，使对手无法锁定攻击目标——消除可预测性，使对手无法预判攻击时机与角度。"
+  faq_short:
+    - q: "拳击对抗中，选手通过不断切换步法和头部晃动，使对手无法锁定攻击目标，这种做法的核心价值是什么？"
+      a: "消除可预测性，使对手无法预判攻击时机与角度。"
+  draft: false
+  date: 2026-09-12
+
+- id: "xu-shi-023"
+  chapter_slug: "chapter-06-xu-shi"
+  chapter: "虚实篇"
+  chapter_order: 6
+  order: 23
+  slug: "yin-xing-er-cuo-sheng-yu-zhong"
+  quote_dimension: "战术"
+  quote_sub_dimension: ""
+  original: "因形而错胜于众，众不能知；人皆知我所以胜之形，而莫知吾所以制胜之形。"
+  translation: "根据敌情变化而将胜利摆在众人面前，众人却看不明白；人们都知道我取得胜利的态势，却没有人知道我是怎样根据敌情变化而制定取胜策略的。"
+  source: "《孙子兵法·虚实篇》"
+  sport_application: "拳击对抗中，如果选手的进攻套路和节奏完全被对手看穿，会出现进攻套路暴露、对手预判并反击、选手陷入被动的后果。"
+  faq_short:
+    - q: "拳击对抗中，如果选手的进攻套路和节奏完全被对手看穿，会出现什么后果？"
+      a: "进攻套路暴露，对手预判并反击，选手陷入被动。"
+  draft: false
+  date: 2026-09-12
+
+- id: "xu-shi-024"
+  chapter_slug: "chapter-06-xu-shi"
+  chapter: "虚实篇"
+  chapter_order: 6
+  order: 24
+  slug: "gu-qi-zhan-sheng-bu-fu"
+  quote_dimension: "战术"
+  quote_sub_dimension: ""
+  original: "故其战胜不复，而应形于无穷。"
+  translation: "所以每次取胜的方法不重复使用，而是根据敌情变化而无穷无尽。"
+  source: "《孙子兵法·虚实篇》"
+  sport_application: "拳击对抗中，经验丰富的拳手在整场比赛中不断变换进攻节奏，而不是反复使用同一组合拳——变化节奏使对手无法适应，避免被预判反击。"
+  faq_short:
+    - q: "拳击对抗中，为什么经验丰富的拳手在整场比赛中不断变换进攻节奏，而不是反复使用同一组合拳？"
+      a: "变化节奏使对手无法适应，避免被预判反击。"
+  draft: false
+  date: 2026-09-12
+
+- id: "xu-shi-025"
+  chapter_slug: "chapter-06-xu-shi"
+  chapter: "虚实篇"
+  chapter_order: 6
+  order: 25
+  slug: "fu-bing-xing-xiang-shui"
+  quote_dimension: "战术"
+  quote_sub_dimension: ""
+  original: "夫兵形象水，水之形，避高而趋下；兵之形，避实而击虚。"
+  translation: "用兵的形态就像水一样，水的流动是避开高处而流向低处；用兵的形态是避开敌人坚实的地方，攻击其虚弱的地方。"
+  source: "《孙子兵法·虚实篇》"
+  sport_application: "羽毛球单打中，通过前后左右调动对手，攻击其移动中的空当，比直接强攻其站位中心更节省体力且得分效率更高——调动对手移动暴露空当，避免正面强攻的体力消耗。"
+  faq_short:
+    - q: "羽毛球单打中，通过前后左右调动对手，攻击其移动中的空当，为什么比直接强攻其站位中心更节省体力且得分效率更高？"
+      a: "调动对手移动暴露空当，避免正面强攻的体力消耗，得分效率更高。"
+  draft: false
+  date: 2026-09-12
+
+- id: "xu-shi-026"
+  chapter_slug: "chapter-06-xu-shi"
+  chapter: "虚实篇"
+  chapter_order: 6
+  order: 26
+  slug: "shui-yin-di-er-zhi-liu"
+  quote_dimension: "战术"
+  quote_sub_dimension: ""
+  original: "水因地而制流，兵因敌而制胜。"
+  translation: "水根据地形的高低而决定流向，用兵根据敌人的情况而决定取胜的方法。"
+  source: "《孙子兵法·虚实篇》"
+  sport_application: "足球比赛中，球队需要根据对手的防守阵型（如四后卫或三中卫）实时调整边路进攻的传中方式——不同防守阵型的边路空当位置不同，调整传中方式才能精准攻击弱点。"
+  faq_short:
+    - q: "足球比赛中，球队为什么需要根据对手的防守阵型（如四后卫或三中卫）实时调整边路进攻的传中方式？"
+      a: "不同防守阵型的边路空当位置不同，调整传中方式才能精准攻击弱点。"
+  draft: false
+  date: 2026-09-12
+
+- id: "xu-shi-027"
+  chapter_slug: "chapter-06-xu-shi"
+  chapter: "虚实篇"
+  chapter_order: 6
+  order: 27
+  slug: "gu-bing-wu-chang-shi-shui-wu-chang-xing"
+  quote_dimension: "战术"
+  quote_sub_dimension: ""
+  original: "故兵无常势，水无常形；能因敌变化而取胜者，谓之神。"
+  translation: "所以用兵没有固定不变的态势，水没有固定不变的形态；能够根据敌人变化而调整并取胜的人，才称得上用兵如神。"
+  source: "《孙子兵法·虚实篇》"
+  sport_application: "篮球教练会根据对手的防守策略（如联防或人盯人）随时更换进攻战术，而不是固定一套打法——不同防守策略的弱点不同，调整战术才能针对弱点得分。"
+  faq_short:
+    - q: "为什么篮球教练会根据对手的防守策略（如联防或人盯人）随时更换进攻战术，而不是固定一套打法？"
+      a: "不同防守策略的弱点不同，调整战术才能针对弱点得分。"
+  draft: false
+  date: 2026-09-12
+
+- id: "xu-shi-028"
+  chapter_slug: "chapter-06-xu-shi"
+  chapter: "虚实篇"
+  chapter_order: 6
+  order: 28
+  slug: "gu-wu-xing-wu-chang-sheng"
+  quote_dimension: "物理极限"
+  quote_sub_dimension: ""
+  original: "故五行无常胜，四时无常位，日有短长，月有死生。"
+  translation: "所以五行相克没有哪一行永远占优势，四季没有哪一季固定不变，白天有短有长，月亮有圆有缺。"
+  source: "《孙子兵法·虚实篇》"
+  sport_application: "网球比赛中，没有选手能在所有场地类型（硬地、草地、红土）上始终保持同样统治力——场地材质影响球速与弹跳，选手技术特点难以在所有场地保持优势。"
+  faq_short:
+    - q: "网球比赛中，为什么没有选手能在所有场地类型（硬地、草地、红土）上始终保持同样统治力？"
+      a: "场地材质影响球速与弹跳，选手技术特点难以在所有场地保持优势。"
+  draft: false
+  date: 2026-09-12
+
+# ═══════════════════════════════════════════════════════════════
+# chapter-07-jun-zheng 军争篇（28 条）
+# ═══════════════════════════════════════════════════════════════
+
+- id: "jun-zheng-001"
+  chapter_slug: "chapter-07-jun-zheng"
+  chapter: "军争篇"
+  chapter_order: 7
+  order: 1
+  slug: "fan-yong-bing-zhi-fa-jiang-shou-ming-yu-jun"
+  quote_dimension: "执行"
+  quote_sub_dimension: ""
+  original: "凡用兵之法，将受命于君，合军聚众，交和而舍，莫难于军争。"
+  translation: "大凡用兵的方法，从将领接受国君的命令，到集结军队、动员民众，再到与敌人对阵扎营，其中最困难的就是军争（争夺先机与有利条件）。"
+  source: "《孙子兵法·军争篇》"
+  sport_application: "从赛前准备到正式对抗，准备与对抗之间的过渡环节——临场执行与先机争夺——最容易被忽略却直接影响结果。"
+  faq_short:
+    - q: "为什么从赛前准备到正式对抗，哪个环节的失误最容易被忽略却直接影响结果？"
+      a: "准备与对抗之间的过渡环节，即临场执行与先机争夺。"
+  draft: false
+  date: 2026-09-12
+
+- id: "jun-zheng-002"
+  chapter_slug: "chapter-07-jun-zheng"
+  chapter: "军争篇"
+  chapter_order: 7
+  order: 2
+  slug: "jun-zheng-zhi-nan-zhe-yi-yu-wei-zhi"
+  quote_dimension: "执行"
+  quote_sub_dimension: "战术"
+  original: "军争之难者，以迂为直，以患为利。"
+  translation: "军争中最难的地方，在于把迂回的路线变成直路，把不利条件转化为有利条件。"
+  source: "《孙子兵法·军争篇》"
+  sport_application: "某些选手在处于不利位置时反而能创造出更好的进攻机会——不利位置迫使选手改变节奏，利用对手预判盲区。"
+  faq_short:
+    - q: "为什么某些选手在处于不利位置时反而能创造出更好的进攻机会？"
+      a: "不利位置迫使选手改变节奏，利用对手预判盲区。"
+  draft: false
+  date: 2026-09-12
+
+- id: "jun-zheng-003"
+  chapter_slug: "chapter-07-jun-zheng"
+  chapter: "军争篇"
+  chapter_order: 7
+  order: 3
+  slug: "gu-yu-qi-tu-er-you-zhi-yi-li"
+  quote_dimension: "执行"
+  quote_sub_dimension: "战术"
+  original: "故迂其途，而诱之以利，后人发，先人至，此知迂直之计者也。"
+  translation: "所以故意绕远路，并用小利引诱敌人，虽然比敌人后出发，却能先到达，这就是懂得迂直之计的人。"
+  source: "《孙子兵法·军争篇》"
+  sport_application: "网球选手在被压迫到后场时，反而能通过一记高吊球扭转攻防位置。"
+  faq_short:
+    - q: "为什么网球选手在被压迫到后场时，反而能通过一记高吊球扭转攻防位置？"
+      a: "高吊球改变攻防节奏，争取回位时间。"
+  draft: false
+  date: 2026-09-12
+
+- id: "jun-zheng-004"
+  chapter_slug: "chapter-07-jun-zheng"
+  chapter: "军争篇"
+  chapter_order: 7
+  order: 4
+  slug: "gu-jun-zheng-wei-li-jun-zheng-wei-wei"
+  quote_dimension: "执行"
+  quote_sub_dimension: "资源约束"
+  original: "故军争为利，军争为危。"
+  translation: "所以军争既有好处，也有危险。"
+  source: "《孙子兵法·军争篇》"
+  sport_application: "在足球比赛中，高位逼抢既能创造机会，也可能导致防线暴露。"
+  faq_short:
+    - q: "为什么在足球比赛中，高位逼抢既能创造机会，也可能导致防线暴露？"
+      a: "高位逼抢压缩前场空间，但身后空当易被反击。"
+  draft: false
+  date: 2026-09-12
+
+- id: "jun-zheng-005"
+  chapter_slug: "chapter-07-jun-zheng"
+  chapter: "军争篇"
+  chapter_order: 7
+  order: 5
+  slug: "ju-jun-er-zheng-li-ze-bu-ji"
+  quote_dimension: "执行"
+  quote_sub_dimension: "资源约束"
+  original: "举军而争利，则不及；"
+  translation: "全军带着所有装备辎重去争利，就会来不及赶到。"
+  source: "《孙子兵法·军争篇》"
+  sport_application: "马拉松起跑阶段如果跟随领先集团全力加速，后半程容易崩盘。"
+  faq_short:
+    - q: "马拉松起跑阶段如果跟随领先集团全力加速，为什么后半程容易崩盘？"
+      a: "前程消耗过多糖原，后程体能断档。"
+  draft: false
+  date: 2026-09-12
+
+- id: "jun-zheng-006"
+  chapter_slug: "chapter-07-jun-zheng"
+  chapter: "军争篇"
+  chapter_order: 7
+  order: 6
+  slug: "wei-jun-er-zheng-li-ze-zi-zhong-juan"
+  quote_dimension: "执行"
+  quote_sub_dimension: "资源约束"
+  original: "委军而争利，则辎重捐。"
+  translation: "如果丢下辎重轻装去争利，就会损失装备物资。"
+  source: "《孙子兵法·军争篇》"
+  sport_application: "长跑选手在比赛中为了跟住对手而放弃补给，后期会出现严重掉速。"
+  faq_short:
+    - q: "为什么长跑选手在比赛中为了跟住对手而放弃补给，后期会出现严重掉速？"
+      a: "放弃补给导致后程能量断档，糖原耗尽。"
+  draft: false
+  date: 2026-09-12
+
+- id: "jun-zheng-007"
+  chapter_slug: "chapter-07-jun-zheng"
+  chapter: "军争篇"
+  chapter_order: 7
+  order: 7
+  slug: "shi-gu-juan-jia-er-qu-ri-ye-bu-chu"
+  quote_dimension: "执行"
+  quote_sub_dimension: "资源约束"
+  original: "是故卷甲而趋，日夜不处，倍道兼行，百里而争利，则擒三将军，劲者先，疲者后，其法十一而至；"
+  translation: "所以卷起盔甲急速前进，日夜不停，加倍赶路，跑一百里去争利，那么三军将领都会被俘获；强壮的士卒先到，疲弱的士卒落在后面，按规律只有十分之一能到达。"
+  source: "《孙子兵法·军争篇》"
+  sport_application: "马拉松比赛中，前程配速远超平时训练水平，后程会出现大规模掉速甚至无法完赛。"
+  faq_short:
+    - q: "为什么马拉松比赛中，前程配速远超平时训练水平，后程会出现大规模掉速甚至无法完赛？"
+      a: "前程超速导致乳酸堆积，后程能量供应崩解。"
+  draft: false
+  date: 2026-09-12
+
+- id: "jun-zheng-008"
+  chapter_slug: "chapter-07-jun-zheng"
+  chapter: "军争篇"
+  chapter_order: 7
+  order: 8
+  slug: "wu-shi-li-er-zheng-li-ze-jue-shang-jiang-jun"
+  quote_dimension: "执行"
+  quote_sub_dimension: "资源约束"
+  original: "五十里而争利，则蹶上将军，其法半至；"
+  translation: "跑五十里去争利，就会折损上将军，按规律只有一半人能到达。"
+  source: "《孙子兵法·军争篇》"
+  sport_application: "足球比赛中，前60分钟持续高位逼抢，后30分钟球队整体防线会出现明显空当。"
+  faq_short:
+    - q: "足球比赛中，前60分钟持续高位逼抢，为什么后30分钟球队整体防线会出现明显空当？"
+      a: "高位逼抢消耗体能，后段回追与站位能力下降，空当扩大。"
+  draft: false
+  date: 2026-09-12
+
+- id: "jun-zheng-009"
+  chapter_slug: "chapter-07-jun-zheng"
+  chapter: "军争篇"
+  chapter_order: 7
+  order: 9
+  slug: "san-shi-li-er-zheng-li-ze-san-fen-zhi-er-zhi"
+  quote_dimension: "执行"
+  quote_sub_dimension: "资源约束"
+  original: "三十里而争利，则三分之二至。"
+  translation: "跑三十里去争利，按规律有三分之二的人能到达。"
+  source: "《孙子兵法·军争篇》"
+  sport_application: "篮球比赛中，前三节保持匀速轮换的球队，第四节整体执行力往往优于过度使用主力的球队。"
+  faq_short:
+    - q: "为什么篮球比赛中，前三节保持匀速轮换的球队，第四节整体执行力往往优于过度使用主力的球队？"
+      a: "合理轮换保留体能，末节执行质量不下降。"
+  draft: false
+  date: 2026-09-12
+
+- id: "jun-zheng-010"
+  chapter_slug: "chapter-07-jun-zheng"
+  chapter: "军争篇"
+  chapter_order: 7
+  order: 10
+  slug: "shi-gu-jun-wu-zi-zhong-ze-wang"
+  quote_dimension: "资源约束"
+  quote_sub_dimension: ""
+  original: "是故军无辎重则亡，无粮食则亡，无委积则亡。"
+  translation: "所以军队没有辎重就会败亡，没有粮食就会败亡，没有物资储备就会败亡。"
+  source: "《孙子兵法·军争篇》"
+  sport_application: "自行车公路赛中，车队如何规划补给点以确保车手在关键爬坡前能量充足。"
+  faq_short:
+    - q: "自行车公路赛中，车队如何规划补给点以确保车手在关键爬坡前能量充足？"
+      a: "补给点应设在关键爬坡前，提前完成能量补充与吸收。"
+  draft: false
+  date: 2026-09-12
+
+- id: "jun-zheng-011"
+  chapter_slug: "chapter-07-jun-zheng"
+  chapter: "军争篇"
+  chapter_order: 7
+  order: 11
+  slug: "gu-bu-zhi-zhu-hou-zhi-mou-zhe-bu-neng-yu-jiao"
+  quote_dimension: "执行"
+  quote_sub_dimension: "战术"
+  original: "故不知诸侯之谋者，不能豫交；"
+  translation: "所以不了解诸侯的意图，就不能预先结交外交。"
+  source: "《孙子兵法·军争篇》"
+  sport_application: "篮球比赛中，不熟悉对手防守体系，进攻端频繁失误的根源是什么。"
+  faq_short:
+    - q: "篮球比赛中，不熟悉对手防守体系，进攻端频繁失误的根源是什么？"
+      a: "不熟悉防守体系导致进攻决策失误。"
+  draft: false
+  date: 2026-09-12
+
+- id: "jun-zheng-012"
+  chapter_slug: "chapter-07-jun-zheng"
+  chapter: "军争篇"
+  chapter_order: 7
+  order: 12
+  slug: "bu-zhi-shan-lin-xian-zu-ju-ze-zhi-xing"
+  quote_dimension: "执行"
+  quote_sub_dimension: "战术"
+  original: "不知山林、险阻、沮泽之形者，不能行军；"
+  translation: "不了解山林、险阻、沼泽地形的，就不能行军。"
+  source: "《孙子兵法·军争篇》"
+  sport_application: "山地越野跑选手赛前不熟悉赛道，比赛中容易在技术路段发生失误。"
+  faq_short:
+    - q: "为什么山地越野跑选手赛前不熟悉赛道，比赛中容易在技术路段发生失误？"
+      a: "赛道不熟导致路线判断失误，技术动作选择错误。"
+  draft: false
+  date: 2026-09-12
+
+- id: "jun-zheng-013"
+  chapter_slug: "chapter-07-jun-zheng"
+  chapter: "军争篇"
+  chapter_order: 7
+  order: 13
+  slug: "bu-yong-xiang-dao-zhe-bu-neng-de-di-li"
+  quote_dimension: "执行"
+  quote_sub_dimension: "战术"
+  original: "不用乡导者，不能得地利。"
+  translation: "不使用熟悉当地情况的向导，就不能得到地形的便利。"
+  source: "《孙子兵法·军争篇》"
+  sport_application: "帆船比赛中，如果选手不了解当地潮汐规律，会在比赛中付出代价。"
+  faq_short:
+    - q: "帆船比赛中，如果选手不了解当地潮汐规律，会在比赛中付出什么代价？"
+      a: "航线选择错误，时间损失扩大。"
+  draft: false
+  date: 2026-09-12
+
+- id: "jun-zheng-014"
+  chapter_slug: "chapter-07-jun-zheng"
+  chapter: "军争篇"
+  chapter_order: 7
+  order: 14
+  slug: "gu-bing-yi-zha-li-yi-li-dong-yi-fen-he"
+  quote_dimension: "执行"
+  quote_sub_dimension: "战术"
+  original: "故兵以诈立，以利动，以分合为变者也。"
+  translation: "所以用兵依靠诡诈多变来立足，根据是否有利来决定行动，通过分散和集中来变化战术。"
+  source: "《孙子兵法·军争篇》"
+  sport_application: "公路自行车赛突围集团中，车手之间交替领骑与突然加速，能有效消耗追击集团。"
+  faq_short:
+    - q: "公路自行车赛突围集团中，车手之间交替领骑与突然加速，为什么能有效消耗追击集团？"
+      a: "交替领骑节省体能，突然加速打乱追击节奏。"
+  draft: false
+  date: 2026-09-12
+
+- id: "jun-zheng-015"
+  chapter_slug: "chapter-07-jun-zheng"
+  chapter: "军争篇"
+  chapter_order: 7
+  order: 15
+  slug: "gu-qi-ji-ru-feng-qi-xu-ru-lin"
+  quote_dimension: "执行"
+  quote_sub_dimension: ""
+  original: "故其疾如风，其徐如林，侵掠如火，不动如山，难知如阴，动如雷震。"
+  translation: "所以行动迅速时像风一样快，缓慢时像森林一样整齐，进攻时像火一样猛烈，防守时像山一样稳固，隐蔽时像阴天一样难以捉摸，行动时像雷击一样猛烈。"
+  source: "《孙子兵法·军争篇》"
+  sport_application: "羽毛球比赛中，选手在连续快速平抽后突然放一记网前小球，能有效打乱对手重心。"
+  faq_short:
+    - q: "羽毛球比赛中，选手在连续快速平抽后突然放一记网前小球，为什么能有效打乱对手重心？"
+      a: "快速平抽建立节奏惯性，突然放网破坏重心与预判。"
+  draft: false
+  date: 2026-09-12
+
+- id: "jun-zheng-016"
+  chapter_slug: "chapter-07-jun-zheng"
+  chapter: "军争篇"
+  chapter_order: 7
+  order: 16
+  slug: "lue-xiang-fen-zhong-kuo-di-fen-li"
+  quote_dimension: "执行"
+  quote_sub_dimension: "资源约束"
+  original: "掠乡分众，廓地分利，悬权而动。"
+  translation: "掠夺乡野要分兵行动，开拓土地要分配利益，权衡形势后才行动。"
+  source: "《孙子兵法·军争篇》"
+  sport_application: "公路自行车赛中，突围集团为何要在车手之间分配领骑次数，而不是由一人全程领骑。"
+  faq_short:
+    - q: "公路自行车赛中，突围集团为何要在车手之间分配领骑次数，而不是由一人全程领骑？"
+      a: "轮流领骑平均分配体能消耗，避免一人提前力竭。"
+  draft: false
+  date: 2026-09-12
+
+- id: "jun-zheng-017"
+  chapter_slug: "chapter-07-jun-zheng"
+  chapter: "军争篇"
+  chapter_order: 7
+  order: 17
+  slug: "xian-zhi-yu-zhi-zhi-ji-zhe-sheng"
+  quote_dimension: "执行"
+  quote_sub_dimension: "战术"
+  original: "先知迂直之计者胜，此军争之法也。"
+  translation: "预先懂得迂直之计的人能够获胜，这就是军争的法则。"
+  source: "《孙子兵法·军争篇》"
+  sport_application: "赛前研究对手习惯的选手，在关键分上更容易做出正确选择。"
+  faq_short:
+    - q: "为什么赛前研究对手习惯的选手，在关键分上更容易做出正确选择？"
+      a: "赛前研究让选手在关键分提前预判，减少决策延迟。"
+  draft: false
+  date: 2026-09-12
+
+- id: "jun-zheng-018"
+  chapter_slug: "chapter-07-jun-zheng"
+  chapter: "军争篇"
+  chapter_order: 7
+  order: 18
+  slug: "jun-zheng-yue-yan-bu-xiang-wen-gu-wei-jin-gu"
+  quote_dimension: "执行"
+  quote_sub_dimension: ""
+  original: "《军政》曰：“言不相闻，故为金鼓；视不相见，故为旌旗。”"
+  translation: "《军政》上说：“因为说话互相听不见，所以设置金鼓；因为互相看不见，所以设置旌旗。”"
+  source: "《孙子兵法·军争篇》"
+  sport_application: "篮球比赛中，球队在客场噪音环境下需要更多依赖手势信号而非语音沟通。"
+  faq_short:
+    - q: "为什么篮球比赛中，球队在客场噪音环境下需要更多依赖手势信号而非语音沟通？"
+      a: "噪音干扰语音指令，手势信号传递更稳定。"
+  draft: false
+  date: 2026-09-12
+
+- id: "jun-zheng-019"
+  chapter_slug: "chapter-07-jun-zheng"
+  chapter: "军争篇"
+  chapter_order: 7
+  order: 19
+  slug: "fu-jin-gu-jing-qi-zhe-suo-yi-yi-ren-zhi-er-mu"
+  quote_dimension: "执行"
+  quote_sub_dimension: ""
+  original: "夫金鼓旌旗者，所以一人之耳目也。"
+  translation: "金鼓和旌旗，是用来统一人们视听信号的。"
+  source: "《孙子兵法·军争篇》"
+  sport_application: "如果公路自行车车队在比赛中没有统一的战术信号，突围和冲刺会付出代价。"
+  faq_short:
+    - q: "如果公路自行车车队在比赛中没有统一的战术信号，突围和冲刺会付出什么代价？"
+      a: "缺乏统一信号导致配合脱节，错失突围与冲刺时机。"
+  draft: false
+  date: 2026-09-12
+
+- id: "jun-zheng-020"
+  chapter_slug: "chapter-07-jun-zheng"
+  chapter: "军争篇"
+  chapter_order: 7
+  order: 20
+  slug: "ren-ji-zhuan-yi-ze-yong-zhe-bu-de-du-jin"
+  quote_dimension: "执行"
+  quote_sub_dimension: ""
+  original: "人既专一，则勇者不得独进，怯者不得独退，此用众之法也。"
+  translation: "人们的行动既然统一了，那么勇敢的人不能独自前进，胆怯的人不能独自后退，这就是指挥众人的方法。"
+  source: "《孙子兵法·军争篇》"
+  sport_application: "自行车公路赛中，副将必须严格按主将的节奏领骑，不能随意加速。"
+  faq_short:
+    - q: "为什么自行车公路赛中，副将必须严格按主将的节奏领骑，不能随意加速？"
+      a: "副将擅自加速会打乱主将节奏，提前消耗其体能。"
+  draft: false
+  date: 2026-09-12
+
+- id: "jun-zheng-021"
+  chapter_slug: "chapter-07-jun-zheng"
+  chapter: "军争篇"
+  chapter_order: 7
+  order: 21
+  slug: "gu-ye-zhan-duo-huo-gu-zhou-zhan-duo-jing-qi"
+  quote_dimension: "执行"
+  quote_sub_dimension: ""
+  original: "故夜战多火鼓，昼战多旌旗，所以变人之耳目也。"
+  translation: "所以夜间作战多用火光和鼓声，白天作战多用旌旗，是为了适应人们在不同环境下的视听习惯。"
+  source: "《孙子兵法·军争篇》"
+  sport_application: "公路自行车赛中，车队如何根据天气和光线条件调整队内无线电和手势的使用比例。"
+  faq_short:
+    - q: "公路自行车赛中，车队如何根据天气和光线条件调整队内无线电和手势的使用比例？"
+      a: "根据环境切换信号工具，保障指令传递准确。"
+  draft: false
+  date: 2026-09-12
+
+- id: "jun-zheng-022"
+  chapter_slug: "chapter-07-jun-zheng"
+  chapter: "军争篇"
+  chapter_order: 7
+  order: 22
+  slug: "gu-san-jun-ke-duo-qi-jiang-jun-ke-duo-xin"
+  quote_dimension: "执行"
+  quote_sub_dimension: ""
+  original: "故三军可夺气，将军可夺心。"
+  translation: "所以对于敌人的军队，可以打击它的士气；对于敌人的将领，可以动摇他的决心。"
+  source: "《孙子兵法·军争篇》"
+  sport_application: "羽毛球比赛中，连续通过假动作欺骗对手得分，会让对手出现犹豫和判断延迟。"
+  faq_short:
+    - q: "羽毛球比赛中，连续通过假动作欺骗对手得分，为什么会让对手出现犹豫和判断延迟？"
+      a: "连续假动作制造不确定性，动摇对手判断信心。"
+  draft: false
+  date: 2026-09-12
+
+- id: "jun-zheng-023"
+  chapter_slug: "chapter-07-jun-zheng"
+  chapter: "军争篇"
+  chapter_order: 7
+  order: 23
+  slug: "shi-gu-zhao-qi-rui-zhou-qi-duo-mu-qi-gui"
+  quote_dimension: "执行"
+  quote_sub_dimension: ""
+  original: "是故朝气锐，昼气惰，暮气归。"
+  translation: "所以早晨士气旺盛，中午士气懈怠，傍晚士气衰退。"
+  source: "《孙子兵法·军争篇》"
+  sport_application: "足球比赛中，球队在上半场前20分钟的高位逼抢强度往往明显高于比赛末段。"
+  faq_short:
+    - q: "为什么足球比赛中，球队在上半场前20分钟的高位逼抢强度往往明显高于比赛末段？"
+      a: "开场体能充沛、士气高，末段消耗导致强度下降。"
+  draft: false
+  date: 2026-09-12
+
+- id: "jun-zheng-024"
+  chapter_slug: "chapter-07-jun-zheng"
+  chapter: "军争篇"
+  chapter_order: 7
+  order: 24
+  slug: "gu-shan-yong-bing-zhe-bi-qi-rui-qi-ji-qi-duo-gui"
+  quote_dimension: "执行"
+  quote_sub_dimension: ""
+  original: "故善用兵者，避其锐气，击其惰归，此治气者也。"
+  translation: "所以善于用兵的人，会避开敌人初来时的锐气，等到敌人懈怠疲惫、士气衰退时再攻击，这就是掌握士气规律的方法。"
+  source: "《孙子兵法·军争篇》"
+  sport_application: "公路自行车赛中，车手如何选择在比赛后段对手疲劳时发动决定性进攻。"
+  faq_short:
+    - q: "公路自行车赛中，车手如何选择在比赛后段对手疲劳时发动决定性进攻？"
+      a: "后段对手疲劳时进攻，利用体能差突破。"
+  draft: false
+  date: 2026-09-12
+
+- id: "jun-zheng-025"
+  chapter_slug: "chapter-07-jun-zheng"
+  chapter: "军争篇"
+  chapter_order: 7
+  order: 25
+  slug: "yi-zhi-dai-luan-yi-jing-dai-hua"
+  quote_dimension: "执行"
+  quote_sub_dimension: ""
+  original: "以治待乱，以静待哗，此治心者也。"
+  translation: "用自己的严整等待敌人的混乱，用自己的镇静等待敌人的喧哗，这就是掌握心理的方法。"
+  source: "《孙子兵法·军争篇》"
+  sport_application: "足球比赛中，经验丰富的球队在对手情绪急躁时反而能控制比赛节奏。"
+  faq_short:
+    - q: "为什么足球比赛中，经验丰富的球队在对手情绪急躁时反而能控制比赛节奏？"
+      a: "对手急躁导致阵型松散，经验球队利用控球稳住节奏。"
+  draft: false
+  date: 2026-09-12
+
+- id: "jun-zheng-026"
+  chapter_slug: "chapter-07-jun-zheng"
+  chapter: "军争篇"
+  chapter_order: 7
+  order: 26
+  slug: "yi-jin-dai-yuan-yi-yi-dai-lao"
+  quote_dimension: "执行"
+  quote_sub_dimension: "资源约束"
+  original: "以近待远，以佚待劳，以饱待饥，此治力者也。"
+  translation: "用自己的就近便利等待敌人的远道而来，用自己的安逸休整等待敌人的疲劳奔波，用自己的饱食等待敌人的饥饿，这就是掌握体力的方法。"
+  source: "《孙子兵法·军争篇》"
+  sport_application: "自行车公路赛中，提前卡位占据内线的车手在弯道前能节省体能。"
+  faq_short:
+    - q: "为什么自行车公路赛中，提前卡位占据内线的车手在弯道前能节省体能？"
+      a: "占据内线减少额外加速，弯道前节省体能。"
+  draft: false
+  date: 2026-09-12
+
+- id: "jun-zheng-027"
+  chapter_slug: "chapter-07-jun-zheng"
+  chapter: "军争篇"
+  chapter_order: 7
+  order: 27
+  slug: "wu-yao-zheng-zheng-zhi-qi-wu-ji-tang-tang-zhi-chen"
+  quote_dimension: "执行"
+  quote_sub_dimension: "战术"
+  original: "无邀正正之旗，勿击堂堂之陈，此治变者也。"
+  translation: "不要迎击旗帜整齐的敌人，不要攻击阵容堂皇的敌人，这就是掌握应变的方法。"
+  source: "《孙子兵法·军争篇》"
+  sport_application: "篮球比赛中，对手在连续命中后士气高涨时，强行叫暂停打断对手节奏比继续对攻更有效。"
+  faq_short:
+    - q: "为什么篮球比赛中，对手在连续命中后士气高涨时，强行叫暂停打断对手节奏比继续对攻更有效？"
+      a: "暂停打断对手得分节奏，避免正面硬碰其气势高峰。"
+  draft: false
+  date: 2026-09-12
+
+- id: "jun-zheng-028"
+  chapter_slug: "chapter-07-jun-zheng"
+  chapter: "军争篇"
+  chapter_order: 7
+  order: 28
+  slug: "gu-yong-bing-zhi-fa-gao-ling-wu-xiang"
+  quote_dimension: "执行"
+  quote_sub_dimension: "战术"
+  original: "故用兵之法，高陵勿向，背丘勿逆，佯北勿从，锐卒勿攻，饵兵勿食，归师勿遏，围师必阙，穷寇勿迫，此用兵之法也。"
+  translation: "所以用兵的方法是：敌人占据高处时不要仰攻，敌人背靠山丘时不要正面迎击，敌人假装败退时不要追击，敌人精锐部队不要强攻，敌人的诱饵部队不要贪吃，撤退回国的军队不要拦截，被包围的敌军要留下缺口，陷入绝境的敌人不要过分逼迫，这就是用兵的法则。"
+  source: "《孙子兵法·军争篇》"
+  sport_application: "羽毛球比赛中，对手故意漏出后场空当诱使自己挑高球，盲目进攻会落入陷阱。"
+  faq_short:
+    - q: "羽毛球比赛中，对手故意漏出后场空当诱使自己挑高球，盲目进攻会付出什么代价？"
+      a: "盲目进攻落入陷阱，失去主动。"
+  draft: false
+  date: 2026-09-12
+
+  # ═══════════════════════════════════════════════════════════════
+# chapter-08-jiu-bian 九变篇（13 条）
+# ═══════════════════════════════════════════════════════════════
+
+- id: "jiu-bian-001"
+  chapter_slug: "chapter-08-jiu-bian"
+  chapter: "九变篇"
+  chapter_order: 8
+  order: 1
+  slug: "fan-yong-bing-zhi-fa-jiang-shou-ming-yu-jun"
+  quote_dimension: "执行"
+  quote_sub_dimension: ""
+  original: "孙子曰：凡用兵之法，将受命于君，合军聚众。"
+  translation: "孙子说：大凡用兵的法则，将领从国君那里接受命令，然后集合军队、聚集士卒。"
+  source: "《孙子兵法·九变篇》"
+  sport_application: "一支球队在赛季开始前集合训练的时间长短，直接影响整个赛季的体能储备与战术磨合。"
+  faq_short:
+    - q: "一支球队在赛季开始前集合训练的时间长短，会如何影响整个赛季的体能储备与战术磨合？"
+      a: "赛季前集合训练时间越长，体能储备越充分，战术磨合越完善。"
+  draft: false
+  date: 2026-09-12
+
+- id: "jiu-bian-002"
+  chapter_slug: "chapter-08-jiu-bian"
+  chapter: "九变篇"
+  chapter_order: 8
+  order: 2
+  slug: "pi-di-wu-she-qu-di-jiao-he"
+  quote_dimension: "战术"
+  quote_sub_dimension: ""
+  original: "圮地无舍，衢地交合，绝地无留，围地则谋，死地则战。"
+  translation: "在难以通行的低洼地带不要扎营，在四通八达的交通要道要与友军结交，在难以生存的隔绝地带不要停留，在被包围的地形要设法谋划突围，在走投无路的死地要坚决作战。"
+  source: "《孙子兵法·九变篇》"
+  sport_application: "长跑比赛中，如果中途遇到连续上坡路段，应降低配速、稳定步频，将体能分配给后续路段。"
+  faq_short:
+    - q: "在长跑比赛中，如果中途遇到连续上坡路段，运动员应当如何调整配速与体力分配？"
+      a: "上坡时降低配速、稳定步频，将体能分配给后续路段。"
+  draft: false
+  date: 2026-09-12
+
+- id: "jiu-bian-003"
+  chapter_slug: "chapter-08-jiu-bian"
+  chapter: "九变篇"
+  chapter_order: 8
+  order: 3
+  slug: "tu-you-suo-bu-you-jun-you-suo-bu-ji"
+  quote_dimension: "执行"
+  quote_sub_dimension: ""
+  original: "涂有所不由，军有所不击，城有所不攻，地有所不争，君命有所不受。"
+  translation: "有些道路不一定要走，有些敌军不一定要攻击，有些城池不一定要攻占，有些地方不一定要争夺，国君的命令也不一定全部接受。"
+  source: "《孙子兵法·九变篇》"
+  sport_application: "马拉松比赛中，如果前半程配速超出预定计划，后半程应主动放弃次要路段的配速要求，集中体能保住整体目标配速。"
+  faq_short:
+    - q: "在马拉松比赛中，如果前半程配速超出预定计划，后半程应该如何取舍某些路段来保住目标成绩？"
+      a: "主动放弃次要路段的配速要求，集中体能保住整体目标配速。"
+  draft: false
+  date: 2026-09-12
+
+- id: "jiu-bian-004"
+  chapter_slug: "chapter-08-jiu-bian"
+  chapter: "九变篇"
+  chapter_order: 8
+  order: 4
+  slug: "gu-jiang-tong-yu-jiu-bian-zhi-li-zhe"
+  quote_dimension: "战略"
+  quote_sub_dimension: "执行"
+  original: "故将通于九变之利者，知用兵矣。"
+  translation: "所以，将领如果通晓各种机变所带来的利益，才真正懂得用兵的道理。"
+  source: "《孙子兵法·九变篇》"
+  sport_application: "马拉松比赛中，如果预计的补给站因为意外调整，选手应提前准备备用补给，按体能状态分次补充，以保证后半程不掉速。"
+  faq_short:
+    - q: "马拉松比赛中，如果预计的补给站因为意外调整，选手应如何调整补给策略以保证后半程不掉速？"
+      a: "提前准备备用补给，按体能状态分次补充。"
+  draft: false
+  date: 2026-09-12
+
+- id: "jiu-bian-005"
+  chapter_slug: "chapter-08-jiu-bian"
+  chapter: "九变篇"
+  chapter_order: 8
+  order: 5
+  slug: "jiang-bu-tong-yu-jiu-bian-zhi-li-zhe"
+  quote_dimension: "战略"
+  quote_sub_dimension: "执行"
+  original: "将不通于九变之利者，虽知地形，不能得地之利矣。"
+  translation: "将领如果不通晓各种机变所带来的利益，即使了解地形，也不能得到地形的好处。"
+  source: "《孙子兵法·九变篇》"
+  sport_application: "一名网球选手对对手的技术特点做过详细分析，但在比赛中还是被对手压制，原因是分析停留在纸面，缺少根据比赛变化调整对策的能力。"
+  faq_short:
+    - q: "一名网球选手对对手的技术特点做过详细分析，但在比赛中还是被对手压制，原因可能是什么？"
+      a: "分析停留在纸面，缺少根据比赛变化调整对策的能力。"
+  draft: false
+  date: 2026-09-12
+
+- id: "jiu-bian-006"
+  chapter_slug: "chapter-08-jiu-bian"
+  chapter: "九变篇"
+  chapter_order: 8
+  order: 6
+  slug: "zhi-bing-bu-zhi-jiu-bian-zhi-shu"
+  quote_dimension: "执行"
+  quote_sub_dimension: "战术"
+  original: "治兵不知九变之术，虽知五利，不能得人之用矣。"
+  translation: "治理军队如果不了解各种机变的方法，即使知道五种地形的利用原则，也不能充分发挥士兵的作用。"
+  source: "《孙子兵法·九变篇》"
+  sport_application: "篮球比赛中，教练拥有多名不同特点的替补球员，却始终只用固定轮换，背后是过度依赖主力阵容，不愿承担调整带来的不确定性。"
+  faq_short:
+    - q: "篮球比赛中，教练拥有多名不同特点的替补球员，却始终只用固定轮换，背后的决策障碍是什么？"
+      a: "过度依赖主力阵容，不愿承担调整带来的不确定性。"
+  draft: false
+  date: 2026-09-12
+
+- id: "jiu-bian-007"
+  chapter_slug: "chapter-08-jiu-bian"
+  chapter: "九变篇"
+  chapter_order: 8
+  order: 7
+  slug: "shi-gu-zhi-zhe-zhi-lv"
+  quote_dimension: "战略"
+  quote_sub_dimension: ""
+  original: "是故智者之虑，必杂于利害。"
+  translation: "所以，有智慧的人考虑问题，一定会同时考虑有利和有害两个方面。"
+  source: "《孙子兵法·九变篇》"
+  sport_application: "教练在决定是否让受伤的主力球员提前复出时，需要同时权衡短期战力提升与再次受伤风险。"
+  faq_short:
+    - q: "教练在决定是否让受伤的主力球员提前复出时，需要同时权衡哪些利弊？"
+      a: "短期战力提升与再次受伤风险并存。"
+  draft: false
+  date: 2026-09-12
+
+- id: "jiu-bian-008"
+  chapter_slug: "chapter-08-jiu-bian"
+  chapter: "九变篇"
+  chapter_order: 8
+  order: 8
+  slug: "za-yu-li-er-wu-ke-xin-ye"
+  quote_dimension: "战略"
+  quote_sub_dimension: ""
+  original: "杂于利，而务可信也；杂于害，而患可解也。"
+  translation: "在有利的情况下考虑到不利的一面，要做的事情就可以顺利开展；在不利的情况下考虑到有利的一面，祸患就可以化解。"
+  source: "《孙子兵法·九变篇》"
+  sport_application: "篮球比赛中，当己方核心球员手感火热时，不应盲目持续把球交给他，应利用牵制力激活其他得分点。"
+  faq_short:
+    - q: "篮球比赛中，当己方核心球员手感火热时，是否应该持续把球交给他，哪怕对手已经开始针对性包夹？"
+      a: "不应盲目持续，应利用牵制力激活其他得分点。"
+  draft: false
+  date: 2026-09-12
+
+- id: "jiu-bian-009"
+  chapter_slug: "chapter-08-jiu-bian"
+  chapter: "九变篇"
+  chapter_order: 8
+  order: 9
+  slug: "shi-gu-qu-zhu-hou-zhe-yi-hai"
+  quote_dimension: "战略"
+  quote_sub_dimension: "战术"
+  original: "是故屈诸侯者以害，役诸侯者以业，趋诸侯者以利。"
+  translation: "所以，要使诸侯屈服，就用他害怕的事去威胁他；要驱使诸侯，就用他不得不做的事去烦扰他；要使诸侯归附，就用利益去引诱他。"
+  source: "《孙子兵法·九变篇》"
+  sport_application: "篮球比赛中，针对对手核心控卫，采用全场紧逼消耗其体能，目的是降低其后段组织效率。"
+  faq_short:
+    - q: "篮球比赛中，针对对手核心控卫，采用全场紧逼消耗其体能，背后的战术目的是什么？"
+      a: "消耗其体能，降低后段组织效率。"
+  draft: false
+  date: 2026-09-12
+
+- id: "jiu-bian-010"
+  chapter_slug: "chapter-08-jiu-bian"
+  chapter: "九变篇"
+  chapter_order: 8
+  order: 10
+  slug: "gu-yong-bing-zhi-fa-wu-shi-qi-bu-lai"
+  quote_dimension: "执行"
+  quote_sub_dimension: "战术"
+  original: "故用兵之法，无恃其不来，恃吾有以待也；无恃其不攻，恃吾有所不可攻也。"
+  translation: "所以用兵的法则是，不要指望敌人不来，而要依靠自己有所准备；不要指望敌人不进攻，而要依靠自己拥有敌人无法攻破的条件。"
+  source: "《孙子兵法·九变篇》"
+  sport_application: "篮球比赛中，当对手拥有强力中锋时，防守方应提前布置弱侧协防，切断传球路线，限制接球。"
+  faq_short:
+    - q: "篮球比赛中，当对手拥有强力中锋时，防守方应如何提前布置协防，而不是等到对手接球后再反应？"
+      a: "提前布置弱侧协防，切断传球路线，限制接球。"
+  draft: false
+  date: 2026-09-12
+
+- id: "jiu-bian-011"
+  chapter_slug: "chapter-08-jiu-bian"
+  chapter: "九变篇"
+  chapter_order: 8
+  order: 11
+  slug: "gu-jiang-you-wu-wei-bi-si-ke-sha-ye"
+  quote_dimension: "执行"
+  quote_sub_dimension: ""
+  original: "故将有五危：必死，可杀也；必生，可虏也；忿速，可侮也；廉洁，可辱也；爱民，可烦也。"
+  translation: "所以将领有五种危险：只知死拼，可能被杀；贪生怕死，可能被俘；急躁易怒，可能被激怒而轻举妄动；过于廉洁好名，可能被羞辱而失去理智；过于爱护民众，可能被烦扰而陷入被动。"
+  source: "《孙子兵法·九变篇》"
+  sport_application: "足球教练因担心主力球员受伤，在关键比赛中过度轮换，导致球队节奏断裂，这属于“五危”中的“必生”之危。"
+  faq_short:
+    - q: "足球教练因担心主力球员受伤，在关键比赛中过度轮换，导致球队节奏断裂，这属于“五危”中的哪一种？"
+      a: "属于“必生”之危，因怕主力受伤而过度保守。"
+  draft: false
+  date: 2026-09-12
+
+- id: "jiu-bian-012"
+  chapter_slug: "chapter-08-jiu-bian"
+  chapter: "九变篇"
+  chapter_order: 8
+  order: 12
+  slug: "fan-ci-wu-zhe-jiang-zhi-guo-ye"
+  quote_dimension: "执行"
+  quote_sub_dimension: ""
+  original: "凡此五者，将之过也，用兵之灾也。"
+  translation: "这五种情况，都是将领的过错，也是用兵的灾害。"
+  source: "《孙子兵法·九变篇》"
+  sport_application: "球员个人性格缺陷在团队项目中，会通过战术执行传导为整体失败——个人情绪或决策偏差破坏战术执行链条，引发全队节奏失衡。"
+  faq_short:
+    - q: "球员个人性格缺陷在团队项目中，是如何通过战术执行传导为整体失败的？"
+      a: "个人情绪或决策偏差破坏战术执行链条，引发全队节奏失衡。"
+  draft: false
+  date: 2026-09-12
+
+- id: "jiu-bian-013"
+  chapter_slug: "chapter-08-jiu-bian"
+  chapter: "九变篇"
+  chapter_order: 8
+  order: 13
+  slug: "fu-jun-sha-jiang-bi-yi-wu-wei"
+  quote_dimension: "执行"
+  quote_sub_dimension: ""
+  original: "覆军杀将，必以五危，不可不察也。"
+  translation: "军队覆灭、将领被杀，必定是由这五种危险引起的，不可不仔细审察。"
+  source: "《孙子兵法·九变篇》"
+  sport_application: "教练在赛季中反复强调纪律，但球队仍在关键战因个人英雄主义输球，根源是“五危”未被真正内化，个体性格弱点在高压下失控。"
+  faq_short:
+    - q: "教练在赛季中反复强调纪律，但球队仍在关键战因个人英雄主义输球，根源是什么？"
+      a: "“五危”未被真正内化，个体性格弱点在高压下失控。"
+  draft: false
+  date: 2026-09-12
+
+# ═══════════════════════════════════════════════════════════════
+# chapter-09-xing-jun 行军篇（24 条）
+# ═══════════════════════════════════════════════════════════════
+
+- id: "xing-jun-001"
+  chapter_slug: "chapter-09-xing-jun"
+  chapter: "行军篇"
+  chapter_order: 9
+  order: 1
+  slug: "fan-chu-jun-xiang-di-jue-shan-yi-gu"
+  quote_dimension: "执行"
+  quote_sub_dimension: "物理极限"
+  original: "孙子曰：凡处军相敌：绝山依谷，视生处高，战隆无登，此处山之军也。"
+  translation: "孙子说：凡是部署军队和观察敌情时，通过山地要沿着谷地行进，驻扎要选择视野开阔、向阳的高地，敌人已经占据高处时不要从下往上仰攻。这是在山地部署军队的要点。"
+  source: "《孙子兵法·行军篇》"
+  sport_application: "长距离越野跑中，路线选择倾向于沿谷地行进，因为沿谷地行进可降低累计爬升，减少体能消耗。"
+  faq_short:
+    - q: "在长距离越野跑中，为什么路线选择倾向于沿谷地行进，而不是反复翻越山脊？"
+      a: "沿谷地行进可降低累计爬升，减少体能消耗。"
+  draft: false
+  date: 2026-09-12
+
+- id: "xing-jun-002"
+  chapter_slug: "chapter-09-xing-jun"
+  chapter: "行军篇"
+  chapter_order: 9
+  order: 2
+  slug: "jue-shui-bi-yuan-shui-ke-jue-shui-er-lai"
+  quote_dimension: "执行"
+  quote_sub_dimension: "物理极限"
+  original: "绝水必远水；客绝水而来，勿迎之于水内，令半济而击之，利；欲战者，无附于水而迎客；视生处高，无迎水流，此处水上之军也。"
+  translation: "横渡河流后必须远离河岸驻扎；敌人渡河而来时，不要在水中迎击，等对方渡过一半时再发起攻击最为有利；如果主动求战，不要在紧靠水边的地方迎敌；要选择视野开阔的高地，不要迎着水流方向布阵。这是在水边部署军队的要点。"
+  source: "《孙子兵法·行军篇》"
+  sport_application: "铁人三项游泳赛段结束后，选手在换项区慢跑而不是全力冲刺，是为了平稳过渡身体姿势，避免立即加速失衡。"
+  faq_short:
+    - q: "铁人三项游泳赛段结束后，选手在换项区慢跑而不是全力冲刺，这样做的主要目的是什么？"
+      a: "平稳过渡身体姿势，避免立即加速失衡。"
+  draft: false
+  date: 2026-09-12
+
+- id: "xing-jun-003"
+  chapter_slug: "chapter-09-xing-jun"
+  chapter: "行军篇"
+  chapter_order: 9
+  order: 3
+  slug: "jue-chi-ze-wei-ji-qu-wu-liu"
+  quote_dimension: "执行"
+  quote_sub_dimension: "物理极限"
+  original: "绝斥泽，惟亟去无留；若交军于斥泽之中，必依水草而背众树，此处斥泽之军也。"
+  translation: "通过盐碱沼泽地带时，必须迅速离开，不要停留；如果在沼泽地带与敌军交战，一定要靠近水草并背靠树林。这是在沼泽地带部署军队的要点。"
+  source: "《孙子兵法·行军篇》"
+  sport_application: "越野跑经过泥沼路段时，选择快速小步通过而非大步跨越，因为小步减少地面接触时间，降低陷入打滑风险。"
+  faq_short:
+    - q: "越野跑经过泥沼路段时，选择快速小步通过而非大步跨越的原因是什么？"
+      a: "小步减少地面接触时间，降低陷入打滑风险。"
+  draft: false
+  date: 2026-09-12
+
+- id: "xing-jun-004"
+  chapter_slug: "chapter-09-xing-jun"
+  chapter: "行军篇"
+  chapter_order: 9
+  order: 4
+  slug: "ping-lu-chu-yi-er-you-bei-gao"
+  quote_dimension: "执行"
+  quote_sub_dimension: "物理极限"
+  original: "平陆处易，而右背高，前死后生，此处平陆之军也。"
+  translation: "在平原地区驻扎，要选择平坦开阔的地方，右侧和后方要依托高地，前低后高。这是平原地区部署军队的要点。"
+  source: "《孙子兵法·行军篇》"
+  sport_application: "足球比赛中，防守方在防守角球时，通常安排一名球员站在近门柱，封堵近角射门，减少防守盲区。"
+  faq_short:
+    - q: "足球比赛中，防守方在防守角球时，为什么通常安排一名球员站在近门柱，而不是将所有防守球员集中在门前中央？"
+      a: "近门柱球员封堵近角射门，减少防守盲区。"
+  draft: false
+  date: 2026-09-12
+
+- id: "xing-jun-005"
+  chapter_slug: "chapter-09-xing-jun"
+  chapter: "行军篇"
+  chapter_order: 9
+  order: 5
+  slug: "fan-ci-si-jun-zhi-li"
+  quote_dimension: "执行"
+  quote_sub_dimension: ""
+  original: "凡此四军之利，黄帝之所以胜四帝也。"
+  translation: "以上四种利用不同地形部署军队并取得优势的方法，是黄帝能够战胜四方诸侯的原因。"
+  source: "《孙子兵法·行军篇》"
+  sport_application: "综合格斗比赛中，擅长站立打击的选手面对擅长地面缠斗的对手时，需要根据对手位置不断调整距离策略，因为不同位置威胁不同。"
+  faq_short:
+    - q: "综合格斗比赛中，擅长站立打击的选手面对擅长地面缠斗的对手时，为什么需要根据对手位置不断调整距离策略，而不是只用一种打法？"
+      a: "不同位置威胁不同，需调整距离策略应对。"
+  draft: false
+  date: 2026-09-12
+
+- id: "xing-jun-006"
+  chapter_slug: "chapter-09-xing-jun"
+  chapter: "行军篇"
+  chapter_order: 9
+  order: 6
+  slug: "fan-jun-hao-gao-er-e-xia"
+  quote_dimension: "执行"
+  quote_sub_dimension: "物理极限"
+  original: "凡军好高而恶下，贵阳而贱阴，养生而处实，军无百疾，是谓必胜。"
+  translation: "军队驻扎时，一般偏好高处而避开低洼，重视向阳干燥的地方而避开阴湿之地，选择水草充足、给养便利的地方，军队不生病，这才是必胜的基础。"
+  source: "《孙子兵法·行军篇》"
+  sport_application: "自行车多日赛期间，选手在选择每天的住宿和休息地点时，优先考虑海拔稍高、干燥通风的区域，因为干燥通风利于恢复，降低生病风险。"
+  faq_short:
+    - q: "自行车多日赛期间，选手在选择每天的住宿和休息地点时，为什么优先考虑海拔稍高、干燥通风的区域？"
+      a: "干燥通风利于恢复，降低生病风险，保持状态。"
+  draft: false
+  date: 2026-09-12
+
+- id: "xing-jun-007"
+  chapter_slug: "chapter-09-xing-jun"
+  chapter: "行军篇"
+  chapter_order: 9
+  order: 7
+  slug: "qiu-ling-di-fang-bi-chu-qi-yang"
+  quote_dimension: "执行"
+  quote_sub_dimension: "物理极限"
+  original: "丘陵堤防，必处其阳，而右背之。"
+  translation: "在丘陵和堤防地带，一定要占据向阳的一面，并让右侧和后方依托高地。"
+  source: "《孙子兵法·行军篇》"
+  sport_application: "篮球比赛中，防守球员将持球者逼向边线或底线，而不是让他在中路活动，目的是利用边线限制空间，迫使持球者进入死角。"
+  faq_short:
+    - q: "篮球比赛中，防守球员将持球者逼向边线或底线，而不是让他在中路活动，这样做的主要目的是什么？"
+      a: "利用边线限制空间，迫使持球者进入死角。"
+  draft: false
+  date: 2026-09-12
+
+- id: "xing-jun-008"
+  chapter_slug: "chapter-09-xing-jun"
+  chapter: "行军篇"
+  chapter_order: 9
+  order: 8
+  slug: "ci-bing-zhi-li-di-zhi-zhu-ye"
+  quote_dimension: "执行"
+  quote_sub_dimension: "物理极限"
+  original: "此兵之利，地之助也。"
+  translation: "这些用兵的好处，都是借助地形取得的。"
+  source: "《孙子兵法·行军篇》"
+  sport_application: "足球比赛中，主队更熟悉自己主场的场地尺寸和草皮状况，这种熟悉度能优化传球跑位，提高战术执行效率。"
+  faq_short:
+    - q: "足球比赛中，主队更熟悉自己主场的场地尺寸和草皮状况，这种熟悉度为什么能转化为实际的战术优势？"
+      a: "熟悉场地优化传球跑位，提高战术执行效率。"
+  draft: false
+  date: 2026-09-12
+
+- id: "xing-jun-009"
+  chapter_slug: "chapter-09-xing-jun"
+  chapter: "行军篇"
+  chapter_order: 9
+  order: 9
+  slug: "shang-yu-shui-mo-zhi-yu-she-zhe"
+  quote_dimension: "执行"
+  quote_sub_dimension: "物理极限"
+  original: "上雨，水沫至，欲涉者，待其定也。"
+  translation: "上游下雨，水面出现泡沫，意味着洪水将至，想要渡河的人必须等待水势稳定。"
+  source: "《孙子兵法·行军篇》"
+  sport_application: "越野跑比赛中，选手遇到因上游降雨而水位上涨的溪流，应等待水位回落再过河，避免被冲走或过度消耗体能。"
+  faq_short:
+    - q: "越野跑比赛中，选手遇到因上游降雨而水位上涨的溪流，为什么应等待水位回落再过河，而不是强行涉水？"
+      a: "等待水位回落避免被冲走或过度消耗体能。"
+  draft: false
+  date: 2026-09-12
+
+- id: "xing-jun-010"
+  chapter_slug: "chapter-09-xing-jun"
+  chapter: "行军篇"
+  chapter_order: 9
+  order: 10
+  slug: "fan-di-you-jue-jian-tian-jing-tian-lao"
+  quote_dimension: "执行"
+  quote_sub_dimension: "物理极限"
+  original: "凡地有绝涧、天井、天牢、天罗、天陷、天隙，必亟去之，勿近也。"
+  translation: "凡是遇到深涧、四面高中间低的天然陷井、三面环绕易进难出的地形、草木茂密如网的地形、泥泞易陷的地形、狭窄缝隙的地形，必须迅速离开，不要靠近。"
+  source: "《孙子兵法·行军篇》"
+  sport_application: "山地自行车下坡路段中，遇到两侧岩壁夹峙、仅容一车通过的狭窄沟槽，选手应提前减速绕行而非强行穿越，因为穿越风险高且不可逆。"
+  faq_short:
+    - q: "山地自行车下坡路段中，遇到两侧岩壁夹峙、仅容一车通过的狭窄沟槽，为什么选手应提前减速绕行而非强行穿越？"
+      a: "穿越风险高且不可逆，减速绕行更安全。"
+  draft: false
+  date: 2026-09-12
+
+- id: "xing-jun-011"
+  chapter_slug: "chapter-09-xing-jun"
+  chapter: "行军篇"
+  chapter_order: 9
+  order: 11
+  slug: "wu-yuan-zhi-di-jin-zhi"
+  quote_dimension: "执行"
+  quote_sub_dimension: "物理极限"
+  original: "吾远之，敌近之；吾迎之，敌背之。"
+  translation: "我方要远离这些不利地形，让敌人靠近它们；我方要面对这些地形，让敌人背靠它们。"
+  source: "《孙子兵法·行军篇》"
+  sport_application: "综合格斗比赛中，选手在笼边缠斗时，优先将对手压向笼网一侧，因为笼网限制对手移动，便于控制与消耗。"
+  faq_short:
+    - q: "综合格斗比赛中，选手在笼边缠斗时，为什么优先将对手压向笼网一侧，而不是让对手保持在场地中央？"
+      a: "笼网限制对手移动，便于控制与消耗。"
+  draft: false
+  date: 2026-09-12
+
+- id: "xing-jun-012"
+  chapter_slug: "chapter-09-xing-jun"
+  chapter: "行军篇"
+  chapter_order: 9
+  order: 12
+  slug: "jun-xing-you-xian-zu-huang-jing-jia-wei"
+  quote_dimension: "执行"
+  quote_sub_dimension: "物理极限"
+  original: "军行有险阻、潢井、葭苇、山林、蘙荟者，必谨覆索之，此伏奸之所处也。"
+  translation: "行军途中遇到险要地形、低洼积水处、芦苇丛、山林、草木茂密的地方，必须谨慎地反复搜索，因为这些地方往往是敌人埋伏和间谍藏身之处。"
+  source: "《孙子兵法·行军篇》"
+  sport_application: "足球比赛中，防守方在对方发角球前，总是安排专人在禁区内对重点进攻球员进行贴身盯防，因为贴身盯防限制起跳抢点，降低失位风险。"
+  faq_short:
+    - q: "足球比赛中，防守方在对方发角球前，为什么总是会安排专人在禁区内对重点进攻球员进行贴身盯防，而不是只站区域？"
+      a: "贴身盯防限制起跳抢点，降低失位风险。"
+  draft: false
+  date: 2026-09-12
+
+- id: "xing-jun-013"
+  chapter_slug: "chapter-09-xing-jun"
+  chapter: "行军篇"
+  chapter_order: 9
+  order: 13
+  slug: "di-jin-er-jing-zhe-shi-qi-xian-ye"
+  quote_dimension: "执行"
+  quote_sub_dimension: ""
+  original: "敌近而静者，恃其险也；远而挑战者，欲人之进也；其所居易者，利也。"
+  translation: "敌人靠近却保持安静，是依仗地形的险要；敌人远来挑战，是企图引诱我方前进；敌人驻扎在平坦易行的地方，是有利可图。"
+  source: "《孙子兵法·行军篇》"
+  sport_application: "篮球比赛中，当对手在比分接近时突然放慢进攻节奏、耐心传导球，而不是急于出手，意味着对手在控制节奏，利用比分压力等待机会。"
+  faq_short:
+    - q: "篮球比赛中，当对手在比分接近时突然放慢进攻节奏、耐心传导球，而不是急于出手，可能意味着什么？"
+      a: "对手控制节奏，利用比分压力等待机会。"
+  draft: false
+  date: 2026-09-12
+
+- id: "xing-jun-014"
+  chapter_slug: "chapter-09-xing-jun"
+  chapter: "行军篇"
+  chapter_order: 9
+  order: 14
+  slug: "zhong-shu-dong-zhe-lai-ye"
+  quote_dimension: "执行"
+  quote_sub_dimension: ""
+  original: "众树动者，来也；众草多障者，疑也；鸟起者，伏也；兽骇者，覆也；尘高而锐者，车来也；卑而广者，徒来也；散而条达者，樵采也；少而往来者，营军也。"
+  translation: "许多树木摇动，是敌人来了；草丛中有许多障碍物，是敌人布下的疑阵；鸟群飞起，说明下面有埋伏；野兽惊跑，说明敌人从远处覆盖而来；尘土高而尖锐，是战车来了；尘土低而宽广，是步兵来了；尘土散乱细长，是敌人在砍柴；尘土少而往来不定，是敌人正在扎营。"
+  source: "《孙子兵法·行军篇》"
+  sport_application: "马拉松比赛中，跟随跑选手发现领跑者步频突然加快但步幅变小，此时应先观察步态变化原因，再决定是否跟随。"
+  faq_short:
+    - q: "马拉松比赛中，跟随跑选手发现领跑者步频突然加快但步幅变小，此时应选择立即跟随还是保持原配速？"
+      a: "先观察步态变化原因，再决定是否跟随。"
+  draft: false
+  date: 2026-09-12
+
+- id: "xing-jun-015"
+  chapter_slug: "chapter-09-xing-jun"
+  chapter: "行军篇"
+  chapter_order: 9
+  order: 15
+  slug: "ci-bei-er-yi-bei-zhe-jin-ye"
+  quote_dimension: "执行"
+  quote_sub_dimension: ""
+  original: "辞卑而益备者，进也；辞强而进驱者，退也；轻车先出居其侧者，陈也；无约而请和者，谋也；奔走而陈兵车者，期也；半进半退者，诱也。"
+  translation: "敌人言辞谦卑却加紧战备，是准备进攻；言辞强硬且摆出进攻姿态，是准备撤退；轻车先出动并占据侧翼，是在部署阵形；没有约定却主动求和，是另有图谋；频繁调动兵力并展开战车，是准备与我方交战；半进半退，是引诱我方上钩。"
+  source: "《孙子兵法·行军篇》"
+  sport_application: "足球比赛中，对方教练在赛前发布会上反复强调防守，但比赛一开始却大举压上，这种言行反差通常说明赛前表态掩盖战术意图，实际准备抢攻。"
+  faq_short:
+    - q: "足球比赛中，对方教练在赛前发布会上反复强调防守，但比赛一开始却大举压上，这种言行反差通常说明什么？"
+      a: "赛前表态掩盖战术意图，实际准备抢攻。"
+  draft: false
+  date: 2026-09-12
+
+- id: "xing-jun-016"
+  chapter_slug: "chapter-09-xing-jun"
+  chapter: "行军篇"
+  chapter_order: 9
+  order: 16
+  slug: "zhang-er-li-zhe-ji-ye"
+  quote_dimension: "执行"
+  quote_sub_dimension: ""
+  original: "杖而立者，饥也；汲而先饮者，渴也；见利而不进者，劳也；鸟集者，虚也；夜呼者，恐也；军扰者，将不重也；旌旗动者，乱也；吏怒者，倦也；粟马肉食，军无悬缻，不返其舍者，穷寇也；谆谆翕翕，徐与人言者，失众也；数赏者，窘也；数罚者，困也；先暴而后畏其众者，不精之至也；来委谢者，欲休息也。"
+  translation: "士兵拄着兵器站立，是饥饿了；打水的人自己先喝，是口渴了；见到好处却不前进，是疲劳了；鸟群聚集在营中，是营垒空虚了；夜里有人惊叫，是军心恐惧了；军营骚动，是将领没有威望；旌旗摇晃不定，是阵形混乱了；军吏发怒，是士兵倦怠了；用粮食喂马，杀牲畜吃肉，军中不带水壶，士兵不返回营舍，是陷入绝境的敌人；低声下气、缓慢与人说话的，是失去了部众支持；频繁赏赐，是处境窘迫；频繁处罚，是陷入困境；先粗暴对待士兵而后又畏惧他们，是最不精明的表现；派人前来送礼谢罪，是想暂时休整。"
+  source: "《孙子兵法·行军篇》"
+  sport_application: "足球比赛下半场，对方球员在无对抗情况下频繁弯腰撑膝、抽筋倒地，此时我方应加快比赛节奏，因为对方体能已明显下降。"
+  faq_short:
+    - q: "足球比赛下半场，对方球员在无对抗情况下频繁弯腰撑膝、抽筋倒地，此时我方应加快比赛节奏还是放慢？"
+      a: "应加快节奏，对方体能已明显下降。"
+  draft: false
+  date: 2026-09-12
+
+- id: "xing-jun-017"
+  chapter_slug: "chapter-09-xing-jun"
+  chapter: "行军篇"
+  chapter_order: 9
+  order: 17
+  slug: "bing-nu-er-xiang-ying-jiu-er-bu-he"
+  quote_dimension: "执行"
+  quote_sub_dimension: ""
+  original: "兵怒而相迎，久而不合，又不相去，必谨察之。"
+  translation: "敌人怒气冲冲前来迎战，但长时间不与我方交战，也不撤退，一定要谨慎观察其真实意图。"
+  source: "《孙子兵法·行军篇》"
+  sport_application: "篮球比赛中，对方球员在暂停后明显情绪激动、快速推进到前场，但落位后却反复传导球不急于进攻，最可能意味着情绪激动但战术克制，等待机会或诱使防守漏洞。"
+  faq_short:
+    - q: "篮球比赛中，对方球员在暂停后明显情绪激动、快速推进到前场，但落位后却反复传导球不急于进攻，这种表现最可能意味着什么？"
+      a: "情绪激动但战术克制，等待机会或诱使防守漏洞。"
+  draft: false
+  date: 2026-09-12
+
+- id: "xing-jun-018"
+  chapter_slug: "chapter-09-xing-jun"
+  chapter: "行军篇"
+  chapter_order: 9
+  order: 18
+  slug: "bing-fei-yi-duo-ye-wei-wu-wu-jin"
+  quote_dimension: "执行"
+  quote_sub_dimension: ""
+  original: "兵非益多也，惟无武进，足以并力、料敌、取人而已。"
+  translation: "兵力不是越多越好，只要不盲目冒进，足以集中力量、判断敌情、战胜敌人就够了。"
+  source: "《孙子兵法·行军篇》"
+  sport_application: "足球比赛中，一支球队在控球率明显低于对手的情况下，仍能通过有限的反击机会取得进球——有效反击集中有限资源，提高得分效率。"
+  faq_short:
+    - q: "足球比赛中，一支球队在控球率明显低于对手的情况下，为什么仍然能够通过有限的反击机会取得进球？"
+      a: "有效反击集中有限资源，提高得分效率。"
+  draft: false
+  date: 2026-09-12
+
+- id: "xing-jun-019"
+  chapter_slug: "chapter-09-xing-jun"
+  chapter: "行军篇"
+  chapter_order: 9
+  order: 19
+  slug: "fu-wei-wu-lv-er-yi-di-zhe"
+  quote_dimension: "执行"
+  quote_sub_dimension: ""
+  original: "夫惟无虑而易敌者，必擒于人。"
+  translation: "只有那些不深思熟虑又轻视敌人的人，一定会被敌人俘虏。"
+  source: "《孙子兵法·行军篇》"
+  sport_application: "网球比赛中，选手面对排名远低于自己的对手时，如果赛前不做针对性准备，常常会陷入苦战甚至爆冷失利——轻敌导致准备不足，无法应对针对性战术。"
+  faq_short:
+    - q: "网球比赛中，选手面对排名远低于自己的对手时，如果赛前不做针对性准备，为什么常常会陷入苦战甚至爆冷失利？"
+      a: "轻敌导致准备不足，无法应对针对性战术。"
+  draft: false
+  date: 2026-09-12
+
+- id: "xing-jun-020"
+  chapter_slug: "chapter-09-xing-jun"
+  chapter: "行军篇"
+  chapter_order: 9
+  order: 20
+  slug: "zu-wei-qin-fu-er-fa-zhi"
+  quote_dimension: "执行"
+  quote_sub_dimension: ""
+  original: "卒未亲附而罚之，则不服，不服则难用也。"
+  translation: "士兵还没有亲近归附时，就贸然处罚他们，他们不会心服，不心服就难以指挥使用。"
+  source: "《孙子兵法·行军篇》"
+  sport_application: "足球俱乐部新教练上任初期，不宜立即对球员进行严厉处罚，而应先建立基本的信任关系——信任未建立时处罚，球员不心服，难执行战术。"
+  faq_short:
+    - q: "足球俱乐部新教练上任初期，为什么不宜立即对球员进行严厉处罚，而应先建立基本的信任关系？"
+      a: "信任未建立时处罚，球员不心服，难执行战术。"
+  draft: false
+  date: 2026-09-12
+
+- id: "xing-jun-021"
+  chapter_slug: "chapter-09-xing-jun"
+  chapter: "行军篇"
+  chapter_order: 9
+  order: 21
+  slug: "zu-yi-qin-fu-er-fa-bu-xing"
+  quote_dimension: "执行"
+  quote_sub_dimension: ""
+  original: "卒已亲附而罚不行，则不可用也。"
+  translation: "士兵已经亲近归附，但如果处罚不能执行，那么他们也不能用来作战。"
+  source: "《孙子兵法·行军篇》"
+  sport_application: "足球俱乐部中，主教练与球员关系融洽，但训练中迟到现象屡禁不止，球队执行力会下降——纪律不执行，标准模糊。"
+  faq_short:
+    - q: "足球俱乐部中，主教练与球员关系融洽，但训练中迟到现象屡禁不止，为什么球队执行力会下降？"
+      a: "纪律不执行，标准模糊，执行力下降。"
+  draft: false
+  date: 2026-09-12
+
+- id: "xing-jun-022"
+  chapter_slug: "chapter-09-xing-jun"
+  chapter: "行军篇"
+  chapter_order: 9
+  order: 22
+  slug: "gu-ling-zhi-yi-wen-qi-zhi-yi-wu"
+  quote_dimension: "执行"
+  quote_sub_dimension: ""
+  original: "故令之以文，齐之以武，是谓必取。"
+  translation: "所以要用宽厚仁义来团结士兵，用严明军法来整肃队伍，这样才能取得胜利。"
+  source: "《孙子兵法·行军篇》"
+  sport_application: "足球教练在管理球队时，既要重视与球员的沟通和鼓励，又必须在战术纪律上设立明确红线——软性沟通与硬性纪律结合，提升执行力。"
+  faq_short:
+    - q: "足球教练在管理球队时，为什么既要重视与球员的沟通和鼓励，又必须在战术纪律上设立明确红线？"
+      a: "软性沟通与硬性纪律结合，提升执行力。"
+  draft: false
+  date: 2026-09-12
+
+- id: "xing-jun-023"
+  chapter_slug: "chapter-09-xing-jun"
+  chapter: "行军篇"
+  chapter_order: 9
+  order: 23
+  slug: "ling-su-xing-yi-jiao-qi-min"
+  quote_dimension: "执行"
+  quote_sub_dimension: ""
+  original: "令素行以教其民，则民服；令不素行以教其民，则民不服。"
+  translation: "平时一贯执行法令来教导士兵，士兵就会心服；平时不严格执行法令，却用这些法令去要求士兵，士兵就不会心服。"
+  source: "《孙子兵法·行军篇》"
+  sport_application: "足球教练在赛季前制定训练纪律，如果教练自己在训练中经常迟到，队员不会信服这些纪律。"
+  faq_short:
+    - q: "足球教练在赛季前制定训练纪律，如果教练自己在训练中经常迟到，队员会如何看待这些纪律？"
+      a: "教练不守纪律，队员不会信服。"
+  draft: false
+  date: 2026-09-12
+
+- id: "xing-jun-024"
+  chapter_slug: "chapter-09-xing-jun"
+  chapter: "行军篇"
+  chapter_order: 9
+  order: 24
+  slug: "ling-su-xing-zhe-yu-zhong-xiang-de-ye"
+  quote_dimension: "执行"
+  quote_sub_dimension: ""
+  original: "令素行者，与众相得也。"
+  translation: "平时严格执行法令的人，是因为与众人相处融洽、相互信任。"
+  source: "《孙子兵法·行军篇》"
+  sport_application: "篮球教练在队内拥有很高威信，球员愿意严格执行战术——威信来自言行一致，赢得球员信任。"
+  faq_short:
+    - q: "篮球教练在队内拥有很高威信，球员愿意严格执行战术，这种威信从何而来？"
+      a: "威信来自言行一致，赢得球员信任。"
+  draft: false
+  date: 2026-09-12
+
+# ═══════════════════════════════════════════════════════════════
+# chapter-10-di-xing 地形篇（24 条）
+# ═══════════════════════════════════════════════════════════════
+
+- id: "di-xing-001"
+  chapter_slug: "chapter-10-di-xing"
+  chapter: "地形篇"
+  chapter_order: 10
+  order: 1
+  slug: "di-xing-you-tong-zhe-you-gua-zhe"
+  quote_dimension: "物理极限"
+  quote_sub_dimension: "战略"
+  original: "孙子曰：地形有通者，有挂者，有支者，有隘者，有险者，有远者。凡此六者，地之道也；将之至任，不可不察也。"
+  translation: "孙子说：地形有通、挂、支、隘、险、远六种类型。这六种地形，是用兵的客观法则；将领最重要的职责，就是必须清楚地理解它们。"
+  source: "《孙子兵法·地形篇》"
+  sport_application: "在陌生场地进行比赛时，开局阶段的试探性回合应重点收集球速、弹跳高度、风向及场地摩擦系数等信息。"
+  faq_short:
+    - q: "在陌生场地进行比赛时，开局阶段的试探性回合应重点收集哪些场地信息？"
+      a: "开局阶段应重点收集球速、弹跳高度、风向及场地摩擦系数等信息。"
+  draft: false
+  date: 2026-09-12
+
+- id: "di-xing-002"
+  chapter_slug: "chapter-10-di-xing"
+  chapter: "地形篇"
+  chapter_order: 10
+  order: 2
+  slug: "wo-ke-yi-wang-bi-ke-yi-lai"
+  quote_dimension: "战术"
+  quote_sub_dimension: ""
+  original: "我可以往，彼可以来，曰通；通形者，先居高阳，利粮道，以战则利。"
+  translation: "我军可以前往、对方也可以前来的地形，叫“通形”。在通形地形上，应先占据地势高、向阳的位置，并保持补给线畅通，这样作战才有利。"
+  source: "《孙子兵法·地形篇》"
+  sport_application: "在通形条件下，补给或体能恢复通道的畅通程度比局部技术发挥更关键——通形场地双方均易移动，补给与恢复效率决定持续输出上限。"
+  faq_short:
+    - q: "为什么在通形条件下，补给或体能恢复通道的畅通程度比局部技术发挥更关键？"
+      a: "通形场地双方均易移动，补给与恢复效率决定持续输出上限。"
+  draft: false
+  date: 2026-09-12
+
+- id: "di-xing-003"
+  chapter_slug: "chapter-10-di-xing"
+  chapter: "地形篇"
+  chapter_order: 10
+  order: 3
+  slug: "ke-yi-wang-nan-yi-fan-yue-gua"
+  quote_dimension: "战术"
+  quote_sub_dimension: ""
+  original: "可以往，难以返，曰挂；挂形者，敌无备，出而胜之；敌若有备，出而不胜，难以返，不利。"
+  translation: "可以前往但难以返回的地形，叫“挂形”。在挂形地形上，如果对方没有防备，出击可以取胜；如果对方已有防备，出击不能取胜，又难以撤回，就不利。"
+  source: "《孙子兵法·地形篇》"
+  sport_application: "在挂形条件下，进攻决策的核心不是“能不能得分”，而是“得分后能否安全回位”——回位失败会让得分收益被失分风险抵消。"
+  faq_short:
+    - q: "为什么在挂形条件下，进攻决策的核心不是“能不能得分”，而是“得分后能否安全回位”？"
+      a: "挂形地形下，回位失败会让得分收益被失分风险抵消。"
+  draft: false
+  date: 2026-09-12
+
+- id: "di-xing-004"
+  chapter_slug: "chapter-10-di-xing"
+  chapter: "地形篇"
+  chapter_order: 10
+  order: 4
+  slug: "wo-chu-er-bu-li-bi-chu-er-bu-li"
+  quote_dimension: "战术"
+  quote_sub_dimension: ""
+  original: "我出而不利，彼出而不利，曰支；支形者，敌虽利我，我无出也；引而去之，令敌半出而击之，利。"
+  translation: "我军出击不利，对方出击也不利的地形，叫“支形”。在支形地形上，即使对方用利益引诱，我军也不要出击；应假装撤退，引诱对方追击到一半时再回击，这样有利。"
+  source: "《孙子兵法·地形篇》"
+  sport_application: "当对手在相持中故意露出破绽引诱进攻时，运动员应先确认跟进后能否安全回位，若回位成本过高则不跟进。"
+  faq_short:
+    - q: "当对手在相持中故意露出破绽引诱进攻时，运动员应如何判断是否跟进？"
+      a: "先确认跟进后能否安全回位，若回位成本过高则不跟进。"
+  draft: false
+  date: 2026-09-12
+
+- id: "di-xing-005"
+  chapter_slug: "chapter-10-di-xing"
+  chapter: "地形篇"
+  chapter_order: 10
+  order: 5
+  slug: "ai-xing-zhe-wo-xian-ju-zhi"
+  quote_dimension: "战术"
+  quote_sub_dimension: ""
+  original: "隘形者，我先居之，必盈之以待敌；若敌先居之，盈而勿从，不盈而从之。"
+  translation: "在狭隘的地形上，如果我军先占据，必须用足够的兵力把守隘口等待敌人；如果敌人先占据，而且已经用重兵把守隘口，就不要硬攻；如果敌人没有用重兵把守，就可以跟进攻击。"
+  source: "《孙子兵法·地形篇》"
+  sport_application: "在狭窄边路区域，持球队员应观察防守人数与站位间距，封死则分球，有隙则突破。"
+  faq_short:
+    - q: "在狭窄边路区域，持球队员应如何判断对方防守站位是否“盈”，以决定突破还是分球？"
+      a: "观察防守人数与站位间距，封死则分球，有隙则突破。"
+  draft: false
+  date: 2026-09-12
+
+- id: "di-xing-006"
+  chapter_slug: "chapter-10-di-xing"
+  chapter: "地形篇"
+  chapter_order: 10
+  order: 6
+  slug: "xian-xing-zhe-wo-xian-ju-zhi"
+  quote_dimension: "战术"
+  quote_sub_dimension: ""
+  original: "险形者，我先居之，必居高阳以待敌；若敌先居之，引而去之，勿从也。"
+  translation: "在险要的地形上，如果我军先占据，必须占据地势高且向阳的位置等待敌人；如果敌人先占据，就应主动撤退，不要跟进攻击。"
+  source: "《孙子兵法·地形篇》"
+  sport_application: "当对手在比赛中先占据有利位置（如网前、内线）时，运动员应以变线调动对手离开有利位置，避免在其强点区域硬拼。"
+  faq_short:
+    - q: "当对手在比赛中先占据有利位置（如网前、内线）时，运动员应如何调整打法以避免正面硬拼？"
+      a: "以变线调动对手离开有利位置，避免在其强点区域硬拼。"
+  draft: false
+  date: 2026-09-12
+
+- id: "di-xing-007"
+  chapter_slug: "chapter-10-di-xing"
+  chapter: "地形篇"
+  chapter_order: 10
+  order: 7
+  slug: "yuan-xing-zhe-shi-jun-nan-yi-tiao-zhan"
+  quote_dimension: "物理极限"
+  quote_sub_dimension: ""
+  original: "远形者，势均，难以挑战，战而不利。"
+  translation: "在远形地形上，双方态势相当，难以主动挑战，如果强行作战就不利。"
+  source: "《孙子兵法·地形篇》"
+  sport_application: "在高尔夫比赛中，面对距离果岭较远的球位，选手应选择保守过渡，避免高风险直攻导致更大失误。"
+  faq_short:
+    - q: "在高尔夫比赛中，面对距离果岭较远的球位，选手应选择保守过渡还是冒险直攻？"
+      a: "远距离球位应保守过渡，避免高风险直攻导致更大失误。"
+  draft: false
+  date: 2026-09-12
+
+- id: "di-xing-008"
+  chapter_slug: "chapter-10-di-xing"
+  chapter: "地形篇"
+  chapter_order: 10
+  order: 8
+  slug: "gu-bing-you-zou-zhe-you-chi-zhe"
+  quote_dimension: "复盘"
+  quote_sub_dimension: ""
+  original: "故兵有走者，有弛者，有陷者，有崩者，有乱者，有北者。凡此六者，败之道也；将之至任，不可不察也。"
+  translation: "所以军队有“走、弛、陷、崩、乱、北”六种失败的情况。这六种情况，不是天灾，而是将领的过错。将领最重要的职责，不可不认真考察。"
+  source: "《孙子兵法·地形篇》"
+  sport_application: "很多比赛失利后，教练复盘时首先检查战术执行，而不是归咎于对手发挥——战术执行是自身可控变量，对手发挥不可控。"
+  faq_short:
+    - q: "为什么很多比赛失利后，教练复盘时首先检查战术执行，而不是归咎于对手发挥？"
+      a: "战术执行是自身可控变量，对手发挥不可控。"
+  draft: false
+  date: 2026-09-12
+
+- id: "di-xing-009"
+  chapter_slug: "chapter-10-di-xing"
+  chapter: "地形篇"
+  chapter_order: 10
+  order: 9
+  slug: "fu-shi-jun-yi-yi-ji-shi"
+  quote_dimension: "资源约束"
+  quote_sub_dimension: ""
+  original: "夫势均，以一击十，曰走。"
+  translation: "双方态势相当，却用一分力量去攻击对方十分力量，叫做“走”（败逃）。"
+  source: "《孙子兵法·地形篇》"
+  sport_application: "在对抗性运动中，均势局面下主动集中兵力于一点，往往需要其他区域付出代价——集中兵力必然削弱其他区域覆盖，导致局部失位。"
+  faq_short:
+    - q: "为什么在对抗性运动中，均势局面下主动集中兵力于一点，往往需要其他区域付出代价？"
+      a: "集中兵力必然削弱其他区域覆盖，导致局部失位。"
+  draft: false
+  date: 2026-09-12
+
+- id: "di-xing-010"
+  chapter_slug: "chapter-10-di-xing"
+  chapter: "地形篇"
+  chapter_order: 10
+  order: 10
+  slug: "zu-qiang-li-ruo-yue-chi"
+  quote_dimension: "执行"
+  quote_sub_dimension: ""
+  original: "卒强吏弱，曰弛。"
+  translation: "士卒强悍但军官软弱，叫做“弛”（松散）。"
+  source: "《孙子兵法·地形篇》"
+  sport_application: "一支拥有优秀球员的球队，在教练临场指挥能力不足时，往往无法打出应有水平——教练指挥不力使球员个人能力无法转化为有效战术执行。"
+  faq_short:
+    - q: "为什么一支拥有优秀球员的球队，在教练临场指挥能力不足时，往往无法打出应有水平？"
+      a: "教练指挥不力使球员个人能力无法转化为有效战术执行。"
+  draft: false
+  date: 2026-09-12
+
+- id: "di-xing-011"
+  chapter_slug: "chapter-10-di-xing"
+  chapter: "地形篇"
+  chapter_order: 10
+  order: 11
+  slug: "li-qiang-zu-ruo-yue-xian"
+  quote_dimension: "执行"
+  quote_sub_dimension: ""
+  original: "吏强卒弱，曰陷。"
+  translation: "军官强悍但士卒软弱，叫做“陷”（陷败）。"
+  source: "《孙子兵法·地形篇》"
+  sport_application: "教练战术设计合理，但队员因技术或体能限制无法执行时，战术效果会大幅下降——战术执行受限于队员能力，设计再好也无法转化为得分。"
+  faq_short:
+    - q: "为什么教练战术设计合理，但队员因技术或体能限制无法执行时，战术效果会大幅下降？"
+      a: "战术执行受限于队员能力，设计再好也无法转化为得分。"
+  draft: false
+  date: 2026-09-12
+
+- id: "di-xing-012"
+  chapter_slug: "chapter-10-di-xing"
+  chapter: "地形篇"
+  chapter_order: 10
+  order: 12
+  slug: "da-li-nu-er-bu-fu-yu-di-dui-er-zi-zhan"
+  quote_dimension: "执行"
+  quote_sub_dimension: ""
+  original: "大吏怒而不服，遇敌怼而自战，将不知其能，曰崩。"
+  translation: "中级将领愤怒而不服从指挥，遇到敌人擅自出战，主将又不了解他们的能力，叫做“崩”（崩溃）。"
+  source: "《孙子兵法·地形篇》"
+  sport_application: "球队中核心球员因情绪失控而擅自改变战术，会导致整体阵型迅速瓦解——核心球员擅自变阵打乱节奏，使队友无法按预设落位。"
+  faq_short:
+    - q: "为什么球队中核心球员因情绪失控而擅自改变战术，会导致整体阵型迅速瓦解？"
+      a: "核心球员擅自变阵打乱节奏，使队友无法按预设落位。"
+  draft: false
+  date: 2026-09-12
+
+- id: "di-xing-013"
+  chapter_slug: "chapter-10-di-xing"
+  chapter: "地形篇"
+  chapter_order: 10
+  order: 13
+  slug: "jiang-ruo-bu-yan-jiao-dao-bu-ming"
+  quote_dimension: "执行"
+  quote_sub_dimension: ""
+  original: "将弱不严，教道不明，吏卒无常，陈兵纵横，曰乱。"
+  translation: "主将软弱不严，教导不明确，军官和士兵没有纪律，阵形混乱，叫做“乱”。"
+  source: "《孙子兵法·地形篇》"
+  sport_application: "当球队在比赛中出现阵型混乱时，教练应在暂停期间快速指明问题，重新布置站位与职责。"
+  faq_short:
+    - q: "当球队在比赛中出现阵型混乱时，教练应如何在暂停期间快速恢复秩序？"
+      a: "暂停时快速指明问题，重新布置站位与职责。"
+  draft: false
+  date: 2026-09-12
+
+- id: "di-xing-014"
+  chapter_slug: "chapter-10-di-xing"
+  chapter: "地形篇"
+  chapter_order: 10
+  order: 14
+  slug: "jiang-bu-neng-liao-di-yi-shao-he-zhong"
+  quote_dimension: "执行"
+  quote_sub_dimension: ""
+  original: "将不能料敌，以少合众，以弱击强，兵无选锋，曰北。"
+  translation: "主将不能判断敌情，用少量兵力对抗大量兵力，用弱兵攻击强兵，军队没有精选的前锋，叫做“北”（败北）。"
+  source: "《孙子兵法·地形篇》"
+  sport_application: "当教练发现赛前对对手实力评估偏差较大时，应收缩防线，减少正面硬拼，转入防守反击。"
+  faq_short:
+    - q: "当教练发现赛前对对手实力评估偏差较大时，应如何在比赛中段快速调整战术方向？"
+      a: "收缩防线，减少正面硬拼，转入防守反击。"
+  draft: false
+  date: 2026-09-12
+
+- id: "di-xing-015"
+  chapter_slug: "chapter-10-di-xing"
+  chapter: "地形篇"
+  chapter_order: 10
+  order: 15
+  slug: "fu-di-xing-zhe-bing-zhi-zhu-ye"
+  quote_dimension: "物理极限"
+  quote_sub_dimension: ""
+  original: "夫地形者，兵之助也。"
+  translation: "地形，是用兵的辅助条件。场地条件是辅助，不是决定胜负的唯一因素。"
+  source: "《孙子兵法·地形篇》"
+  sport_application: "把场地条件视为“辅助”而非“决定”因素，反而能提高运动员在不利环境中的战术执行力——认知为辅助可减少心理干扰，让注意力集中在可控战术上。"
+  faq_short:
+    - q: "为什么把场地条件视为“辅助”而非“决定”因素，反而能提高运动员在不利环境中的战术执行力？"
+      a: "认知为辅助可减少心理干扰，让注意力集中在可控战术上。"
+  draft: false
+  date: 2026-09-12
+
+- id: "di-xing-016"
+  chapter_slug: "chapter-10-di-xing"
+  chapter: "地形篇"
+  chapter_order: 10
+  order: 16
+  slug: "liao-di-zhi-sheng-ji-xian-e-yuan-jin"
+  quote_dimension: "战略"
+  quote_sub_dimension: ""
+  original: "料敌制胜，计险厄远近，上将之道也。"
+  translation: "准确判断敌情以取胜，计算地形的险要、远近，是优秀将领的方法。判断对手，计算场地，是教练的核心能力。"
+  source: "《孙子兵法·地形篇》"
+  sport_application: "场地尺寸和跑动距离会直接影响体能分配，进而改变赛前战术设计——场地距离决定跑动负荷，战术设计需匹配体能分配。"
+  faq_short:
+    - q: "为什么场地尺寸和跑动距离会直接影响体能分配，进而改变赛前战术设计？"
+      a: "场地距离决定跑动负荷，战术设计需匹配体能分配。"
+  draft: false
+  date: 2026-09-12
+
+- id: "di-xing-017"
+  chapter_slug: "chapter-10-di-xing"
+  chapter: "地形篇"
+  chapter_order: 10
+  order: 17
+  slug: "zhi-ci-er-yong-zhan-zhe-bi-sheng"
+  quote_dimension: "战略"
+  quote_sub_dimension: ""
+  original: "知此而用战者必胜，不知此而用战者必败。"
+  translation: "知道这些道理并用于作战的人必定胜利，不知道这些道理而作战的人必定失败。懂得运用这些原则才能赢。"
+  source: "《孙子兵法·地形篇》"
+  sport_application: "当运动员知道合理配速，但比赛前半段被对手带快节奏时，应坚持既定配速，必要时主动降速摆脱对手节奏。"
+  faq_short:
+    - q: "当运动员知道合理配速，但比赛前半段被对手带快节奏时，应如何坚守体能计划？"
+      a: "坚持既定配速，必要时主动降速摆脱对手节奏。"
+  draft: false
+  date: 2026-09-12
+
+- id: "di-xing-018"
+  chapter_slug: "chapter-10-di-xing"
+  chapter: "地形篇"
+  chapter_order: 10
+  order: 18
+  slug: "gu-zhan-dao-bi-sheng-zhu-yue-wu-zhan"
+  quote_dimension: "战略"
+  quote_sub_dimension: ""
+  original: "故战道必胜，主曰无战，必战可也；战道不胜，主曰必战，无战可也。"
+  translation: "所以从战争规律看必定能胜，国君说不打，也可以打；从战争规律看不能胜，国君说必须打，也可以不打。专业判断优先于上级命令。"
+  source: "《孙子兵法·地形篇》"
+  sport_application: "如果教练无视队员体能枯竭信号，坚持执行赛前既定高强度战术，通常在比赛后段体能临界点，连续失误导致崩盘。"
+  faq_short:
+    - q: "如果教练无视队员体能枯竭信号，坚持执行赛前既定高强度战术，通常在比赛哪一阶段会崩盘？"
+      a: "比赛后段体能临界点，连续失误导致崩盘。"
+  draft: false
+  date: 2026-09-12
+
+- id: "di-xing-019"
+  chapter_slug: "chapter-10-di-xing"
+  chapter: "地形篇"
+  chapter_order: 10
+  order: 19
+  slug: "gu-jin-bu-qiu-ming-tui-bu-bi-zui"
+  quote_dimension: "战略"
+  quote_sub_dimension: ""
+  original: "故进不求名，退不避罪，唯人是保，而利合于主，国之宝也。"
+  translation: "所以进攻不是为了追求个人名声，撤退也不逃避可能招致的罪责，只求保护民众和士兵，同时符合君主的根本利益，这样的人是国家的珍宝。决策只考虑团队利益，不计个人得失。"
+  source: "《孙子兵法·地形篇》"
+  sport_application: "教练在比赛后段主动换下体能透支的核心球员，即使可能输掉比赛，也比强行留在场上更符合团队长期利益——保护球员健康与后续赛程，避免透支带来长期伤害。"
+  faq_short:
+    - q: "为什么教练在比赛后段主动换下体能透支的核心球员，即使可能输掉比赛，也比强行留在场上更符合团队长期利益？"
+      a: "保护球员健康与后续赛程，避免透支带来长期伤害。"
+  draft: false
+  date: 2026-09-12
+
+- id: "di-xing-020"
+  chapter_slug: "chapter-10-di-xing"
+  chapter: "地形篇"
+  chapter_order: 10
+  order: 20
+  slug: "shi-zu-ru-ying-er-gu-ke-yu-zhi"
+  quote_dimension: "战略"
+  quote_sub_dimension: ""
+  original: "视卒如婴儿，故可与之赴深溪；视卒如爱子，故可与之俱死。"
+  translation: "对待士兵像对待婴儿一样，士兵就会跟随将领奔赴深谷；对待士兵像对待爱子一样，士兵就会与将领同生共死。"
+  source: "《孙子兵法·地形篇》"
+  sport_application: "“视卒如爱子”式的教练，能让球员在体能极限时仍愿意多跑一步——情感信任激发意志力，超越体能极限继续输出。"
+  faq_short:
+    - q: "为什么“视卒如爱子”式的教练，反而能让球员在体能极限时仍愿意多跑一步？"
+      a: "情感信任激发意志力，超越体能极限继续输出。"
+  draft: false
+  date: 2026-09-12
+
+- id: "di-xing-021"
+  chapter_slug: "chapter-10-di-xing"
+  chapter: "地形篇"
+  chapter_order: 10
+  order: 21
+  slug: "hou-er-bu-neng-shi-ai-er-bu-neng-ling"
+  quote_dimension: "执行"
+  quote_sub_dimension: ""
+  original: "厚而不能使，爱而不能令，乱而不能治，譬若骄子，不可用也。"
+  translation: "对士兵厚待却不能使用，爱护却不能命令，混乱却不能治理，就像被宠坏的孩子，不能用来作战。只有关爱没有纪律，团队会失去战斗力。"
+  source: "《孙子兵法·地形篇》"
+  sport_application: "教练在日常训练中因过度照顾球员情绪而降低战术演练强度，会导致比赛中的战术执行变形——训练强度不足使战术执行无法适应比赛对抗。"
+  faq_short:
+    - q: "为什么教练在日常训练中因过度照顾球员情绪而降低战术演练强度，会导致比赛中的战术执行变形？"
+      a: "训练强度不足使战术执行无法适应比赛对抗。"
+  draft: false
+  date: 2026-09-12
+
+- id: "di-xing-022"
+  chapter_slug: "chapter-10-di-xing"
+  chapter: "地形篇"
+  chapter_order: 10
+  order: 22
+  slug: "zhi-wu-zu-zhi-ke-yi-ji"
+  quote_dimension: "战略"
+  quote_sub_dimension: ""
+  original: "知吾卒之可以击，而不知敌之不可击，胜之半也；知敌之可击，而不知吾卒之不可以击，胜之半也；知敌之可击，知吾卒之可以击，而不知地形之不可以战，胜之半也。"
+  translation: "知道自己一方可以出击，但不知道敌人不可以出击，胜利的可能只有一半；知道敌人可以出击，但不知道自己一方不可以出击，胜利的可能只有一半；知道敌人可以出击，也知道自己一方可以出击，但不知道地形条件不允许作战，胜利的可能也只有一半。只知其一，胜算只有一半；全面掌握敌我地形，才能全胜。"
+  source: "《孙子兵法·地形篇》"
+  sport_application: "赛前分析中，教练应整合本队、对手、场地三方体能数据，交叉验证后制定战术，避免落入“胜之半也”的认知盲区。"
+  faq_short:
+    - q: "赛前分析中，教练如何同时评估本队体能、对手体能和场地跑动负荷，避免落入“胜之半也”的认知盲区？"
+      a: "整合本队、对手、场地三方体能数据，交叉验证后制定战术。"
+  draft: false
+  date: 2026-09-12
+
+- id: "di-xing-023"
+  chapter_slug: "chapter-10-di-xing"
+  chapter: "地形篇"
+  chapter_order: 10
+  order: 23
+  slug: "gu-zhi-bing-zhe-dong-er-bu-mi"
+  quote_dimension: "执行"
+  quote_sub_dimension: ""
+  original: "故知兵者，动而不迷，举而不穷。"
+  translation: "所以懂得用兵的人，行动不会迷惑，举措不会穷尽。真正的行家，每一步都有应对方案。"
+  source: "《孙子兵法·地形篇》"
+  sport_application: "教练应赛前针对不同局面准备多套战术，临场快速切换，确保比赛中遇到不同局面时“举而不穷”。"
+  faq_short:
+    - q: "教练应如何在赛前准备多套战术方案，确保比赛中遇到不同局面时“举而不穷”？"
+      a: "赛前针对不同局面准备多套战术，临场快速切换。"
+  draft: false
+  date: 2026-09-12
+
+- id: "di-xing-024"
+  chapter_slug: "chapter-10-di-xing"
+  chapter: "地形篇"
+  chapter_order: 10
+  order: 24
+  slug: "zhi-bi-zhi-ji-sheng-nai-bu-dai"
+  quote_dimension: "战略"
+  quote_sub_dimension: ""
+  original: "故曰：知彼知己，胜乃不殆；知天知地，胜乃不穷。"
+  translation: "所以说：了解对方也了解自己，胜利就不会有危险；了解天时也了解地利，胜利就不会穷尽。知己知彼加天地，胜利才有保障。"
+  source: "《孙子兵法·地形篇》"
+  sport_application: "在长距离耐力项目中，教练应结合天气预报（知天）与赛道坡度（知地）来调整选手的体能分配方案——根据天气与坡度调整配速，关键段前保留体能。"
+  faq_short:
+    - q: "在长距离耐力项目中，教练应如何结合天气预报（知天）与赛道坡度（知地）来调整选手的体能分配方案？"
+      a: "根据天气与坡度调整配速，关键段前保留体能。"
+  draft: false
+  date: 2026-09-12
+
+# ═══════════════════════════════════════════════════════════════
+# chapter-11-jiu-di 九地篇（53 条）
+# ═══════════════════════════════════════════════════════════════
+
+- id: "jiu-di-001"
+  chapter_slug: "chapter-11-jiu-di"
+  chapter: "九地篇"
+  chapter_order: 11
+  order: 1
+  slug: "yong-bing-zhi-fa"
+  quote_dimension: "战术"
+  quote_sub_dimension: ""
+  original: "孙子曰：用兵之法，有散地，有轻地，有争地，有交地，有衢地，有重地，有圮地，有围地，有死地。"
+  translation: "孙子说：用兵的方法，可以分为散地、轻地、争地、交地、衢地、重地、圮地、围地、死地九种不同的处境。"
+  source: "《孙子兵法·九地篇》"
+  sport_application: "同一位选手在主场和客场的表现差距，往往比技术差距更明显——主场环境改变心理状态，进而影响决策质量。"
+  faq_short:
+    - q: "为什么同一位选手在主场和客场的表现差距，往往比技术差距更明显？"
+      a: "主场环境改变心理状态，进而影响决策质量。"
+  draft: false
+  date: 2026-09-12
+
+- id: "jiu-di-002"
+  chapter_slug: "chapter-11-jiu-di"
+  chapter: "九地篇"
+  chapter_order: 11
+  order: 2
+  slug: "zhu-hou-zi-zhan-qi-di-zhe"
+  quote_dimension: "战术"
+  quote_sub_dimension: ""
+  original: "诸侯自战其地者，为散地。"
+  translation: "诸侯在自己的领土上作战，叫做散地。"
+  source: "《孙子兵法·九地篇》"
+  sport_application: "有些队伍在主场反而发挥不出训练水平——主场期望带来心理压力，干扰正常发挥。"
+  faq_short:
+    - q: "为什么有些队伍在主场反而发挥不出训练水平？"
+      a: "主场期望带来心理压力，干扰正常发挥。"
+  draft: false
+  date: 2026-09-12
+
+- id: "jiu-di-003"
+  chapter_slug: "chapter-11-jiu-di"
+  chapter: "九地篇"
+  chapter_order: 11
+  order: 3
+  slug: "ru-ren-zhi-di-er-bu-shen-zhe"
+  quote_dimension: "战术"
+  quote_sub_dimension: ""
+  original: "入人之地而不深者，为轻地。"
+  translation: "进入别国领土但不深入，叫做轻地。"
+  source: "《孙子兵法·九地篇》"
+  sport_application: "客场作战但局面尚不紧迫时，应优先稳固防守，避免开局冒进导致失分。"
+  faq_short:
+    - q: "客场作战但局面尚不紧迫时，应优先巩固防守还是主动进攻以争取主动？"
+      a: "优先稳固防守，避免开局冒进导致失分。"
+  draft: false
+  date: 2026-09-12
+
+- id: "jiu-di-004"
+  chapter_slug: "chapter-11-jiu-di"
+  chapter: "九地篇"
+  chapter_order: 11
+  order: 4
+  slug: "wo-de-ze-li"
+  quote_dimension: "战术"
+  quote_sub_dimension: ""
+  original: "我得则利，彼得亦利者，为争地。"
+  translation: "我方得到就有利，对方得到也有利的地方，叫做争地。"
+  source: "《孙子兵法·九地篇》"
+  sport_application: "当比赛进入双方都高度重视的关键分时，判断标准是成功率，高则抢攻，低则过渡。"
+  faq_short:
+    - q: "当比赛进入双方都高度重视的关键分时，如何判断该抢攻还是过渡？"
+      a: "判断标准是成功率，高则抢攻，低则过渡。"
+  draft: false
+  date: 2026-09-12
+
+- id: "jiu-di-005"
+  chapter_slug: "chapter-11-jiu-di"
+  chapter: "九地篇"
+  chapter_order: 11
+  order: 5
+  slug: "wo-ke-yi-wang"
+  quote_dimension: "战术"
+  quote_sub_dimension: ""
+  original: "我可以往，彼可以来者，为交地。"
+  translation: "我方可以去，对方也可以来的地方，叫做交地。"
+  source: "《孙子兵法·九地篇》"
+  sport_application: "在双方都能自由展开进攻的比赛中，比分往往交替上升但难以拉开差距——双方得分机会均等，任何一方都难以限制对方。"
+  faq_short:
+    - q: "为什么在双方都能自由展开进攻的比赛中，比分往往交替上升但难以拉开差距？"
+      a: "双方得分机会均等，任何一方都难以限制对方。"
+  draft: false
+  date: 2026-09-12
+
+- id: "jiu-di-006"
+  chapter_slug: "chapter-11-jiu-di"
+  chapter: "九地篇"
+  chapter_order: 11
+  order: 6
+  slug: "zhu-hou-zhi-di-san-shu"
+  quote_dimension: "战术"
+  quote_sub_dimension: ""
+  original: "诸侯之地三属，先至而得天下之众者，为衢地。"
+  translation: "诸侯的土地与多个国家接壤，先到达就能得到各方支持的地方，叫做衢地。"
+  source: "《孙子兵法·九地篇》"
+  sport_application: "在多方参与的资格赛中，首轮成绩对最终结果的影响往往超过其表面分值——首轮成绩改变后续心态和策略参照，影响远超分值。"
+  faq_short:
+    - q: "为什么在多方参与的资格赛中，首轮成绩对最终结果的影响往往超过其表面分值？"
+      a: "首轮成绩改变后续心态和策略参照，影响远超分值。"
+  draft: false
+  date: 2026-09-12
+
+- id: "jiu-di-007"
+  chapter_slug: "chapter-11-jiu-di"
+  chapter: "九地篇"
+  chapter_order: 11
+  order: 7
+  slug: "ru-ren-zhi-di-shen"
+  quote_dimension: "战术"
+  quote_sub_dimension: ""
+  original: "入人之地深，背城邑多者，为重地。"
+  translation: "进入别国领土深入，背后经过很多城邑的地方，叫做重地。"
+  source: "《孙子兵法·九地篇》"
+  sport_application: "当比赛进入对手最擅长的节奏区域时，选手的调整空间会被大幅压缩——对手节奏压制下，常规调整成本升高且风险增大。"
+  faq_short:
+    - q: "当比赛进入对手最擅长的节奏区域时，选手的调整空间为什么会被大幅压缩？"
+      a: "对手节奏压制下，常规调整成本升高且风险增大。"
+  draft: false
+  date: 2026-09-12
+
+- id: "jiu-di-008"
+  chapter_slug: "chapter-11-jiu-di"
+  chapter: "九地篇"
+  chapter_order: 11
+  order: 8
+  slug: "shan-lin-xian-zu-ju-ze"
+  quote_dimension: "战术"
+  quote_sub_dimension: ""
+  original: "山林、险阻、沮泽，凡难行之道者，为圮地。"
+  translation: "山林、险阻、沼泽等一切难以通行的地形，叫做圮地。"
+  source: "《孙子兵法·九地篇》"
+  sport_application: "在场地条件恶劣的情况下，应优先调整战术策略，降低环境风险。"
+  faq_short:
+    - q: "在场地条件恶劣的情况下，应优先调整技术动作还是调整战术策略？"
+      a: "优先调整战术策略，降低环境风险。"
+  draft: false
+  date: 2026-09-12
+
+- id: "jiu-di-009"
+  chapter_slug: "chapter-11-jiu-di"
+  chapter: "九地篇"
+  chapter_order: 11
+  order: 9
+  slug: "suo-you-ru-zhe-ai"
+  quote_dimension: "战术"
+  quote_sub_dimension: ""
+  original: "所由入者隘，所从归者迂，彼寡可以击吾之众者，为围地。"
+  translation: "进入的道路狭窄，退出的道路迂回，对方用少量兵力就能攻击我众多兵力的地方，叫做围地。"
+  source: "《孙子兵法·九地篇》"
+  sport_application: "在对手设下针对性防守后，进攻方明明人数占优却难以形成有效突破——防守压缩了有效空间，人数优势无法转化为得分。"
+  faq_short:
+    - q: "为什么在对手设下针对性防守后，进攻方明明人数占优却难以形成有效突破？"
+      a: "防守压缩了有效空间，人数优势无法转化为得分。"
+  draft: false
+  date: 2026-09-12
+
+- id: "jiu-di-010"
+  chapter_slug: "chapter-11-jiu-di"
+  chapter: "九地篇"
+  chapter_order: 11
+  order: 10
+  slug: "ji-zhan-ze-cun"
+  quote_dimension: "战术"
+  quote_sub_dimension: ""
+  original: "疾战则存，不疾战则亡者，为死地。"
+  translation: "快速作战就能生存，不快速作战就会灭亡的地方，叫做死地。"
+  source: "《孙子兵法·九地篇》"
+  sport_application: "当比赛进入必须冒险抢分的阶段，冒险时机应选在对手失误率上升或己方优势时。"
+  faq_short:
+    - q: "当比赛进入必须冒险抢分的阶段，如何选择冒险的时机以最大化收益？"
+      a: "冒险时机应选在对手失误率上升或己方优势时。"
+  draft: false
+  date: 2026-09-12
+
+- id: "jiu-di-011"
+  chapter_slug: "chapter-11-jiu-di"
+  chapter: "九地篇"
+  chapter_order: 11
+  order: 11
+  slug: "shi-gu-san-di-ze-wu-zhan"
+  quote_dimension: "战术"
+  quote_sub_dimension: "执行"
+  original: "是故散地则无战，轻地则无止，争地则无攻，交地则无绝，衢地则合交，重地则掠，圮地则行，围地则谋，死地则战。"
+  translation: "所以，在散地不要作战，在轻地不要停留，在争地不要强攻，在交地不要断绝联络，在衢地要结交盟友，在重地要掠取物资，在圮地要迅速通过，在围地要运用计谋，在死地要拼死战斗。"
+  source: "《孙子兵法·九地篇》"
+  sport_application: "当比赛从“争地”转入“死地”时，教练组应从控制节奏转为鼓励冒险抢分。"
+  faq_short:
+    - q: "当比赛从“争地”转入“死地”时，教练组应如何调整战术指令？"
+      a: "从控制节奏转为鼓励冒险抢分。"
+  draft: false
+  date: 2026-09-12
+
+- id: "jiu-di-012"
+  chapter_slug: "chapter-11-jiu-di"
+  chapter: "九地篇"
+  chapter_order: 11
+  order: 12
+  slug: "suo-wei-gu-zhi-shan-yong-bing-zhe"
+  quote_dimension: "战术"
+  quote_sub_dimension: "执行"
+  original: "所谓古之善用兵者，能使敌人前后不相及，众寡不相恃，贵贱不相救，上下不相收，卒离而不集，兵合而不齐。"
+  translation: "古代善于用兵的人，能使敌人前后不能互相照应，大部队和小部队不能互相依靠，官兵不能互相救援，上下不能互相收拢，士兵离散了不能集合，集合了也不能整齐。"
+  source: "《孙子兵法·九地篇》"
+  sport_application: "当对手开始出现跑位重叠、传球失误增多时，应加速施压，持续攻击重叠区域。"
+  faq_short:
+    - q: "当对手开始出现跑位重叠、传球失误增多时，应如何扩大这种混乱？"
+      a: "加速施压，持续攻击重叠区域。"
+  draft: false
+  date: 2026-09-12
+
+- id: "jiu-di-013"
+  chapter_slug: "chapter-11-jiu-di"
+  chapter: "九地篇"
+  chapter_order: 11
+  order: 13
+  slug: "he-yu-li-er-dong"
+  quote_dimension: "战术"
+  quote_sub_dimension: "执行"
+  original: "合于利而动，不合于利而止。"
+  translation: "符合利益就行动，不符合利益就停止。"
+  source: "《孙子兵法·九地篇》"
+  sport_application: "判断战术行动是否“有利”，标准是投入小于回报，快速比较风险与收益。"
+  faq_short:
+    - q: "判断一个战术行动是否“有利”的标准是什么？在比赛中如何快速评估？"
+      a: "有利的标准是投入小于回报，快速比较风险与收益。"
+  draft: false
+  date: 2026-09-12
+
+- id: "jiu-di-014"
+  chapter_slug: "chapter-11-jiu-di"
+  chapter: "九地篇"
+  chapter_order: 11
+  order: 14
+  slug: "gan-wen-di-zhong-zheng-er-jiang-lai"
+  quote_dimension: "战术"
+  quote_sub_dimension: "执行"
+  original: "敢问：敌众整而将来，待之若何？曰：先夺其所爱，则听矣。"
+  translation: "请问：敌军人数众多、阵形整齐，将要向我方进攻，该如何应对？回答说：先夺取对方最重视的东西，对方就会听从我方摆布了。"
+  source: "《孙子兵法·九地篇》"
+  sport_application: "当对手整体实力强于己方时，应优先限制组织核心，切断得分来源。"
+  faq_short:
+    - q: "当对手整体实力强于己方时，应优先限制其核心得分手还是破坏其组织核心？"
+      a: "优先限制组织核心，切断得分来源。"
+  draft: false
+  date: 2026-09-12
+
+- id: "jiu-di-015"
+  chapter_slug: "chapter-11-jiu-di"
+  chapter: "九地篇"
+  chapter_order: 11
+  order: 15
+  slug: "bing-zhi-qing-zhu-su"
+  quote_dimension: "执行"
+  quote_sub_dimension: ""
+  original: "兵之情主速，乘人之不及，由不虞之道，攻其所不戒也。"
+  translation: "用兵的情理在于速度，趁敌人来不及防备，从敌人意想不到的道路，攻击敌人没有戒备的地方。"
+  source: "《孙子兵法·九地篇》"
+  sport_application: "比赛相持阶段，对手节奏出现波动时突然提速，效果最好。"
+  faq_short:
+    - q: "比赛相持阶段，如何选择突然提速的时机以打破僵局？"
+      a: "对手节奏出现波动时突然提速，效果最好。"
+  draft: false
+  date: 2026-09-12
+
+- id: "jiu-di-016"
+  chapter_slug: "chapter-11-jiu-di"
+  chapter: "九地篇"
+  chapter_order: 11
+  order: 16
+  slug: "fan-wei-ke-zhi-dao"
+  quote_dimension: "执行"
+  quote_sub_dimension: "资源约束"
+  original: "凡为客之道：深入则专，主人不克；掠于饶野，三军足食；谨养而勿劳，并气积力；运兵计谋，为不可测。"
+  translation: "凡是进入敌境作战的规律：深入敌境就军心专一，对方无法抵挡；在富饶的地区掠取粮食，使全军有充足的食物；谨慎休养不使士兵过度疲劳，积蓄力量；运用兵力和计谋，使对方无法判断。"
+  source: "《孙子兵法·九地篇》"
+  sport_application: "在外地长期参赛时，固定训练与休息节奏，减少不必要消耗，以保持专注度。"
+  faq_short:
+    - q: "在外地长期参赛时，如何规划训练和生活节奏以保持专注度？"
+      a: "固定训练与休息节奏，减少不必要消耗。"
+  draft: false
+  date: 2026-09-12
+
+- id: "jiu-di-017"
+  chapter_slug: "chapter-11-jiu-di"
+  chapter: "九地篇"
+  chapter_order: 11
+  order: 17
+  slug: "tou-zhi-wu-suo-wang"
+  quote_dimension: "执行"
+  quote_sub_dimension: ""
+  original: "投之无所往，死且不北，死焉不得，士人尽力。"
+  translation: "把士兵投入到无路可走的境地，他们宁死也不会败退；既然连死都不怕，还有什么做不到呢？士兵就会全力以赴。"
+  source: "《孙子兵法·九地篇》"
+  sport_application: "有些选手在“必须赢”的比赛中反而发挥失常，有些却超常发挥——差异源于压力下的专注力与自我调节能力。"
+  faq_short:
+    - q: "为什么有些选手在“必须赢”的比赛中反而发挥失常，而有些却超常发挥？"
+      a: "差异源于压力下的专注力与自我调节能力。"
+  draft: false
+  date: 2026-09-12
+
+- id: "jiu-di-018"
+  chapter_slug: "chapter-11-jiu-di"
+  chapter: "九地篇"
+  chapter_order: 11
+  order: 18
+  slug: "bing-shi-shen-xian-ze-bu-ju"
+  quote_dimension: "执行"
+  quote_sub_dimension: ""
+  original: "兵士甚陷则不惧，无所往则固，深入则拘，不得已则斗。"
+  translation: "士兵陷入越深的险境，就越不害怕；无路可走时，军心反而稳固；深入敌境后，行动反而谨慎；迫不得已时，就会拼死战斗。"
+  source: "《孙子兵法·九地篇》"
+  sport_application: "有些队伍在比分大幅落后时，反而能打出比领先时更严密的防守——落后时心理负担减轻，防守执行力反而增强。"
+  faq_short:
+    - q: "为什么有些队伍在比分大幅落后时，反而能打出比领先时更严密的防守？"
+      a: "落后时心理负担减轻，防守执行力反而增强。"
+  draft: false
+  date: 2026-09-12
+
+- id: "jiu-di-019"
+  chapter_slug: "chapter-11-jiu-di"
+  chapter: "九地篇"
+  chapter_order: 11
+  order: 19
+  slug: "shi-gu-qi-bing-bu-xiu-er-jie"
+  quote_dimension: "执行"
+  quote_sub_dimension: ""
+  original: "是故其兵不修而戒，不求而得，不约而亲，不令而信。"
+  translation: "所以这样的军队，不用整顿就会自觉戒备，不用强求就能做到，不用约束就能团结，不用命令就能信守纪律。"
+  source: "《孙子兵法·九地篇》"
+  sport_application: "在背水一战的比赛局面下，团队纪律性提升，压力使个人目标与团队目标高度统一。"
+  faq_short:
+    - q: "在背水一战的比赛局面下，团队纪律性提升的心理机制是什么？"
+      a: "压力使个人目标与团队目标高度统一。"
+  draft: false
+  date: 2026-09-12
+
+- id: "jiu-di-020"
+  chapter_slug: "chapter-11-jiu-di"
+  chapter: "九地篇"
+  chapter_order: 11
+  order: 20
+  slug: "jin-xiang-qu-yi"
+  quote_dimension: "执行"
+  quote_sub_dimension: ""
+  original: "禁祥去疑，至死无所之。"
+  translation: "禁止迷信和疑虑，士兵到死也不会离开。"
+  source: "《孙子兵法·九地篇》"
+  sport_application: "迷信行为对运动员的心理状态，正面提供心理稳定，负面形成依赖。"
+  faq_short:
+    - q: "迷信行为对运动员的心理状态，正面与负面影响分别是什么？"
+      a: "正面提供心理稳定，负面形成依赖。"
+  draft: false
+  date: 2026-09-12
+
+- id: "jiu-di-021"
+  chapter_slug: "chapter-11-jiu-di"
+  chapter: "九地篇"
+  chapter_order: 11
+  order: 21
+  slug: "wu-shi-wu-yu-cai"
+  quote_dimension: "执行"
+  quote_sub_dimension: ""
+  original: "吾士无余财，非恶货也；无余命，非恶寿也。"
+  translation: "我们的士兵没有多余的财物，不是因为他们厌恶财物；没有多余的生命，不是因为他们厌恶长寿。"
+  source: "《孙子兵法·九地篇》"
+  sport_application: "当比赛进入生死阶段，选手放弃个人数据，因为生存需求压过个人表现动机，目标转为团队结果。"
+  faq_short:
+    - q: "当比赛进入生死阶段，选手放弃个人数据的心理机制是什么？"
+      a: "生存需求压过个人表现动机，目标转为团队结果。"
+  draft: false
+  date: 2026-09-12
+
+- id: "jiu-di-022"
+  chapter_slug: "chapter-11-jiu-di"
+  chapter: "九地篇"
+  chapter_order: 11
+  order: 22
+  slug: "ling-fa-zhi-ri"
+  quote_dimension: "执行"
+  quote_sub_dimension: ""
+  original: "令发之日，士卒坐者涕沾襟，偃卧者涕交颐。"
+  translation: "命令发布的那一天，坐着的士兵泪水沾湿了衣襟，躺着的士兵泪水流过了面颊。"
+  source: "《孙子兵法·九地篇》"
+  sport_application: "有些运动员在赛前热身时情绪激动甚至流泪，却能在此后比赛中发挥稳定——情绪释放降低焦虑，帮助进入专注状态。"
+  faq_short:
+    - q: "为什么有些运动员在赛前热身时情绪激动甚至流泪，却能在此后比赛中发挥稳定？"
+      a: "情绪释放降低焦虑，帮助进入专注状态。"
+  draft: false
+  date: 2026-09-12
+
+- id: "jiu-di-023"
+  chapter_slug: "chapter-11-jiu-di"
+  chapter: "九地篇"
+  chapter_order: 11
+  order: 23
+  slug: "tou-zhi-wu-suo-wang-zhe"
+  quote_dimension: "执行"
+  quote_sub_dimension: ""
+  original: "投之无所往者，诸、刿之勇也。"
+  translation: "把士兵投入到无路可走的境地，他们就会像专诸和曹刿一样勇敢。"
+  source: "《孙子兵法·九地篇》"
+  sport_application: "在日常训练中，通过模拟高压场景让选手适应“无路可退”的心理状态——模拟高压比赛情境，训练选手心理耐受度。"
+  faq_short:
+    - q: "在日常训练中，如何通过模拟高压场景让选手适应“无路可退”的心理状态？"
+      a: "模拟高压比赛情境，训练选手心理耐受度。"
+  draft: false
+  date: 2026-09-12
+
+- id: "jiu-di-024"
+  chapter_slug: "chapter-11-jiu-di"
+  chapter: "九地篇"
+  chapter_order: 11
+  order: 24
+  slug: "gu-shan-yong-bing-zhe-pi-ru-shuai-ran"
+  quote_dimension: "战术"
+  quote_sub_dimension: ""
+  original: "故善用兵者，譬如率然；率然者，常山之蛇也。击其首则尾至，击其尾则首至，击其中则首尾俱至。"
+  translation: "所以善于用兵的人，就像率然一样；率然是常山的一种蛇。打它的头，尾巴就会来救应；打它的尾，头就会来救应；打它的中间，头尾都会来救应。"
+  source: "《孙子兵法·九地篇》"
+  sport_application: "有些球队在局部被突破后，其他位置的球员能迅速补位，形成有效防守——整体防守意识让补位成为条件反射。"
+  faq_short:
+    - q: "为什么有些球队在局部被突破后，其他位置的球员能迅速补位，形成有效防守？"
+      a: "整体防守意识让补位成为条件反射。"
+  draft: false
+  date: 2026-09-12
+
+- id: "jiu-di-025"
+  chapter_slug: "chapter-11-jiu-di"
+  chapter: "九地篇"
+  chapter_order: 11
+  order: 25
+  slug: "gan-wen-bing-ke-shi-ru-shuai-ran-hu"
+  quote_dimension: "战术"
+  quote_sub_dimension: "执行"
+  original: "敢问：兵可使如率然乎？曰：可。夫吴人与越人相恶也，当其同舟而济，遇风，其相救也如左右手。"
+  translation: "请问：可以让军队像率然一样吗？回答说：可以。吴国人和越国人互相憎恨，但当他们同坐一条船渡河，遇到大风时，他们互相救助就像左右手一样。"
+  source: "《孙子兵法·九地篇》"
+  sport_application: "当团队面临共同失败风险时，个人之间的矛盾会被暂时搁置——生存需求优先于内部矛盾，目标统一。"
+  faq_short:
+    - q: "当团队面临共同失败风险时，个人之间的矛盾为何会被暂时搁置？"
+      a: "生存需求优先于内部矛盾，目标统一。"
+  draft: false
+  date: 2026-09-12
+
+- id: "jiu-di-026"
+  chapter_slug: "chapter-11-jiu-di"
+  chapter: "九地篇"
+  chapter_order: 11
+  order: 26
+  slug: "shi-gu-fang-ma-mai-lun"
+  quote_dimension: "战术"
+  quote_sub_dimension: ""
+  original: "是故方马埋轮，未足恃也；齐勇若一，政之道也；刚柔皆得，地之理也。"
+  translation: "所以，把马并排拴在一起，把车轮埋起来，是不足以依靠的；使全军勇敢一致，靠的是治理方法；使强弱都能发挥作用，靠的是地形利用。"
+  source: "《孙子兵法·九地篇》"
+  sport_application: "教练通过战术安排让不同特点的选手都能在体系中发挥作用——依据选手特点分配角色，形成互补。"
+  faq_short:
+    - q: "教练如何通过战术安排让不同特点的选手都能在体系中发挥作用？"
+      a: "依据选手特点分配角色，形成互补。"
+  draft: false
+  date: 2026-09-12
+
+- id: "jiu-di-027"
+  chapter_slug: "chapter-11-jiu-di"
+  chapter: "九地篇"
+  chapter_order: 11
+  order: 27
+  slug: "gu-shan-yong-bing-zhe-xie-shou-ruo-shi-yi-ren"
+  quote_dimension: "战术"
+  quote_sub_dimension: "执行"
+  original: "故善用兵者，携手若使一人，不得已也。"
+  translation: "所以善于用兵的人，能使全军上下携手像一个人一样，是因为形势迫使他们不得不这样。"
+  source: "《孙子兵法·九地篇》"
+  sport_application: "有些球队在比赛末段需要全员退防时，能突然展现出高度统一的执行力——形势压力下全队目标一致，执行力自然提升。"
+  faq_short:
+    - q: "为什么有些球队在比赛末段需要全员退防时，能突然展现出高度统一的执行力？"
+      a: "形势压力下全队目标一致，执行力自然提升。"
+  draft: false
+  date: 2026-09-12
+
+- id: "jiu-di-028"
+  chapter_slug: "chapter-11-jiu-di"
+  chapter: "九地篇"
+  chapter_order: 11
+  order: 28
+  slug: "jiang-jun-zhi-shi"
+  quote_dimension: "执行"
+  quote_sub_dimension: ""
+  original: "将军之事：静以幽，正以治。"
+  translation: "将军的处事原则：冷静而深沉，公正而有条理。"
+  source: "《孙子兵法·九地篇》"
+  sport_application: "高水平教练在比赛关键时刻往往比队员更冷静，这种冷静源于全局视角，传递靠稳定指挥。"
+  faq_short:
+    - q: "为什么高水平教练在比赛关键时刻往往比队员更冷静，这种冷静如何传递给全队？"
+      a: "教练冷静源于全局视角，传递靠稳定指挥。"
+  draft: false
+  date: 2026-09-12
+
+- id: "jiu-di-029"
+  chapter_slug: "chapter-11-jiu-di"
+  chapter: "九地篇"
+  chapter_order: 11
+  order: 29
+  slug: "neng-yu-shi-zu-zhi-er-mu"
+  quote_dimension: "执行"
+  quote_sub_dimension: ""
+  original: "能愚士卒之耳目，使之无知。"
+  translation: "能蒙蔽士兵的耳目，使他们不知道真实情况。"
+  source: "《孙子兵法·九地篇》"
+  sport_application: "教练在战术布置时，有时只告诉队员自己该做什么，而不透露全队整体计划——信息分层传递可保护执行专注度。"
+  faq_short:
+    - q: "为什么教练在战术布置时，有时只告诉队员自己该做什么，而不透露全队整体计划？"
+      a: "信息分层传递可保护执行专注度。"
+  draft: false
+  date: 2026-09-12
+
+- id: "jiu-di-030"
+  chapter_slug: "chapter-11-jiu-di"
+  chapter: "九地篇"
+  chapter_order: 11
+  order: 30
+  slug: "yi-qi-shi-ge-qi-mou"
+  quote_dimension: "执行"
+  quote_sub_dimension: ""
+  original: "易其事，革其谋，使人无识。"
+  translation: "改变行动，变更计谋，使人无法识破。"
+  source: "《孙子兵法·九地篇》"
+  sport_application: "当原定战术被对手识破后，教练应调整局部战术，保持整体节奏不变。"
+  faq_short:
+    - q: "当原定战术被对手识破后，教练应如何快速调整而不打乱己方节奏？"
+      a: "调整局部战术，保持整体节奏不变。"
+  draft: false
+  date: 2026-09-12
+
+- id: "jiu-di-031"
+  chapter_slug: "chapter-11-jiu-di"
+  chapter: "九地篇"
+  chapter_order: 11
+  order: 31
+  slug: "yi-qi-ju-yu-qi-tu"
+  quote_dimension: "执行"
+  quote_sub_dimension: ""
+  original: "易其居，迂其途，使人不得虑。"
+  translation: "改变驻扎的地点，绕远路行军，使别人无法推测意图。"
+  source: "《孙子兵法·九地篇》"
+  sport_application: "当对手已经熟悉己方固定进攻套路时，通过微调跑位路线来创造新的进攻空间——微调跑位改变角度与时机，打破防守预判。"
+  faq_short:
+    - q: "当对手已经熟悉己方固定进攻套路时，如何通过微调跑位路线来创造新的进攻空间？"
+      a: "微调跑位改变角度与时机，打破防守预判。"
+  draft: false
+  date: 2026-09-12
+
+- id: "jiu-di-032"
+  chapter_slug: "chapter-11-jiu-di"
+  chapter: "九地篇"
+  chapter_order: 11
+  order: 32
+  slug: "shuai-yu-zhi-qi"
+  quote_dimension: "执行"
+  quote_sub_dimension: ""
+  original: "帅与之期，如登高而去其梯。"
+  translation: "将帅与士兵约定作战，就像登上高处后撤掉梯子一样，只许前进，不许后退。"
+  source: "《孙子兵法·九地篇》"
+  sport_application: "当选手知道自己没有保守选项时，其技术选择更激进，决策速度加快。"
+  faq_short:
+    - q: "当选手知道自己没有保守选项时，其技术选择与决策速度会发生什么变化？"
+      a: "技术选择更激进，决策速度加快。"
+  draft: false
+  date: 2026-09-12
+
+- id: "jiu-di-033"
+  chapter_slug: "chapter-11-jiu-di"
+  chapter: "九地篇"
+  chapter_order: 11
+  order: 33
+  slug: "shuai-yu-zhi-shen-ru-zhu-hou-zhi-di"
+  quote_dimension: "执行"
+  quote_sub_dimension: ""
+  original: "帅与之深入诸侯之地，而发其机，焚舟破釜，若驱群羊，驱而往，驱而来，莫知所之。"
+  translation: "将帅带领军队深入诸侯的国土，然后发动战争机器，烧掉船只，打破锅灶，像驱赶羊群一样驱赶士兵，驱赶他们前进，驱赶他们后退，没有人知道要去哪里。"
+  source: "《孙子兵法·九地篇》"
+  sport_application: "当选手在比赛中被要求完全执行教练指令而不了解整体意图时，其注意力更集中，执行力增强，应变能力下降。"
+  faq_short:
+    - q: "当选手在比赛中被要求完全执行教练指令而不了解整体意图时，其注意力和执行力会发生什么变化？"
+      a: "注意力更集中，执行力增强，应变能力下降。"
+  draft: false
+  date: 2026-09-12
+
+- id: "jiu-di-034"
+  chapter_slug: "chapter-11-jiu-di"
+  chapter: "九地篇"
+  chapter_order: 11
+  order: 34
+  slug: "ju-san-jun-zhi-zhong"
+  quote_dimension: "执行"
+  quote_sub_dimension: ""
+  original: "聚三军之众，投之于险，此谓将军之事也。"
+  translation: "聚集全军士兵，把他们投入到危险境地，这就是将军的职责。"
+  source: "《孙子兵法·九地篇》"
+  sport_application: "有些队伍在被逼入绝境后反而能打出赛季最佳表现，有些则迅速瓦解——差异源于团队凝聚力与抗压能力。"
+  faq_short:
+    - q: "为什么有些队伍在被逼入绝境后反而能打出赛季最佳表现，而有些则迅速瓦解？"
+      a: "差异源于团队凝聚力与抗压能力。"
+  draft: false
+  date: 2026-09-12
+
+- id: "jiu-di-035"
+  chapter_slug: "chapter-11-jiu-di"
+  chapter: "九地篇"
+  chapter_order: 11
+  order: 35
+  slug: "jiu-di-zhi-bian"
+  quote_dimension: "战术"
+  quote_sub_dimension: "执行"
+  original: "九地之变，屈伸之利，人情之理，不可不察也。"
+  translation: "九种地形的变化，进退伸缩的利害关系，人的心理规律，都不能不仔细考察。"
+  source: "《孙子兵法·九地篇》"
+  sport_application: "高水平选手在比赛中会根据比分变化主动调整“屈伸”节奏，而不是一味进攻——比分变化改变风险收益比，因此需调整节奏。"
+  faq_short:
+    - q: "为什么高水平选手在比赛中会根据比分变化主动调整“屈伸”节奏，而不是一味进攻？"
+      a: "比分变化改变风险收益比，因此需调整节奏。"
+  draft: false
+  date: 2026-09-12
+
+- id: "jiu-di-036"
+  chapter_slug: "chapter-11-jiu-di"
+  chapter: "九地篇"
+  chapter_order: 11
+  order: 36
+  slug: "fan-wei-ke-zhi-dao-shen-ze-zhuan"
+  quote_dimension: "战术"
+  quote_sub_dimension: ""
+  original: "凡为客之道：深则专，浅则散。"
+  translation: "凡是进入敌境作战的规律：深入敌境就军心专一，浅入敌境就容易涣散。"
+  source: "《孙子兵法·九地篇》"
+  sport_application: "有些选手在比赛中段会出现“走神”，而高水平选手很少——高水平选手注意力管理能力更强，不易受干扰。"
+  faq_short:
+    - q: "为什么有些选手在比赛中段会出现“走神”，而高水平选手很少出现这种情况？"
+      a: "高水平选手注意力管理能力更强，不易受干扰。"
+  draft: false
+  date: 2026-09-12
+
+- id: "jiu-di-037"
+  chapter_slug: "chapter-11-jiu-di"
+  chapter: "九地篇"
+  chapter_order: 11
+  order: 37
+  slug: "qu-guo-yue-jing-er-shi-zhe"
+  quote_dimension: "战术"
+  quote_sub_dimension: ""
+  original: "去国越境而师者，绝地也；四达者，衢地也；入深者，重地也；入浅者，轻地也；背固前隘者，围地也；无所往者，死地也。"
+  translation: "离开本国越过边境作战的地方，叫做绝地；四通八达的地方，叫做衢地；深入敌境的地方，叫做重地；进入敌境不深的地方，叫做轻地；背后有险阻、前面有隘口的地方，叫做围地；无路可走的地方，叫做死地。"
+  source: "《孙子兵法·九地篇》"
+  sport_application: "同一支球队在客场面对不同场地条件时，表现差异往往比对手实力差距更大——场地条件改变技术动作稳定性，影响大于实力差距。"
+  faq_short:
+    - q: "为什么同一支球队在客场面对不同场地条件时，表现差异往往比对手实力差距更大？"
+      a: "场地条件改变技术动作稳定性，影响大于实力差距。"
+  draft: false
+  date: 2026-09-12
+
+- id: "jiu-di-038"
+  chapter_slug: "chapter-11-jiu-di"
+  chapter: "九地篇"
+  chapter_order: 11
+  order: 38
+  slug: "shi-gu-san-di-wu-jiang-yi-qi-zhi"
+  quote_dimension: "战术"
+  quote_sub_dimension: "执行"
+  original: "是故散地，吾将一其志；轻地，吾将使之属；争地，吾将趋其后；交地，吾将谨其守；衢地，吾将固其结；重地，吾将继其食；圮地，吾将进其涂；围地，吾将塞其阙；死地，吾将示之以不活。"
+  translation: "所以在散地，要使军队意志统一；在轻地，要使部队互相连接；在争地，要迅速赶到它的后方；在交地，要谨慎防守；在衢地，要巩固与邻国的结交；在重地，要保障粮食供应；在圮地，要快速通过；在围地，要堵塞缺口；在死地，要向敌人表示必死的决心。"
+  source: "《孙子兵法·九地篇》"
+  sport_application: "比赛中不同阶段需要完全不同的战术指令，固守一套是应变不足。"
+  faq_short:
+    - q: "为什么比赛中不同阶段需要完全不同的战术指令，而有些队伍却始终用一套打法？"
+      a: "比赛局面变化要求不同战术应对，固守一套是应变不足。"
+  draft: false
+  date: 2026-09-12
+
+- id: "jiu-di-039"
+  chapter_slug: "chapter-11-jiu-di"
+  chapter: "九地篇"
+  chapter_order: 11
+  order: 39
+  slug: "gu-bing-zhi-qing"
+  quote_dimension: "执行"
+  quote_sub_dimension: ""
+  original: "故兵之情：围则御，不得已则斗，过则从。"
+  translation: "所以士兵的心理规律是：被包围就会抵抗，迫不得已就会拼死战斗，陷入绝境就会听从指挥。"
+  source: "《孙子兵法·九地篇》"
+  sport_application: "教练利用“不得已则斗”的心理，在落后时设定明确目标与限制，引导拼劲转化为有效执行。"
+  faq_short:
+    - q: "教练如何利用“不得已则斗”的心理，在落后时激发队员的拼劲而不导致失控？"
+      a: "设定明确目标与限制，引导拼劲转化为有效执行。"
+  draft: false
+  date: 2026-09-12
+
+- id: "jiu-di-040"
+  chapter_slug: "chapter-11-jiu-di"
+  chapter: "九地篇"
+  chapter_order: 11
+  order: 40
+  slug: "shi-gu-bu-zhi-zhu-hou-zhi-mou-zhe"
+  quote_dimension: "战术"
+  quote_sub_dimension: "执行"
+  original: "是故不知诸侯之谋者，不能预交；不知山林、险阻、沮泽之形者，不能行军；不用乡导者，不能得地利。"
+  translation: "所以，不了解各诸侯国的意图，就不能预先结交；不了解山林、险阻、沼泽等地形，就不能行军；不使用向导，就不能得到地形之利。"
+  source: "《孙子兵法·九地篇》"
+  sport_application: "有些球队在赛前不做对手分析，到了比赛才发现战术完全不对路——赛前信息缺失导致战术判断失误。"
+  faq_short:
+    - q: "为什么有些球队在赛前不做对手分析，到了比赛才发现战术完全不对路？"
+      a: "赛前信息缺失导致战术判断失误。"
+  draft: false
+  date: 2026-09-12
+
+- id: "jiu-di-041"
+  chapter_slug: "chapter-11-jiu-di"
+  chapter: "九地篇"
+  chapter_order: 11
+  order: 41
+  slug: "si-wu-zhe-bu-zhi-yi"
+  quote_dimension: "战术"
+  quote_sub_dimension: ""
+  original: "四五者，不知一，非霸王之兵也。"
+  translation: "这些情况（指九地等），有一种不了解，就不能成为霸王的军队。"
+  source: "《孙子兵法·九地篇》"
+  sport_application: "赛前准备时，应优先补齐对手战术意图和场地条件信息，以降低比赛中的不确定性。"
+  faq_short:
+    - q: "赛前准备时，应优先补齐哪一类信息盲区，以降低比赛中的不确定性？"
+      a: "优先补齐对手战术意图和场地条件信息。"
+  draft: false
+  date: 2026-09-12
+
+- id: "jiu-di-042"
+  chapter_slug: "chapter-11-jiu-di"
+  chapter: "九地篇"
+  chapter_order: 11
+  order: 42
+  slug: "fu-ba-wang-zhi-bing"
+  quote_dimension: "战术"
+  quote_sub_dimension: ""
+  original: "夫霸王之兵，伐大国，则其众不得聚；威加于敌，则其交不得合。"
+  translation: "霸王的军队，讨伐大国，能使大国的民众来不及聚集；威力施加于敌国，能使敌国的盟国不敢联合。"
+  source: "《孙子兵法·九地篇》"
+  sport_application: "一支球队在关键比赛中未能施加足够威慑，对手进攻配合会更加流畅，最终导致失分。"
+  faq_short:
+    - q: "如果一支球队在关键比赛中未能施加足够威慑，对手的进攻配合会更加流畅，最终可能导致什么结果？"
+      a: "对手进攻流畅，己方防守压力增大，最终失分。"
+  draft: false
+  date: 2026-09-12
+
+- id: "jiu-di-043"
+  chapter_slug: "chapter-11-jiu-di"
+  chapter: "九地篇"
+  chapter_order: 11
+  order: 43
+  slug: "shi-gu-bu-zheng-tian-xia-zhi-jiao"
+  quote_dimension: "战术"
+  quote_sub_dimension: ""
+  original: "是故不争天下之交，不养天下之权，信己之私，威加于敌，故其城可拔，其国可隳。"
+  translation: "所以，不争夺天下的外交，不培植天下的权势，只依靠自己的力量，把威力施加于敌人，因此敌人的城池可以攻取，国家可以摧毁。"
+  source: "《孙子兵法·九地篇》"
+  sport_application: "当一支球队放弃“外交式”的战术试探，直接以自身最强点施压时，对手的应对空间被压缩——对手被迫针对最强点，其他战术空间被压缩。"
+  faq_short:
+    - q: "当一支球队放弃“外交式”的战术试探，直接以自身最强点施压时，对手的应对空间会如何被压缩？"
+      a: "对手被迫针对最强点，其他战术空间被压缩。"
+  draft: false
+  date: 2026-09-12
+
+- id: "jiu-di-044"
+  chapter_slug: "chapter-11-jiu-di"
+  chapter: "九地篇"
+  chapter_order: 11
+  order: 44
+  slug: "shi-wu-fa-zhi-shang"
+  quote_dimension: "执行"
+  quote_sub_dimension: ""
+  original: "施无法之赏，悬无政之令，犯三军之众，若使一人。"
+  translation: "施行超出常规的奖赏，颁布打破常规的命令，指挥全军士兵，如同使用一个人一样。"
+  source: "《孙子兵法·九地篇》"
+  sport_application: "当常规战术无法奏效时，教练应通过非常规调整重新凝聚全队执行力——非常规调整打破惯性，重新统一全队目标。"
+  faq_short:
+    - q: "当常规战术无法奏效时，教练应如何通过非常规调整重新凝聚全队执行力？"
+      a: "非常规调整打破惯性，重新统一全队目标。"
+  draft: false
+  date: 2026-09-12
+
+- id: "jiu-di-045"
+  chapter_slug: "chapter-11-jiu-di"
+  chapter: "九地篇"
+  chapter_order: 11
+  order: 45
+  slug: "fan-zhi-yi-shi"
+  quote_dimension: "执行"
+  quote_sub_dimension: ""
+  original: "犯之以事，勿告以言；犯之以利，勿告以害。"
+  translation: "让士兵执行任务，但不告诉他们真实意图；用利益驱使士兵，但不告诉他们其中的危险。"
+  source: "《孙子兵法·九地篇》"
+  sport_application: "有些教练在比赛前只告诉队员各自任务，而不透露整体战术意图——信息分层可保护执行专注度，避免过度思考。"
+  faq_short:
+    - q: "为什么有些教练在比赛前只告诉队员各自任务，而不透露整体战术意图？"
+      a: "信息分层可保护执行专注度，避免过度思考。"
+  draft: false
+  date: 2026-09-12
+
+- id: "jiu-di-046"
+  chapter_slug: "chapter-11-jiu-di"
+  chapter: "九地篇"
+  chapter_order: 11
+  order: 46
+  slug: "tou-zhi-wang-di-ran-hou-cun"
+  quote_dimension: "执行"
+  quote_sub_dimension: ""
+  original: "投之亡地然后存，陷之死地然后生。"
+  translation: "把士兵投入到灭亡之地，然后才能生存；使士兵陷入死地，然后才能活下来。"
+  source: "《孙子兵法·九地篇》"
+  sport_application: "教练在淘汰赛前，利用“死地后生”的心理规律布置战术——明确无退路情境，强化团队拼劲。"
+  faq_short:
+    - q: "教练在淘汰赛前，应如何利用“死地后生”的心理规律布置战术？"
+      a: "明确无退路情境，强化团队拼劲。"
+  draft: false
+  date: 2026-09-12
+
+- id: "jiu-di-047"
+  chapter_slug: "chapter-11-jiu-di"
+  chapter: "九地篇"
+  chapter_order: 11
+  order: 47
+  slug: "fu-zhong-xian-yu-hai"
+  quote_dimension: "执行"
+  quote_sub_dimension: ""
+  original: "夫众陷于害，然后能为胜败。"
+  translation: "众人陷入危险境地，然后才能决出胜负。"
+  source: "《孙子兵法·九地篇》"
+  sport_application: "“险境分胜负”在高水平对决中比在实力悬殊的比赛中更常见——实力接近时，心理因素成为胜负关键。"
+  faq_short:
+    - q: "为什么“险境分胜负”在高水平对决中比在实力悬殊的比赛中更常见？"
+      a: "实力接近时，心理因素成为胜负关键。"
+  draft: false
+  date: 2026-09-12
+
+- id: "jiu-di-048"
+  chapter_slug: "chapter-11-jiu-di"
+  chapter: "九地篇"
+  chapter_order: 11
+  order: 48
+  slug: "gu-wei-bing-zhi-shi"
+  quote_dimension: "战术"
+  quote_sub_dimension: ""
+  original: "故为兵之事，在于顺详敌之意，并敌一向，千里杀将，此谓巧能成事者也。"
+  translation: "所以用兵的事，在于谨慎地考察敌人的意图，集中兵力于一个方向，千里奔袭斩杀敌将，这就叫巧妙运用才能成事。"
+  source: "《孙子兵法·九地篇》"
+  sport_application: "当比赛进入僵持阶段，找准对手防守最弱、体能下降的环节，集中攻击。"
+  faq_short:
+    - q: "当比赛进入僵持阶段，如何判断对手最薄弱、最值得集中攻击的环节？"
+      a: "找准对手防守最弱、体能下降的环节，集中攻击。"
+  draft: false
+  date: 2026-09-12
+
+- id: "jiu-di-049"
+  chapter_slug: "chapter-11-jiu-di"
+  chapter: "九地篇"
+  chapter_order: 11
+  order: 49
+  slug: "shi-gu-zheng-ju-zhi-ri"
+  quote_dimension: "执行"
+  quote_sub_dimension: ""
+  original: "是故政举之日，夷关折符，无通其使，厉于廊庙之上，以诛其事。"
+  translation: "因此，在决定战争行动的那一天，要封锁关口，销毁通行符节，禁止与敌国使节往来，在朝廷上反复筹划，确定作战大计。"
+  source: "《孙子兵法·九地篇》"
+  sport_application: "“厉于廊庙之上”式的反复推演，在高水平对决中比临场发挥更重要——赛前推演降低临场决策压力，提高应变效率。"
+  faq_short:
+    - q: "为什么“厉于廊庙之上”式的反复推演，在高水平对决中比临场发挥更重要？"
+      a: "赛前推演降低临场决策压力，提高应变效率。"
+  draft: false
+  date: 2026-09-12
+
+- id: "jiu-di-050"
+  chapter_slug: "chapter-11-jiu-di"
+  chapter: "九地篇"
+  chapter_order: 11
+  order: 50
+  slug: "di-ren-kai-he"
+  quote_dimension: "执行"
+  quote_sub_dimension: ""
+  original: "敌人开阖，必亟入之。"
+  translation: "敌人一旦出现漏洞，一定要迅速乘虚而入。"
+  source: "《孙子兵法·九地篇》"
+  sport_application: "快节奏比赛中，捕捉对手漏洞的能力比技术全面性更能决定胜负——快节奏中漏洞稍纵即逝，捕捉能力直接转化为得分。"
+  faq_short:
+    - q: "为什么在快节奏比赛中，捕捉对手漏洞的能力比技术全面性更能决定胜负？"
+      a: "快节奏中漏洞稍纵即逝，捕捉能力直接转化为得分。"
+  draft: false
+  date: 2026-09-12
+
+- id: "jiu-di-051"
+  chapter_slug: "chapter-11-jiu-di"
+  chapter: "九地篇"
+  chapter_order: 11
+  order: 51
+  slug: "xian-qi-suo-ai"
+  quote_dimension: "执行"
+  quote_sub_dimension: ""
+  original: "先其所爱，微与之期。"
+  translation: "先夺取敌人最重视的东西，不要与敌人约定交战日期。"
+  source: "《孙子兵法·九地篇》"
+  sport_application: "有些球队在关键比赛前故意不公布首发名单，反而让对手准备更被动——信息不透明使对手无法针对性准备，陷入被动。"
+  faq_short:
+    - q: "为什么有些球队在关键比赛前故意不公布首发名单，反而让对手准备更被动？"
+      a: "信息不透明使对手无法针对性准备，陷入被动。"
+  draft: false
+  date: 2026-09-12
+
+- id: "jiu-di-052"
+  chapter_slug: "chapter-11-jiu-di"
+  chapter: "九地篇"
+  chapter_order: 11
+  order: 52
+  slug: "jian-mo-sui-di"
+  quote_dimension: "执行"
+  quote_sub_dimension: ""
+  original: "践墨随敌，以决战事。"
+  translation: "实施作战计划时要随着敌情变化而调整，以决定作战行动。"
+  source: "《孙子兵法·九地篇》"
+  sport_application: "高水平选手在比赛中会不断根据对手反应微调技术动作，而普通选手往往做不到——高水平选手认知调整能力强，能实时适应对手变化。"
+  faq_short:
+    - q: "为什么高水平选手在比赛中会不断根据对手反应微调技术动作，而普通选手往往做不到？"
+      a: "高水平选手认知调整能力强，能实时适应对手变化。"
+  draft: false
+  date: 2026-09-12
+
+- id: "jiu-di-053"
+  chapter_slug: "chapter-11-jiu-di"
+  chapter: "九地篇"
+  chapter_order: 11
+  order: 53
+  slug: "shi-gu-shi-ru-chu-nu"
+  quote_dimension: "执行"
+  quote_sub_dimension: ""
+  original: "是故始如处女，敌人开户；后如脱兔，敌不及拒。"
+  translation: "因此，开始时要像处女一样沉静，使敌人放松警惕打开门户；然后要像逃脱的兔子一样迅速，使敌人来不及抵抗。"
+  source: "《孙子兵法·九地篇》"
+  sport_application: "“后如脱兔”的突然提速在比赛末段往往比开局就全力进攻更有效——节奏突变对对手生理与心理的双重冲击，末段更有效。"
+  faq_short:
+    - q: "为什么“后如脱兔”的突然提速在比赛末段往往比开局就全力进攻更有效？"
+      a: "节奏突变对对手生理与心理的双重冲击，末段更有效。"
+  draft: false
+  date: 2026-09-12
+
+# ═══════════════════════════════════════════════════════════════
+# chapter-12-huo-gong 火攻篇（21 条）
+# ═══════════════════════════════════════════════════════════════
+
+- id: "huo-gong-001"
+  chapter_slug: "chapter-12-huo-gong"
+  chapter: "火攻篇"
+  chapter_order: 12
+  order: 1
+  slug: "fan-huo-gong-you-wu"
+  quote_dimension: "战略"
+  quote_sub_dimension: ""
+  original: "凡火攻有五：一曰火人，二曰火积，三曰火辎，四曰火库，五曰火队。"
+  translation: "火攻有五种目标类型：第一是焚烧敌军人员，第二是焚烧敌军粮草堆积，第三是焚烧敌军辎重车辆，第四是焚烧敌军仓库，第五是焚烧敌军运输通道。"
+  source: "《孙子兵法·火攻篇》"
+  sport_application: "篮球比赛中，对手内线高度不足与外线轮转速度慢同时存在时，应优先攻击内线高度不足，内线得分效率更高且能压缩防守。"
+  faq_short:
+    - q: "篮球比赛中，对手内线高度不足与外线轮转速度慢同时存在时，应该优先攻击哪一类弱点？"
+      a: "优先攻击内线高度不足，内线得分效率更高且能压缩防守。"
+  draft: false
+  date: 2026-09-12
+
+- id: "huo-gong-002"
+  chapter_slug: "chapter-12-huo-gong"
+  chapter: "火攻篇"
+  chapter_order: 12
+  order: 2
+  slug: "xing-huo-bi-you-yin"
+  quote_dimension: "执行"
+  quote_sub_dimension: "资源约束"
+  original: "行火必有因，烟火必素具。"
+  translation: "实施火攻必须有所凭借，火攻器材必须平时就准备好。"
+  source: "《孙子兵法·火攻篇》"
+  sport_application: "赛前对装备、体能、战术细节的准备工作，决定比赛中战术执行的成功率——准备越充分，执行容错空间越大，成功率越高。"
+  faq_short:
+    - q: "赛前对装备、体能、战术细节的准备工作，如何决定比赛中战术执行的成功率？"
+      a: "准备越充分，执行容错空间越大，成功率越高。"
+  draft: false
+  date: 2026-09-12
+
+- id: "huo-gong-003"
+  chapter_slug: "chapter-12-huo-gong"
+  chapter: "火攻篇"
+  chapter_order: 12
+  order: 3
+  slug: "fa-huo-you-shi"
+  quote_dimension: "执行"
+  quote_sub_dimension: ""
+  original: "发火有时，起火有日。"
+  translation: "放火要选择适当的时候，点火要选择适当的日子。"
+  source: "《孙子兵法·火攻篇》"
+  sport_application: "高水平教练会强调“比赛节奏的转折点”而不是让运动员平均用力——转折点集中发力能打破对手节奏，创造决定性优势。"
+  faq_short:
+    - q: "为什么高水平教练会强调“比赛节奏的转折点”而不是让运动员平均用力？"
+      a: "转折点集中发力能打破对手节奏，创造决定性优势。"
+  draft: false
+  date: 2026-09-12
+
+- id: "huo-gong-004"
+  chapter_slug: "chapter-12-huo-gong"
+  chapter: "火攻篇"
+  chapter_order: 12
+  order: 4
+  slug: "shi-zhe-tian-zhi-zao-ye"
+  quote_dimension: "执行"
+  quote_sub_dimension: "物理极限"
+  original: "时者，天之燥也；日者，月在箕、壁、翼、轸也。"
+  translation: "所谓“时”，是指天气干燥的时候；所谓“日”，是指月亮运行到箕、壁、翼、轸四个星宿的位置。"
+  source: "《孙子兵法·火攻篇》"
+  sport_application: "顶级选手在赛前会专门研究比赛时段的气候规律——气候条件影响体能消耗和战术执行，提前掌握可优化策略。"
+  faq_short:
+    - q: "为什么顶级选手在赛前会专门研究比赛时段的气候规律？"
+      a: "气候条件影响体能消耗和战术执行，提前掌握可优化策略。"
+  draft: false
+  date: 2026-09-12
+
+- id: "huo-gong-005"
+  chapter_slug: "chapter-12-huo-gong"
+  chapter: "火攻篇"
+  chapter_order: 12
+  order: 5
+  slug: "fan-ci-si-su-zhe"
+  quote_dimension: "执行"
+  quote_sub_dimension: "物理极限"
+  original: "凡此四宿者，风起之日也。"
+  translation: "凡是月亮经过这四个星宿的时候，就是起风的日子。"
+  source: "《孙子兵法·火攻篇》"
+  sport_application: "优秀选手能敏锐识别比赛环境的微小变化，并据此调整技术动作——微小变化影响动作效果，及时调整可避免失误并抓住机会。"
+  faq_short:
+    - q: "为什么优秀选手能敏锐识别比赛环境的微小变化，并据此调整技术动作？"
+      a: "微小变化影响动作效果，及时调整可避免失误并抓住机会。"
+  draft: false
+  date: 2026-09-12
+
+- id: "huo-gong-006"
+  chapter_slug: "chapter-12-huo-gong"
+  chapter: "火攻篇"
+  chapter_order: 12
+  order: 6
+  slug: "fan-huo-gong-bi-yin-wu-huo-zhi-bian-er-ying-zhi"
+  quote_dimension: "战术"
+  quote_sub_dimension: ""
+  original: "凡火攻，必因五火之变而应之。"
+  translation: "凡是实施火攻，必须根据五种火攻方式引起的不同变化，采取相应的应对措施。"
+  source: "《孙子兵法·火攻篇》"
+  sport_application: "网球比赛中，当对手开始针对你的正手位频繁攻击时，应站位向正手位偏移，回球优先攻击对手反手深区。"
+  faq_short:
+    - q: "网球比赛中，当对手开始针对你的正手位频繁攻击时，应该如何调整站位和回球路线？"
+      a: "站位向正手位偏移，回球优先攻击对手反手深区。"
+  draft: false
+  date: 2026-09-12
+
+- id: "huo-gong-007"
+  chapter_slug: "chapter-12-huo-gong"
+  chapter: "火攻篇"
+  chapter_order: 12
+  order: 7
+  slug: "huo-fa-yu-nei"
+  quote_dimension: "执行"
+  quote_sub_dimension: ""
+  original: "火发于内，则早应之于外。"
+  translation: "从内部放火，就要提前在外面接应。"
+  source: "《孙子兵法·火攻篇》"
+  sport_application: "双打比赛中，网前选手的移动必须和后场选手的击球选择同步——同步移动能封住对手回球线路，维持进攻压迫。"
+  faq_short:
+    - q: "为什么双打比赛中，网前选手的移动必须和后场选手的击球选择同步？"
+      a: "同步移动能封住对手回球线路，维持进攻压迫。"
+  draft: false
+  date: 2026-09-12
+
+- id: "huo-gong-008"
+  chapter_slug: "chapter-12-huo-gong"
+  chapter: "火攻篇"
+  chapter_order: 12
+  order: 8
+  slug: "huo-fa-bing-jing-zhe"
+  quote_dimension: "执行"
+  quote_sub_dimension: ""
+  original: "火发兵静者，待而勿攻，极其火力，可从而从之，不可从而止。"
+  translation: "火攻发起后，如果敌军仍保持安静不混乱，就应等待而不要急于进攻；让火势充分蔓延，能趁势进攻就进攻，不能趁势进攻就停止。"
+  source: "《孙子兵法·火攻篇》"
+  sport_application: "排球比赛中，一攻被对方防起后，二传手根据拦网站位决定组织快攻还是过渡球——集中则快攻，分散则过渡。"
+  faq_short:
+    - q: "排球比赛中，一攻被对方防起后，二传手如何判断是组织快攻还是过渡球？"
+      a: "根据拦网站位决定，集中则快攻，分散则过渡。"
+  draft: false
+  date: 2026-09-12
+
+- id: "huo-gong-009"
+  chapter_slug: "chapter-12-huo-gong"
+  chapter: "火攻篇"
+  chapter_order: 12
+  order: 9
+  slug: "huo-ke-fa-yu-wai"
+  quote_dimension: "执行"
+  quote_sub_dimension: ""
+  original: "火可发于外，无待于内，以时发之。"
+  translation: "火可以从外部发起，不必等待内部配合，只要时机合适就可以放火。"
+  source: "《孙子兵法·火攻篇》"
+  sport_application: "足球比赛中的远射，有时候不需要队友跑位配合就能直接威胁球门——防守未封堵时，远射可借空当直接得分。"
+  faq_short:
+    - q: "为什么足球比赛中的远射，有时候不需要队友跑位配合就能直接威胁球门？"
+      a: "防守未封堵时，远射可借空当直接得分。"
+  draft: false
+  date: 2026-09-12
+
+- id: "huo-gong-010"
+  chapter_slug: "chapter-12-huo-gong"
+  chapter: "火攻篇"
+  chapter_order: 12
+  order: 10
+  slug: "huo-fa-shang-feng"
+  quote_dimension: "执行"
+  quote_sub_dimension: ""
+  original: "火发上风，无攻下风。"
+  translation: "从上风方向放火，不要从下风方向进攻。"
+  source: "《孙子兵法·火攻篇》"
+  sport_application: "在对抗性运动中，占据有利位置比单纯的力量对抗更能决定回合胜负——位置优势能限制对手发力并创造进攻角度，比蛮力更高效。"
+  faq_short:
+    - q: "在对抗性运动中，占据有利位置为什么比单纯的力量对抗更能决定回合胜负？"
+      a: "位置优势能限制对手发力并创造进攻角度，比蛮力更高效。"
+  draft: false
+  date: 2026-09-12
+
+- id: "huo-gong-011"
+  chapter_slug: "chapter-12-huo-gong"
+  chapter: "火攻篇"
+  chapter_order: 12
+  order: 11
+  slug: "zhou-feng-jiu"
+  quote_dimension: "执行"
+  quote_sub_dimension: "物理极限"
+  original: "昼风久，夜风止。"
+  translation: "白天风刮得久，夜里风就会停。"
+  source: "《孙子兵法·火攻篇》"
+  sport_application: "高尔夫比赛中，下午开球且风力逐渐减弱时，应选择杆面角度更小的球杆，降低弹道以减少风力影响。"
+  faq_short:
+    - q: "高尔夫比赛中，下午开球且风力逐渐减弱时，应该如何调整球杆选择？"
+      a: "选择杆面角度更小的球杆，降低弹道以减少风力影响。"
+  draft: false
+  date: 2026-09-12
+
+- id: "huo-gong-012"
+  chapter_slug: "chapter-12-huo-gong"
+  chapter: "火攻篇"
+  chapter_order: 12
+  order: 12
+  slug: "fan-jun-bi-zhi-you-wu-huo-zhi-bian"
+  quote_dimension: "执行"
+  quote_sub_dimension: "复盘"
+  original: "凡军必知有五火之变，以数守之。"
+  translation: "凡是军队作战，必须懂得五种火攻方式的变化，并根据规律来把握时机。"
+  source: "《孙子兵法·火攻篇》"
+  sport_application: "排球比赛中，通过观察对手前几局的战术变化，预测其关键分的进攻选择——统计对手关键分习惯，识别其常用进攻路线和节奏。"
+  faq_short:
+    - q: "排球比赛中，如何通过观察对手前几局的战术变化，预测其关键分的进攻选择？"
+      a: "统计对手关键分习惯，识别其常用进攻路线和节奏。"
+  draft: false
+  date: 2026-09-12
+
+- id: "huo-gong-013"
+  chapter_slug: "chapter-12-huo-gong"
+  chapter: "火攻篇"
+  chapter_order: 12
+  order: 13
+  slug: "gu-yi-huo-zuo-gong-zhe-ming"
+  quote_dimension: "战略"
+  quote_sub_dimension: ""
+  original: "故以火佐攻者明，以水佐攻者强。"
+  translation: "所以用火辅助进攻的，效果明显；用水辅助进攻的，攻势增强。"
+  source: "《孙子兵法·火攻篇》"
+  sport_application: "如果忽视借助外部条件，只靠自身力量强攻，体能消耗加快，进攻效率降低，且容易被对手反击。"
+  faq_short:
+    - q: "如果忽视借助外部条件，只靠自身力量强攻，可能面临哪些效率损失？"
+      a: "体能消耗加快，进攻效率降低，且容易被对手反击。"
+  draft: false
+  date: 2026-09-12
+
+- id: "huo-gong-014"
+  chapter_slug: "chapter-12-huo-gong"
+  chapter: "火攻篇"
+  chapter_order: 12
+  order: 14
+  slug: "shui-ke-yi-jue"
+  quote_dimension: "资源约束"
+  quote_sub_dimension: ""
+  original: "水可以绝，不可以夺。"
+  translation: "水攻可以阻断敌军，但不能夺取敌军的物资。"
+  source: "《孙子兵法·火攻篇》"
+  sport_application: "篮球比赛中，防守性策略只能限制对手得分，却无法直接为自己创造得分——防守只阻断进攻，得分仍需主动创造机会。"
+  faq_short:
+    - q: "篮球比赛中，防守性策略为什么只能限制对手得分，却无法直接为自己创造得分？"
+      a: "防守只阻断进攻，得分仍需主动创造机会。"
+  draft: false
+  date: 2026-09-12
+
+- id: "huo-gong-015"
+  chapter_slug: "chapter-12-huo-gong"
+  chapter: "火攻篇"
+  chapter_order: 12
+  order: 15
+  slug: "fu-zhan-sheng-gong-qu"
+  quote_dimension: "战略"
+  quote_sub_dimension: "复盘"
+  original: "夫战胜攻取，而不修其功者凶，命曰费留。"
+  translation: "战胜了，攻取了城邑，但不能巩固胜利成果的，是危险的，这叫做“费留”（耗费钱财、滞留不归）。"
+  source: "《孙子兵法·火攻篇》"
+  sport_application: "马拉松比赛中，前半程领先却忽视补给和节奏控制，后半程体能骤降，被反超甚至无法完赛。"
+  faq_short:
+    - q: "马拉松比赛中，前半程领先却忽视补给和节奏控制，后半程可能付出什么代价？"
+      a: "后半程体能骤降，被反超甚至无法完赛。"
+  draft: false
+  date: 2026-09-12
+
+- id: "huo-gong-016"
+  chapter_slug: "chapter-12-huo-gong"
+  chapter: "火攻篇"
+  chapter_order: 12
+  order: 16
+  slug: "ming-zhu-lv-zhi"
+  quote_dimension: "战略"
+  quote_sub_dimension: ""
+  original: "故曰：明主虑之，良将修之。"
+  translation: "所以说：明智的君主要慎重考虑战争，优秀的将帅要认真处理战争。"
+  source: "《孙子兵法·火攻篇》"
+  sport_application: "马拉松赛前，选手应从体能状态、补给策略和配速计划三方面确认自己的体能和补给方案是否完备。"
+  faq_short:
+    - q: "马拉松赛前，选手应该从哪些方面确认自己的体能和补给方案是否完备？"
+      a: "体能状态、补给策略和配速计划。"
+  draft: false
+  date: 2026-09-12
+
+- id: "huo-gong-017"
+  chapter_slug: "chapter-12-huo-gong"
+  chapter: "火攻篇"
+  chapter_order: 12
+  order: 17
+  slug: "fei-li-bu-dong"
+  quote_dimension: "战略"
+  quote_sub_dimension: ""
+  original: "非利不动，非得不用，非危不战。"
+  translation: "没有利益就不行动，没有取胜把握就不用兵，没有危险紧迫就不开战。"
+  source: "《孙子兵法·火攻篇》"
+  sport_application: "马拉松比赛中，前期跟随跑比贸然领跑更符合“非得不用”的原则——跟随跑节省体能，降低风险，有把握再发力。"
+  faq_short:
+    - q: "马拉松比赛中，为什么前期跟随跑比贸然领跑更符合“非得不用”的原则？"
+      a: "跟随跑节省体能，降低风险，有把握再发力。"
+  draft: false
+  date: 2026-09-12
+
+- id: "huo-gong-018"
+  chapter_slug: "chapter-12-huo-gong"
+  chapter: "火攻篇"
+  chapter_order: 12
+  order: 18
+  slug: "zhu-bu-ke-yi-nu-er-xing-shi"
+  quote_dimension: "战略"
+  quote_sub_dimension: ""
+  original: "主不可以怒而兴师，将不可以愠而致战。"
+  translation: "君主不可以因为愤怒而发动战争，将帅不可以因为怨愤而开战。"
+  source: "《孙子兵法·火攻篇》"
+  sport_application: "高水平选手往往会把对手的挑衅视为战术的一部分，而不是情绪刺激——挑衅是干扰手段，保持冷静才能维持战术执行。"
+  faq_short:
+    - q: "为什么高水平选手往往会把对手的挑衅视为战术的一部分，而不是情绪刺激？"
+      a: "挑衅是干扰手段，保持冷静才能维持战术执行。"
+  draft: false
+  date: 2026-09-12
+
+- id: "huo-gong-019"
+  chapter_slug: "chapter-12-huo-gong"
+  chapter: "火攻篇"
+  chapter_order: 12
+  order: 19
+  slug: "he-yu-li-er-dong"
+  quote_dimension: "战略"
+  quote_sub_dimension: ""
+  original: "合于利而动，不合于利而止。"
+  translation: "符合利益就行动，不符合利益就停止。"
+  source: "《孙子兵法·火攻篇》"
+  sport_application: "比赛中判断“继续进攻”还是“控制节奏”，核心依据是当前利益与风险权衡，有利则进，无利则止。"
+  faq_short:
+    - q: "比赛中判断“继续进攻”还是“控制节奏”，核心依据是什么？"
+      a: "当前利益与风险权衡，有利则进，无利则止。"
+  draft: false
+  date: 2026-09-12
+
+- id: "huo-gong-020"
+  chapter_slug: "chapter-12-huo-gong"
+  chapter: "火攻篇"
+  chapter_order: 12
+  order: 20
+  slug: "nu-ke-yi-fu-xi"
+  quote_dimension: "战略"
+  quote_sub_dimension: "复盘"
+  original: "怒可以复喜，愠可以复悦，亡国不可以复存，死者不可以复生。"
+  translation: "愤怒可以重新变为欢喜，怨恨可以重新变为喜悦，但灭亡的国家不能再存在，死去的人不能再复活。"
+  source: "《孙子兵法·火攻篇》"
+  sport_application: "综合格斗中，因愤怒而放弃防守盲目进攻，可能被重击击倒，导致比赛直接失利甚至受伤。"
+  faq_short:
+    - q: "综合格斗中，因愤怒而放弃防守盲目进攻，可能造成哪些无法挽回的后果？"
+      a: "可能被重击击倒，导致比赛直接失利甚至受伤。"
+  draft: false
+  date: 2026-09-12
+
+- id: "huo-gong-021"
+  chapter_slug: "chapter-12-huo-gong"
+  chapter: "火攻篇"
+  chapter_order: 12
+  order: 21
+  slug: "gu-ming-jun-shen-zhi"
+  quote_dimension: "战略"
+  quote_sub_dimension: ""
+  original: "故明君慎之，良将警之，此安国全军之道也。"
+  translation: "所以明智的君主要慎重，优秀的将帅要警惕，这是安定国家、保全军队的根本原则。"
+  source: "《孙子兵法·火攻篇》"
+  sport_application: "优秀团队在赛季中能持续稳定发挥，而依赖个人爆发却难以长久——谨慎管理决策，避免依赖个人爆发。"
+  faq_short:
+    - q: "为什么优秀团队在赛季中能持续稳定发挥，而依赖个人爆发却难以长久？"
+      a: "谨慎管理决策，避免依赖个人爆发。"
+  draft: false
+  date: 2026-09-12
+
+# ═══════════════════════════════════════════════════════════════
+# chapter-13-yong-jian 用间篇（21 条）
+# ═══════════════════════════════════════════════════════════════
+
+- id: "yong-jian-001"
+  chapter_slug: "chapter-13-yong-jian"
+  chapter: "用间篇"
+  chapter_order: 13
+  order: 1
+  slug: "fan-xing-shi-shi-wan"
+  quote_dimension: "资源约束"
+  quote_sub_dimension: "战略"
+  original: "孙子曰：凡兴师十万，出征千里，百姓之费，公家之奉，日费千金；内外骚动，怠于道路，不得操事者，七十万家。"
+  translation: "孙子说：大凡出动十万人的军队，远征千里之外，百姓的财物耗费和国家的财政支出，每天要消耗千金；内外动荡不安，民众疲于运输补给，无法正常从事农业生产的有七十万家。"
+  source: "《孙子兵法·用间篇》"
+  sport_application: "一名业余马拉松爱好者投入大量收入和时间训练参赛，导致工作与家庭关系持续紧张——训练资源消耗超出生活承载能力时，会引发整体失衡。"
+  faq_short:
+    - q: "一名业余马拉松爱好者投入大量收入和时间训练参赛，导致工作与家庭关系持续紧张，是否说明对训练资源消耗的预估不足？"
+      a: "是的，训练消耗超出生活承载能力，引发整体失衡。"
+  draft: false
+  date: 2026-09-12
+
+- id: "yong-jian-002"
+  chapter_slug: "chapter-13-yong-jian"
+  chapter: "用间篇"
+  chapter_order: 13
+  order: 2
+  slug: "xiang-shou-shu-nian"
+  quote_dimension: "资源约束"
+  quote_sub_dimension: "战略"
+  original: "相守数年，以争一日之胜，而爱爵禄百金，不知敌之情者，不仁之至也，非人之将也，非主之佐也，非胜之主也。"
+  translation: "双方对峙数年，只为争夺最后一天的胜利，却吝惜爵位俸禄和金钱，不肯花钱去了解敌情，这是最不仁的人，不是好将领，不是君主的得力辅佐，也不是能取胜的主帅。"
+  source: "《孙子兵法·用间篇》"
+  sport_application: "一支职业篮球队在季后赛前不愿投入数据分析资源研究对手的战术习惯，等同于在关键战役中放弃先手——放弃情报投入等于放弃先手，陷入被动。"
+  faq_short:
+    - q: "一支职业篮球队在季后赛前不愿投入数据分析资源研究对手的战术习惯，是否等同于在关键战役中放弃先手？"
+      a: "放弃情报投入等于放弃先手，陷入被动。"
+  draft: false
+  date: 2026-09-12
+
+- id: "yong-jian-003"
+  chapter_slug: "chapter-13-yong-jian"
+  chapter: "用间篇"
+  chapter_order: 13
+  order: 3
+  slug: "gu-ming-jun-xian-jiang"
+  quote_dimension: "战略"
+  quote_sub_dimension: ""
+  original: "故明君贤将，所以动而胜人，成功出于众者，先知也。"
+  translation: "所以明智的君主和优秀的将领，之所以一行动就能战胜敌人，成就超出众人，是因为事先掌握了敌情。"
+  source: "《孙子兵法·用间篇》"
+  sport_application: "一名拳击手在赛前完全不研究对手的出拳习惯，在比赛中可能面临无法预判出拳、频繁被击中、陷入被动防守的风险。"
+  faq_short:
+    - q: "一名拳击手在赛前完全不研究对手的出拳习惯，在比赛中可能面临什么风险？"
+      a: "无法预判出拳，频繁被击中，陷入被动防守。"
+  draft: false
+  date: 2026-09-12
+
+- id: "yong-jian-004"
+  chapter_slug: "chapter-13-yong-jian"
+  chapter: "用间篇"
+  chapter_order: 13
+  order: 4
+  slug: "xian-zhi-zhe-bu-ke-qu-yu-gui-shen"
+  quote_dimension: "战略"
+  quote_sub_dimension: "复盘"
+  original: "先知者，不可取于鬼神，不可象于事，不可验于度，必取于人，知敌之情者也。"
+  translation: "事先掌握敌情，不能靠鬼神占卜，不能靠类比推测，不能靠观星验算，必须从了解敌人情况的人那里获取。"
+  source: "《孙子兵法·用间篇》"
+  sport_application: "一名拳击手赛前只看对手集锦而不看完整比赛录像，可能忽略对手体能分配、回合调整与逆境技术变化等关键细节。"
+  faq_short:
+    - q: "一名拳击手赛前只看对手集锦而不看完整比赛录像，可能忽略对手哪些关键细节？"
+      a: "忽略体能分配、回合调整与逆境技术变化。"
+  draft: false
+  date: 2026-09-12
+
+- id: "yong-jian-005"
+  chapter_slug: "chapter-13-yong-jian"
+  chapter: "用间篇"
+  chapter_order: 13
+  order: 5
+  slug: "gu-yong-jian-you-wu"
+  quote_dimension: "战略"
+  quote_sub_dimension: ""
+  original: "故用间有五：有因间，有内间，有反间，有死间，有生间。"
+  translation: "所以使用间谍有五种：有因间、内间、反间、死间、生间。"
+  source: "《孙子兵法·用间篇》"
+  sport_application: "一支足球队在备战关键比赛时，需要同时关注对手的体能数据、战术录像、伤病名单和内部动态，而不是只依赖单一信息源——单一信息源造成盲区，多源情报拼出完整画像。"
+  faq_short:
+    - q: "一支足球队在备战关键比赛时，为何需要同时关注对手的体能数据、战术录像、伤病名单和内部动态，而不是只依赖单一信息源？"
+      a: "单一信息源造成盲区，多源情报拼出完整画像。"
+  draft: false
+  date: 2026-09-12
+
+- id: "yong-jian-006"
+  chapter_slug: "chapter-13-yong-jian"
+  chapter: "用间篇"
+  chapter_order: 13
+  order: 6
+  slug: "wu-jian-ju-qi"
+  quote_dimension: "战略"
+  quote_sub_dimension: ""
+  original: "五间俱起，莫知其道，是谓神纪，人君之宝也。"
+  translation: "五种间谍同时使用，敌人无法摸清其中的规律，这就是神妙的道理，是君主的法宝。"
+  source: "《孙子兵法·用间篇》"
+  sport_application: "一支职业足球队在赛前通过分析对手体能数据、战术录像、伤病报告和球员社交媒体动态等多种渠道同时收集情报，对手难以针对性防范——多源情报使对手无法锁定真实重点，只能分散应对。"
+  faq_short:
+    - q: "一支职业足球队在赛前通过分析对手体能数据、战术录像、伤病报告和球员社交媒体动态等多种渠道同时收集情报，对手为何难以针对性地防范？"
+      a: "多源情报使对手无法锁定真实重点，只能分散应对。"
+  draft: false
+  date: 2026-09-12
+
+- id: "yong-jian-007"
+  chapter_slug: "chapter-13-yong-jian"
+  chapter: "用间篇"
+  chapter_order: 13
+  order: 7
+  slug: "yin-jian-zhe-yin-qi-xiang-ren"
+  quote_dimension: "战略"
+  quote_sub_dimension: ""
+  original: "因间者，因其乡人而用之。内间者，因其官人而用之。"
+  translation: "因间，是利用敌方的乡人做间谍。内间，是利用敌方的官员做间谍。"
+  source: "《孙子兵法·用间篇》"
+  sport_application: "一支职业足球队在转会期通过球探网络接触对手俱乐部的青训教练，以了解其梯队战术风格——利用内部人员获取情报，属因间或内间。"
+  faq_short:
+    - q: "一支职业足球队在转会期通过球探网络接触对手俱乐部的青训教练，以了解其梯队战术风格，这属于哪种情报获取方式？"
+      a: "利用内部人员获取情报，属因间或内间。"
+  draft: false
+  date: 2026-09-12
+
+- id: "yong-jian-008"
+  chapter_slug: "chapter-13-yong-jian"
+  chapter: "用间篇"
+  chapter_order: 13
+  order: 8
+  slug: "fan-jian-zhe-yin-qi-di-jian"
+  quote_dimension: "战略"
+  quote_sub_dimension: ""
+  original: "反间者，因其敌间而用之。"
+  translation: "反间，是利用敌方派来的间谍，反过来为我所用。"
+  source: "《孙子兵法·用间篇》"
+  sport_application: "一支职业篮球队发现对手派球探观看自己训练，故意在训练中演练一套不会在正式比赛使用的战术——运用反间策略，释放假信息误导对手。"
+  faq_short:
+    - q: "一支职业篮球队发现对手派球探观看自己训练，故意在训练中演练一套不会在正式比赛使用的战术，这运用了什么情报策略？"
+      a: "运用反间策略，释放假信息误导对手。"
+  draft: false
+  date: 2026-09-12
+
+- id: "yong-jian-009"
+  chapter_slug: "chapter-13-yong-jian"
+  chapter: "用间篇"
+  chapter_order: 13
+  order: 9
+  slug: "si-jian-zhe-wei-kuang-shi-yu-wai"
+  quote_dimension: "战略"
+  quote_sub_dimension: ""
+  original: "死间者，为诳事于外，令吾间知之，而传于敌间也。"
+  translation: "死间，是故意向外散布虚假的事情，让我方间谍知道后，再传给敌方间谍。"
+  source: "《孙子兵法·用间篇》"
+  sport_application: "综合格斗选手在称重前故意表现得虚弱疲惫，这种表演与死间策略本质相似——主动释放假信号误导对手，承担被识破风险。"
+  faq_short:
+    - q: "综合格斗选手在称重前故意表现得虚弱疲惫，这种表演与死间策略有什么本质相似之处？"
+      a: "主动释放假信号误导对手，承担被识破风险。"
+  draft: false
+  date: 2026-09-12
+
+- id: "yong-jian-010"
+  chapter_slug: "chapter-13-yong-jian"
+  chapter: "用间篇"
+  chapter_order: 13
+  order: 10
+  slug: "sheng-jian-zhe-fan-bao-ye"
+  quote_dimension: "战略"
+  quote_sub_dimension: ""
+  original: "生间者，反报也。"
+  translation: "生间，是派出去之后能活着回来报告情报的间谍。"
+  source: "《孙子兵法·用间篇》"
+  sport_application: "一支职业足球队在客场比赛前派出助教现场观看对手的热身赛并记录关键信息，赛后安全返回——属于生间，亲赴获取情报并安全返回报告。"
+  faq_short:
+    - q: "一支职业足球队在客场比赛前派出助教现场观看对手的热身赛并记录关键信息，赛后安全返回，这属于哪种情报方式？"
+      a: "属于生间，亲赴获取情报并安全返回报告。"
+  draft: false
+  date: 2026-09-12
+
+- id: "yong-jian-011"
+  chapter_slug: "chapter-13-yong-jian"
+  chapter: "用间篇"
+  chapter_order: 13
+  order: 11
+  slug: "gu-san-jun-zhi-shi"
+  quote_dimension: "战略"
+  quote_sub_dimension: ""
+  original: "故三军之事，莫亲于间，赏莫厚于间，事莫密于间。"
+  translation: "所以军队中的事务，没有比间谍更亲近的，没有比间谍赏赐更丰厚的，没有比间谍事务更机密的。"
+  source: "《孙子兵法·用间篇》"
+  sport_application: "一支职业足球队的战术分析师与主教练之间必须保持高度信任和直接沟通，而不能经过多层转达——情报机密准确要求短传递链，信任是基础。"
+  faq_short:
+    - q: "一支职业足球队的战术分析师与主教练之间为何必须保持高度信任和直接沟通，而不能经过多层转达？"
+      a: "情报机密准确要求短传递链，信任是基础。"
+  draft: false
+  date: 2026-09-12
+
+- id: "yong-jian-012"
+  chapter_slug: "chapter-13-yong-jian"
+  chapter: "用间篇"
+  chapter_order: 13
+  order: 12
+  slug: "fei-sheng-zhi-bu-neng-yong-jian"
+  quote_dimension: "战略"
+  quote_sub_dimension: ""
+  original: "非圣智不能用间，非仁义不能使间，非微妙不能得间之实。"
+  translation: "不是圣明智慧的人不能使用间谍，不是仁义的人不能驱使间谍，不是精细巧妙的人不能从间谍那里得到真实情报。"
+  source: "《孙子兵法·用间篇》"
+  sport_application: "一名主教练若缺乏对数据分析的信任，也不愿与分析师深入沟通，很难从对手情报中提炼出有效的战术判断——缺乏信任与沟通削弱情报转化为战术的能力。"
+  faq_short:
+    - q: "一名主教练若缺乏对数据分析的信任，也不愿与分析师深入沟通，是否很难从对手情报中提炼出有效的战术判断？"
+      a: "缺乏信任与沟通削弱情报转化为战术的能力。"
+  draft: false
+  date: 2026-09-12
+
+- id: "yong-jian-013"
+  chapter_slug: "chapter-13-yong-jian"
+  chapter: "用间篇"
+  chapter_order: 13
+  order: 13
+  slug: "wei-zai-wei-zai"
+  quote_dimension: "战略"
+  quote_sub_dimension: ""
+  original: "微哉！微哉！无所不用间也。"
+  translation: "微妙啊！微妙啊！没有什么地方不可以使用间谍。"
+  source: "《孙子兵法·用间篇》"
+  sport_application: "一名拳击手如果在赛前忽视对手在称重时的表情、体态和反应，可能错过对手真实体能、心理压力与临场适应度信号。"
+  faq_short:
+    - q: "一名拳击手如果在赛前忽视对手在称重时的表情、体态和反应，可能错过哪些关键情报？"
+      a: "错过真实体能、心理压力与临场适应度信号。"
+  draft: false
+  date: 2026-09-12
+
+- id: "yong-jian-014"
+  chapter_slug: "chapter-13-yong-jian"
+  chapter: "用间篇"
+  chapter_order: 13
+  order: 14
+  slug: "jian-shi-wei-fa"
+  quote_dimension: "执行"
+  quote_sub_dimension: ""
+  original: "间事未发，而先闻者，间与所告者皆死。"
+  translation: "间谍的事情还没有行动，而消息先泄露出去，那么间谍和被告知的人都要被处死。"
+  source: "《孙子兵法·用间篇》"
+  sport_application: "在团队运动中，更衣室内部信息被泄露比战术被识破更打击团队信任——泄露的是内部信任，信任崩解后战术执行易失效。"
+  faq_short:
+    - q: "在团队运动中，为什么更衣室内部信息被泄露比战术被识破更打击团队信任？"
+      a: "泄露的是内部信任，信任崩解后战术执行易失效。"
+  draft: false
+  date: 2026-09-12
+
+- id: "yong-jian-015"
+  chapter_slug: "chapter-13-yong-jian"
+  chapter: "用间篇"
+  chapter_order: 13
+  order: 15
+  slug: "bi-suo-di-ren-zhi-jian-lai-jian-wo-zhe"
+  quote_dimension: "执行"
+  quote_sub_dimension: ""
+  original: "必索敌人之间来间我者，因而利之，导而舍之，故反间可得而用也。"
+  translation: "必须查出敌方派来的间谍，用利益收买他，引导他，再放他回去，这样反间就可以使用了。"
+  source: "《孙子兵法·用间篇》"
+  sport_application: "一支足球队发现对手的球探在观察己方训练，如果主动向其展示一套虚假的定位球战术并放其离开，利用了对方“眼见为实”的确认心理，使假情报被当真。"
+  faq_short:
+    - q: "一支足球队发现对手的球探在观察己方训练，如果主动向其展示一套虚假的定位球战术并放其离开，这利用了对方的什么心理？"
+      a: "利用眼见为实的确认心理，使假情报被当真。"
+  draft: false
+  date: 2026-09-12
+
+- id: "yong-jian-016"
+  chapter_slug: "chapter-13-yong-jian"
+  chapter: "用间篇"
+  chapter_order: 13
+  order: 16
+  slug: "yin-shi-er-zhi-zhi-gu-xiang-jian"
+  quote_dimension: "执行"
+  quote_sub_dimension: ""
+  original: "因是而知之，故乡间、内间可得而使也。"
+  translation: "通过反间了解了情况，所以乡间和内间就可以顺利使用了。"
+  source: "《孙子兵法·用间篇》"
+  sport_application: "一支足球队先通过策反对手球探掌握了对手更衣室氛围，随后队内原本隐藏的“内应”也敢于提供更多信息——反间突破降低其他渠道风险，激活内部信息源。"
+  faq_short:
+    - q: "一支足球队先通过策反对手球探掌握了对手更衣室氛围，随后队内原本隐藏的“内应”也敢于提供更多信息，这说明了什么？"
+      a: "反间突破降低其他渠道风险，激活内部信息源。"
+  draft: false
+  date: 2026-09-12
+
+- id: "yong-jian-017"
+  chapter_slug: "chapter-13-yong-jian"
+  chapter: "用间篇"
+  chapter_order: 13
+  order: 17
+  slug: "yin-shi-er-zhi-zhi-gu-si-jian"
+  quote_dimension: "执行"
+  quote_sub_dimension: ""
+  original: "因是而知之，故死间为诳事，可使告敌。"
+  translation: "通过反间了解了情况，所以死间可以编造假情报，让他传给敌人。"
+  source: "《孙子兵法·用间篇》"
+  sport_application: "一名网球选手如果在没有反间情报支撑的情况下贸然向对方团队散布“自己改用新发球”的假消息，可能被识破，反被利用，失去情报主动权。"
+  faq_short:
+    - q: "一名网球选手如果在没有反间情报支撑的情况下贸然向对方团队散布“自己改用新发球”的假消息，可能面临什么风险？"
+      a: "可能被识破，反被利用，失去情报主动权。"
+  draft: false
+  date: 2026-09-12
+
+- id: "yong-jian-018"
+  chapter_slug: "chapter-13-yong-jian"
+  chapter: "用间篇"
+  chapter_order: 13
+  order: 18
+  slug: "yin-shi-er-zhi-zhi-gu-sheng-jian"
+  quote_dimension: "执行"
+  quote_sub_dimension: ""
+  original: "因是而知之，故生间可使如期。"
+  translation: "通过反间了解了情况，所以生间可以按期返回报告。"
+  source: "《孙子兵法·用间篇》"
+  sport_application: "一支足球队在客场作战前，通过策反对手工作人员确认了对手赛前训练安排，随后派出的现场侦察人员能更准确地按时带回关键信息——反间情报提供准确时间目标，使侦察有的放矢。"
+  faq_short:
+    - q: "一支足球队在客场作战前，通过策反对手工作人员确认了对手赛前训练安排，随后派出的现场侦察人员为何能更准确地按时带回关键信息？"
+      a: "反间情报提供准确时间目标，使侦察有的放矢。"
+  draft: false
+  date: 2026-09-12
+
+- id: "yong-jian-019"
+  chapter_slug: "chapter-13-yong-jian"
+  chapter: "用间篇"
+  chapter_order: 13
+  order: 19
+  slug: "wu-jian-zhi-shi-zhu-bi-zhi-zhi"
+  quote_dimension: "复盘"
+  quote_sub_dimension: ""
+  original: "五间之事，主必知之，知之必在于反间，故反间不可不厚也。"
+  translation: "五种间谍的事务，君主必须知道，而知道的关键在于反间，所以反间不能不厚待。"
+  source: "《孙子兵法·用间篇》"
+  sport_application: "一支职业篮球队的情报体系中，策反对手内部人员（反间）比单纯派人侦察（生间）更能获得决定性信息——内部人员掌握决策层信息，更接近真实意图。"
+  faq_short:
+    - q: "一支职业篮球队的情报体系中，为何策反对手内部人员（反间）比单纯派人侦察（生间）更能获得决定性信息？"
+      a: "内部人员掌握决策层信息，更接近真实意图。"
+  draft: false
+  date: 2026-09-12
+
+- id: "yong-jian-020"
+  chapter_slug: "chapter-13-yong-jian"
+  chapter: "用间篇"
+  chapter_order: 13
+  order: 20
+  slug: "xi-yin-zhi-xing-ye"
+  quote_dimension: "复盘"
+  quote_sub_dimension: ""
+  original: "昔殷之兴也，伊挚在夏；周之兴也，吕牙在殷。故惟明君贤将，能以上智为间者，必成大功。"
+  translation: "从前商朝兴起，是因为伊尹在夏朝做间谍；周朝兴起，是因为姜子牙在商朝做间谍。所以明智的君主和优秀的将领，如果能用真正有智慧的人做间谍，一定能成就大功。"
+  source: "《孙子兵法·用间篇》"
+  sport_application: "一支足球队聘请曾长期在对手俱乐部任职的战术顾问，这种“内部智囊”比普通球探更能带来关键突破——掌握对手体系深层逻辑，能预判决策。"
+  faq_short:
+    - q: "一支足球队聘请曾长期在对手俱乐部任职的战术顾问，为何这种“内部智囊”比普通球探更能带来关键突破？"
+      a: "掌握对手体系深层逻辑，能预判决策。"
+  draft: false
+  date: 2026-09-12
+
+- id: "yong-jian-021"
+  chapter_slug: "chapter-13-yong-jian"
+  chapter: "用间篇"
+  chapter_order: 13
+  order: 21
+  slug: "ci-bing-zhi-yao"
+  quote_dimension: "复盘"
+  quote_sub_dimension: ""
+  original: "此兵之要，三军之所恃而动也。"
+  translation: "这是用兵的关键，全军都要依靠情报来决定行动。"
+  source: "《孙子兵法·用间篇》"
+  sport_application: "一支足球队的赛前部署、换人调整和临场变阵都建立在对手情报之上，若情报出错，整个战术体系会动摇——所有战术行动起点是情报，错误导致决策失效。"
+  faq_short:
+    - q: "一支足球队的赛前部署、换人调整和临场变阵都建立在对手情报之上，若情报出错，整个战术体系为何会动摇？"
+      a: "所有战术行动起点是情报，错误导致决策失效。"
+  draft: false
+  date: 2026-09-12
