@@ -1,0 +1,21 @@
+# Hugo 生成物
+public/
+resources/_gen/
+
+# Hugo 构建锁
+.hugo_build.lock
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Node
+node_modules/
+package-lock.json
+
+# 临时文件
+*.log
