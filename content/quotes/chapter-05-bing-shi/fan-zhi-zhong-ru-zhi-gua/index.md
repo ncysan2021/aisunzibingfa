@@ -3,32 +3,32 @@ title: "“凡治众如治寡，分数是也；斗众如斗寡，形名是也；
 description: "《孙子兵法·兵势篇》名句的原文、白话解释与竞技应用。"
 slug: "fan-zhi-zhong-ru-zhi-gua"
 date: 2026-09-12
-lastmod: 2026-09-12
+lastmod: 2026-09-13
 type: "quotes"
+draft: false
+ads: true
+toc: true
 chapter: "兵势篇"
 chapter_slug: "chapter-05-bing-shi"
 chapter_order: 5
 quote_id: "bing-shi-001"
 order: 1
-core_dimension: "战术"
-aux_dimension: ""
 quote_dimension: "战术"
 quote_sub_dimension: ""
+core_dimension: "战术"
+aux_dimension: ""
+author: "吴雄山"
 original: "凡治众如治寡，分数是也；斗众如斗寡，形名是也；三军之众，可使必受敌而无败者，奇正是也；兵之所加，如以碫投卵者，虚实是也。"
 translation: "管理大部队能像管理小部队一样有序，靠的是编制分层；指挥大部队作战能像指挥小部队一样灵活，靠的是号令系统；全军在遭受敌人攻击时能保持不败，靠的是奇正变化的运用；兵力所向，如同用石头砸鸡蛋一样轻易取胜，靠的是避实击虚。"
 source: "《孙子兵法·兵势篇》"
 content_version: "v0"
-faq:
-  - q: "对手全场紧逼导致己方出球困难时，是通过改变传球路线破解，还是坚持既定出球方式？"
-    a: "既定路线牵制对手，变向出球破解紧逼。"
 cover:
-  image: "placeholder/quotes.jpg"
+  image: "quotes/chapter-05-bing-shi/fan-zhi-zhong-ru-zhi-gua.jpg"
   alt: "凡治众如治寡，分数是也；斗众如斗寡，形名"
-  caption: "兵势篇：凡治众如治寡，分数是"
-draft: false
-ads:
-  top: true
-  bottom: true
+  title: "兵势篇"
+  caption: "兵势篇"
+  width: 1200
+  height: 630
 ---
 
 ## 原文
@@ -50,3 +50,4 @@ ads:
 ### 对手全场紧逼导致己方出球困难时，是通过改变传球路线破解，还是坚持既定出球方式？
 
 既定路线牵制对手，变向出球破解紧逼。
+

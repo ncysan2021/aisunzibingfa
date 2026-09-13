@@ -3,32 +3,32 @@ title: "“敌人开阖，必亟入之。”是什么意思？"
 description: "《孙子兵法·九地篇》名句的原文、白话解释与竞技应用。"
 slug: "di-ren-kai-he"
 date: 2026-09-12
-lastmod: 2026-09-12
+lastmod: 2026-09-13
 type: "quotes"
+draft: false
+ads: true
+toc: true
 chapter: "九地篇"
 chapter_slug: "chapter-11-jiu-di"
 chapter_order: 11
 quote_id: "jiu-di-050"
 order: 50
-core_dimension: "执行"
-aux_dimension: ""
 quote_dimension: "执行"
 quote_sub_dimension: ""
+core_dimension: "执行"
+aux_dimension: ""
+author: "吴雄山"
 original: "敌人开阖，必亟入之。"
 translation: "敌人一旦出现漏洞，一定要迅速乘虚而入。"
 source: "《孙子兵法·九地篇》"
 content_version: "v0"
-faq:
-  - q: "为什么在快节奏比赛中，捕捉对手漏洞的能力比技术全面性更能决定胜负？"
-    a: "快节奏中漏洞稍纵即逝，捕捉能力直接转化为得分。"
 cover:
-  image: "placeholder/quotes.jpg"
+  image: "quotes/chapter-11-jiu-di/di-ren-kai-he.jpg"
   alt: "敌人开阖，必亟入之。"
-  caption: "九地篇：敌人开阖，必亟入之。"
-draft: false
-ads:
-  top: true
-  bottom: true
+  title: "九地篇"
+  caption: "九地篇"
+  width: 1200
+  height: 630
 ---
 
 ## 原文
@@ -50,3 +50,4 @@ ads:
 ### 为什么在快节奏比赛中，捕捉对手漏洞的能力比技术全面性更能决定胜负？
 
 快节奏中漏洞稍纵即逝，捕捉能力直接转化为得分。
+

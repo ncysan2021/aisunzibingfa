@@ -3,32 +3,32 @@ title: "“任势者，其战人也，如转木石。”是什么意思？"
 description: "《孙子兵法·兵势篇》名句的原文、白话解释与竞技应用。"
 slug: "ren-shi-zhe-qi-zhan-ren-ye"
 date: 2026-09-12
-lastmod: 2026-09-12
+lastmod: 2026-09-13
 type: "quotes"
+draft: false
+ads: true
+toc: true
 chapter: "兵势篇"
 chapter_slug: "chapter-05-bing-shi"
 chapter_order: 5
 quote_id: "bing-shi-016"
 order: 16
-core_dimension: "战术"
-aux_dimension: ""
 quote_dimension: "战术"
 quote_sub_dimension: ""
+core_dimension: "战术"
+aux_dimension: ""
+author: "吴雄山"
 original: "任势者，其战人也，如转木石。"
 translation: "善于利用态势的人，指挥士兵作战，就像转动木头和石头一样（借助其本身的特性，顺势而为）。"
 source: "《孙子兵法·兵势篇》"
 content_version: "v0"
-faq:
-  - q: "为什么长跑比赛中，跟在领跑者身后可以减少风阻，从而节省体能并在后程实现超越？"
-    a: "跟跑利用领跑者破风，节省体能后程超越。"
 cover:
-  image: "placeholder/quotes.jpg"
+  image: "quotes/chapter-05-bing-shi/ren-shi-zhe-qi-zhan-ren-ye.jpg"
   alt: "任势者，其战人也，如转木石。"
-  caption: "兵势篇：任势者，其战人也，如"
-draft: false
-ads:
-  top: true
-  bottom: true
+  title: "兵势篇"
+  caption: "兵势篇"
+  width: 1200
+  height: 630
 ---
 
 ## 原文
@@ -50,3 +50,4 @@ ads:
 ### 为什么长跑比赛中，跟在领跑者身后可以减少风阻，从而节省体能并在后程实现超越？
 
 跟跑利用领跑者破风，节省体能后程超越。
+

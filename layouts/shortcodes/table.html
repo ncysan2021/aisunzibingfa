@@ -1,0 +1,9 @@
+{{- $caption := .Get "caption" -}}
+<div class="table-wrapper">
+  <table>
+    {{- with $caption -}}
+      <caption>{{ . }}</caption>
+    {{- end -}}
+    {{ .Inner | markdownify }}
+  </table>
+</div>

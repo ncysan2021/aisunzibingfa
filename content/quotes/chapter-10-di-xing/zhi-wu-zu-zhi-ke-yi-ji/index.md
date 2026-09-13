@@ -3,32 +3,32 @@ title: "“知吾卒之可以击，而不知敌之不可击，胜之半也；知
 description: "《孙子兵法·地形篇》名句的原文、白话解释与竞技应用。"
 slug: "zhi-wu-zu-zhi-ke-yi-ji"
 date: 2026-09-12
-lastmod: 2026-09-12
+lastmod: 2026-09-13
 type: "quotes"
+draft: false
+ads: true
+toc: true
 chapter: "地形篇"
 chapter_slug: "chapter-10-di-xing"
 chapter_order: 10
 quote_id: "di-xing-022"
 order: 22
-core_dimension: "战略"
-aux_dimension: ""
 quote_dimension: "战略"
 quote_sub_dimension: ""
+core_dimension: "战略"
+aux_dimension: ""
+author: "吴雄山"
 original: "知吾卒之可以击，而不知敌之不可击，胜之半也；知敌之可击，而不知吾卒之不可以击，胜之半也；知敌之可击，知吾卒之可以击，而不知地形之不可以战，胜之半也。"
 translation: "知道自己一方可以出击，但不知道敌人不可以出击，胜利的可能只有一半；知道敌人可以出击，但不知道自己一方不可以出击，胜利的可能只有一半；知道敌人可以出击，也知道自己一方可以出击，但不知道地形条件不允许作战，胜利的可能也只有一半。只知其一，胜算只有一半；全面掌握敌我地形，才能全胜。"
 source: "《孙子兵法·地形篇》"
 content_version: "v0"
-faq:
-  - q: "赛前分析中，教练如何同时评估本队体能、对手体能和场地跑动负荷，避免落入“胜之半也”的认知盲区？"
-    a: "整合本队、对手、场地三方体能数据，交叉验证后制定战术。"
 cover:
-  image: "placeholder/quotes.jpg"
+  image: "quotes/chapter-10-di-xing/zhi-wu-zu-zhi-ke-yi-ji.jpg"
   alt: "知吾卒之可以击，而不知敌之不可击，胜之半"
-  caption: "地形篇：知吾卒之可以击，而不"
-draft: false
-ads:
-  top: true
-  bottom: true
+  title: "地形篇"
+  caption: "地形篇"
+  width: 1200
+  height: 630
 ---
 
 ## 原文
@@ -50,3 +50,4 @@ ads:
 ### 赛前分析中，教练如何同时评估本队体能、对手体能和场地跑动负荷，避免落入“胜之半也”的认知盲区？
 
 整合本队、对手、场地三方体能数据，交叉验证后制定战术。
+

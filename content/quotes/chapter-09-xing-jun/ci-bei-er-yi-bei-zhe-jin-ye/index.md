@@ -3,32 +3,32 @@ title: "“辞卑而益备者，进也；辞强而进驱者，退也；轻车先
 description: "《孙子兵法·行军篇》名句的原文、白话解释与竞技应用。"
 slug: "ci-bei-er-yi-bei-zhe-jin-ye"
 date: 2026-09-12
-lastmod: 2026-09-12
+lastmod: 2026-09-13
 type: "quotes"
+draft: false
+ads: true
+toc: true
 chapter: "行军篇"
 chapter_slug: "chapter-09-xing-jun"
 chapter_order: 9
 quote_id: "xing-jun-015"
 order: 15
-core_dimension: "执行"
-aux_dimension: ""
 quote_dimension: "执行"
 quote_sub_dimension: ""
+core_dimension: "执行"
+aux_dimension: ""
+author: "吴雄山"
 original: "辞卑而益备者，进也；辞强而进驱者，退也；轻车先出居其侧者，陈也；无约而请和者，谋也；奔走而陈兵车者，期也；半进半退者，诱也。"
 translation: "敌人言辞谦卑却加紧战备，是准备进攻；言辞强硬且摆出进攻姿态，是准备撤退；轻车先出动并占据侧翼，是在部署阵形；没有约定却主动求和，是另有图谋；频繁调动兵力并展开战车，是准备与我方交战；半进半退，是引诱我方上钩。"
 source: "《孙子兵法·行军篇》"
 content_version: "v0"
-faq:
-  - q: "足球比赛中，对方教练在赛前发布会上反复强调防守，但比赛一开始却大举压上，这种言行反差通常说明什么？"
-    a: "赛前表态掩盖战术意图，实际准备抢攻。"
 cover:
-  image: "placeholder/quotes.jpg"
+  image: "quotes/chapter-09-xing-jun/ci-bei-er-yi-bei-zhe-jin-ye.jpg"
   alt: "辞卑而益备者，进也；辞强而进驱者，退也；"
-  caption: "行军篇：辞卑而益备者，进也；"
-draft: false
-ads:
-  top: true
-  bottom: true
+  title: "行军篇"
+  caption: "行军篇"
+  width: 1200
+  height: 630
 ---
 
 ## 原文
@@ -50,3 +50,4 @@ ads:
 ### 足球比赛中，对方教练在赛前发布会上反复强调防守，但比赛一开始却大举压上，这种言行反差通常说明什么？
 
 赛前表态掩盖战术意图，实际准备抢攻。
+

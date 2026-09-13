@@ -3,32 +3,32 @@ title: "“火发于内，则早应之于外。”是什么意思？"
 description: "《孙子兵法·火攻篇》名句的原文、白话解释与竞技应用。"
 slug: "huo-fa-yu-nei"
 date: 2026-09-12
-lastmod: 2026-09-12
+lastmod: 2026-09-13
 type: "quotes"
+draft: false
+ads: true
+toc: true
 chapter: "火攻篇"
 chapter_slug: "chapter-12-huo-gong"
 chapter_order: 12
 quote_id: "huo-gong-007"
 order: 7
-core_dimension: "执行"
-aux_dimension: ""
 quote_dimension: "执行"
 quote_sub_dimension: ""
+core_dimension: "执行"
+aux_dimension: ""
+author: "吴雄山"
 original: "火发于内，则早应之于外。"
 translation: "从内部放火，就要提前在外面接应。"
 source: "《孙子兵法·火攻篇》"
 content_version: "v0"
-faq:
-  - q: "为什么双打比赛中，网前选手的移动必须和后场选手的击球选择同步？"
-    a: "同步移动能封住对手回球线路，维持进攻压迫。"
 cover:
-  image: "placeholder/quotes.jpg"
+  image: "quotes/chapter-12-huo-gong/huo-fa-yu-nei.jpg"
   alt: "火发于内，则早应之于外。"
-  caption: "火攻篇：火发于内，则早应之于"
-draft: false
-ads:
-  top: true
-  bottom: true
+  title: "火攻篇"
+  caption: "火攻篇"
+  width: 1200
+  height: 630
 ---
 
 ## 原文
@@ -50,3 +50,4 @@ ads:
 ### 为什么双打比赛中，网前选手的移动必须和后场选手的击球选择同步？
 
 同步移动能封住对手回球线路，维持进攻压迫。
+

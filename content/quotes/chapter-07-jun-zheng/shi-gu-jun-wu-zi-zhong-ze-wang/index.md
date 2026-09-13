@@ -3,32 +3,32 @@ title: "“是故军无辎重则亡，无粮食则亡，无委积则亡。”是
 description: "《孙子兵法·军争篇》名句的原文、白话解释与竞技应用。"
 slug: "shi-gu-jun-wu-zi-zhong-ze-wang"
 date: 2026-09-12
-lastmod: 2026-09-12
+lastmod: 2026-09-13
 type: "quotes"
+draft: false
+ads: true
+toc: true
 chapter: "军争篇"
 chapter_slug: "chapter-07-jun-zheng"
 chapter_order: 7
 quote_id: "jun-zheng-010"
 order: 10
-core_dimension: "资源约束"
-aux_dimension: ""
 quote_dimension: "资源约束"
 quote_sub_dimension: ""
+core_dimension: "资源约束"
+aux_dimension: ""
+author: "吴雄山"
 original: "是故军无辎重则亡，无粮食则亡，无委积则亡。"
 translation: "所以军队没有辎重就会败亡，没有粮食就会败亡，没有物资储备就会败亡。"
 source: "《孙子兵法·军争篇》"
 content_version: "v0"
-faq:
-  - q: "自行车公路赛中，车队如何规划补给点以确保车手在关键爬坡前能量充足？"
-    a: "补给点应设在关键爬坡前，提前完成能量补充与吸收。"
 cover:
-  image: "placeholder/quotes.jpg"
+  image: "quotes/chapter-07-jun-zheng/shi-gu-jun-wu-zi-zhong-ze-wang.jpg"
   alt: "是故军无辎重则亡，无粮食则亡，无委积则亡"
-  caption: "军争篇：是故军无辎重则亡，无"
-draft: false
-ads:
-  top: true
-  bottom: true
+  title: "军争篇"
+  caption: "军争篇"
+  width: 1200
+  height: 630
 ---
 
 ## 原文
@@ -50,3 +50,4 @@ ads:
 ### 自行车公路赛中，车队如何规划补给点以确保车手在关键爬坡前能量充足？
 
 补给点应设在关键爬坡前，提前完成能量补充与吸收。
+

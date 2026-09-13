@@ -3,32 +3,32 @@ title: "“声不过五，五声之变，不可胜听也；色不过五，五色
 description: "《孙子兵法·兵势篇》名句的原文、白话解释与竞技应用。"
 slug: "sheng-bu-guo-wu"
 date: 2026-09-12
-lastmod: 2026-09-12
+lastmod: 2026-09-13
 type: "quotes"
+draft: false
+ads: true
+toc: true
 chapter: "兵势篇"
 chapter_slug: "chapter-05-bing-shi"
 chapter_order: 5
 quote_id: "bing-shi-005"
 order: 5
-core_dimension: "战术"
-aux_dimension: ""
 quote_dimension: "战术"
 quote_sub_dimension: ""
+core_dimension: "战术"
+aux_dimension: ""
+author: "吴雄山"
 original: "声不过五，五声之变，不可胜听也；色不过五，五色之变，不可胜观也；味不过五，五味之变，不可胜尝也；战势不过奇正，奇正之变，不可胜穷也。"
 translation: "基本音阶只有五个，但五音的变化组合，听都听不完；基本颜色只有五种，但五色的调配变化，看都看不完；基本味道只有五种，但五味的搭配变化，尝都尝不完；作战的基本态势不过奇和正两种，但奇正的变化组合，穷尽不完。"
 source: "《孙子兵法·兵势篇》"
 content_version: "v0"
-faq:
-  - q: "羽毛球单打中，如何将有限的基本技术（高远球、吊球、杀球、搓球）组合成让对手无法预判的进攻序列？"
-    a: "用节奏、落点和力量变化组合基础技术，打破对手预判。"
 cover:
-  image: "placeholder/quotes.jpg"
+  image: "quotes/chapter-05-bing-shi/sheng-bu-guo-wu.jpg"
   alt: "声不过五，五声之变，不可胜听也；色不过五"
-  caption: "兵势篇：声不过五，五声之变，"
-draft: false
-ads:
-  top: true
-  bottom: true
+  title: "兵势篇"
+  caption: "兵势篇"
+  width: 1200
+  height: 630
 ---
 
 ## 原文
@@ -50,3 +50,4 @@ ads:
 ### 羽毛球单打中，如何将有限的基本技术（高远球、吊球、杀球、搓球）组合成让对手无法预判的进攻序列？
 
 用节奏、落点和力量变化组合基础技术，打破对手预判。
+

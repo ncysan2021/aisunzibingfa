@@ -3,32 +3,32 @@ title: "“所由入者隘，所从归者迂，彼寡可以击吾之众者，为
 description: "《孙子兵法·九地篇》名句的原文、白话解释与竞技应用。"
 slug: "suo-you-ru-zhe-ai"
 date: 2026-09-12
-lastmod: 2026-09-12
+lastmod: 2026-09-13
 type: "quotes"
+draft: false
+ads: true
+toc: true
 chapter: "九地篇"
 chapter_slug: "chapter-11-jiu-di"
 chapter_order: 11
 quote_id: "jiu-di-009"
 order: 9
-core_dimension: "战术"
-aux_dimension: ""
 quote_dimension: "战术"
 quote_sub_dimension: ""
+core_dimension: "战术"
+aux_dimension: ""
+author: "吴雄山"
 original: "所由入者隘，所从归者迂，彼寡可以击吾之众者，为围地。"
 translation: "进入的道路狭窄，退出的道路迂回，对方用少量兵力就能攻击我众多兵力的地方，叫做围地。"
 source: "《孙子兵法·九地篇》"
 content_version: "v0"
-faq:
-  - q: "为什么在对手设下针对性防守后，进攻方明明人数占优却难以形成有效突破？"
-    a: "防守压缩了有效空间，人数优势无法转化为得分。"
 cover:
-  image: "placeholder/quotes.jpg"
+  image: "quotes/chapter-11-jiu-di/suo-you-ru-zhe-ai.jpg"
   alt: "所由入者隘，所从归者迂，彼寡可以击吾之众"
-  caption: "九地篇：所由入者隘，所从归者"
-draft: false
-ads:
-  top: true
-  bottom: true
+  title: "九地篇"
+  caption: "九地篇"
+  width: 1200
+  height: 630
 ---
 
 ## 原文
@@ -50,3 +50,4 @@ ads:
 ### 为什么在对手设下针对性防守后，进攻方明明人数占优却难以形成有效突破？
 
 防守压缩了有效空间，人数优势无法转化为得分。
+

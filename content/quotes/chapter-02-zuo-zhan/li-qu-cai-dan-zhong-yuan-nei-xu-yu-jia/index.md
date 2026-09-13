@@ -3,32 +3,32 @@ title: "“力屈财殚，中原内虚于家，百姓之费，十去其七；公
 description: "《孙子兵法·作战篇》名句的原文、白话解释与竞技应用。"
 slug: "li-qu-cai-dan-zhong-yuan-nei-xu-yu-jia"
 date: 2026-09-12
-lastmod: 2026-09-12
+lastmod: 2026-09-13
 type: "quotes"
+draft: false
+ads: true
+toc: true
 chapter: "作战篇"
 chapter_slug: "chapter-02-zuo-zhan"
 chapter_order: 2
 quote_id: "zuo-zhan-010"
 order: 10
-core_dimension: "资源约束"
-aux_dimension: ""
 quote_dimension: "资源约束"
 quote_sub_dimension: ""
+core_dimension: "资源约束"
+aux_dimension: ""
+author: "吴雄山"
 original: "力屈财殚，中原内虚于家，百姓之费，十去其七；公家之费，破车罢马，甲胄矢弩，戟楯蔽橹，丘牛大车，十去其六。"
 translation: "力量耗尽，财力枯竭，国内家家空虚。百姓的财产耗费了十分之七；公家的耗费，战车破损，马匹疲惫，盔甲、弓箭、戟盾、大盾牌、牛车等，也损失了十分之六。"
 source: "《孙子兵法·作战篇》"
 content_version: "v0"
-faq:
-  - q: "为什么说“长期高强度训练导致的器材损耗”与“运动员伤病风险上升”背后是同一类资源管理问题？"
-    a: "两者都源于资源消耗超过恢复能力。"
 cover:
-  image: "placeholder/quotes.jpg"
+  image: "quotes/chapter-02-zuo-zhan/li-qu-cai-dan-zhong-yuan-nei-xu-yu-jia.jpg"
   alt: "力屈财殚，中原内虚于家，百姓之费，十去其"
-  caption: "作战篇：力屈财殚，中原内虚于"
-draft: false
-ads:
-  top: true
-  bottom: true
+  title: "作战篇"
+  caption: "作战篇"
+  width: 1200
+  height: 630
 ---
 
 ## 原文
@@ -50,3 +50,4 @@ ads:
 ### 为什么说“长期高强度训练导致的器材损耗”与“运动员伤病风险上升”背后是同一类资源管理问题？
 
 两者都源于资源消耗超过恢复能力。
+

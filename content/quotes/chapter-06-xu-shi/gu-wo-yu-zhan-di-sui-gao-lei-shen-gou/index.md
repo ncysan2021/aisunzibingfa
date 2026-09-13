@@ -3,32 +3,32 @@ title: "“故我欲战，敌虽高垒深沟，不得不与我战者，攻其所
 description: "《孙子兵法·虚实篇》名句的原文、白话解释与竞技应用。"
 slug: "gu-wo-yu-zhan-di-sui-gao-lei-shen-gou"
 date: 2026-09-12
-lastmod: 2026-09-12
+lastmod: 2026-09-13
 type: "quotes"
+draft: false
+ads: true
+toc: true
 chapter: "虚实篇"
 chapter_slug: "chapter-06-xu-shi"
 chapter_order: 6
 quote_id: "xu-shi-011"
 order: 11
-core_dimension: "战术"
-aux_dimension: ""
 quote_dimension: "战术"
 quote_sub_dimension: ""
+core_dimension: "战术"
+aux_dimension: ""
+author: "吴雄山"
 original: "故我欲战，敌虽高垒深沟，不得不与我战者，攻其所必救也；我不欲战，画地而守之，敌不得与我战者，乖其所之也。"
 translation: "所以当我想交战时，敌人即使有高垒深沟，也不得不与我交战，是因为我攻击了它必须救援的地方；当我不想交战时，即使就地防守，敌人也无法与我交战，是因为我使它的行动方向发生了错乱。"
 source: "《孙子兵法·虚实篇》"
 content_version: "v0"
-faq:
-  - q: "足球比赛中，面对密集防守，为什么通过边路传中攻击对方中卫与边卫之间的空当，能迫使对方防守球员离开原有位置？"
-    a: "攻击中卫与边卫间空当，迫使防守者离开原位补位。"
 cover:
-  image: "placeholder/quotes.jpg"
+  image: "quotes/chapter-06-xu-shi/gu-wo-yu-zhan-di-sui-gao-lei-shen-gou.jpg"
   alt: "故我欲战，敌虽高垒深沟，不得不与我战者，"
-  caption: "虚实篇：故我欲战，敌虽高垒深"
-draft: false
-ads:
-  top: true
-  bottom: true
+  title: "虚实篇"
+  caption: "虚实篇"
+  width: 1200
+  height: 630
 ---
 
 ## 原文
@@ -50,3 +50,4 @@ ads:
 ### 足球比赛中，面对密集防守，为什么通过边路传中攻击对方中卫与边卫之间的空当，能迫使对方防守球员离开原有位置？
 
 攻击中卫与边卫间空当，迫使防守者离开原位补位。
+

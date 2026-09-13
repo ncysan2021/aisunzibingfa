@@ -3,32 +3,32 @@ title: "“兵法：一曰度，二曰量，三曰数，四曰称，五曰胜。
 description: "《孙子兵法·军形篇》名句的原文、白话解释与竞技应用。"
 slug: "bing-fa-yi-yue-du"
 date: 2026-09-12
-lastmod: 2026-09-12
+lastmod: 2026-09-13
 type: "quotes"
+draft: false
+ads: true
+toc: true
 chapter: "军形篇"
 chapter_slug: "chapter-04-jun-xing"
 chapter_order: 4
 quote_id: "jun-xing-016"
 order: 16
-core_dimension: "资源约束"
-aux_dimension: "物理极限"
 quote_dimension: "资源约束"
 quote_sub_dimension: "物理极限"
+core_dimension: "资源约束"
+aux_dimension: "物理极限"
+author: "吴雄山"
 original: "兵法：一曰度，二曰量，三曰数，四曰称，五曰胜。"
 translation: "用兵的方法有五个衡量步骤：第一是度（判断场地距离与地形条件），第二是量（计算资源总量），第三是数（计算可投入的单位数量），第四是称（对比双方实力强弱），第五是胜（得出胜负趋势的判断）。"
 source: "《孙子兵法·军形篇》"
 content_version: "v0"
-faq:
-  - q: "选手和教练如何量化评估“体能储备”“技术稳定性”“战术适配性”等难以直接测量的因素？"
-    a: "通过可量化的训练数据和比赛表现指标间接评估。"
 cover:
-  image: "placeholder/quotes.jpg"
+  image: "quotes/chapter-04-jun-xing/bing-fa-yi-yue-du.jpg"
   alt: "兵法：一曰度，二曰量，三曰数，四曰称，五"
-  caption: "军形篇：兵法：一曰度，二曰量"
-draft: false
-ads:
-  top: true
-  bottom: true
+  title: "军形篇"
+  caption: "军形篇"
+  width: 1200
+  height: 630
 ---
 
 ## 原文
@@ -50,3 +50,4 @@ ads:
 ### 选手和教练如何量化评估“体能储备”“技术稳定性”“战术适配性”等难以直接测量的因素？
 
 通过可量化的训练数据和比赛表现指标间接评估。
+

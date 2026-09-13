@@ -3,32 +3,32 @@ title: "“见胜不过众人之所知，非善之善者也；战胜而天下曰
 description: "《孙子兵法·军形篇》名句的原文、白话解释与竞技应用。"
 slug: "jian-sheng-bu-guo-zhong-ren-zhi-suo-zhi"
 date: 2026-09-12
-lastmod: 2026-09-12
+lastmod: 2026-09-13
 type: "quotes"
+draft: false
+ads: true
+toc: true
 chapter: "军形篇"
 chapter_slug: "chapter-04-jun-xing"
 chapter_order: 4
 quote_id: "jun-xing-008"
 order: 8
-core_dimension: "物理极限"
-aux_dimension: ""
 quote_dimension: "物理极限"
 quote_sub_dimension: ""
+core_dimension: "物理极限"
+aux_dimension: ""
+author: "吴雄山"
 original: "见胜不过众人之所知，非善之善者也；战胜而天下曰善，非善之善者也。"
 translation: "预见胜利不超过一般人的见识，不算是高明中最高明的；通过激烈战斗取得胜利，天下人都说好，也不算是高明中最高明的。"
 source: "《孙子兵法·军形篇》"
 content_version: "v0"
-faq:
-  - q: "顶尖选手的胜利往往在赛前就已基本确定，真正决定胜负的是准备阶段的差距还是比赛中的临场调整？"
-    a: "准备阶段的差距是决定胜负的主因，临场调整为辅。"
 cover:
-  image: "placeholder/quotes.jpg"
+  image: "quotes/chapter-04-jun-xing/jian-sheng-bu-guo-zhong-ren-zhi-suo-zhi.jpg"
   alt: "见胜不过众人之所知，非善之善者也；战胜而"
-  caption: "军形篇：见胜不过众人之所知，"
-draft: false
-ads:
-  top: true
-  bottom: true
+  title: "军形篇"
+  caption: "军形篇"
+  width: 1200
+  height: 630
 ---
 
 ## 原文
@@ -50,3 +50,4 @@ ads:
 ### 顶尖选手的胜利往往在赛前就已基本确定，真正决定胜负的是准备阶段的差距还是比赛中的临场调整？
 
 准备阶段的差距是决定胜负的主因，临场调整为辅。
+

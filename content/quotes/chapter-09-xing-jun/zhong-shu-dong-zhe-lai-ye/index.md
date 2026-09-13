@@ -3,32 +3,32 @@ title: "“众树动者，来也；众草多障者，疑也；鸟起者，伏也
 description: "《孙子兵法·行军篇》名句的原文、白话解释与竞技应用。"
 slug: "zhong-shu-dong-zhe-lai-ye"
 date: 2026-09-12
-lastmod: 2026-09-12
+lastmod: 2026-09-13
 type: "quotes"
+draft: false
+ads: true
+toc: true
 chapter: "行军篇"
 chapter_slug: "chapter-09-xing-jun"
 chapter_order: 9
 quote_id: "xing-jun-014"
 order: 14
-core_dimension: "执行"
-aux_dimension: ""
 quote_dimension: "执行"
 quote_sub_dimension: ""
+core_dimension: "执行"
+aux_dimension: ""
+author: "吴雄山"
 original: "众树动者，来也；众草多障者，疑也；鸟起者，伏也；兽骇者，覆也；尘高而锐者，车来也；卑而广者，徒来也；散而条达者，樵采也；少而往来者，营军也。"
 translation: "许多树木摇动，是敌人来了；草丛中有许多障碍物，是敌人布下的疑阵；鸟群飞起，说明下面有埋伏；野兽惊跑，说明敌人从远处覆盖而来；尘土高而尖锐，是战车来了；尘土低而宽广，是步兵来了；尘土散乱细长，是敌人在砍柴；尘土少而往来不定，是敌人正在扎营。"
 source: "《孙子兵法·行军篇》"
 content_version: "v0"
-faq:
-  - q: "马拉松比赛中，跟随跑选手发现领跑者步频突然加快但步幅变小，此时应选择立即跟随还是保持原配速？"
-    a: "先观察步态变化原因，再决定是否跟随。"
 cover:
-  image: "placeholder/quotes.jpg"
+  image: "quotes/chapter-09-xing-jun/zhong-shu-dong-zhe-lai-ye.jpg"
   alt: "众树动者，来也；众草多障者，疑也；鸟起者"
-  caption: "行军篇：众树动者，来也；众草"
-draft: false
-ads:
-  top: true
-  bottom: true
+  title: "行军篇"
+  caption: "行军篇"
+  width: 1200
+  height: 630
 ---
 
 ## 原文
@@ -50,3 +50,4 @@ ads:
 ### 马拉松比赛中，跟随跑选手发现领跑者步频突然加快但步幅变小，此时应选择立即跟随还是保持原配速？
 
 先观察步态变化原因，再决定是否跟随。
+

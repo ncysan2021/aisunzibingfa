@@ -3,32 +3,32 @@ title: "“故用间有五：有因间，有内间，有反间，有死间，有
 description: "《孙子兵法·用间篇》名句的原文、白话解释与竞技应用。"
 slug: "gu-yong-jian-you-wu"
 date: 2026-09-12
-lastmod: 2026-09-12
+lastmod: 2026-09-13
 type: "quotes"
+draft: false
+ads: true
+toc: true
 chapter: "用间篇"
 chapter_slug: "chapter-13-yong-jian"
 chapter_order: 13
 quote_id: "yong-jian-005"
 order: 5
-core_dimension: "战略"
-aux_dimension: ""
 quote_dimension: "战略"
 quote_sub_dimension: ""
+core_dimension: "战略"
+aux_dimension: ""
+author: "吴雄山"
 original: "故用间有五：有因间，有内间，有反间，有死间，有生间。"
 translation: "所以使用间谍有五种：有因间、内间、反间、死间、生间。"
 source: "《孙子兵法·用间篇》"
 content_version: "v0"
-faq:
-  - q: "一支足球队在备战关键比赛时，为何需要同时关注对手的体能数据、战术录像、伤病名单和内部动态，而不是只依赖单一信息源？"
-    a: "单一信息源造成盲区，多源情报拼出完整画像。"
 cover:
-  image: "placeholder/quotes.jpg"
+  image: "quotes/chapter-13-yong-jian/gu-yong-jian-you-wu.jpg"
   alt: "故用间有五：有因间，有内间，有反间，有死"
-  caption: "用间篇：故用间有五：有因间，"
-draft: false
-ads:
-  top: true
-  bottom: true
+  title: "用间篇"
+  caption: "用间篇"
+  width: 1200
+  height: 630
 ---
 
 ## 原文
@@ -50,3 +50,4 @@ ads:
 ### 一支足球队在备战关键比赛时，为何需要同时关注对手的体能数据、战术录像、伤病名单和内部动态，而不是只依赖单一信息源？
 
 单一信息源造成盲区，多源情报拼出完整画像。
+

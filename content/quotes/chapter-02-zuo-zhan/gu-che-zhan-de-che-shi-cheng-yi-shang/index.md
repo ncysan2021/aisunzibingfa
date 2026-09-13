@@ -3,32 +3,32 @@ title: "“故车战，得车十乘以上，赏其先得者，而更其旌旗，
 description: "《孙子兵法·作战篇》名句的原文、白话解释与竞技应用。"
 slug: "gu-che-zhan-de-che-shi-cheng-yi-shang"
 date: 2026-09-12
-lastmod: 2026-09-12
+lastmod: 2026-09-13
 type: "quotes"
+draft: false
+ads: true
+toc: true
 chapter: "作战篇"
 chapter_slug: "chapter-02-zuo-zhan"
 chapter_order: 2
 quote_id: "zuo-zhan-013"
 order: 13
-core_dimension: "资源约束"
-aux_dimension: ""
 quote_dimension: "资源约束"
 quote_sub_dimension: ""
+core_dimension: "资源约束"
+aux_dimension: ""
+author: "吴雄山"
 original: "故车战，得车十乘以上，赏其先得者，而更其旌旗，车杂而乘之，卒善而养之，是谓胜敌而益强。"
 translation: "所以车战中，缴获战车十辆以上的，奖赏最先夺得战车的人，并更换战车上的旗帜，把缴获的战车混编入自己的车队，俘虏的士兵要善待和使用，这就叫战胜敌人而使自己更强大。"
 source: "《孙子兵法·作战篇》"
 content_version: "v0"
-faq:
-  - q: "为什么在篮球比赛中，成功制造对手进攻犯规，不仅能获得球权，还能削弱对手核心球员的出场时间？"
-    a: "制造进攻犯规获球权并增对手犯规，削核心出场。"
 cover:
-  image: "placeholder/quotes.jpg"
+  image: "quotes/chapter-02-zuo-zhan/gu-che-zhan-de-che-shi-cheng-yi-shang.jpg"
   alt: "故车战，得车十乘以上，赏其先得者，而更其"
-  caption: "作战篇：故车战，得车十乘以上"
-draft: false
-ads:
-  top: true
-  bottom: true
+  title: "作战篇"
+  caption: "作战篇"
+  width: 1200
+  height: 630
 ---
 
 ## 原文
@@ -50,3 +50,4 @@ ads:
 ### 为什么在篮球比赛中，成功制造对手进攻犯规，不仅能获得球权，还能削弱对手核心球员的出场时间？
 
 制造进攻犯规获球权并增对手犯规，削核心出场。
+

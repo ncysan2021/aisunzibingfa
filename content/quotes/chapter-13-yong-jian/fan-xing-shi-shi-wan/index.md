@@ -3,32 +3,32 @@ title: "“孙子曰：凡兴师十万，出征千里，百姓之费，公家之
 description: "《孙子兵法·用间篇》名句的原文、白话解释与竞技应用。"
 slug: "fan-xing-shi-shi-wan"
 date: 2026-09-12
-lastmod: 2026-09-12
+lastmod: 2026-09-13
 type: "quotes"
+draft: false
+ads: true
+toc: true
 chapter: "用间篇"
 chapter_slug: "chapter-13-yong-jian"
 chapter_order: 13
 quote_id: "yong-jian-001"
 order: 1
-core_dimension: "资源约束"
-aux_dimension: "战略"
 quote_dimension: "资源约束"
 quote_sub_dimension: "战略"
+core_dimension: "资源约束"
+aux_dimension: "战略"
+author: "吴雄山"
 original: "孙子曰：凡兴师十万，出征千里，百姓之费，公家之奉，日费千金；内外骚动，怠于道路，不得操事者，七十万家。"
 translation: "孙子说：大凡出动十万人的军队，远征千里之外，百姓的财物耗费和国家的财政支出，每天要消耗千金；内外动荡不安，民众疲于运输补给，无法正常从事农业生产的有七十万家。"
 source: "《孙子兵法·用间篇》"
 content_version: "v0"
-faq:
-  - q: "一名业余马拉松爱好者投入大量收入和时间训练参赛，导致工作与家庭关系持续紧张，是否说明对训练资源消耗的预估不足？"
-    a: "是的，训练消耗超出生活承载能力，引发整体失衡。"
 cover:
-  image: "placeholder/quotes.jpg"
+  image: "quotes/chapter-13-yong-jian/fan-xing-shi-shi-wan.jpg"
   alt: "孙子曰：凡兴师十万，出征千里，百姓之费，"
-  caption: "用间篇：孙子曰：凡兴师十万，"
-draft: false
-ads:
-  top: true
-  bottom: true
+  title: "用间篇"
+  caption: "用间篇"
+  width: 1200
+  height: 630
 ---
 
 ## 原文
@@ -50,3 +50,4 @@ ads:
 ### 一名业余马拉松爱好者投入大量收入和时间训练参赛，导致工作与家庭关系持续紧张，是否说明对训练资源消耗的预估不足？
 
 是的，训练消耗超出生活承载能力，引发整体失衡。
+

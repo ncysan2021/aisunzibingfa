@@ -3,32 +3,32 @@ title: "“故善用兵者，譬如率然；率然者，常山之蛇也。击其
 description: "《孙子兵法·九地篇》名句的原文、白话解释与竞技应用。"
 slug: "gu-shan-yong-bing-zhe-pi-ru-shuai-ran"
 date: 2026-09-12
-lastmod: 2026-09-12
+lastmod: 2026-09-13
 type: "quotes"
+draft: false
+ads: true
+toc: true
 chapter: "九地篇"
 chapter_slug: "chapter-11-jiu-di"
 chapter_order: 11
 quote_id: "jiu-di-024"
 order: 24
-core_dimension: "战术"
-aux_dimension: ""
 quote_dimension: "战术"
 quote_sub_dimension: ""
+core_dimension: "战术"
+aux_dimension: ""
+author: "吴雄山"
 original: "故善用兵者，譬如率然；率然者，常山之蛇也。击其首则尾至，击其尾则首至，击其中则首尾俱至。"
 translation: "所以善于用兵的人，就像率然一样；率然是常山的一种蛇。打它的头，尾巴就会来救应；打它的尾，头就会来救应；打它的中间，头尾都会来救应。"
 source: "《孙子兵法·九地篇》"
 content_version: "v0"
-faq:
-  - q: "为什么有些球队在局部被突破后，其他位置的球员能迅速补位，形成有效防守？"
-    a: "整体防守意识让补位成为条件反射。"
 cover:
-  image: "placeholder/quotes.jpg"
+  image: "quotes/chapter-11-jiu-di/gu-shan-yong-bing-zhe-pi-ru-shuai-ran.jpg"
   alt: "故善用兵者，譬如率然；率然者，常山之蛇也"
-  caption: "九地篇：故善用兵者，譬如率然"
-draft: false
-ads:
-  top: true
-  bottom: true
+  title: "九地篇"
+  caption: "九地篇"
+  width: 1200
+  height: 630
 ---
 
 ## 原文
@@ -50,3 +50,4 @@ ads:
 ### 为什么有些球队在局部被突破后，其他位置的球员能迅速补位，形成有效防守？
 
 整体防守意识让补位成为条件反射。
+

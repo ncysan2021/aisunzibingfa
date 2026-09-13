@@ -3,32 +3,32 @@ title: "“夫霸王之兵，伐大国，则其众不得聚；威加于敌，则
 description: "《孙子兵法·九地篇》名句的原文、白话解释与竞技应用。"
 slug: "fu-ba-wang-zhi-bing"
 date: 2026-09-12
-lastmod: 2026-09-12
+lastmod: 2026-09-13
 type: "quotes"
+draft: false
+ads: true
+toc: true
 chapter: "九地篇"
 chapter_slug: "chapter-11-jiu-di"
 chapter_order: 11
 quote_id: "jiu-di-042"
 order: 42
-core_dimension: "战术"
-aux_dimension: ""
 quote_dimension: "战术"
 quote_sub_dimension: ""
+core_dimension: "战术"
+aux_dimension: ""
+author: "吴雄山"
 original: "夫霸王之兵，伐大国，则其众不得聚；威加于敌，则其交不得合。"
 translation: "霸王的军队，讨伐大国，能使大国的民众来不及聚集；威力施加于敌国，能使敌国的盟国不敢联合。"
 source: "《孙子兵法·九地篇》"
 content_version: "v0"
-faq:
-  - q: "如果一支球队在关键比赛中未能施加足够威慑，对手的进攻配合会更加流畅，最终可能导致什么结果？"
-    a: "对手进攻流畅，己方防守压力增大，最终失分。"
 cover:
-  image: "placeholder/quotes.jpg"
+  image: "quotes/chapter-11-jiu-di/fu-ba-wang-zhi-bing.jpg"
   alt: "夫霸王之兵，伐大国，则其众不得聚；威加于"
-  caption: "九地篇：夫霸王之兵，伐大国，"
-draft: false
-ads:
-  top: true
-  bottom: true
+  title: "九地篇"
+  caption: "九地篇"
+  width: 1200
+  height: 630
 ---
 
 ## 原文
@@ -50,3 +50,4 @@ ads:
 ### 如果一支球队在关键比赛中未能施加足够威慑，对手的进攻配合会更加流畅，最终可能导致什么结果？
 
 对手进攻流畅，己方防守压力增大，最终失分。
+

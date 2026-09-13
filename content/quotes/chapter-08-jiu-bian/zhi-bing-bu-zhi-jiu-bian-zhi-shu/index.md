@@ -3,32 +3,32 @@ title: "“治兵不知九变之术，虽知五利，不能得人之用矣。”
 description: "《孙子兵法·九变篇》名句的原文、白话解释与竞技应用。"
 slug: "zhi-bing-bu-zhi-jiu-bian-zhi-shu"
 date: 2026-09-12
-lastmod: 2026-09-12
+lastmod: 2026-09-13
 type: "quotes"
+draft: false
+ads: true
+toc: true
 chapter: "九变篇"
 chapter_slug: "chapter-08-jiu-bian"
 chapter_order: 8
 quote_id: "jiu-bian-006"
 order: 6
-core_dimension: "执行"
-aux_dimension: "战术"
 quote_dimension: "执行"
 quote_sub_dimension: "战术"
+core_dimension: "执行"
+aux_dimension: "战术"
+author: "吴雄山"
 original: "治兵不知九变之术，虽知五利，不能得人之用矣。"
 translation: "治理军队如果不了解各种机变的方法，即使知道五种地形的利用原则，也不能充分发挥士兵的作用。"
 source: "《孙子兵法·九变篇》"
 content_version: "v0"
-faq:
-  - q: "篮球比赛中，教练拥有多名不同特点的替补球员，却始终只用固定轮换，背后的决策障碍是什么？"
-    a: "过度依赖主力阵容，不愿承担调整带来的不确定性。"
 cover:
-  image: "placeholder/quotes.jpg"
+  image: "quotes/chapter-08-jiu-bian/zhi-bing-bu-zhi-jiu-bian-zhi-shu.jpg"
   alt: "治兵不知九变之术，虽知五利，不能得人之用"
-  caption: "九变篇：治兵不知九变之术，虽"
-draft: false
-ads:
-  top: true
-  bottom: true
+  title: "九变篇"
+  caption: "九变篇"
+  width: 1200
+  height: 630
 ---
 
 ## 原文
@@ -50,3 +50,4 @@ ads:
 ### 篮球比赛中，教练拥有多名不同特点的替补球员，却始终只用固定轮换，背后的决策障碍是什么？
 
 过度依赖主力阵容，不愿承担调整带来的不确定性。
+

@@ -3,32 +3,32 @@ title: "“将军之事：静以幽，正以治。”是什么意思？"
 description: "《孙子兵法·九地篇》名句的原文、白话解释与竞技应用。"
 slug: "jiang-jun-zhi-shi"
 date: 2026-09-12
-lastmod: 2026-09-12
+lastmod: 2026-09-13
 type: "quotes"
+draft: false
+ads: true
+toc: true
 chapter: "九地篇"
 chapter_slug: "chapter-11-jiu-di"
 chapter_order: 11
 quote_id: "jiu-di-028"
 order: 28
-core_dimension: "执行"
-aux_dimension: ""
 quote_dimension: "执行"
 quote_sub_dimension: ""
+core_dimension: "执行"
+aux_dimension: ""
+author: "吴雄山"
 original: "将军之事：静以幽，正以治。"
 translation: "将军的处事原则：冷静而深沉，公正而有条理。"
 source: "《孙子兵法·九地篇》"
 content_version: "v0"
-faq:
-  - q: "为什么高水平教练在比赛关键时刻往往比队员更冷静，这种冷静如何传递给全队？"
-    a: "教练冷静源于全局视角，传递靠稳定指挥。"
 cover:
-  image: "placeholder/quotes.jpg"
+  image: "quotes/chapter-11-jiu-di/jiang-jun-zhi-shi.jpg"
   alt: "将军之事：静以幽，正以治。"
-  caption: "九地篇：将军之事：静以幽，正"
-draft: false
-ads:
-  top: true
-  bottom: true
+  title: "九地篇"
+  caption: "九地篇"
+  width: 1200
+  height: 630
 ---
 
 ## 原文
@@ -50,3 +50,4 @@ ads:
 ### 为什么高水平教练在比赛关键时刻往往比队员更冷静，这种冷静如何传递给全队？
 
 教练冷静源于全局视角，传递靠稳定指挥。
+

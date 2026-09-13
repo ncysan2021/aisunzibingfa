@@ -3,32 +3,32 @@ title: "“故用兵之法，高陵勿向，背丘勿逆，佯北勿从，锐卒
 description: "《孙子兵法·军争篇》名句的原文、白话解释与竞技应用。"
 slug: "gu-yong-bing-zhi-fa-gao-ling-wu-xiang"
 date: 2026-09-12
-lastmod: 2026-09-12
+lastmod: 2026-09-13
 type: "quotes"
+draft: false
+ads: true
+toc: true
 chapter: "军争篇"
 chapter_slug: "chapter-07-jun-zheng"
 chapter_order: 7
 quote_id: "jun-zheng-028"
 order: 28
-core_dimension: "执行"
-aux_dimension: "战术"
 quote_dimension: "执行"
 quote_sub_dimension: "战术"
+core_dimension: "执行"
+aux_dimension: "战术"
+author: "吴雄山"
 original: "故用兵之法，高陵勿向，背丘勿逆，佯北勿从，锐卒勿攻，饵兵勿食，归师勿遏，围师必阙，穷寇勿迫，此用兵之法也。"
 translation: "所以用兵的方法是：敌人占据高处时不要仰攻，敌人背靠山丘时不要正面迎击，敌人假装败退时不要追击，敌人精锐部队不要强攻，敌人的诱饵部队不要贪吃，撤退回国的军队不要拦截，被包围的敌军要留下缺口，陷入绝境的敌人不要过分逼迫，这就是用兵的法则。"
 source: "《孙子兵法·军争篇》"
 content_version: "v0"
-faq:
-  - q: "羽毛球比赛中，对手故意漏出后场空当诱使自己挑高球，盲目进攻会付出什么代价？"
-    a: "盲目进攻落入陷阱，失去主动。"
 cover:
-  image: "placeholder/quotes.jpg"
+  image: "quotes/chapter-07-jun-zheng/gu-yong-bing-zhi-fa-gao-ling-wu-xiang.jpg"
   alt: "故用兵之法，高陵勿向，背丘勿逆，佯北勿从"
-  caption: "军争篇：故用兵之法，高陵勿向"
-draft: false
-ads:
-  top: true
-  bottom: true
+  title: "军争篇"
+  caption: "军争篇"
+  width: 1200
+  height: 630
 ---
 
 ## 原文
@@ -50,3 +50,4 @@ ads:
 ### 羽毛球比赛中，对手故意漏出后场空当诱使自己挑高球，盲目进攻会付出什么代价？
 
 盲目进攻落入陷阱，失去主动。
+

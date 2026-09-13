@@ -3,32 +3,32 @@ title: "“孙子曰：夫用兵之法，全国为上，破国次之；全军为
 description: "《孙子兵法·谋攻篇》名句的原文、白话解释与竞技应用。"
 slug: "quan-guo-wei-shang-po-guo-ci-zhi"
 date: 2026-09-12
-lastmod: 2026-09-12
+lastmod: 2026-09-13
 type: "quotes"
+draft: false
+ads: true
+toc: true
 chapter: "谋攻篇"
 chapter_slug: "chapter-03-mou-gong"
 chapter_order: 3
 quote_id: "mou-gong-001"
 order: 1
-core_dimension: "战略"
-aux_dimension: ""
 quote_dimension: "战略"
 quote_sub_dimension: ""
+core_dimension: "战略"
+aux_dimension: ""
+author: "吴雄山"
 original: "孙子曰：夫用兵之法，全国为上，破国次之；全军为上，破军次之；全旅为上，破旅次之；全卒为上，破卒次之；全伍为上，破伍次之。"
 translation: "用兵的原则是：使敌人整个国家完整地降服是上策，击破敌国就次一等；使敌人全军完整降服是上策，击破敌军就次一等；使敌人全旅完整降服是上策，击破敌旅就次一等；使敌人全卒完整降服是上策，击破敌卒就次一等；使敌人全伍完整降服是上策，击破敌伍就次一等。"
 source: "《孙子兵法·谋攻篇》"
 content_version: "v0"
-faq:
-  - q: "在实力接近的比赛中，为什么一方常常选择控制节奏而非频繁发动强攻？"
-    a: "控制节奏可减少自身损耗，以完整状态取胜。"
 cover:
-  image: "placeholder/quotes.jpg"
+  image: "quotes/chapter-03-mou-gong/quan-guo-wei-shang-po-guo-ci-zhi.jpg"
   alt: "孙子曰：夫用兵之法，全国为上，破国次之；"
-  caption: "谋攻篇：孙子曰：夫用兵之法，"
-draft: false
-ads:
-  top: true
-  bottom: true
+  title: "谋攻篇"
+  caption: "谋攻篇"
+  width: 1200
+  height: 630
 ---
 
 ## 原文
@@ -50,3 +50,4 @@ ads:
 ### 在实力接近的比赛中，为什么一方常常选择控制节奏而非频繁发动强攻？
 
 控制节奏可减少自身损耗，以完整状态取胜。
+

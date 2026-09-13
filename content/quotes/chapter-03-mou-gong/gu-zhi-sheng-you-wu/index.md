@@ -3,32 +3,32 @@ title: "“故知胜有五：知可以战与不可以战者胜，识众寡之用
 description: "《孙子兵法·谋攻篇》名句的原文、白话解释与竞技应用。"
 slug: "gu-zhi-sheng-you-wu"
 date: 2026-09-12
-lastmod: 2026-09-12
+lastmod: 2026-09-13
 type: "quotes"
+draft: false
+ads: true
+toc: true
 chapter: "谋攻篇"
 chapter_slug: "chapter-03-mou-gong"
 chapter_order: 3
 quote_id: "mou-gong-014"
 order: 14
-core_dimension: "战略"
-aux_dimension: ""
 quote_dimension: "战略"
 quote_sub_dimension: ""
+core_dimension: "战略"
+aux_dimension: ""
+author: "吴雄山"
 original: "故知胜有五：知可以战与不可以战者胜，识众寡之用者胜，上下同欲者胜，以虞待不虞者胜，将能而君不御者胜。"
 translation: "所以，预知胜利有五种情况：知道什么情况下可以打、什么情况下不可以打的，能胜利；懂得根据兵力多少采用不同打法的，能胜利；全军上下意愿一致的，能胜利；以有准备对待无准备的，能胜利；将领有才能而君主不干预的，能胜利。"
 source: "《孙子兵法·谋攻篇》"
 content_version: "v0"
-faq:
-  - q: "在实力相当的比赛中，如何通过分析对手的参赛状态来判断是否应该采取主动进攻还是保守应对？"
-    a: "对手状态差则主动进攻，状态好则保守应对。"
 cover:
-  image: "placeholder/quotes.jpg"
+  image: "quotes/chapter-03-mou-gong/gu-zhi-sheng-you-wu.jpg"
   alt: "故知胜有五：知可以战与不可以战者胜，识众"
-  caption: "谋攻篇：故知胜有五：知可以战"
-draft: false
-ads:
-  top: true
-  bottom: true
+  title: "谋攻篇"
+  caption: "谋攻篇"
+  width: 1200
+  height: 630
 ---
 
 ## 原文
@@ -50,3 +50,4 @@ ads:
 ### 在实力相当的比赛中，如何通过分析对手的参赛状态来判断是否应该采取主动进攻还是保守应对？
 
 对手状态差则主动进攻，状态好则保守应对。
+

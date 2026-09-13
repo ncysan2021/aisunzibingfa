@@ -3,32 +3,32 @@ title: "“昔殷之兴也，伊挚在夏；周之兴也，吕牙在殷。故惟
 description: "《孙子兵法·用间篇》名句的原文、白话解释与竞技应用。"
 slug: "xi-yin-zhi-xing-ye"
 date: 2026-09-12
-lastmod: 2026-09-12
+lastmod: 2026-09-13
 type: "quotes"
+draft: false
+ads: true
+toc: true
 chapter: "用间篇"
 chapter_slug: "chapter-13-yong-jian"
 chapter_order: 13
 quote_id: "yong-jian-020"
 order: 20
-core_dimension: "复盘"
-aux_dimension: ""
 quote_dimension: "复盘"
 quote_sub_dimension: ""
+core_dimension: "复盘"
+aux_dimension: ""
+author: "吴雄山"
 original: "昔殷之兴也，伊挚在夏；周之兴也，吕牙在殷。故惟明君贤将，能以上智为间者，必成大功。"
 translation: "从前商朝兴起，是因为伊尹在夏朝做间谍；周朝兴起，是因为姜子牙在商朝做间谍。所以明智的君主和优秀的将领，如果能用真正有智慧的人做间谍，一定能成就大功。"
 source: "《孙子兵法·用间篇》"
 content_version: "v0"
-faq:
-  - q: "一支足球队聘请曾长期在对手俱乐部任职的战术顾问，为何这种“内部智囊”比普通球探更能带来关键突破？"
-    a: "掌握对手体系深层逻辑，能预判决策。"
 cover:
-  image: "placeholder/quotes.jpg"
+  image: "quotes/chapter-13-yong-jian/xi-yin-zhi-xing-ye.jpg"
   alt: "昔殷之兴也，伊挚在夏；周之兴也，吕牙在殷"
-  caption: "用间篇：昔殷之兴也，伊挚在夏"
-draft: false
-ads:
-  top: true
-  bottom: true
+  title: "用间篇"
+  caption: "用间篇"
+  width: 1200
+  height: 630
 ---
 
 ## 原文
@@ -50,3 +50,4 @@ ads:
 ### 一支足球队聘请曾长期在对手俱乐部任职的战术顾问，为何这种“内部智囊”比普通球探更能带来关键突破？
 
 掌握对手体系深层逻辑，能预判决策。
+

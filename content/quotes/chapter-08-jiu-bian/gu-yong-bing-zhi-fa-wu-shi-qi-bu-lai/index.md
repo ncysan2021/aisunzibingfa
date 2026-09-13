@@ -3,32 +3,32 @@ title: "“故用兵之法，无恃其不来，恃吾有以待也；无恃其不
 description: "《孙子兵法·九变篇》名句的原文、白话解释与竞技应用。"
 slug: "gu-yong-bing-zhi-fa-wu-shi-qi-bu-lai"
 date: 2026-09-12
-lastmod: 2026-09-12
+lastmod: 2026-09-13
 type: "quotes"
+draft: false
+ads: true
+toc: true
 chapter: "九变篇"
 chapter_slug: "chapter-08-jiu-bian"
 chapter_order: 8
 quote_id: "jiu-bian-010"
 order: 10
-core_dimension: "执行"
-aux_dimension: "战术"
 quote_dimension: "执行"
 quote_sub_dimension: "战术"
+core_dimension: "执行"
+aux_dimension: "战术"
+author: "吴雄山"
 original: "故用兵之法，无恃其不来，恃吾有以待也；无恃其不攻，恃吾有所不可攻也。"
 translation: "所以用兵的法则是，不要指望敌人不来，而要依靠自己有所准备；不要指望敌人不进攻，而要依靠自己拥有敌人无法攻破的条件。"
 source: "《孙子兵法·九变篇》"
 content_version: "v0"
-faq:
-  - q: "篮球比赛中，当对手拥有强力中锋时，防守方应如何提前布置协防，而不是等到对手接球后再反应？"
-    a: "提前布置弱侧协防，切断传球路线，限制接球。"
 cover:
-  image: "placeholder/quotes.jpg"
+  image: "quotes/chapter-08-jiu-bian/gu-yong-bing-zhi-fa-wu-shi-qi-bu-lai.jpg"
   alt: "故用兵之法，无恃其不来，恃吾有以待也；无"
-  caption: "九变篇：故用兵之法，无恃其不"
-draft: false
-ads:
-  top: true
-  bottom: true
+  title: "九变篇"
+  caption: "九变篇"
+  width: 1200
+  height: 630
 ---
 
 ## 原文
@@ -50,3 +50,4 @@ ads:
 ### 篮球比赛中，当对手拥有强力中锋时，防守方应如何提前布置协防，而不是等到对手接球后再反应？
 
 提前布置弱侧协防，切断传球路线，限制接球。
+

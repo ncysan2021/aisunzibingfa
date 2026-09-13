@@ -3,32 +3,32 @@ title: "“四五者，不知一，非霸王之兵也。”是什么意思？"
 description: "《孙子兵法·九地篇》名句的原文、白话解释与竞技应用。"
 slug: "si-wu-zhe-bu-zhi-yi"
 date: 2026-09-12
-lastmod: 2026-09-12
+lastmod: 2026-09-13
 type: "quotes"
+draft: false
+ads: true
+toc: true
 chapter: "九地篇"
 chapter_slug: "chapter-11-jiu-di"
 chapter_order: 11
 quote_id: "jiu-di-041"
 order: 41
-core_dimension: "战术"
-aux_dimension: ""
 quote_dimension: "战术"
 quote_sub_dimension: ""
+core_dimension: "战术"
+aux_dimension: ""
+author: "吴雄山"
 original: "四五者，不知一，非霸王之兵也。"
 translation: "这些情况（指九地等），有一种不了解，就不能成为霸王的军队。"
 source: "《孙子兵法·九地篇》"
 content_version: "v0"
-faq:
-  - q: "赛前准备时，应优先补齐哪一类信息盲区，以降低比赛中的不确定性？"
-    a: "优先补齐对手战术意图和场地条件信息。"
 cover:
-  image: "placeholder/quotes.jpg"
+  image: "quotes/chapter-11-jiu-di/si-wu-zhe-bu-zhi-yi.jpg"
   alt: "四五者，不知一，非霸王之兵也。"
-  caption: "九地篇：四五者，不知一，非霸"
-draft: false
-ads:
-  top: true
-  bottom: true
+  title: "九地篇"
+  caption: "九地篇"
+  width: 1200
+  height: 630
 ---
 
 ## 原文
@@ -50,3 +50,4 @@ ads:
 ### 赛前准备时，应优先补齐哪一类信息盲区，以降低比赛中的不确定性？
 
 优先补齐对手战术意图和场地条件信息。
+

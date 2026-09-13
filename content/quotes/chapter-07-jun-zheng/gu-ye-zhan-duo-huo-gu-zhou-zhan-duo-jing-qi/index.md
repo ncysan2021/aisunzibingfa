@@ -3,32 +3,32 @@ title: "“故夜战多火鼓，昼战多旌旗，所以变人之耳目也。”
 description: "《孙子兵法·军争篇》名句的原文、白话解释与竞技应用。"
 slug: "gu-ye-zhan-duo-huo-gu-zhou-zhan-duo-jing-qi"
 date: 2026-09-12
-lastmod: 2026-09-12
+lastmod: 2026-09-13
 type: "quotes"
+draft: false
+ads: true
+toc: true
 chapter: "军争篇"
 chapter_slug: "chapter-07-jun-zheng"
 chapter_order: 7
 quote_id: "jun-zheng-021"
 order: 21
-core_dimension: "执行"
-aux_dimension: ""
 quote_dimension: "执行"
 quote_sub_dimension: ""
+core_dimension: "执行"
+aux_dimension: ""
+author: "吴雄山"
 original: "故夜战多火鼓，昼战多旌旗，所以变人之耳目也。"
 translation: "所以夜间作战多用火光和鼓声，白天作战多用旌旗，是为了适应人们在不同环境下的视听习惯。"
 source: "《孙子兵法·军争篇》"
 content_version: "v0"
-faq:
-  - q: "公路自行车赛中，车队如何根据天气和光线条件调整队内无线电和手势的使用比例？"
-    a: "根据环境切换信号工具，保障指令传递准确。"
 cover:
-  image: "placeholder/quotes.jpg"
+  image: "quotes/chapter-07-jun-zheng/gu-ye-zhan-duo-huo-gu-zhou-zhan-duo-jing-qi.jpg"
   alt: "故夜战多火鼓，昼战多旌旗，所以变人之耳目"
-  caption: "军争篇：故夜战多火鼓，昼战多"
-draft: false
-ads:
-  top: true
-  bottom: true
+  title: "军争篇"
+  caption: "军争篇"
+  width: 1200
+  height: 630
 ---
 
 ## 原文
@@ -50,3 +50,4 @@ ads:
 ### 公路自行车赛中，车队如何根据天气和光线条件调整队内无线电和手势的使用比例？
 
 根据环境切换信号工具，保障指令传递准确。
+

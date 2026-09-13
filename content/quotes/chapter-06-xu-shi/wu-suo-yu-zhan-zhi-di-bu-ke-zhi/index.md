@@ -3,32 +3,32 @@ title: "“吾所与战之地不可知，不可知，则敌所备者多；敌所
 description: "《孙子兵法·虚实篇》名句的原文、白话解释与竞技应用。"
 slug: "wu-suo-yu-zhan-zhi-di-bu-ke-zhi"
 date: 2026-09-12
-lastmod: 2026-09-12
+lastmod: 2026-09-13
 type: "quotes"
+draft: false
+ads: true
+toc: true
 chapter: "虚实篇"
 chapter_slug: "chapter-06-xu-shi"
 chapter_order: 6
 quote_id: "xu-shi-014"
 order: 14
-core_dimension: "战术"
-aux_dimension: ""
 quote_dimension: "战术"
 quote_sub_dimension: ""
+core_dimension: "战术"
+aux_dimension: ""
+author: "吴雄山"
 original: "吾所与战之地不可知，不可知，则敌所备者多；敌所备者多，则吾所与战者寡矣。"
 translation: "我要交战的地方敌人不知道，不知道，那么敌人要防备的地方就多；敌人防备的地方多，那么与我交战的敌人就少。"
 source: "《孙子兵法·虚实篇》"
 content_version: "v0"
-faq:
-  - q: "篮球进攻中，利用队友掩护后不急于出球，先观察防守反应再做选择，为什么能迫使防守者无法提前站位，从而在局部形成以多打少？"
-    a: "延迟决策使防守者无法预判传球方向，无法提前包夹。"
 cover:
-  image: "placeholder/quotes.jpg"
+  image: "quotes/chapter-06-xu-shi/wu-suo-yu-zhan-zhi-di-bu-ke-zhi.jpg"
   alt: "吾所与战之地不可知，不可知，则敌所备者多"
-  caption: "虚实篇：吾所与战之地不可知，"
-draft: false
-ads:
-  top: true
-  bottom: true
+  title: "虚实篇"
+  caption: "虚实篇"
+  width: 1200
+  height: 630
 ---
 
 ## 原文
@@ -50,3 +50,4 @@ ads:
 ### 篮球进攻中，利用队友掩护后不急于出球，先观察防守反应再做选择，为什么能迫使防守者无法提前站位，从而在局部形成以多打少？
 
 延迟决策使防守者无法预判传球方向，无法提前包夹。
+

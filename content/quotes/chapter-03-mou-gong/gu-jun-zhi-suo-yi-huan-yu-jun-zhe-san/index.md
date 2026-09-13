@@ -3,32 +3,32 @@ title: "“故君之所以患于军者三：不知军之不可以进而谓之进
 description: "《孙子兵法·谋攻篇》名句的原文、白话解释与竞技应用。"
 slug: "gu-jun-zhi-suo-yi-huan-yu-jun-zhe-san"
 date: 2026-09-12
-lastmod: 2026-09-12
+lastmod: 2026-09-13
 type: "quotes"
+draft: false
+ads: true
+toc: true
 chapter: "谋攻篇"
 chapter_slug: "chapter-03-mou-gong"
 chapter_order: 3
 quote_id: "mou-gong-012"
 order: 12
-core_dimension: "战略"
-aux_dimension: "执行"
 quote_dimension: "战略"
 quote_sub_dimension: "执行"
+core_dimension: "战略"
+aux_dimension: "执行"
+author: "吴雄山"
 original: "故君之所以患于军者三：不知军之不可以进而谓之进，不知军之不可以退而谓之退，是谓縻军；不知三军之事而同三军之政者，则军士惑矣；不知三军之权而同三军之任，则军士疑矣。"
 translation: "国君对军队造成危害的情况有三种：不了解军队不可以前进却命令它前进，不了解军队不可以后退却命令它后退，这叫束缚军队；不了解军队内部事务却干涉军队的行政管理，士兵就会迷惑；不了解军队的权变却干涉军队的指挥，士兵就会怀疑。"
 source: "《孙子兵法·谋攻篇》"
 content_version: "v0"
-faq:
-  - q: "在职业体育中，俱乐部管理层过度干预教练的战术安排，通常会导致什么后果？"
-    a: "战术执行混乱，球员信任度下降。"
 cover:
-  image: "placeholder/quotes.jpg"
+  image: "quotes/chapter-03-mou-gong/gu-jun-zhi-suo-yi-huan-yu-jun-zhe-san.jpg"
   alt: "故君之所以患于军者三：不知军之不可以进而"
-  caption: "谋攻篇：故君之所以患于军者三"
-draft: false
-ads:
-  top: true
-  bottom: true
+  title: "谋攻篇"
+  caption: "谋攻篇"
+  width: 1200
+  height: 630
 ---
 
 ## 原文
@@ -50,3 +50,4 @@ ads:
 ### 在职业体育中，俱乐部管理层过度干预教练的战术安排，通常会导致什么后果？
 
 战术执行混乱，球员信任度下降。
+

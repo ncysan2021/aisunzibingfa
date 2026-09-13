@@ -3,32 +3,32 @@ title: "“杖而立者，饥也；汲而先饮者，渴也；见利而不进者
 description: "《孙子兵法·行军篇》名句的原文、白话解释与竞技应用。"
 slug: "zhang-er-li-zhe-ji-ye"
 date: 2026-09-12
-lastmod: 2026-09-12
+lastmod: 2026-09-13
 type: "quotes"
+draft: false
+ads: true
+toc: true
 chapter: "行军篇"
 chapter_slug: "chapter-09-xing-jun"
 chapter_order: 9
 quote_id: "xing-jun-016"
 order: 16
-core_dimension: "执行"
-aux_dimension: ""
 quote_dimension: "执行"
 quote_sub_dimension: ""
+core_dimension: "执行"
+aux_dimension: ""
+author: "吴雄山"
 original: "杖而立者，饥也；汲而先饮者，渴也；见利而不进者，劳也；鸟集者，虚也；夜呼者，恐也；军扰者，将不重也；旌旗动者，乱也；吏怒者，倦也；粟马肉食，军无悬缻，不返其舍者，穷寇也；谆谆翕翕，徐与人言者，失众也；数赏者，窘也；数罚者，困也；先暴而后畏其众者，不精之至也；来委谢者，欲休息也。"
 translation: "士兵拄着兵器站立，是饥饿了；打水的人自己先喝，是口渴了；见到好处却不前进，是疲劳了；鸟群聚集在营中，是营垒空虚了；夜里有人惊叫，是军心恐惧了；军营骚动，是将领没有威望；旌旗摇晃不定，是阵形混乱了；军吏发怒，是士兵倦怠了；用粮食喂马，杀牲畜吃肉，军中不带水壶，士兵不返回营舍，是陷入绝境的敌人；低声下气、缓慢与人说话的，是失去了部众支持；频繁赏赐，是处境窘迫；频繁处罚，是陷入困境；先粗暴对待士兵而后又畏惧他们，是最不精明的表现；派人前来送礼谢罪，是想暂时休整。"
 source: "《孙子兵法·行军篇》"
 content_version: "v0"
-faq:
-  - q: "足球比赛下半场，对方球员在无对抗情况下频繁弯腰撑膝、抽筋倒地，此时我方应加快比赛节奏还是放慢？"
-    a: "应加快节奏，对方体能已明显下降。"
 cover:
-  image: "placeholder/quotes.jpg"
+  image: "quotes/chapter-09-xing-jun/zhang-er-li-zhe-ji-ye.jpg"
   alt: "杖而立者，饥也；汲而先饮者，渴也；见利而"
-  caption: "行军篇：杖而立者，饥也；汲而"
-draft: false
-ads:
-  top: true
-  bottom: true
+  title: "行军篇"
+  caption: "行军篇"
+  width: 1200
+  height: 630
 ---
 
 ## 原文
@@ -50,3 +50,4 @@ ads:
 ### 足球比赛下半场，对方球员在无对抗情况下频繁弯腰撑膝、抽筋倒地，此时我方应加快比赛节奏还是放慢？
 
 应加快节奏，对方体能已明显下降。
+

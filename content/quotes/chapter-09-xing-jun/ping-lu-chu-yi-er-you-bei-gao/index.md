@@ -3,32 +3,32 @@ title: "“平陆处易，而右背高，前死后生，此处平陆之军也。
 description: "《孙子兵法·行军篇》名句的原文、白话解释与竞技应用。"
 slug: "ping-lu-chu-yi-er-you-bei-gao"
 date: 2026-09-12
-lastmod: 2026-09-12
+lastmod: 2026-09-13
 type: "quotes"
+draft: false
+ads: true
+toc: true
 chapter: "行军篇"
 chapter_slug: "chapter-09-xing-jun"
 chapter_order: 9
 quote_id: "xing-jun-004"
 order: 4
-core_dimension: "执行"
-aux_dimension: "物理极限"
 quote_dimension: "执行"
 quote_sub_dimension: "物理极限"
+core_dimension: "执行"
+aux_dimension: "物理极限"
+author: "吴雄山"
 original: "平陆处易，而右背高，前死后生，此处平陆之军也。"
 translation: "在平原地区驻扎，要选择平坦开阔的地方，右侧和后方要依托高地，前低后高。这是平原地区部署军队的要点。"
 source: "《孙子兵法·行军篇》"
 content_version: "v0"
-faq:
-  - q: "足球比赛中，防守方在防守角球时，为什么通常安排一名球员站在近门柱，而不是将所有防守球员集中在门前中央？"
-    a: "近门柱球员封堵近角射门，减少防守盲区。"
 cover:
-  image: "placeholder/quotes.jpg"
+  image: "quotes/chapter-09-xing-jun/ping-lu-chu-yi-er-you-bei-gao.jpg"
   alt: "平陆处易，而右背高，前死后生，此处平陆之"
-  caption: "行军篇：平陆处易，而右背高，"
-draft: false
-ads:
-  top: true
-  bottom: true
+  title: "行军篇"
+  caption: "行军篇"
+  width: 1200
+  height: 630
 ---
 
 ## 原文
@@ -50,3 +50,4 @@ ads:
 ### 足球比赛中，防守方在防守角球时，为什么通常安排一名球员站在近门柱，而不是将所有防守球员集中在门前中央？
 
 近门柱球员封堵近角射门，减少防守盲区。
+

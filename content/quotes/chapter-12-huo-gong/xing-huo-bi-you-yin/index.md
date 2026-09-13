@@ -3,32 +3,32 @@ title: "“行火必有因，烟火必素具。”是什么意思？"
 description: "《孙子兵法·火攻篇》名句的原文、白话解释与竞技应用。"
 slug: "xing-huo-bi-you-yin"
 date: 2026-09-12
-lastmod: 2026-09-12
+lastmod: 2026-09-13
 type: "quotes"
+draft: false
+ads: true
+toc: true
 chapter: "火攻篇"
 chapter_slug: "chapter-12-huo-gong"
 chapter_order: 12
 quote_id: "huo-gong-002"
 order: 2
-core_dimension: "执行"
-aux_dimension: "资源约束"
 quote_dimension: "执行"
 quote_sub_dimension: "资源约束"
+core_dimension: "执行"
+aux_dimension: "资源约束"
+author: "吴雄山"
 original: "行火必有因，烟火必素具。"
 translation: "实施火攻必须有所凭借，火攻器材必须平时就准备好。"
 source: "《孙子兵法·火攻篇》"
 content_version: "v0"
-faq:
-  - q: "赛前对装备、体能、战术细节的准备工作，如何决定比赛中战术执行的成功率？"
-    a: "准备越充分，执行容错空间越大，成功率越高。"
 cover:
-  image: "placeholder/quotes.jpg"
+  image: "quotes/chapter-12-huo-gong/xing-huo-bi-you-yin.jpg"
   alt: "行火必有因，烟火必素具。"
-  caption: "火攻篇：行火必有因，烟火必素"
-draft: false
-ads:
-  top: true
-  bottom: true
+  title: "火攻篇"
+  caption: "火攻篇"
+  width: 1200
+  height: 630
 ---
 
 ## 原文
@@ -50,3 +50,4 @@ ads:
 ### 赛前对装备、体能、战术细节的准备工作，如何决定比赛中战术执行的成功率？
 
 准备越充分，执行容错空间越大，成功率越高。
+

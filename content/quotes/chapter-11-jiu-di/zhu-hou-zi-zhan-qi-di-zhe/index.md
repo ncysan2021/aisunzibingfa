@@ -3,32 +3,32 @@ title: "“诸侯自战其地者，为散地。”是什么意思？"
 description: "《孙子兵法·九地篇》名句的原文、白话解释与竞技应用。"
 slug: "zhu-hou-zi-zhan-qi-di-zhe"
 date: 2026-09-12
-lastmod: 2026-09-12
+lastmod: 2026-09-13
 type: "quotes"
+draft: false
+ads: true
+toc: true
 chapter: "九地篇"
 chapter_slug: "chapter-11-jiu-di"
 chapter_order: 11
 quote_id: "jiu-di-002"
 order: 2
-core_dimension: "战术"
-aux_dimension: ""
 quote_dimension: "战术"
 quote_sub_dimension: ""
+core_dimension: "战术"
+aux_dimension: ""
+author: "吴雄山"
 original: "诸侯自战其地者，为散地。"
 translation: "诸侯在自己的领土上作战，叫做散地。"
 source: "《孙子兵法·九地篇》"
 content_version: "v0"
-faq:
-  - q: "为什么有些队伍在主场反而发挥不出训练水平？"
-    a: "主场期望带来心理压力，干扰正常发挥。"
 cover:
-  image: "placeholder/quotes.jpg"
+  image: "quotes/chapter-11-jiu-di/zhu-hou-zi-zhan-qi-di-zhe.jpg"
   alt: "诸侯自战其地者，为散地。"
-  caption: "九地篇：诸侯自战其地者，为散"
-draft: false
-ads:
-  top: true
-  bottom: true
+  title: "九地篇"
+  caption: "九地篇"
+  width: 1200
+  height: 630
 ---
 
 ## 原文
@@ -50,3 +50,4 @@ ads:
 ### 为什么有些队伍在主场反而发挥不出训练水平？
 
 主场期望带来心理压力，干扰正常发挥。
+
