@@ -94,7 +94,7 @@
       {{- if $group -}}
         {{- range $page := $group -}}
           {{- $q := $page.Params -}}
-          {{- $faq := index $q.faq_short 0 -}}
+         {{- $faq := index $q.faq 0 -}}
           <div class="quote-card">
             {{- with $faq }}
               <h4 class="quote-question">💬 问题：{{ .q }}</h4>
