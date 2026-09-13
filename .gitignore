@@ -19,3 +19,7 @@ package-lock.json
 
 # 临时文件
 *.log
+
+# 敏感信息
+.env
+*.env
