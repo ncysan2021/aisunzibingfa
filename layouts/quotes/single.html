@@ -1,0 +1,132 @@
+{{- define "main" -}}
+
+<article class="post-single quote-detail">
+
+  {{- /* ═══ 面包屑 ═══ */ -}}
+  <header class="post-header">
+    <nav class="breadcrumbs" role="navigation" aria-label="Breadcrumb">
+      <a href="{{ "" | absLangURL }}">Home</a>
+      <span class="sep">›</span>
+      <a href="{{ "/quotes/" | absLangURL }}">经典语录</a>
+      <span class="sep">›</span>
+      <a href="{{ printf "/quotes/%s/" .Params.chapter_slug | absLangURL }}">{{ .Params.chapter }}</a>
+    </nav>
+    <h1 class="post-title">{{ .Title }}</h1>
+    {{- with .Description }}
+      <div class="post-description">{{ . }}</div>
+    {{- end }}
+  </header>
+
+  {{- /* ═══ 封面图 ═══ */ -}}
+  {{- with .Params.cover.image }}
+    {{- $url := printf "%s/%s" site.Params.imageBaseURL . }}
+    <figure class="entry-cover quote-cover">
+      <img loading="eager" src="{{ $url }}" alt="{{ $.Params.cover.alt | default $.Title }}" />
+      {{- with $.Params.cover.caption }}
+        <figcaption>{{ . }}</figcaption>
+      {{- end }}
+    </figure>
+  {{- end }}
+
+  {{- /* ═══ 核心速览盒（V8.5） ═══ */ -}}
+  {{- with .Params.tldr }}
+    <div class="tldr-box" aria-label="TL;DR">
+      <h2 class="tldr-title">📌 核心速览</h2>
+      <ul>
+        {{- range . }}
+          <li>{{ . }}</li>
+        {{- end }}
+      </ul>
+    </div>
+  {{- end }}
+
+  {{- /* ═══ E-E-A-T 文章信息区块 ═══ */ -}}
+  <section class="article-meta">
+    <p><strong>作者：</strong>{{ .Params.author | default "吴雄山" }}（{{ .Params.authorTitle | default "AI孙子兵法网站创办人" }}）</p>
+    <p><strong>所在地：</strong>{{ .Params.authorLocation | default "马来西亚吉隆坡" }}</p>
+    <p><strong>发布日期：</strong>{{ .Date.Format "2006-01-02" }}</p>
+    <p><strong>更新日期：</strong>{{ .Lastmod.Format "2006-01-02" }}</p>
+    <p><strong>原文出处：</strong>{{ .Params.source }}</p>
+    {{- with .Params.references }}
+      <p><strong>参考来源：</strong>{{ delimit . "；" }}</p>
+    {{- end }}
+  </section>
+
+  {{- /* ═══ 广告位 1 ═══ */ -}}
+  {{- partial "adsense.html" (dict "slot" "top") -}}
+
+  {{- /* ═══ 目录（TOC） ═══ */ -}}
+  {{- if .TableOfContents }}
+    <details class="toc" open>
+      <summary><span class="title">📖 目录</span></summary>
+      <div class="inner">{{ .TableOfContents }}</div>
+    </details>
+  {{- end }}
+
+  {{- /* ═══ 六段式正文 ═══ */ -}}
+  {{- if .Content }}
+    <div class="quote-sections">
+      {{ .Content }}
+    </div>
+  {{- end }}
+
+  {{- /* ═══ 广告位 2 ═══ */ -}}
+  {{- partial "adsense.html" (dict "slot" "bottom") -}}
+
+  {{- /* ═══ FAQ（第二条起） ═══ */ -}}
+  {{- $faq := .Params.faq | default (slice) }}
+  {{- if gt (len $faq) 1 }}
+    <section class="quote-faq-section">
+      <h2 class="section-heading">常见问题</h2>
+      {{- range $i, $item := $faq }}
+        {{- if gt $i 0 }}
+          <div class="quote-faq-item">
+            <h3 class="quote-faq-q">{{ $item.q }}</h3>
+            <p class="quote-faq-a">{{ $item.a }}</p>
+          </div>
+        {{- end }}
+      {{- end }}
+    </section>
+  {{- end }}
+
+  {{- /* ═══ 📚 相关语录（上下布局） ═══ */ -}}
+  {{- $related := .Site.RegularPages.Related . | first 5 }}
+  {{- with $related }}
+    <section class="quote-related">
+      <h2 class="section-heading">📚 相关语录</h2>
+      <ul class="related-list">
+        {{- range . }}
+          <li class="related-item">
+            <a href="{{ .RelPermalink }}">
+              <span class="related-chapter">{{ .Params.chapter }}</span>
+              <span class="related-original">{{ .Params.original }}</span>
+            </a>
+          </li>
+        {{- end }}
+      </ul>
+    </section>
+  {{- end }}
+
+  {{- /* ═══ 上一篇 / 下一篇（上下布局） ═══ */ -}}
+  {{- $prev := .PrevInSection }}
+  {{- $next := .NextInSection }}
+  {{- if or $prev $next }}
+    <nav class="paginav-vertical">
+      {{- with $prev }}
+        <a class="paginav-item prev" href="{{ .Permalink }}">
+          <span class="paginav-label">« 上一篇</span>
+          <span class="paginav-title">{{ .Title }}</span>
+        </a>
+      {{- end }}
+      {{- with $next }}
+        <a class="paginav-item next" href="{{ .Permalink }}">
+          <span class="paginav-label">下一篇 »</span>
+          <span class="paginav-title">{{ .Title }}</span>
+        </a>
+      {{- end }}
+    </nav>
+  {{- end }}
+
+</article>
+
+{{- end -}}
