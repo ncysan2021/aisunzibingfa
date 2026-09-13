@@ -1,0 +1,166 @@
+/* 语录列表页卡片样式 */
+.dimension-group {
+  margin: 40px 0;
+  scroll-margin-top: 80px;
+}
+
+.dimension-title {
+  font-size: 1.5rem;
+  color: #2c3e50;
+  border-bottom: 3px solid #2c3e50;
+  padding-bottom: 8px;
+  margin-bottom: 6px;
+}
+
+.dimension-desc {
+  color: #888;
+  font-size: 0.95rem;
+  margin: 4px 0 20px 0;
+}
+
+.quote-card {
+  margin: 24px 0;
+  padding: 20px 24px;
+  background: #fafafa;
+  border-left: 4px solid #2c3e50;
+  border-radius: 4px;
+}
+
+.quote-question {
+  font-size: 1.1rem;
+  color: #2c3e50;
+  margin: 0 0 12px 0;
+  font-weight: 600;
+  line-height: 1.5;
+}
+
+.quote-answer {
+  margin: 0 0 16px 0;
+  color: #444;
+  line-height: 1.7;
+}
+
+.quote-label {
+  margin: 12px 0 4px 0;
+  color: #555;
+  font-size: 0.95rem;
+}
+
+.quote-original {
+  margin: 0 0 8px 0;
+  padding: 10px 14px;
+  background: #fff;
+  border-left: 3px solid #d4a574;
+  font-size: 1.05rem;
+  line-height: 1.7;
+  color: #2c3e50;
+}
+
+.quote-translation {
+  margin: 0 0 8px 0;
+  font-size: 1rem;
+  line-height: 1.7;
+  color: #555;
+}
+
+.quote-link {
+  margin: 0;
+  font-size: 0.9rem;
+}
+
+.quote-link a {
+  color: #2c3e50;
+  text-decoration: none;
+  word-break: break-all;
+}
+
+.quote-link a:hover {
+  text-decoration: underline;
+}
+
+.quote-divider {
+  border: none;
+  border-top: 1px dashed #ddd;
+  margin: 16px 0 0 0;
+}
+
+.dimension-empty {
+  color: #999;
+  font-size: 0.95rem;
+  font-style: italic;
+  margin: 12px 0 24px 0;
+}
+
+[data-theme="dark"] .quote-card {
+  background: #1f1f1f;
+  border-left-color: #d4a574;
+}
+
+[data-theme="dark"] .quote-original {
+  background: #2a2a2a;
+  color: #e0e0e0;
+}
+
+[data-theme="dark"] .quote-question,
+[data-theme="dark"] .dimension-title {
+  color: #e0e0e0;
+}
+
+[data-theme="dark"] .dimension-title {
+  border-bottom-color: #d4a574;
+}
+
+/* 顶层篇列表卡片 */
+.chapter-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 16px;
+  margin: 24px 0;
+}
+
+.chapter-card {
+  padding: 20px;
+  background: #fafafa;
+  border-left: 4px solid #2c3e50;
+  border-radius: 4px;
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.chapter-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+}
+
+.chapter-link {
+  text-decoration: none;
+  color: inherit;
+  display: block;
+}
+
+.chapter-name {
+  font-size: 1.3rem;
+  color: #2c3e50;
+  margin: 0 0 8px 0;
+}
+
+.chapter-desc {
+  font-size: 0.95rem;
+  color: #666;
+  margin: 0 0 12px 0;
+  line-height: 1.6;
+}
+
+.chapter-count {
+  font-size: 0.9rem;
+  color: #999;
+  margin: 0;
+}
+
+[data-theme="dark"] .chapter-card {
+  background: #1f1f1f;
+  border-left-color: #d4a574;
+}
+
+[data-theme="dark"] .chapter-name {
+  color: #e0e0e0;
+}

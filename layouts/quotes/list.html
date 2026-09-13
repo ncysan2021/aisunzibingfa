@@ -1,0 +1,120 @@
+{{- define "main" -}}
+
+{{- /* 判断是否是顶层 /quotes/ */ -}}
+{{- $isTop := eq .Parent .Site.Home -}}
+
+{{- if $isTop -}}
+  {{- /* ═══════════════════════════════════
+       顶层：显示 13 篇列表
+       ═══════════════════════════════════ */ -}}
+
+  <header class="page-header">
+    <h1>{{ .Title }}</h1>
+    {{- with .Description }}
+      <div class="page-description">{{ . }}</div>
+    {{- end }}
+  </header>
+
+  <div class="chapter-list">
+    {{- range .Pages.ByParam "weight" -}}
+      {{- $ch := .Params -}}
+      <div class="chapter-card">
+        <a href="{{ .RelPermalink }}" class="chapter-link">
+          <h2 class="chapter-name">{{ .Title }}</h2>
+          {{- with .Description }}
+            <p class="chapter-desc">{{ . }}</p>
+          {{- end }}
+          <p class="chapter-count">
+            共 {{ len .Pages }} 条语录
+          </p>
+        </a>
+      </div>
+    {{- end -}}
+  </div>
+
+{{- else -}}
+  {{- /* ═══════════════════════════════════
+       篇内：显示 6 维度分组
+       ═══════════════════════════════════ */ -}}
+
+  {{- $dimensions := slice "战略" "战术" "执行" "复盘" "资源约束" "物理极限" -}}
+  {{- $dimDescriptions := dict
+      "战略" "定方向，判断是否值得做"
+      "战术" "设计方法，选择路径"
+      "执行" "临场反应与节奏控制"
+      "复盘" "事后校准认知"
+      "资源约束" "体能、时间、装备的硬性限制"
+      "物理极限" "身体与规则的客观边界"
+  -}}
+
+  <header class="page-header">
+    <h1>{{ .Title }}</h1>
+    {{- with .Description }}
+      <div class="page-description">{{ . }}</div>
+    {{- end }}
+  </header>
+
+  {{- $pages := .Pages.ByParam "order" -}}
+
+  {{- /* 维度导航 */ -}}
+  <nav class="dimension-nav" aria-label="维度导航">
+    <span class="dimension-nav-label">📖 目录</span>
+    <ul class="dimension-nav-list">
+      {{- range $dim := $dimensions -}}
+        {{- $count := 0 -}}
+        {{- range $pages -}}
+          {{- if eq .Params.quote_dimension $dim -}}
+            {{- $count = add $count 1 -}}
+          {{- end -}}
+        {{- end -}}
+        {{- if gt $count 0 -}}
+          <li>
+            <a href="#dimension-{{ $dim }}" class="dimension-link">
+              {{ $dim }}（{{ $count }}）
+            </a>
+          </li>
+        {{- end -}}
+      {{- end -}}
+    </ul>
+  </nav>
+
+  {{- /* 六个维度 */ -}}
+  {{- range $dim := $dimensions -}}
+    {{- $group := slice -}}
+    {{- range $pages -}}
+      {{- if eq .Params.quote_dimension $dim -}}
+        {{- $group = $group | append . -}}
+      {{- end -}}
+    {{- end -}}
+
+    <section class="dimension-group" id="dimension-{{ $dim }}">
+      <h2 class="dimension-title">{{ $dim }}</h2>
+      <p class="dimension-desc">{{ index $dimDescriptions $dim }}</p>
+
+      {{- if $group -}}
+        {{- range $page := $group -}}
+          {{- $q := $page.Params -}}
+          {{- $faq := index $q.faq_short 0 -}}
+          <div class="quote-card">
+            {{- with $faq }}
+              <h4 class="quote-question">💬 问题：{{ .q }}</h4>
+              <p class="quote-answer"><strong>💡 问题回答：</strong>{{ .a }}</p>
+            {{- end }}
+            <p class="quote-label"><strong>📜 原文：</strong></p>
+            <p class="quote-original">{{ $q.original }}</p>
+            <p class="quote-label"><strong>🗣️ 白话解读：</strong></p>
+            <p class="quote-translation">{{ $q.translation }}</p>
+            <p class="quote-label"><strong>🔗 永久链接：</strong></p>
+            <p class="quote-link"><a href="{{ $page.Permalink }}">{{ $page.Permalink }}</a></p>
+            <hr class="quote-divider" />
+          </div>
+        {{- end -}}
+      {{- else -}}
+        <p class="dimension-empty">本篇无对应语录。</p>
+      {{- end -}}
+    </section>
+  {{- end -}}
+
+{{- end -}}
+
+{{- end -}}
