@@ -230,14 +230,29 @@ def build_front_matter(q, slug, is_v2):
     lines.append("---")
     return "\n".join(lines)
 
+def normalize_table_header(text):
+    """统一 Section 3 表格表头为 MQS-2.0 标准格式"""
+    lines = text.split('\n')
+    for i, line in enumerate(lines):
+        # 表头行：含"应用场景"和"风险"，且是 Markdown 表格行
+        if '应用场景' in line and '风险' in line and '|' in line:
+            lines[i] = '| 应用场景 | 守"正"基础（先做好什么） | 出"奇"策略（可以变什么） | ⚠️ 风险与底线（千万别越线） |'
+        # 分隔行：全是 | - : 和空格
+        elif re.match(r'^\s*\|[\s\-:|]+\|\s*$', line) and '-' in line:
+            lines[i] = '| --- | --- | --- | --- |'
+    return '\n'.join(lines)
+
 
 def build_body_v2(q):
-    """v2 正文：从 sections 拼接"""
+    """v2 正文：从 sections 拼接，统一表头"""
     sections = q.get("sections", {})
     parts = []
     for key in ["section1", "section2", "section3", "section4", "section5"]:
         if key in sections:
-            parts.append(sections[key].strip())
+            text = sections[key].strip()
+            if key == "section3":
+                text = normalize_table_header(text)
+            parts.append(text)
     return "\n\n".join(parts)
 
 
