@@ -1,0 +1,28 @@
+/* ═══ 建设中提示块 ═══ */
+.exam-notice {
+  margin: 20px 0;
+  padding: 16px 20px;
+  background: #fff8e1;
+  border-left: 4px solid #ff9800;
+  border-radius: 4px;
+  color: #663c00;
+  font-size: 0.95rem;
+  line-height: 1.7;
+}
+
+.exam-notice strong {
+  display: block;
+  margin-bottom: 6px;
+  color: #e65100;
+  font-size: 1rem;
+}
+
+[data-theme="dark"] .exam-notice {
+  background: #3d2800;
+  border-left-color: #ff9800;
+  color: #ffd54f;
+}
+
+[data-theme="dark"] .exam-notice strong {
+  color: #ffb74d;
+}
