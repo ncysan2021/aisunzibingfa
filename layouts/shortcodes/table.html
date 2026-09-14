@@ -4,6 +4,6 @@
     {{- with $caption -}}
       <caption>{{ . }}</caption>
     {{- end -}}
-    {{ .Inner | markdownify }}
+    {{ .Inner | markdownify | replaceRE `(?s)^\s*<table>(.*)</table>\s*$` "$1" | replaceRE `&quot;` "&ldquo;" | safeHTML }}
   </table>
 </div>

@@ -236,7 +236,7 @@ def normalize_table_header(text):
     for i, line in enumerate(lines):
         # 表头行：含"应用场景"和"风险"，且是 Markdown 表格行
         if '应用场景' in line and '风险' in line and '|' in line:
-            lines[i] = '| 应用场景 | 守"正"基础（先做好什么） | 出"奇"策略（可以变什么） | ⚠️ 风险与底线（千万别越线） |'
+            lines[i] = '| 应用场景 | 守&ldquo;正&rdquo;基础（先做好什么） | 出&ldquo;奇&rdquo;策略（可以变什么） | ⚠️ 风险与底线（千万别越线） |'
         # 分隔行：全是 | - : 和空格
         elif re.match(r'^\s*\|[\s\-:|]+\|\s*$', line) and '-' in line:
             lines[i] = '| --- | --- | --- | --- |'
