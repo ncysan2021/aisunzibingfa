@@ -62,6 +62,10 @@ params:
 
 menu:
   main:
+    - identifier: about
+      name: 关于我们
+      url: /about/
+      weight: 5
     - identifier: quotes
       name: 经典语录
       url: /quotes/
