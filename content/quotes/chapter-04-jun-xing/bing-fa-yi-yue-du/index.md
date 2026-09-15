@@ -88,7 +88,7 @@ faq:
   - q: "冬季项目如越野滑雪如何应用五步评估链？"
     a: "结论：先度赛道坡度与雪况，再量选手体能储备，再数可执行的蹬冰次数与滑行节奏，再称对手强弱，最后判断胜负趋势。"
 cover:
-  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-04-jun-xing/bing-fa-yi-yue-du.jpg"
+  image: "https://img.aisunzibingfa.com/quotes/chapter-04-jun-xing/bing-fa-yi-yue-du.jpg"
   alt: "竞技体育选手在赛前进行体能评估与战术分析"
   title: "兵法五算：度、量、数、称、胜"
   caption: "从《孙子兵法·军形篇》的五步量化评估链，看竞技体育中的资源约束与物理极限。"

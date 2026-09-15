@@ -84,7 +84,7 @@ faq:
   - q: "如果发现团队内部有人泄露信息，应该如何处理？"
     a: "结论：立即启动惩戒机制，隔离泄密者，评估损失范围，调整战术方案。同时向全体成员重申保密纪律，修复信任裂痕。"
 cover:
-  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-13-yong-jian/jian-shi-wei-fa.jpg"
+  image: "https://img.aisunzibingfa.com/quotes/chapter-13-yong-jian/jian-shi-wei-fa.jpg"
   alt: "短道速滑运动员在比赛中执行战术，体现信息保密与执行纪律"
   title: "间事未发而先闻者皆死：体育竞技信息保密"
   caption: "信息保密是执行纪律的生死线，泄露即失败。"

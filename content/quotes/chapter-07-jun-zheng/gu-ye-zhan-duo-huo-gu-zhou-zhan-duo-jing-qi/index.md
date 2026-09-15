@@ -83,7 +83,7 @@ faq:
   - q: "如何训练运动员在不同环境下切换信号？"
     a: "结论：在训练中模拟噪音、弱光、设备受限等条件，强制使用不同信号组合，并设置回执确认机制，形成条件反射。"
 cover:
-  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-07-jun-zheng/gu-ye-zhan-duo-huo-gu-zhou-zhan-duo-jing-qi.jpg"
+  image: "https://img.aisunzibingfa.com/quotes/chapter-07-jun-zheng/gu-ye-zhan-duo-huo-gu-zhou-zhan-duo-jing-qi.jpg"
   alt: "夜间公路自行车赛中车队使用灯光信号沟通"
   title: "夜战火鼓昼战旌旗：竞技信号适配"
   caption: "光线与噪音条件改变时，竞技团队必须切换信号传递方式。"

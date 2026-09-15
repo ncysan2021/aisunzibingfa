@@ -88,7 +88,7 @@ faq:
   - q: "如果一名运动员智勇突出但严不足，还能培养为核心吗？"
     a: "结论：不能直接定为核心，严是长期竞技状态的底线，纪律松散的运动员在长赛季中状态波动大，应先补严再谈核心定位。"
 cover:
-  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-01-shi-ji/jiang-zhe-zhi-xin-ren-yong-yan-ye.jpg"
+  image: "https://img.aisunzibingfa.com/quotes/chapter-01-shi-ji/jiang-zhe-zhi-xin-ren-yong-yan-ye.jpg"
   alt: "古代兵书与奥运赛场竞技运动员的对照插图"
   title: "将者五德：竞技体育核心选手评估框架"
   caption: "智、信、仁、勇、严——从兵法到赛场的五项素质映射"

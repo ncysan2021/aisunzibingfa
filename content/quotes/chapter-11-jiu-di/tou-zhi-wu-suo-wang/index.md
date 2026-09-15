@@ -81,7 +81,7 @@ faq:
   - q: "执行维度与战术维度在比赛中如何区分？"
     a: "结论：战术维度决定做什么，执行维度决定在压力下能否把已定动作完整做出来，两者不可互相替代。"
 cover:
-  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-11-jiu-di/tou-zhi-wu-suo-wang.jpg"
+  image: "https://img.aisunzibingfa.com/quotes/chapter-11-jiu-di/tou-zhi-wu-suo-wang.jpg"
   alt: "短道速滑选手在无退路的最后一圈弯道中全力压步"
   title: "投之无所往：执行维度的竞技压力转化"
   caption: "无退路情境下，执行链的稳定性决定比赛结果。"

@@ -82,7 +82,7 @@ faq:
   - q: "重地战术的止损底线应该怎么设定？"
     a: "结论：为变节奏尝试设定明确的时间或分差止损点，若在预定时间内未缩小差距，立即切换至保守执行，避免分差进一步扩大。"
 cover:
-  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-11-jiu-di/ru-ren-zhi-di-shen.jpg"
+  image: "https://img.aisunzibingfa.com/quotes/chapter-11-jiu-di/ru-ren-zhi-di-shen.jpg"
   alt: "短道速滑选手在对手节奏压制下寻找变线机会"
   title: "入人之地深：体育竞技中的重地战术"
   caption: "当比赛进入对手节奏区，选手的调整空间被大幅压缩，重地战术成为脱困关键。"

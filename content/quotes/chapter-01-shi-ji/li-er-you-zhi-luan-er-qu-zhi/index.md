@@ -92,7 +92,7 @@ faq:
   - q: "运用八变战术时最需要警惕什么？"
     a: "结论：最需警惕自身节奏被反制，必须在「先为不可胜」的前提下运用八变，否则诱敌不成反伤己。"
 cover:
-  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-01-shi-ji/li-er-you-zhi-luan-er-qu-zhi.jpg"
+  image: "https://img.aisunzibingfa.com/quotes/chapter-01-shi-ji/li-er-you-zhi-luan-er-qu-zhi.jpg"
   alt: "短道速滑选手在弯道处进行战术卡位与速度博弈"
   title: "孙子兵法八变战术与奥运竞技"
   caption: "短道速滑弯道卡位是「利而诱之，乱而取之」的典型战术场景"

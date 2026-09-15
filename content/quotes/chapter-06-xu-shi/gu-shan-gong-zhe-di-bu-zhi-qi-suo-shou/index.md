@@ -82,7 +82,7 @@ faq:
   - q: "如何在训练中提升战术欺骗能力？"
     a: "结论：通过模拟比赛场景，反复练习假动作与真实动作的一致性，并统计对手判断失误率。"
 cover:
-  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-06-xu-shi/gu-shan-gong-zhe-di-bu-zhi-qi-suo-shou.jpg"
+  image: "https://img.aisunzibingfa.com/quotes/chapter-06-xu-shi/gu-shan-gong-zhe-di-bu-zhi-qi-suo-shou.jpg"
   alt: "羽毛球运动员在网前做出假动作，对手重心偏移"
   title: "善攻者敌不知其所守：战术欺骗与预判防御"
   caption: "通过假动作与节奏变化，让对手无法锁定防守重心。"

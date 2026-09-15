@@ -84,7 +84,7 @@ faq:
   - q: "「视生处高，无迎水流」在公开水域游泳中如何应用？"
     a: "结论：选择视野开阔、水流较稳的路线，避免迎流或贴边消耗额外体能。"
 cover:
-  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-09-xing-jun/jue-shui-bi-yuan-shui-ke-jue-shui-er-lai.jpg"
+  image: "https://img.aisunzibingfa.com/quotes/chapter-09-xing-jun/jue-shui-bi-yuan-shui-ke-jue-shui-er-lai.jpg"
   alt: "铁人三项选手游泳出水后慢跑进入换项区"
   title: "绝水必远水：铁人三项换项区的执行智慧"
   caption: "游泳出水后先稳重心、再进入换项流程，是执行维度下对物理极限的尊重。"

@@ -84,7 +84,7 @@ faq:
   - q: "冬季两项中资源约束体现在哪里？"
     a: "结论：滑雪与射击交替，体能分配与呼吸控制就是资源约束，透支体能会直接导致射击失准。"
 cover:
-  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-07-jun-zheng/wei-jun-er-zheng-li-ze-zi-zhong-juan.jpg"
+  image: "https://img.aisunzibingfa.com/quotes/chapter-07-jun-zheng/wei-jun-er-zheng-li-ze-zi-zhong-juan.jpg"
   alt: "长跑选手在补给站取水，背景是赛道与计时牌"
   title: "委军而争利则辎重捐：竞技补给取舍"
   caption: "为跟住对手而放弃补给，后程往往付出掉速代价。"

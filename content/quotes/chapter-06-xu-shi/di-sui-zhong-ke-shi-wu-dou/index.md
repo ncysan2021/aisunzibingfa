@@ -84,7 +84,7 @@ faq:
   - q: "使用区域联防最大的风险是什么？"
     a: "结论：最大风险是外线漏空位三分，若对手投射稳定且转移球快，区域联防会被打穿，必须配合轮转速度与针对性调整。"
 cover:
-  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-06-xu-shi/di-sui-zhong-ke-shi-wu-dou.jpg"
+  image: "https://img.aisunzibingfa.com/quotes/chapter-06-xu-shi/di-sui-zhong-ke-shi-wu-dou.jpg"
   alt: "篮球区域联防中防守球员封锁内线传球路线的战术示意图"
   title: "敌虽众，可使无斗：区域联防封锁内线接球"
   caption: "区域联防的核心不是抢断，而是让对手的核心球员接不到球。"

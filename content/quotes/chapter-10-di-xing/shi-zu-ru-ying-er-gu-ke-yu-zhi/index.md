@@ -85,7 +85,7 @@ faq:
   - q: "在个人项目中，情感信任如何体现？"
     a: "结论：个人项目同样依赖信任网络。运动员对教练、科研团队、家人的信任，能在极限时刻提供心理支撑，帮助突破生理阈值。"
 cover:
-  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-10-di-xing/shi-zu-ru-ying-er-gu-ke-yu-zhi.jpg"
+  image: "https://img.aisunzibingfa.com/quotes/chapter-10-di-xing/shi-zu-ru-ying-er-gu-ke-yu-zhi.jpg"
   alt: "教练在训练场边与运动员击掌，体现情感信任"
   title: "视卒如爱子：情感信任激活极限输出"
   caption: "教练的真诚关怀转化为运动员在体能极限时的额外意志力。"

@@ -82,7 +82,7 @@ faq:
   - q: "如何判断一套战术组合是否已经失效？"
     a: "结论：当对手能在球离拍前做出正确预判并提前移动时，该组合的「奇」已变为「正」。此时需要引入新的变化维度或调整组合顺序，重新制造不确定性。"
 cover:
-  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-05-bing-shi/sheng-bu-guo-wu.jpg"
+  image: "https://img.aisunzibingfa.com/quotes/chapter-05-bing-shi/sheng-bu-guo-wu.jpg"
   alt: "羽毛球运动员在比赛中通过节奏与落点变化组合基础技术"
   title: "奇正之变：羽毛球单打战术组合的无穷变化"
   caption: "基础技术有限，战术组合无穷——关键在于节奏、落点与力量的变化运用。"

@@ -82,7 +82,7 @@ faq:
   - q: "如果队员在绝境中不服从指挥怎么办？"
     a: "结论：说明赛前未建立清晰的指令通道与信任基础，应在训练中反复模拟落后场景，把服从与执行练成条件反射。"
 cover:
-  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-11-jiu-di/gu-bing-zhi-qing.jpg"
+  image: "https://img.aisunzibingfa.com/quotes/chapter-11-jiu-di/gu-bing-zhi-qing.jpg"
   alt: "短道速滑选手在落后弯道中奋力超越，体现绝境中的执行与服从"
   title: "围则御，不得已则斗，过则从——竞技执行中的绝境心理"
   caption: "《孙子兵法·九地篇》揭示的士兵心理规律，在短道速滑、冰壶、赛艇等项目中同样适用于落后局面的执行管理。"

@@ -84,7 +84,7 @@ faq:
   - q: "如何避免「五危」在体育比赛中影响执行？"
     a: "结论：通过赛前心理测评、模拟高压训练和临场检查清单，识别并纠正偏执决策。"
 cover:
-  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-08-jiu-bian/gu-jiang-you-wu-wei-bi-si-ke-sha-ye.jpg"
+  image: "https://img.aisunzibingfa.com/quotes/chapter-08-jiu-bian/gu-jiang-you-wu-wei-bi-si-ke-sha-ye.jpg"
   alt: "《孙子兵法》五危与体育执行决策示意图"
   title: "孙子兵法五危：竞技执行的心理陷阱"
   caption: "五危揭示教练与运动员在高压下易犯的五种执行错误"

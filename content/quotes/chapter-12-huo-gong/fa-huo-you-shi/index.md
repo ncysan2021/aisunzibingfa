@@ -84,7 +84,7 @@ faq:
   - q: "冬季项目与夏季项目在时机窗口选择上有何不同？"
     a: "结论：冬季项目窗口更短、更依赖冰面与赛道条件。短道速滑的超越窗口常以秒计，冰壶则受冰面摩擦变化影响，夏季项目窗口相对更长但同样需要预设触发条件。"
 cover:
-  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-12-huo-gong/fa-huo-you-shi.jpg"
+  image: "https://img.aisunzibingfa.com/quotes/chapter-12-huo-gong/fa-huo-you-shi.jpg"
   alt: "短道速滑选手在弯道处集中发力超越对手的瞬间"
   title: "发火有时，起火有日：竞技执行的时机窗口"
   caption: "执行维度的核心不是全程用力，而是在节奏转折点集中投放资源。"

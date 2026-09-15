@@ -82,7 +82,7 @@ faq:
   - q: "轮换会不会导致球队失去比赛节奏？"
     a: "结论：会，所以轮换必须设定底线，保持核心战术框架不变，只调整消耗型位置。"
 cover:
-  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-02-zuo-zhan/gu-zhi-bing-zhi-jiang-sheng-min-zhi-si-ming.jpg"
+  image: "https://img.aisunzibingfa.com/quotes/chapter-02-zuo-zhan/gu-zhi-bing-zhi-jiang-sheng-min-zhi-si-ming.jpg"
   alt: "主教练在场边观察球员体能状态并准备轮换"
   title: "知兵之将，生民之司命：资源约束下的主帅决策"
   caption: "资源约束维度下，主教练的轮换决定直接影响球队关键战力。"

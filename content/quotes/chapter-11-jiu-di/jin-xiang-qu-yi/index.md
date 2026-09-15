@@ -85,7 +85,7 @@ faq:
   - q: "教练在训练中如何降低仪式依赖？"
     a: "结论：在训练中故意打乱时间、场地或器材顺序，让运动员在仪式失效时仍能完成执行链。"
 cover:
-  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-11-jiu-di/jin-xiang-qu-yi.jpg"
+  image: "https://img.aisunzibingfa.com/quotes/chapter-11-jiu-di/jin-xiang-qu-yi.jpg"
   alt: "运动员在赛前进行固定准备动作，体现执行维度的心理稳定"
   title: "禁祥去疑，至死无所之：执行维度下的竞技心理稳定"
   caption: "赛前固定流程可提供心理稳定，但需避免形成仪式依赖。"

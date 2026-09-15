@@ -82,7 +82,7 @@ faq:
   - q: "哪些奥运项目最需要「无退路」执行训练？"
     a: "结论：短道速滑、举重、跳水等一锤定音或机会极少的项目最需要，运动员必须在唯一机会中完成高精度动作。"
 cover:
-  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-11-jiu-di/tou-zhi-wu-suo-wang-zhe.jpg"
+  image: "https://img.aisunzibingfa.com/quotes/chapter-11-jiu-di/tou-zhi-wu-suo-wang-zhe.jpg"
   alt: "运动员在高压比赛环境中执行关键动作"
   title: "投之无所往者，诸、刿之勇也——执行维度的高压训练"
   caption: "无退路情境下的执行勇气，是训练中反复模拟的结果，而非赛场上的临时爆发。"

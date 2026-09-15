@@ -85,7 +85,7 @@ faq:
   - q: "举重比赛中直接叫重施压的风险是什么？"
     a: "结论：若自身最强重量成功率不足，叫重施压会先消耗自己试举次数，反被对手以稳定重量拖入被动，因此压强点必须基于训练数据而非意愿。"
 cover:
-  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-11-jiu-di/shi-gu-bu-zheng-tian-xia-zhi-jiao.jpg"
+  image: "https://img.aisunzibingfa.com/quotes/chapter-11-jiu-di/shi-gu-bu-zheng-tian-xia-zhi-jiao.jpg"
   alt: "短道速滑选手在内道持续施压，对手被迫封堵"
   title: "信己之私，威加于敌：战术压强原理"
   caption: "不借外势，以自身最强点持续施压，对手应对空间被压缩。"

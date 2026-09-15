@@ -82,7 +82,7 @@ faq:
   - q: "教练在运动员赛前流泪时应该怎么做？"
     a: "结论：不制止、不追问，给出明确时间窗口与收束指令。用简短指令替代安慰，帮助运动员把注意力拉回技战术执行。"
 cover:
-  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-11-jiu-di/ling-fa-zhi-ri.jpg"
+  image: "https://img.aisunzibingfa.com/quotes/chapter-11-jiu-di/ling-fa-zhi-ri.jpg"
   alt: "运动员在赛前热身区情绪激动，泪水滑落"
   title: "令发之日，士卒涕泣——赛前情绪释放与执行定力"
   caption: "赛前情绪释放不是软弱，而是执行前的心理整备。"

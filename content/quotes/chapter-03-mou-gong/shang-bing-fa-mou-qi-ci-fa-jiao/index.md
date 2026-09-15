@@ -86,7 +86,7 @@ faq:
   - q: "普通运动员如何应用「其下攻城」的警示？"
     a: "结论：避免在对手最强项上硬碰硬，应寻找其薄弱环节作为突破口。"
 cover:
-  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-03-mou-gong/shang-bing-fa-mou-qi-ci-fa-jiao.jpg"
+  image: "https://img.aisunzibingfa.com/quotes/chapter-03-mou-gong/shang-bing-fa-mou-qi-ci-fa-jiao.jpg"
   alt: "冰壶比赛中选手观察对手布局并制定战术"
   title: "上兵伐谋：竞技体育中的战略优先序"
   caption: "赛前识破对手战术，比单纯加大训练强度更能以低消耗获取优势。"

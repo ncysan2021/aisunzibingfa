@@ -18,7 +18,7 @@ keywords: ["人之初性本善", "人之初性本恶", "性本定", "性本利",
 faq: []
 
 cover:
-  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/founders/human-nature-good-or-evil-philosophy-psychology.jpg"
+  image: "https://img.aisunzibingfa.com/founders/human-nature-good-or-evil-philosophy-psychology.jpg"
   alt: "人之初性本善还是性本恶哲学思考与心理学分析"
   caption: "关于「人之初性本善还是性本恶」的哲学与心理学维度思考"
 
@@ -28,7 +28,7 @@ ads:
   bottom: true
 ---
 
-![关于「人之初性本善还是性本恶」的哲学与心理学维度思考](https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/founders/human-nature-good-or-evil-philosophy-psychology.jpg)
+![关于「人之初性本善还是性本恶」的哲学与心理学维度思考](https://img.aisunzibingfa.com/founders/human-nature-good-or-evil-philosophy-psychology.jpg)
 
 ## 人之初性本善，还是性本恶？
 

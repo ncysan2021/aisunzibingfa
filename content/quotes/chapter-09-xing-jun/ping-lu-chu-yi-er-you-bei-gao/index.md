@@ -84,7 +84,7 @@ faq:
   - q: "篮球防守中，弱侧球员收缩篮下有什么执行意义？"
     a: "结论：弱侧收缩形成后方保护，强侧贴防持球人，构成前低后高的防守层次，减少对手突破分球的空间，提升整体防守执行效率。"
 cover:
-  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-09-xing-jun/ping-lu-chu-yi-er-you-bei-gao.jpg"
+  image: "https://img.aisunzibingfa.com/quotes/chapter-09-xing-jun/ping-lu-chu-yi-er-you-bei-gao.jpg"
   alt: "竞技体育中的空间布局与执行"
   title: "平陆处易，右背高：竞技体育中的地形与空间执行法则"
   caption: "从《孙子兵法·行军篇》看竞技体育中的空间执行策略"

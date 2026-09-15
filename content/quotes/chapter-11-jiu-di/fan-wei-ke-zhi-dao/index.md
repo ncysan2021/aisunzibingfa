@@ -82,7 +82,7 @@ faq:
   - q: "客场作战中如何判断是否需要减量？"
     a: "结论：连续两天睡眠质量、肌肉反应或专注度任一项明显下滑，即启动减量预案。宁可少练一次，也不带着疲劳进入关键比赛日。"
 cover:
-  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-11-jiu-di/fan-wei-ke-zhi-dao.jpg"
+  image: "https://img.aisunzibingfa.com/quotes/chapter-11-jiu-di/fan-wei-ke-zhi-dao.jpg"
   alt: "运动员在客场训练场进行节奏固定的赛前训练"
   title: "凡为客之道：客场作战的执行力与资源约束"
   caption: "客场作战先固定节奏、就地取材、保存体力、隐藏意图，是《九地篇》对执行维度的核心要求。"

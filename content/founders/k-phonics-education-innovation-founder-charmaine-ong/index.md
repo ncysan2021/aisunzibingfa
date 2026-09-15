@@ -18,7 +18,7 @@ keywords: ["孙子兵法", "教育创新", "AI孙子兵法", "翁名颐", "吴�
 faq: []
 
 cover:
-  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/founders/k-phonics-education-innovation-founder-charmaine-ong.jpg"
+  image: "https://img.aisunzibingfa.com/founders/k-phonics-education-innovation-founder-charmaine-ong.jpg"
   alt: "AI孙子兵法创办人吴雄山与教育权威翁名颐硕士"
   caption: "吴雄山与翁名颐老师会面，共探教育创新"
 
@@ -28,7 +28,7 @@ ads:
   bottom: true
 ---
 
-![封面](https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/founders/k-phonics-education-innovation-founder-charmaine-ong.jpg)
+![封面](https://img.aisunzibingfa.com/founders/k-phonics-education-innovation-founder-charmaine-ong.jpg)
 
 在 Petaling Jaya 的 Damansara Utama，《AI孙子兵法》创办人吴雄山与教育权威翁名颐学前教育硕士的会面，如同孙子兵法中战略布局的开篇，为教育创新领域开启了全新篇章。
 

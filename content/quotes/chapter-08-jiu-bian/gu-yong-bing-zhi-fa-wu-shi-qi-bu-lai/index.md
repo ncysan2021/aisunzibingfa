@@ -86,7 +86,7 @@ faq:
   - q: "冰壶比赛如何用预案触发机制？"
     a: "结论：赛前为对手每种投壶路线准备对应扫冰与占位方案，场上出现预设信号即自动切换执行。"
 cover:
-  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-08-jiu-bian/gu-yong-bing-zhi-fa-wu-shi-qi-bu-lai.jpg"
+  image: "https://img.aisunzibingfa.com/quotes/chapter-08-jiu-bian/gu-yong-bing-zhi-fa-wu-shi-qi-bu-lai.jpg"
   alt: "篮球比赛中防守方提前布置弱侧协防，体现孙子兵法无恃其不来的执行准备"
   title: "无恃其不来：竞技执行中的主动准备"
   caption: "不赌对手不来，只靠自身有以待——执行维度的竞技准备哲学"

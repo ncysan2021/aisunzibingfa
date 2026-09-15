@@ -90,7 +90,7 @@ faq:
   - q: "为什么战略上要选择打击一层而不是全面进攻？"
     a: "结论：全面进攻分散资源，每层都无法形成压倒性优势。集中打击连锁效果最大的一层，可以引发对手整体体系的连锁崩塌，效率远高于平均用力。"
 cover:
-  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-12-huo-gong/fan-huo-gong-you-wu.jpg"
+  image: "https://img.aisunzibingfa.com/quotes/chapter-12-huo-gong/fan-huo-gong-you-wu.jpg"
   alt: "《孙子兵法》火攻篇五类目标与竞技体育战略打击点示意"
   title: "凡火攻有五：战略打击点的五层分类"
   caption: "火攻五种目标类型映射到竞技体育中的五层弱点扫描框架"

@@ -82,7 +82,7 @@ faq:
   - q: "绝境执行力可以后天训练吗？"
     a: "结论：可以，通过反复的高压模拟与执行锚点训练，团队能在数周内提升危机下的协同稳定性。"
 cover:
-  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-11-jiu-di/ju-san-jun-zhi-zhong.jpg"
+  image: "https://img.aisunzibingfa.com/quotes/chapter-11-jiu-di/ju-san-jun-zhi-zhong.jpg"
   alt: "短道速滑队员在弯道处紧密配合执行战术"
   title: "聚三军之众投之于险：绝境执行力的竞技密码"
   caption: "高压下的统一执行，是绝境反击的起点。"

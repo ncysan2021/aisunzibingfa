@@ -88,7 +88,7 @@ faq:
   - q: "预算超支对竞技成绩有什么直接影响？"
     a: "结论：超支会导致赛季中期削减康复与情报支出，运动员伤病风险上升，战术准备不足，成绩随之下滑。"
 cover:
-  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-02-zuo-zhan/ze-nei-wai-zhi-fei-bin-ke-zhi-yong.jpg"
+  image: "https://img.aisunzibingfa.com/quotes/chapter-02-zuo-zhan/ze-nei-wai-zhi-fei-bin-ke-zhi-yong.jpg"
   alt: "短道速滑运动员在冰面上训练，背景是装备与后勤物资"
   title: "资源约束下的竞技备战"
   caption: "则内外之费：装备、后勤与情报的每日消耗，决定十万之师能否举矣。"

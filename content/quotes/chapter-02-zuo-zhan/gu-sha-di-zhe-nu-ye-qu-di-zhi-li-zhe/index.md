@@ -84,7 +84,7 @@ faq:
   - q: "情绪激励用多了会有什么风险？"
     a: "结论：会导致情绪疲劳与动作变形。愤怒长期占据心理资源，会削弱技术稳定性，尤其在射击、射箭等精细项目中可能适得其反。"
 cover:
-  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-02-zuo-zhan/gu-sha-di-zhe-nu-ye-qu-di-zhi-li-zhe.jpg"
+  image: "https://img.aisunzibingfa.com/quotes/chapter-02-zuo-zhan/gu-sha-di-zhe-nu-ye-qu-di-zhi-li-zhe.jpg"
   alt: "短道速滑运动员在弯道加速，体现资源约束下的情绪与奖赏激励"
   title: "故杀敌者怒也取敌之利者货也——竞技体育资源调动"
   caption: "情绪与奖赏是竞技备战中两种可调动的有限资源"

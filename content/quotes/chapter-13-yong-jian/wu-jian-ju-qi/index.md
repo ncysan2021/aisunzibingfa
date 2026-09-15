@@ -85,7 +85,7 @@ faq:
   - q: "使用多源情报时有哪些风险底线？"
     a: "结论：必须合法合规，不得获取隐私信息、不得违反赛事规定、不得依赖单一来源误判，所有情报需交叉验证后方可用于决策。"
 cover:
-  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-13-yong-jian/wu-jian-ju-qi.jpg"
+  image: "https://img.aisunzibingfa.com/quotes/chapter-13-yong-jian/wu-jian-ju-qi.jpg"
   alt: "多源情报并行收集示意图，展示体育竞技中五间俱起的战略应用"
   title: "五间俱起，莫知其道：体育竞技多源情报战略"
   caption: "多源情报并行，使对手无法锁定真实重点，只能分散应对。"

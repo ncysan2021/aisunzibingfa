@@ -82,7 +82,7 @@ faq:
   - q: "执行维度上，情报收集和战术执行哪个更重要？"
     a: "结论：情报收集是执行的前提，没有准确情报，战术执行越坚决反而偏离越远。"
 cover:
-  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-07-jun-zheng/bu-yong-xiang-dao-zhe-bu-neng-de-di-li.jpg"
+  image: "https://img.aisunzibingfa.com/quotes/chapter-07-jun-zheng/bu-yong-xiang-dao-zhe-bu-neng-de-di-li.jpg"
   alt: "帆船选手在比赛中观察风向与水流"
   title: "不用乡导者，不能得地利——帆船赛场的情报执行"
   caption: "帆船比赛中，对当地潮汐与风向的掌握往往决定航线选择的成败。"

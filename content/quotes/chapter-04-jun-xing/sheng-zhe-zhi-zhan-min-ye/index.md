@@ -80,7 +80,7 @@ faq:
   - q: "过早释放优势会有什么风险？"
     a: "结论：过早释放会导致自身体能提前耗尽，优势未达临界点，反而被对手逆转，如田径中过早冲刺被反超。"
 cover:
-  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-04-jun-xing/sheng-zhe-zhi-zhan-min-ye.jpg"
+  image: "https://img.aisunzibingfa.com/quotes/chapter-04-jun-xing/sheng-zhe-zhi-zhan-min-ye.jpg"
   alt: "短道速滑选手在弯道加速，形成不可逆冲击"
   title: "决积水于千仞之谿：短道速滑的物理极限爆发"
   caption: "短道速滑中，选手在弯道积累势能，于直道释放，如同决积水于千仞之谿。"

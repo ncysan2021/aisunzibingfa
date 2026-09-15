@@ -82,7 +82,7 @@ faq:
   - q: "哪些奥运项目最适合练习迂直之计？"
     a: "结论：网球、短道速滑、冰壶都高度依赖路线与节奏控制，选手可在训练中专门设置绕行后抢位的重复练习。"
 cover:
-  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-07-jun-zheng/gu-yu-qi-tu-er-you-zhi-yi-li.jpg"
+  image: "https://img.aisunzibingfa.com/quotes/chapter-07-jun-zheng/gu-yu-qi-tu-er-you-zhi-yi-li.jpg"
   alt: "短道速滑选手在外道绕行后切入内道的瞬间"
   title: "迂直之计：后发先至"
   caption: "绕远不是退让，而是为了更早到达关键位置。"

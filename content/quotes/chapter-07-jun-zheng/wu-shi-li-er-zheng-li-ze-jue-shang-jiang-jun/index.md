@@ -84,7 +84,7 @@ faq:
   - q: "执行维度中，如何判断体能分配是否合理？"
     a: "结论：观察后段技术动作是否变形、防守是否失位。若后段明显下滑，说明前段输出过量。"
 cover:
-  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-07-jun-zheng/wu-shi-li-er-zheng-li-ze-jue-shang-jiang-jun.jpg"
+  image: "https://img.aisunzibingfa.com/quotes/chapter-07-jun-zheng/wu-shi-li-er-zheng-li-ze-jue-shang-jiang-jun.jpg"
   alt: "运动员在比赛中分配体能，体现执行与资源约束"
   title: "五十里争利则蹶上将军：竞技体育中的体能分配"
   caption: "执行维度的核心：在资源约束下分段分配体能"

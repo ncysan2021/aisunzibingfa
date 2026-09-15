@@ -81,7 +81,7 @@ faq:
   - q: "冬季项目如何应用这条战略原则？"
     a: "结论：冰壶与冬季两项等项目中，教练需信任分析师对冰面、射击与配速的情报，再精细转化为每局或每段的执行指令。"
 cover:
-  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-13-yong-jian/fei-sheng-zhi-bu-neng-yong-jian.jpg"
+  image: "https://img.aisunzibingfa.com/quotes/chapter-13-yong-jian/fei-sheng-zhi-bu-neng-yong-jian.jpg"
   alt: "主教练与分析师在赛前查看对手情报数据"
   title: "非圣智不能用间：竞技情报的信任与转化"
   caption: "主教练对情报的信任与精细提炼，决定战术能否落地。"

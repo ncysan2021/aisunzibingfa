@@ -84,7 +84,7 @@ faq:
   - q: "如何在日常训练中模拟圮地场景？"
     a: "结论：在训练中人为制造场地变化，如浇水改变冰面、调整雪温、制造风浪等，让运动员习惯在恶劣条件下做战术决策。"
 cover:
-  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-11-jiu-di/shan-lin-xian-zu-ju-ze.jpg"
+  image: "https://img.aisunzibingfa.com/quotes/chapter-11-jiu-di/shan-lin-xian-zu-ju-ze.jpg"
   alt: "短道速滑运动员在冰面破损的赛道上谨慎过弯"
   title: "圮地之困：恶劣场地下的战术先手"
   caption: "冰面破损如同圮地，战术调整优先于技术发挥"

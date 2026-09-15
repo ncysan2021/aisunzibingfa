@@ -86,7 +86,7 @@ faq:
   - q: "短道速滑和冰壶如何体现「数、势、形」？"
     a: "结论：短道接力的交接顺序与冰壶的投壶顺序属于「数」，内道封堵与得分区布局属于「势」，体能储备与投准率属于「形」。"
 cover:
-  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-05-bing-shi/zhi-luan-shu-ye.jpg"
+  image: "https://img.aisunzibingfa.com/quotes/chapter-05-bing-shi/zhi-luan-shu-ye.jpg"
   alt: "短道速滑运动员在弯道中保持队形与战术纪律"
   title: "治乱数也：战术纪律与组织编制"
   caption: "战术秩序来自编制与分工，而非临场情绪。"

@@ -6,7 +6,7 @@ type: "page"
 date: 2025-09-15
 lastmod: 2025-09-15
 cover:
-  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/pages/about.jpg"
+  image: "https://img.aisunzibingfa.com/pages/about.jpg"
   alt: "关于 AI孙子兵法"
   caption: "关于 AI孙子兵法"
 draft: false

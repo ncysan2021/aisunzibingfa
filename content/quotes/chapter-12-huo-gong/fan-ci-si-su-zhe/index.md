@@ -84,7 +84,7 @@ faq:
   - q: "帆船项目如何把「风起之日」转化为可执行的赛前预案？"
     a: "结论：帆船选手通过水面波纹与颜色预判阵风到达时间，提前调整帆面弧度与压舷角度，把环境信号变成动作触发条件。"
 cover:
-  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-12-huo-gong/fan-ci-si-su-zhe.jpg"
+  image: "https://img.aisunzibingfa.com/quotes/chapter-12-huo-gong/fan-ci-si-su-zhe.jpg"
   alt: "短道速滑选手在冰面上观察环境变化并调整技术动作"
   title: "风起之日：竞技执行中的环境微变识别"
   caption: "环境变量的临界节点如同四宿之风，选手须在窗口关闭前完成动作调整。"

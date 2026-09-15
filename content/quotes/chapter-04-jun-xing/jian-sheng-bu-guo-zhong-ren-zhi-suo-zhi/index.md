@@ -84,7 +84,7 @@ faq:
   - q: "普通运动员如何应用这一策略？"
     a: "结论：普通运动员应优先锁定不可逆训练窗口，建立赛前实力基线，压缩临场变量，将比赛变成执行与验证而非冒险。"
 cover:
-  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-04-jun-xing/jian-sheng-bu-guo-zhong-ren-zhi-suo-zhi.jpg"
+  image: "https://img.aisunzibingfa.com/quotes/chapter-04-jun-xing/jian-sheng-bu-guo-zhong-ren-zhi-suo-zhi.jpg"
   alt: "短道速滑选手在弯道中保持身体极限倾斜，体现物理极限维度的竞技状态"
   title: "见胜不过众人之所知：物理极限下的赛前准备"
   caption: "顶尖选手的胜利往往在赛前就已基本确定，真正决定胜负的是准备阶段的差距。"

@@ -84,7 +84,7 @@ faq:
   - q: "执行维度中，如何把自然节律转化为比赛预案？"
     a: "结论：通过赛前采集物理数据、建立条件-器材对照表、设置执行触发点，把风力衰减等自然节律转化为可执行的决策流程。"
 cover:
-  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-12-huo-gong/zhou-feng-jiu.jpg"
+  image: "https://img.aisunzibingfa.com/quotes/chapter-12-huo-gong/zhou-feng-jiu.jpg"
   alt: "高尔夫球手在午后风力减弱时调整球杆选择"
   title: "昼风久夜风止：竞技执行中的物理极限预判"
   caption: "风力由强渐弱时，提前调整器材与动作是执行维度的关键决策。"

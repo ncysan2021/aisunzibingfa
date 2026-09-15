@@ -83,7 +83,7 @@ faq:
   - q: "赛前是否应该继续高低交替的循环？"
     a: "结论：赛前应缩短循环周期、降低总量，保留强度刺激同时让身体完成最后恢复，避免赛时带着疲劳上场。"
 cover:
-  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-05-bing-shi/zhong-er-fu-shi.jpg"
+  image: "https://img.aisunzibingfa.com/quotes/chapter-05-bing-shi/zhong-er-fu-shi.jpg"
   alt: "长跑运动员在跑道上进行高低强度交替训练，背景为日月与四季意象"
   title: "终而复始，日月是也：长跑训练高低交替的周期战术"
   caption: "把训练周当作可循环的作战单元，用高低强度交替触发超量补偿。"

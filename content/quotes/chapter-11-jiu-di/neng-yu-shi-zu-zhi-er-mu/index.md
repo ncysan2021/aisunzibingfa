@@ -84,7 +84,7 @@ faq:
   - q: "信息分层失败会带来什么后果？"
     a: "结论：执行者可能因信息过载而动作变形，或因信息不足而无法应对突发变化。分层必须配合赛后复盘与明确自主权限，否则会削弱团队信任。"
 cover:
-  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-11-jiu-di/neng-yu-shi-zu-zhi-er-mu.jpg"
+  image: "https://img.aisunzibingfa.com/quotes/chapter-11-jiu-di/neng-yu-shi-zu-zhi-er-mu.jpg"
   alt: "教练在赛场边向运动员分层传递战术指令的场景"
   title: "能愚士卒之耳目，使之无知：竞技执行中的信息分层"
   caption: "信息分层不是隐瞒，而是让执行者只背负当前任务所需的认知负荷。"

@@ -84,7 +84,7 @@ faq:
   - q: "普通运动员如何应用「先胜后战」原则？"
     a: "结论：从记录和分析自己的训练数据开始。先建立个人物理极限档案，再针对主要对手制定具体应对方案，最后在比赛中严格执行。"
 cover:
-  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-04-jun-xing/shi-gu-sheng-bing-xian-sheng-er-hou-qiu-zhan.jpg"
+  image: "https://img.aisunzibingfa.com/quotes/chapter-04-jun-xing/shi-gu-sheng-bing-xian-sheng-er-hou-qiu-zhan.jpg"
   alt: "短道速滑选手在弯道处进行战术超越，体现赛前部署创造先手优势"
   title: "先胜后战：短道速滑弯道超越的赛前逻辑"
   caption: "短道速滑比赛中，选手的弯道超越位置和时机往往在赛前已通过对手分析确定，这是「先胜后战」在物理极限边缘的典型体现。"

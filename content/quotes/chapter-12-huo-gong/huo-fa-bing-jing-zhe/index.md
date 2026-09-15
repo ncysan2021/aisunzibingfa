@@ -78,7 +78,7 @@ faq:
   - q: "冰壶比赛中如何应用「不可从而止」？"
     a: "结论：先手投壶后若对手站位稳固，不强行进攻得分，选择继续布局等待对手失误。"
 cover:
-  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-12-huo-gong/huo-fa-bing-jing-zhe.jpg"
+  image: "https://img.aisunzibingfa.com/quotes/chapter-12-huo-gong/huo-fa-bing-jing-zhe.jpg"
   alt: "排球二传手在网前观察对方拦网站位准备决策"
   title: "火发兵静者待而勿攻：排球执行判断"
   caption: "二传手根据拦网站位决定快攻或过渡，体现「可从而从之，不可从而止」的执行原则。"

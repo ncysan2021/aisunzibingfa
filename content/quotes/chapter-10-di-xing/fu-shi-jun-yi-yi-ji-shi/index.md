@@ -84,7 +84,7 @@ faq:
   - q: "资源约束维度下，竞技训练应重点培养什么能力？"
     a: "结论：培养运动员在均势下快速评估兵力分配与动态调整的能力。"
 cover:
-  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-10-di-xing/fu-shi-jun-yi-yi-ji-shi.jpg"
+  image: "https://img.aisunzibingfa.com/quotes/chapter-10-di-xing/fu-shi-jun-yi-yi-ji-shi.jpg"
   alt: "短道速滑选手在均势局面下集中兵力导致局部失位"
   title: "夫势均，以一击十，曰走——资源约束下的竞技兵力分配"
   caption: "均势下以一击十，资源约束维度揭示竞技体育中的兵力分配风险。"

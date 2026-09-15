@@ -84,7 +84,7 @@ faq:
   - q: "如何在训练中培养借势意识？"
     a: "结论：在模拟比赛中设置变化的外部条件，如风向、赛程密度、器材调整，让运动员练习识别并利用这些条件发动进攻。"
 cover:
-  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-12-huo-gong/gu-yi-huo-zuo-gong-zhe-ming.jpg"
+  image: "https://img.aisunzibingfa.com/quotes/chapter-12-huo-gong/gu-yi-huo-zuo-gong-zhe-ming.jpg"
   alt: "竞技体育中运动员借助外部条件发动进攻的场景"
   title: "以火佐攻者明，以水佐攻者强——竞技借势战略"
   caption: "借势而攻，事半功倍；硬拼体能，事倍功半。"

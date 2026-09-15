@@ -86,7 +86,7 @@ faq:
   - q: "如何在日常训练中预防比赛阵型混乱？"
     a: "结论：用统一术语、固定角色、纪律底线和暂停复位演练，把秩序练成条件反射。"
 cover:
-  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-10-di-xing/jiang-ruo-bu-yan-jiao-dao-bu-ming.jpg"
+  image: "https://img.aisunzibingfa.com/quotes/chapter-10-di-xing/jiang-ruo-bu-yan-jiao-dao-bu-ming.jpg"
   alt: "短道速滑运动员在弯道中保持队形与执行纪律"
   title: "将弱不严，教道不明：竞技执行中的秩序重建"
   caption: "短道速滑的弯道超越与接力交接，考验的是教练指令清晰度与运动员执行纪律。"

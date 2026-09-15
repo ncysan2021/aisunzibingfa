@@ -84,7 +84,7 @@ faq:
   - q: "执行贴身盯防时，运动员如何应对自身体能下降导致的物理极限？"
     a: "结论：通过间歇性高强度训练提升无氧耐力，并在比赛中合理分配体能，关键时刻集中发力。"
 cover:
-  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-09-xing-jun/jun-xing-you-xian-zu-huang-jing-jia-wei.jpg"
+  image: "https://img.aisunzibingfa.com/quotes/chapter-09-xing-jun/jun-xing-you-xian-zu-huang-jing-jia-wei.jpg"
   alt: "足球角球防守中贴身盯防的瞬间"
   title: "军行有险阻：贴身盯防的物理极限"
   caption: "防守球员在角球中贴身盯防进攻球员，限制其起跳抢点。"

@@ -86,7 +86,7 @@ faq:
   - q: "在冰壶或短道速滑等项目中，如何判断一次「退」是战略保全还是罪责规避？"
     a: "结论：看决策依据是否指向团队长期利益。若赛前有明确红线与评估标准，且决策可复盘、可解释，则属于战略保全；若仅因害怕舆论或追责而临时退缩，则属于罪责规避。"
 cover:
-  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-10-di-xing/gu-jin-bu-qiu-ming-tui-bu-bi-zui.jpg"
+  image: "https://img.aisunzibingfa.com/quotes/chapter-10-di-xing/gu-jin-bu-qiu-ming-tui-bu-bi-zui.jpg"
   alt: "教练在比赛后段换下核心球员，体现进不求名退不避罪的战略决策"
   title: "进不求名，退不避罪：竞技战略中的去私决策"
   caption: "竞技体育中的战略决策，往往需要在个人名声与团队长期利益之间做出选择。"

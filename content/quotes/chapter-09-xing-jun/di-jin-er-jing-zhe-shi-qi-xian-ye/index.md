@@ -84,7 +84,7 @@ faq:
   - q: "如何训练自己在比赛中快速识别对手的「静、挑、易」信号？"
     a: "结论：赛前建立行为信号清单，赛中设置固定观察窗口，赛后复盘识别准确率，逐步形成条件反射。"
 cover:
-  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-09-xing-jun/di-jin-er-jing-zhe-shi-qi-xian-ye.jpg"
+  image: "https://img.aisunzibingfa.com/quotes/chapter-09-xing-jun/di-jin-er-jing-zhe-shi-qi-xian-ye.jpg"
   alt: "短道速滑选手在弯道中保持安静跟随，观察前方对手节奏"
   title: "敌近而静者，恃其险也——竞技执行中的对手节奏识别"
   caption: "对手突然安静或降速，往往已占据有利位置，等待你先行犯错。"

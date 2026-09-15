@@ -85,7 +85,7 @@ faq:
   - q: "物理极限训练最大的风险是什么？"
     a: "结论：在未验证的情况下赛前强行冲击极限，容易导致动作变形与伤病，必须只执行已验证方案。"
 cover:
-  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-04-jun-xing/gu-ju-qiu-hao-bu-wei-duo-li.jpg"
+  image: "https://img.aisunzibingfa.com/quotes/chapter-04-jun-xing/gu-ju-qiu-hao-bu-wei-duo-li.jpg"
   alt: "短道速滑选手在弯道逼近物理极限的瞬间"
   title: "举秋毫不为多力：物理极限下的竞技胜负分水岭"
   caption: "基础能力达标只是入场券，物理极限的毫厘之差才是胜负分水岭。"

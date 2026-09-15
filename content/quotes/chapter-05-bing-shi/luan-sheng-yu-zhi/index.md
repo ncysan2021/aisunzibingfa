@@ -82,7 +82,7 @@ faq:
   - q: "网球选手连续强力进攻未得分时，是否应该主动降低球速、增加旋转来恢复节奏控制？"
     a: "结论：是的。降低球速增加旋转，用控制型打法恢复节奏，可以打断对手的防守适应，减少自身失误累积，为后续重新发力创造更好的击球条件。"
 cover:
-  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-05-bing-shi/luan-sheng-yu-zhi.jpg"
+  image: "https://img.aisunzibingfa.com/quotes/chapter-05-bing-shi/luan-sheng-yu-zhi.jpg"
   alt: "孙子兵法兵势篇战术平衡与奥运竞技决策示意图"
   title: "乱生于治，怯生于勇，弱生于强——竞技战术平衡"
   caption: "《孙子兵法·兵势篇》揭示战术过度偏向一端必生反效果，竞技中攻守节奏须动态调整。"

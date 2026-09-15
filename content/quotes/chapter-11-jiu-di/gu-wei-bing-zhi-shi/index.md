@@ -86,7 +86,7 @@ faq:
   - q: "在冰壶这类回合制项目中，如何体现「千里杀将」？"
     a: "结论：通过读冰与观察对手意图，在关键一局集中布局偷分，直取对手最痛的一分。"
 cover:
-  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-11-jiu-di/gu-wei-bing-zhi-shi.jpg"
+  image: "https://img.aisunzibingfa.com/quotes/chapter-11-jiu-di/gu-wei-bing-zhi-shi.jpg"
   alt: "短道速滑选手在弯道集中超越对手的瞬间"
   title: "并敌一向：集中力量打穿一点"
   caption: "僵持阶段不拼全面，集中体能和战术打穿对手最弱一点。"

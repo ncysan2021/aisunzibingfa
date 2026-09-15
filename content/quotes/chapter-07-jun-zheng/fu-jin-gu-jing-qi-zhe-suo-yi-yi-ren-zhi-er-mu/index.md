@@ -85,7 +85,7 @@ faq:
   - q: "冰壶比赛中信号失误的典型后果是什么？"
     a: "结论：扫冰指令与投壶信号不同步，冰壶线路偏差直接导致得分丢失或局面被动。"
 cover:
-  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-07-jun-zheng/fu-jin-gu-jing-qi-zhe-suo-yi-yi-ren-zhi-er-mu.jpg"
+  image: "https://img.aisunzibingfa.com/quotes/chapter-07-jun-zheng/fu-jin-gu-jing-qi-zhe-suo-yi-yi-ren-zhi-er-mu.jpg"
   alt: "赛艇八人艇在比赛中统一桨频，舵手发出信号"
   title: "金鼓旌旗：统一视听信号的执行力量"
   caption: "赛艇舵手口令与桨频信号统一全艇动作，是执行维度的典型体现。"

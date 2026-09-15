@@ -84,7 +84,7 @@ faq:
   - q: "团队项目中，教练如何平衡主力与替补的出场时间？"
     a: "结论：按比赛阶段分配资源，关键阶段用主力，非关键阶段锻炼替补。避免主力长时间高强度作战，确保决胜时刻执行力。"
 cover:
-  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-07-jun-zheng/san-shi-li-er-zheng-li-ze-san-fen-zhi-er-zhi.jpg"
+  image: "https://img.aisunzibingfa.com/quotes/chapter-07-jun-zheng/san-shi-li-er-zheng-li-ze-san-fen-zhi-er-zhi.jpg"
   alt: "运动员在赛道上合理分配体能，体现执行力与资源约束"
   title: "三十里而争利则三分之二至：竞技体育中的执行力与体能分配"
   caption: "合理分配体能是保持执行力的关键，过度争利只会让部分队员掉队。"

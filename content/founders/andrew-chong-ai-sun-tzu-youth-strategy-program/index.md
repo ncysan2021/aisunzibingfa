@@ -18,7 +18,7 @@ keywords: ["孙子兵法与青年未来", "张健权", "怡保", "青年战略�
 faq: []
 
 cover:
-  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/founders/andrew-chong-ai-sun-tzu-youth-strategy-program.jpg"
+  image: "https://img.aisunzibingfa.com/founders/andrew-chong-ai-sun-tzu-youth-strategy-program.jpg"
   alt: "孙子兵法与青年未来计划新闻发布会现场"
   caption: "张健权老师主持《孙子兵法与青年未来》计划新闻发布会"
 
@@ -28,7 +28,7 @@ ads:
   bottom: true
 ---
 
-![封面](https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/founders/andrew-chong-ai-sun-tzu-youth-strategy-program.jpg)
+![封面](https://img.aisunzibingfa.com/founders/andrew-chong-ai-sun-tzu-youth-strategy-program.jpg)
 
 > **青春不是一段时光，而是一种心态。**
 

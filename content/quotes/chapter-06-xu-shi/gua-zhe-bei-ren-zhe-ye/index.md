@@ -87,7 +87,7 @@ faq:
   - q: "运用这套战术时最需要避免什么？"
     a: "结论：避免为追求调动角度而频繁失误，一旦失误过多，主动权会重新回到对手手中。"
 cover:
-  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-06-xu-shi/gua-zhe-bei-ren-zhe-ye.jpg"
+  image: "https://img.aisunzibingfa.com/quotes/chapter-06-xu-shi/gua-zhe-bei-ren-zhe-ye.jpg"
   alt: "网球运动员通过大角度调动对手，在跑动中击球"
   title: "寡者备人，众者使人备己：战术调动与竞技主动权"
   caption: "通过落点与节奏变化调动对手，是「使人备己」在竞技体育中的直接体现。"

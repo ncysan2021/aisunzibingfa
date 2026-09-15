@@ -82,7 +82,7 @@ faq:
   - q: "战略维度的复盘，应该从哪一步开始？"
     a: "结论：从「领先即复盘」开始，先检查补给、配速与体能余量，再决定是否扩大优势。"
 cover:
-  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-12-huo-gong/fu-zhan-sheng-gong-qu.jpg"
+  image: "https://img.aisunzibingfa.com/quotes/chapter-12-huo-gong/fu-zhan-sheng-gong-qu.jpg"
   alt: "马拉松运动员在领先阶段进行补给与配速控制的竞技场景"
   title: "夫战胜攻取而不修其功者凶：竞技领先后的复盘战略"
   caption: "领先不是终点，巩固成果才是战略复盘的核心。"

@@ -86,7 +86,7 @@ faq:
   - q: "铁人三项选手在跨地域参赛时最该先盘点哪类资源？"
     a: "结论：先盘点自行车运输、补给品与医疗点位，再安排赛前训练，避免后勤断链影响比赛状态。"
 cover:
-  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-02-zuo-zhan/fan-yong-bing-zhi-fa-chi-che-qian-si.jpg"
+  image: "https://img.aisunzibingfa.com/quotes/chapter-02-zuo-zhan/fan-yong-bing-zhi-fa-chi-che-qian-si.jpg"
   alt: "短道速滑运动员在冰面训练，场边摆放着备用冰刀与恢复设备"
   title: "竞技备战中的资源约束：从驰车千驷到冰场后勤"
   caption: "《孙子兵法·作战篇》以战车、甲士与千里粮道说明：资源盘点先于行动展开。"

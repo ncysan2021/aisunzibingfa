@@ -84,7 +84,7 @@ faq:
   - q: "短道速滑中跟滑战术为什么常被体能劣势方采用？"
     a: "结论：跟滑节省体力，把资源留到最后一两圈集中爆发，用效率替代全程领滑的资源消耗。"
 cover:
-  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-06-xu-shi/yi-wu-duo-zhi-yue-ren-zhi-bing.jpg"
+  image: "https://img.aisunzibingfa.com/quotes/chapter-06-xu-shi/yi-wu-duo-zhi-yue-ren-zhi-bing.jpg"
   alt: "足球比赛中弱队通过快速反击攻入关键进球的瞬间"
   title: "以吾度之：兵多未必胜——竞技体育中的资源约束与效率制胜"
   caption: "资源劣势方通过集中投放与效率提升，在关键节点上争取胜利。"

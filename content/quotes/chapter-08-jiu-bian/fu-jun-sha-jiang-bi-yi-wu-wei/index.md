@@ -88,7 +88,7 @@ faq:
   - q: "短道速滑与冰壶在执行维度上的五危表现有何不同？"
     a: "结论：短道速滑多表现为忿速可侮的即时冲动，冰壶多表现为必生可虏的保守犹豫，需分别设计干预。"
 cover:
-  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-08-jiu-bian/fu-jun-sha-jiang-bi-yi-wu-wei.jpg"
+  image: "https://img.aisunzibingfa.com/quotes/chapter-08-jiu-bian/fu-jun-sha-jiang-bi-yi-wu-wei.jpg"
   alt: "短道速滑运动员在弯道处被碰撞后强行超越的瞬间"
   title: "覆军杀将，必以五危：执行维度的竞技崩盘"
   caption: "高压下的性格弱点失控，往往是执行崩盘的真正起点。"
