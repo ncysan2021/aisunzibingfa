@@ -84,7 +84,7 @@ faq:
   - q: "执行维度上，教练在落后时最该做什么？"
     a: "结论：减少信息量，只给一个可立即执行的单点指令，并用固定锚点稳定动作节奏，避免多任务干扰。"
 cover:
-  image: "quotes/chapter-11-jiu-di/bing-shi-shen-xian-ze-bu-ju.jpg"
+  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-11-jiu-di/bing-shi-shen-xian-ze-bu-ju.jpg"
   alt: "短道速滑选手在落后时加速超越，体现兵士甚陷则不惧的执行状态"
   title: "兵士甚陷则不惧：落后反而更敢打"
   caption: "险境压缩杂念，执行反而更坚决——九地篇的执行悖论在冰面上重现。"

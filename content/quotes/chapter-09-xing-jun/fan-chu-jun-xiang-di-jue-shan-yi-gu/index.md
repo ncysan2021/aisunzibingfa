@@ -84,7 +84,7 @@ faq:
   - q: "执行维度下，如何判断自己是否提前触顶物理极限？"
     a: "结论：当配速下降且心率无法回落时，说明已接近极限，应立即降低输出，避免崩盘。"
 cover:
-  image: "quotes/chapter-09-xing-jun/fan-chu-jun-xiang-di-jue-shan-yi-gu.jpg"
+  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-09-xing-jun/fan-chu-jun-xiang-di-jue-shan-yi-gu.jpg"
   alt: "越野跑选手沿谷地行进，背景为山地赛道"
   title: "绝山依谷：山地赛道的体能分配执行"
   caption: "沿谷地行进可降低累计爬升，减少体能消耗。"

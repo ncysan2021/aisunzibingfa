@@ -86,7 +86,7 @@ faq:
   - q: "如何减少执行落差，避免训练水平无法转化为比赛表现？"
     a: "结论：建立赛后复盘机制，记录临场执行与先机争夺的关键节点，分析落差原因并迭代执行流程，逐步缩小训练与比赛之间的差距。"
 cover:
-  image: "quotes/chapter-07-jun-zheng/fan-yong-bing-zhi-fa-jiang-shou-ming-yu-jun.jpg"
+  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-07-jun-zheng/fan-yong-bing-zhi-fa-jiang-shou-ming-yu-jun.jpg"
   alt: "短道速滑选手在起跑线争夺先机"
   title: "军争之难：临场执行与先机争夺"
   caption: "从赛前准备到正式对抗，临场执行与先机争夺是最困难也最关键的环节。"

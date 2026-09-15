@@ -82,7 +82,7 @@ faq:
   - q: "如果赛前判断失误，比赛中发现实力对比与预期不符，该怎么办？"
     a: "结论：立即切换到守的模式，优先保存体力并观察对手，等待新的可胜信号出现再重新判断。"
 cover:
-  image: "quotes/chapter-04-jun-xing/bu-ke-sheng-zhe-shou-ye.jpg"
+  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-04-jun-xing/bu-ke-sheng-zhe-shou-ye.jpg"
   alt: "短道速滑选手在弯道中跟随滑行，体现攻守选择与体力分配"
   title: "不可胜者守也：物理极限下的攻守选择"
   caption: "攻守选择由当前实力对比决定，时间节点只是次要因素。"

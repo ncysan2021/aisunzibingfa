@@ -82,7 +82,7 @@ faq:
   - q: "如何训练避实击虚的战术意识？"
     a: "结论：通过录像分析识别对手强弱区，设计调动路线并在训练中反复演练。"
 cover:
-  image: "quotes/chapter-06-xu-shi/fu-bing-xing-xiang-shui.jpg"
+  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-06-xu-shi/fu-bing-xing-xiang-shui.jpg"
   alt: "羽毛球运动员在场上调动对手后攻击空当"
   title: "夫兵形象水：避实击虚的竞技战术"
   caption: "水避高趋下，兵避实击虚——调动对手，攻击空当。"

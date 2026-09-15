@@ -86,7 +86,7 @@ faq:
   - q: "如果只考虑有利面会导致什么后果？"
     a: "结论：单面思维会让团队低估伤病、体能透支与战术失误的代价，最终在关键场次出现不可逆的战略崩盘。"
 cover:
-  image: "quotes/chapter-08-jiu-bian/shi-gu-zhi-zhe-zhi-lv.jpg"
+  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-08-jiu-bian/shi-gu-zhi-zhe-zhi-lv.jpg"
   alt: "奥运教练与运动员在场边进行战略讨论，白板上写满利害分析要点"
   title: "智者之虑必杂于利害——奥运竞技战略决策"
   caption: "战略决策的核心不是只看收益，而是同时评估有利与有害两面。"

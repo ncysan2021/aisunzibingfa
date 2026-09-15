@@ -86,7 +86,7 @@ faq:
   - q: "铁人三项选手如何用资源约束思维安排比赛？"
     a: "结论：铁人三项选手按游泳、自行车、跑步分配体能预算，若游泳段落后过多，则自行车段必须控制功率，避免跑步段崩盘。"
 cover:
-  image: "quotes/chapter-02-zuo-zhan/gu-bing-wen-zhuo-su-wei-du-qiao-zhi-jiu.jpg"
+  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-02-zuo-zhan/gu-bing-wen-zhuo-su-wei-du-qiao-zhi-jiu.jpg"
   alt: "业余羽毛球选手在首局快速抢攻，体现资源约束下的速战速决"
   title: "故兵闻拙速，未睹巧之久也：业余羽毛球首局速胜"
   caption: "资源有限时，首局速胜比拖到第三局更符合「拙速」原则"

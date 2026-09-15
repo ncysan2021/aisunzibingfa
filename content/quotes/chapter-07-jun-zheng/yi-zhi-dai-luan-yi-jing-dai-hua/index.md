@@ -90,7 +90,7 @@ faq:
   - q: "执行维度下，如何避免自己先「乱」？"
     a: "结论：赛前明确节奏基准，赛中通过暂停、换人或队长喊话重置节奏，把「不乱」作为第一执行目标。"
 cover:
-  image: "quotes/chapter-07-jun-zheng/yi-zhi-dai-luan-yi-jing-dai-hua.jpg"
+  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-07-jun-zheng/yi-zhi-dai-luan-yi-jing-dai-hua.jpg"
   alt: "以治待乱以静待哗的竞技执行示意图"
   title: "以治待乱，以静待哗：执行维度的治心之道"
   caption: "严整与镇静是执行的基础，等待对手混乱与喧哗是夺取节奏主导权的关键。"

@@ -88,7 +88,7 @@ faq:
   - q: "如何判断团队已进入资源透支状态？"
     a: "结论：当伤病率上升、器材更换频率加快、运动员主观疲劳度持续偏高时，说明资源消耗已超过补充速度，必须启动熔断机制。"
 cover:
-  image: "quotes/chapter-02-zuo-zhan/li-qu-cai-dan-zhong-yuan-nei-xu-yu-jia.jpg"
+  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-02-zuo-zhan/li-qu-cai-dan-zhong-yuan-nei-xu-yu-jia.jpg"
   alt: "运动员在训练场上检查磨损的器材与记录训练负荷"
   title: "力屈财殚：竞技体育中的资源约束"
   caption: "高强度训练同时消耗身体、器材与财力，资源约束决定可持续竞技能力。"

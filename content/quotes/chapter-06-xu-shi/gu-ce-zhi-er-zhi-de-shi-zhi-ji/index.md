@@ -84,7 +84,7 @@ faq:
   - q: "如果试探阶段被对手识破并反击，应该如何调整？"
     a: "结论：立即停止重复试探，切换节奏或改变接触方式，避免在同一模式上持续暴露自身意图。"
 cover:
-  image: "quotes/chapter-06-xu-shi/gu-ce-zhi-er-zhi-de-shi-zhi-ji.jpg"
+  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-06-xu-shi/gu-ce-zhi-er-zhi-de-shi-zhi-ji.jpg"
   alt: "拳击手在比赛中用轻刺拳试探对手防守"
   title: "策之角之：拳击试探战术"
   caption: "轻刺拳试探是拳击中最典型的「角之」，用最小代价读取对手虚实。"

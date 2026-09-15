@@ -84,7 +84,7 @@ faq:
   - q: "举重项目中如何体现「胜于易胜」？"
     a: "结论：通过赛前减量训练与试举重量策略，确保每次试举都在自身力量极限之内完成，迫使对手先失误。"
 cover:
-  image: "quotes/chapter-04-jun-xing/gu-zhi-suo-wei-shan-zhan-zhe.jpg"
+  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-04-jun-xing/gu-zhi-suo-wei-shan-zhan-zhe.jpg"
   alt: "运动员在田径赛道上进行极限体能训练"
   title: "胜于易胜：物理极限下的竞技准备"
   caption: "赛前准备将比赛难度降至自身极限之内，是「胜于易胜」的现代竞技体现。"

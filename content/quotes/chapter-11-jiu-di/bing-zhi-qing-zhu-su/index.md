@@ -85,7 +85,7 @@ faq:
   - q: "团队项目中谁来发出提速信号？"
     a: "结论：由场上视野最好的队员或教练发出，减少多人判断带来的延迟。信号必须简短、唯一，且赛前全员确认。"
 cover:
-  image: "quotes/chapter-11-jiu-di/bing-zhi-qing-zhu-su.jpg"
+  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-11-jiu-di/bing-zhi-qing-zhu-su.jpg"
   alt: "短道速滑选手在相持阶段突然加速超越对手"
   title: "兵之情主速：相持阶段突然提速的时机与执行法则"
   caption: "相持阶段对手节奏波动时突然提速，是执行维度的关键窗口。"

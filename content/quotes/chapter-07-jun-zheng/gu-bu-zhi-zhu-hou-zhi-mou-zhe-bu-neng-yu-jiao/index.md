@@ -84,7 +84,7 @@ faq:
   - q: "如果对手临场改变防守体系，执行层面应如何应对？"
     a: "结论：立即启用预设的识别口令与备用配合，暂停时优先更新防守情报，避免用旧方案硬打新防守。"
 cover:
-  image: "quotes/chapter-07-jun-zheng/gu-bu-zhi-zhu-hou-zhi-mou-zhe-bu-neng-yu-jiao.jpg"
+  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-07-jun-zheng/gu-bu-zhi-zhu-hou-zhi-mou-zhe-bu-neng-yu-jiao.jpg"
   alt: "篮球进攻中球员阅读对手防守体系并呼叫战术口令"
   title: "不知诸侯之谋者不能豫交——篮球进攻执行的信息前置"
   caption: "进攻失误的根源往往不在技术，而在未识别防守体系便贸然发动配合。"

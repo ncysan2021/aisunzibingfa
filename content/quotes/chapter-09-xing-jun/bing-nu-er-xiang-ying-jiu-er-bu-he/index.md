@@ -78,7 +78,7 @@ faq:
   - q: "短道速滑中，对手突然加速逼近但不超越，执行层面应如何应对？"
     a: "结论：保持自身滑行节奏和线路，不被对手带乱，等待其真正超越时再反应。"
 cover:
-  image: "quotes/chapter-09-xing-jun/bing-nu-er-xiang-ying-jiu-er-bu-he.jpg"
+  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-09-xing-jun/bing-nu-er-xiang-ying-jiu-er-bu-he.jpg"
   alt: "篮球比赛中对方球员情绪激动但战术克制，反复传导球等待机会"
   title: "兵怒而相迎，久而不合：竞技体育中的情绪克制与战术隐忍"
   caption: "对手愤怒却迟迟不动手，执行层面需谨慎观察其真实意图。"

@@ -86,7 +86,7 @@ faq:
   - q: "如果赛前评估失误，比赛中应如何补救？"
     a: "结论：立即启动战略冗余预案，优先保证完赛而非强行冲击目标。赛后需复盘评估失误原因，修正地形分类与配速锚点设定方法。"
 cover:
-  image: "quotes/chapter-10-di-xing/zhi-ci-er-yong-zhan-zhe-bi-sheng.jpg"
+  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-10-di-xing/zhi-ci-er-yong-zhan-zhe-bi-sheng.jpg"
   alt: "短道速滑运动员在弯道中保持配速节奏"
   title: "知此而用战者必胜：赛前地形评估与节奏掌控"
   caption: "赛前对赛道地形与对手节奏的系统评估，是竞技战略执行的基础。"

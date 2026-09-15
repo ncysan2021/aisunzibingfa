@@ -2,10 +2,11 @@
 title: "联系我们"
 description: "联系 AI孙子兵法：客户服务、商务合作、媒体公关、加入我们。欢迎通过邮箱或 WhatsApp 与我们取得联系。"
 slug: "contact"
+type: "page"
 date: 2026-09-15
 lastmod: 2026-09-15
 cover:
-  image: "pages/contact.jpg"
+  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/pages/contact.jpg"
   alt: "联系我们"
   caption: "联系我们"
 draft: false

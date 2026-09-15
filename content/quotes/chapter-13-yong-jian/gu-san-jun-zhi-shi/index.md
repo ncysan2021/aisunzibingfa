@@ -82,7 +82,7 @@ faq:
   - q: "普通业余球队没有专职分析师，也能应用这条原则吗？"
     a: "结论：可以，指定一名队员负责观察对手并直接向队长或教练汇报，同时约定不外传，即可形成最小情报链。"
 cover:
-  image: "quotes/chapter-13-yong-jian/gu-san-jun-zhi-shi.jpg"
+  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-13-yong-jian/gu-san-jun-zhi-shi.jpg"
   alt: "体育战术分析师与主教练在赛场边直接沟通，体现情报链的信任与机密"
   title: "三军之事莫亲于间：体育情报链的信任与机密"
   caption: "情报传递链越短，信任越深，保密越严，决策依据越可靠。"

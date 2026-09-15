@@ -2,10 +2,11 @@
 title: "隐私政策"
 description: "AI孙子兵法网站隐私政策：说明我们如何收集、使用、存储和保护您的个人信息，以及您对个人信息享有的权利。"
 slug: "privacy"
+type: "page"
 date: 2026-09-15
 lastmod: 2026-09-15
 cover:
-  image: "pages/privacy.jpg"
+  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/pages/privacy.jpg"
   alt: "AI孙子兵法隐私政策"
   caption: "AI孙子兵法隐私政策"
 draft: false

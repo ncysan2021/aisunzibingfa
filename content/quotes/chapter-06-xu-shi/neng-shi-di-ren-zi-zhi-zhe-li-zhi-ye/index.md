@@ -87,7 +87,7 @@ faq:
   - q: "短道速滑中如何用「害之」控制对手？"
     a: "结论：用身体位置封锁内道，迫使对手走外道或减速。对手不敢进入被封锁的区域，你的滑行路线就获得了主动权。"
 cover:
-  image: "quotes/chapter-06-xu-shi/neng-shi-di-ren-zi-zhi-zhe-li-zhi-ye.jpg"
+  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-06-xu-shi/neng-shi-di-ren-zi-zhi-zhe-li-zhi-ye.jpg"
   alt: "拳击手用佯攻引诱对手防守偏移的战术瞬间"
   title: "利之害之：战术诱敌的竞技应用"
   caption: "佯攻制造假目标，诱使对手移动，真实进攻窗口随之打开。"

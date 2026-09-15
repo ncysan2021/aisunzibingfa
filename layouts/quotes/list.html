@@ -5,7 +5,7 @@
 
 {{- if $isTop -}}
   {{- /* ═══════════════════════════════════
-       顶层：显示 13 篇列表
+       顶层：显示 13 篇列表 + 封面
        ═══════════════════════════════════ */ -}}
 
   <header class="page-header">
@@ -15,9 +15,20 @@
     {{- end }}
   </header>
 
+  {{- /* 封面图 */ -}}
+  {{- with .Params.cover.image -}}
+    <figure class="entry-cover">
+      <img loading="eager"
+           src="{{ printf "%s/%s" site.Params.imageBaseURL . }}"
+           alt="{{ $.Params.cover.alt | default $.Title }}" />
+      {{- with $.Params.cover.caption }}
+        <figcaption>{{ . }}</figcaption>
+      {{- end }}
+    </figure>
+  {{- end -}}
+
   <div class="chapter-list">
     {{- range .Pages.ByParam "weight" -}}
-      {{- $ch := .Params -}}
       <div class="chapter-card">
         <a href="{{ .RelPermalink }}" class="chapter-link">
           <h2 class="chapter-name">{{ .Title }}</h2>
@@ -34,7 +45,7 @@
 
 {{- else -}}
   {{- /* ═══════════════════════════════════
-       篇内：显示 6 维度分组
+       篇内：显示 6 维度分组 + 封面
        ═══════════════════════════════════ */ -}}
 
   {{- $dimensions := slice "战略" "战术" "执行" "复盘" "资源约束" "物理极限" -}}
@@ -53,6 +64,18 @@
       <div class="page-description">{{ . }}</div>
     {{- end }}
   </header>
+
+  {{- /* 封面图 */ -}}
+  {{- with .Params.cover.image -}}
+    <figure class="entry-cover">
+      <img loading="eager"
+           src="{{ printf "%s/%s" site.Params.imageBaseURL . }}"
+           alt="{{ $.Params.cover.alt | default $.Title }}" />
+      {{- with $.Params.cover.caption }}
+        <figcaption>{{ . }}</figcaption>
+      {{- end }}
+    </figure>
+  {{- end -}}
 
   {{- $pages := .Pages.ByParam "order" -}}
 
@@ -94,7 +117,7 @@
       {{- if $group -}}
         {{- range $page := $group -}}
           {{- $q := $page.Params -}}
-         {{- $faq := index $q.faq 0 -}}
+          {{- $faq := index $q.faq 0 -}}
           <div class="quote-card">
             {{- with $faq }}
               <h4 class="quote-question">💬 问题：{{ .q }}</h4>

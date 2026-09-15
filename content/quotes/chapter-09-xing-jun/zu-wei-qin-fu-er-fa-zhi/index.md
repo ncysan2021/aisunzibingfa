@@ -86,7 +86,7 @@ faq:
   - q: "短道速滑接力队换棒失误后，教练应如何处理？"
     a: "结论：先安排共同复盘与冰上合练，让队员在协作中重建信任，再讨论责任与改进方案，避免直接处罚造成互相指责。"
 cover:
-  image: "quotes/chapter-09-xing-jun/zu-wei-qin-fu-er-fa-zhi.jpg"
+  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-09-xing-jun/zu-wei-qin-fu-er-fa-zhi.jpg"
   alt: "教练与队员在训练场边沟通，体现信任建立先于纪律处罚"
   title: "卒未亲附而罚之：执行维度的信任前提"
   caption: "新帅上任初期，先建立信任关系，再引入纪律与处罚机制。"

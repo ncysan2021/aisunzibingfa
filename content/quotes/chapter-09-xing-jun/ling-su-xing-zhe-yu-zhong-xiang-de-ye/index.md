@@ -82,7 +82,7 @@ faq:
   - q: "如果教练的指令经常朝令夕改，会对执行造成什么影响？"
     a: "结论：指令失信将直接瓦解执行力。运动员会犹豫、自行其是，高压比赛中战术无法统一，团队表现大幅下滑。"
 cover:
-  image: "quotes/chapter-09-xing-jun/ling-su-xing-zhe-yu-zhong-xiang-de-ye.jpg"
+  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-09-xing-jun/ling-su-xing-zhe-yu-zhong-xiang-de-ye.jpg"
   alt: "短道速滑运动员在接力比赛中交接，体现团队执行与信任"
   title: "令素行者：短道速滑接力中的执行与信任"
   caption: "短道速滑接力交接的瞬间，运动员对队友和教练战术的信任是执行力的直接体现。"

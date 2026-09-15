@@ -82,7 +82,7 @@ faq:
   - q: "击剑比赛中防守好就能赢吗？"
     a: "结论：不能。格挡只能化解对手进攻，得分必须通过抢攻或反击主动完成。防守是止损，进攻才是产出。"
 cover:
-  image: "quotes/chapter-12-huo-gong/shui-ke-yi-jue.jpg"
+  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-12-huo-gong/shui-ke-yi-jue.jpg"
   alt: "水可以绝不可以夺——竞技防守与进攻的资源约束示意图"
   title: "水可以绝，不可以夺：防守只阻断，进攻靠创造"
   caption: "《孙子兵法·火攻篇》「水可以绝，不可以夺」在竞技体育中的资源约束解读。"

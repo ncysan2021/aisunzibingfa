@@ -82,7 +82,7 @@ faq:
   - q: "运动员在绝境中执行失败，复盘应关注什么？"
     a: "结论：复盘应聚焦压力下的技术变形点与决策延迟，而非单纯追究结果。"
 cover:
-  image: "quotes/chapter-11-jiu-di/tou-zhi-wang-di-ran-hou-cun.jpg"
+  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-11-jiu-di/tou-zhi-wang-di-ran-hou-cun.jpg"
   alt: "短道速滑选手在淘汰赛起跑线上准备出发"
   title: "投之亡地然后存：淘汰赛的绝境执行"
   caption: "短道速滑淘汰赛中，选手在无退路情境下全力执行起跑战术。"

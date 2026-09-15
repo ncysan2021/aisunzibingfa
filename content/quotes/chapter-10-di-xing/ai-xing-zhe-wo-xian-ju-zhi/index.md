@@ -79,7 +79,7 @@ faq:
   - q: "足球边路进攻中，如何应用「我先居之，必盈之以待敌」？"
     a: "结论：若我方先占据边路通道，应保持足够接应点封死通道，等待对手上抢后打身后；若对手先占且重兵防守，则转移至中路或另一侧。"
 cover:
-  image: "quotes/chapter-10-di-xing/ai-xing-zhe-wo-xian-ju-zhi.jpg"
+  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-10-di-xing/ai-xing-zhe-wo-xian-ju-zhi.jpg"
   alt: "篮球挡拆中狭窄边路的攻防博弈示意"
   title: "隘形者我先居之：篮球挡拆与冰壶战术中的狭窄空间博弈"
   caption: "狭窄通道的兵力判断是战术执行的关键"

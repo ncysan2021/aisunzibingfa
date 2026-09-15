@@ -84,7 +84,7 @@ faq:
   - q: "如果赛前情报不足，教练应如何应对？"
     a: "结论：以自身节奏为「正」先稳住前半程，保留后程变速为「奇」，临场观察再调整。"
 cover:
-  image: "quotes/chapter-10-di-xing/liao-di-zhi-sheng-ji-xian-e-yuan-jin.jpg"
+  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-10-di-xing/liao-di-zhi-sheng-ji-xian-e-yuan-jin.jpg"
   alt: "短道速滑选手在弯道处进行战术卡位，体现赛前场地测算与对手评估"
   title: "料敌制胜，计险厄远近：竞技体育的战略评估"
   caption: "赛前评估对手与场地，是体能分配与战术设计的前提。"

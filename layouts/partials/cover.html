@@ -1,0 +1,23 @@
+{{- /* PaperMod cover 覆盖版：支持 imageBaseURL（R2） */ -}}
+{{- with .Params.cover.image -}}
+  {{- $base := site.Params.imageBaseURL -}}
+  {{- $url := "" -}}
+  {{- if $base -}}
+    {{- /* 如果 image 已是完整 URL，直接用 */ -}}
+    {{- if or (hasPrefix . "http://") (hasPrefix . "https://") -}}
+      {{- $url = . -}}
+    {{- else -}}
+      {{- $url = printf "%s/%s" $base . -}}
+    {{- end -}}
+  {{- else -}}
+    {{- $url = . | absURL -}}
+  {{- end -}}
+  {{- $alt := $.Params.cover.alt | default $.Title -}}
+  {{- $caption := $.Params.cover.caption | default "" -}}
+  <figure class="entry-cover">
+    <img loading="lazy" src="{{ $url }}" alt="{{ $alt }}" />
+    {{- with $caption -}}
+      <figcaption>{{ . }}</figcaption>
+    {{- end -}}
+  </figure>
+{{- end -}}

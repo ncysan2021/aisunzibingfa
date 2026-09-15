@@ -82,7 +82,7 @@ faq:
   - q: "孙子所说的「攻之灾」对现代竞技体育有何启示？"
     a: "结论：任何进攻都应以最小代价达成目标，当进攻成本远超预期收益时，及时转为防守或调整策略，避免因情绪而陷入消耗战。"
 cover:
-  image: "quotes/chapter-03-mou-gong/jiang-bu-sheng-qi-fen-er-yi-fu-zhi.jpg"
+  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-03-mou-gong/jiang-bu-sheng-qi-fen-er-yi-fu-zhi.jpg"
   alt: "短道速滑选手在比赛中因急躁强行超越导致碰撞"
   title: "将不胜其忿而蚁附之——竞技体育中的急躁强攻之灾"
   caption: "急躁强攻往往让比赛提前失去悬念，战略克制才是长久之道。"

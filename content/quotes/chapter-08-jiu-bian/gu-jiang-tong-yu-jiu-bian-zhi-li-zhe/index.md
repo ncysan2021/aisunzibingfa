@@ -82,7 +82,7 @@ faq:
   - q: "冰壶比赛中变通能力为什么重要？"
     a: "结论：冰面变化与对手布局每局不同，只有通晓变通之利，才能及时调整投壶策略并掌控比分节奏。"
 cover:
-  image: "quotes/chapter-08-jiu-bian/gu-jiang-tong-yu-jiu-bian-zhi-li-zhe.jpg"
+  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-08-jiu-bian/gu-jiang-tong-yu-jiu-bian-zhi-li-zhe.jpg"
   alt: "短道速滑选手在弯道处临场变线超越对手"
   title: "九变之利：竞技体育中的临场变通"
   caption: "通晓九变之利者，知用兵矣——短道速滑中的变线决策正是战略执行的体现。"

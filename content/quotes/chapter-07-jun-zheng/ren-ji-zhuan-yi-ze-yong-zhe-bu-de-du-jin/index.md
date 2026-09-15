@@ -84,7 +84,7 @@ faq:
   - q: "如何训练团队在比赛中保持统一执行？"
     a: "结论：通过模拟偏离情境训练，让队员在训练中习惯纠正个体偏差，并建立实时沟通信号与赛后复盘机制。"
 cover:
-  image: "quotes/chapter-07-jun-zheng/ren-ji-zhuan-yi-ze-yong-zhe-bu-de-du-jin.jpg"
+  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-07-jun-zheng/ren-ji-zhuan-yi-ze-yong-zhe-bu-de-du-jin.jpg"
   alt: "自行车公路赛中车队保持统一节奏行进"
   title: "团队执行：统一节奏的竞技体现"
   caption: "自行车公路赛中，副将严格按主将节奏领骑，体现「勇者不得独进」的执行原则。"

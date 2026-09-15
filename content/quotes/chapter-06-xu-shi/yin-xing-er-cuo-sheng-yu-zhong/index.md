@@ -76,7 +76,7 @@ faq:
   - q: "「因形错胜」与普通战术调整有什么区别？"
     a: "结论：普通调整只求得分，因形错胜强调根据对手变化动态切换，并隐藏切换逻辑。"
 cover:
-  image: "quotes/chapter-06-xu-shi/yin-xing-er-cuo-sheng-yu-zhong.jpg"
+  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-06-xu-shi/yin-xing-er-cuo-sheng-yu-zhong.jpg"
   alt: "拳击手在比赛中隐藏进攻意图，冰壶运动员在冰面上调整线路"
   title: "因形错胜：战术伪装与制胜之形"
   caption: "胜利可以展示，但制胜的调整逻辑必须隐藏。"

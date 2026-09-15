@@ -2,10 +2,11 @@
 title: "品牌故事"
 description: "AI孙子兵法诞生于吴雄山与吴哲轩的携手合作，旨在将《孙子兵法》的古老智慧与 AI 技术结合，打造普惠、创新的学习平台。"
 slug: "brand-story"
+type: "page"
 date: 2026-09-15
 lastmod: 2026-09-15
 cover:
-  image: "pages/brand-story.jpg"
+  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/pages/brand-story.jpg"
   alt: "AI孙子兵法品牌故事"
   caption: "AI孙子兵法品牌故事"
 draft: false

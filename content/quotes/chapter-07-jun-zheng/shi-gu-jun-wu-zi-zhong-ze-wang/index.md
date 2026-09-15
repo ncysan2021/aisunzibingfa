@@ -84,7 +84,7 @@ faq:
   - q: "「军无辎重则亡」对业余跑者有何启示？"
     a: "结论：业余跑者应赛前备足能量胶与电解质，按训练中验证过的节奏补给，避免赛中因资源不足而撞墙。"
 cover:
-  image: "quotes/chapter-07-jun-zheng/shi-gu-jun-wu-zi-zhong-ze-wang.jpg"
+  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-07-jun-zheng/shi-gu-jun-wu-zi-zhong-ze-wang.jpg"
   alt: "自行车公路赛车手在比赛中从车队补给点取水"
   title: "军无辎重则亡：竞技体育中的资源约束"
   caption: "自行车公路赛中，车队补给点的规划直接影响车手在关键爬坡前的能量状态。"

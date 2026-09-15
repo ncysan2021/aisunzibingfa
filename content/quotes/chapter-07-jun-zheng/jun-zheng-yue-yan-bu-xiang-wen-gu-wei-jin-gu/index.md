@@ -84,7 +84,7 @@ faq:
   - q: "如果信号系统过于复杂，会带来什么执行风险？"
     a: "结论：信号过多会导致编码混淆和反应延迟，执行时误读概率上升，必须分层级、限数量，并通过模拟训练固化为肌肉记忆。"
 cover:
-  image: "quotes/chapter-07-jun-zheng/jun-zheng-yue-yan-bu-xiang-wen-gu-wei-jin-gu.jpg"
+  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-07-jun-zheng/jun-zheng-yue-yan-bu-xiang-wen-gu-wei-jin-gu.jpg"
   alt: "篮球比赛中球员在客场噪音下用手势沟通战术"
   title: "金鼓旌旗与体育信号执行"
   caption: "当语音被噪音切断，手势与哨声成为执行的生命线"

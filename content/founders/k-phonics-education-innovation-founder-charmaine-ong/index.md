@@ -18,7 +18,7 @@ keywords: ["孙子兵法", "教育创新", "AI孙子兵法", "翁名颐", "吴�
 faq: []
 
 cover:
-  image: "founders/k-phonics-education-innovation-founder-charmaine-ong.jpg"
+  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/founders/k-phonics-education-innovation-founder-charmaine-ong.jpg"
   alt: "AI孙子兵法创办人吴雄山与教育权威翁名颐硕士"
   caption: "吴雄山与翁名颐老师会面，共探教育创新"
 
@@ -28,9 +28,11 @@ ads:
   bottom: true
 ---
 
+![封面](https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/founders/k-phonics-education-innovation-founder-charmaine-ong.jpg)
+
 在 Petaling Jaya 的 Damansara Utama，《AI孙子兵法》创办人吴雄山与教育权威翁名颐学前教育硕士的会面，如同孙子兵法中战略布局的开篇，为教育创新领域开启了全新篇章。
 
-## 惊叹！《AI孙子兵法》网站，一站式解锁教育新玩法
+## 《AI孙子兵法》创办人吴雄山与教育权威翁名颐硕士会面，融合《孙子兵法》智慧与现代教育课程，开启教育创新新篇章。
 
 吴雄山向翁名颐老师详细介绍了《AI孙子兵法》网站的多元功能，强调其核心理念"知己知彼，百战不殆；知天知地，胜乃不穷"，通过清晰了解网站优势和市场需求，精准定位教育市场，助力教育创新。网站的考试局将考试内容精细分类，孙子兵法类考试帮助学习者深度领悟经典，非孙子兵法类考试拓宽知识边界。目标实现 NFT 文凭凭借区块链技术，快速给予学习者激励，就像兵贵神速的理念，迅速推动学习者成长。网站的博文从孙子兵法角度解读时事，为用户提供全新视角，助力其将经典智慧运用到生活工作中。
 

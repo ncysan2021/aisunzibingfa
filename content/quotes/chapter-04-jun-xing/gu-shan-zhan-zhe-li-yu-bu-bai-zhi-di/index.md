@@ -84,7 +84,7 @@ faq:
   - q: "冰壶比赛中如何理解资源约束下的不败策略？"
     a: "结论：先保证己方投壶成功率与站位不失误，把有限的投壶次数用于建立防守布局，再等待对手传击偏差时偷分。"
 cover:
-  image: "quotes/chapter-04-jun-xing/gu-shan-zhan-zhe-li-yu-bu-bai-zhi-di.jpg"
+  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-04-jun-xing/gu-shan-zhan-zhe-li-yu-bu-bai-zhi-di.jpg"
   alt: "短道速滑选手在弯道中保持稳定滑行线路，等待对手出现失误"
   title: "立于不败之地：短道速滑中的稳定与捕捉"
   caption: "先守住自身滑行稳定与体能分配，再捕捉对手在弯道中的破绽。"

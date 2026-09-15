@@ -89,7 +89,7 @@ faq:
   - q: "冬季项目为什么更依赖赛前多算？"
     a: "结论：短道速滑、花样滑冰、冰壶等冬季项目受冰面、赛道与器材影响大，变量越多，赛前量化分析的价值越高。"
 cover:
-  image: "quotes/chapter-01-shi-ji/duo-suan-sheng-shao-suan-bu-sheng.jpg"
+  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-01-shi-ji/duo-suan-sheng-shao-suan-bu-sheng.jpg"
   alt: "短道速滑选手在赛前研究对手录像与赛道数据"
   title: "多算胜，少算不胜：赛前推演决定竞技走向"
   caption: "赛前的情报整理与战术推演，是「多算」的核心动作。"

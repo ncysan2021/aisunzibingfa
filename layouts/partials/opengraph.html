@@ -1,0 +1,50 @@
+{{- /* OpenGraph 覆盖版：支持 imageBaseURL（R2） */ -}}
+<meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
+<meta property="og:title" content="{{ .Title }}">
+<meta property="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Summary }}{{ end }}">
+<meta property="og:url" content="{{ .Permalink }}">
+<meta property="og:site_name" content="{{ site.Title }}">
+<meta property="og:locale" content="zh_Hans">
+
+{{- with .Params.cover.image -}}
+  {{- $base := site.Params.imageBaseURL -}}
+  {{- $url := "" -}}
+  {{- if $base -}}
+    {{- if or (hasPrefix . "http://") (hasPrefix . "https://") -}}
+      {{- $url = . -}}
+    {{- else -}}
+      {{- $url = printf "%s/%s" $base . -}}
+    {{- end -}}
+  {{- else -}}
+    {{- $url = . | absURL -}}
+  {{- end -}}
+  <meta property="og:image" content="{{ $url }}">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+{{- end -}}
+
+{{- if .IsPage -}}
+  <meta property="article:published_time" content="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
+  <meta property="article:modified_time" content="{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}">
+  {{- range .Params.tags -}}
+    <meta property="article:tag" content="{{ . }}">
+  {{- end -}}
+{{- end -}}
+
+{{- with .Params.cover.image -}}
+  {{- $base := site.Params.imageBaseURL -}}
+  {{- $url := "" -}}
+  {{- if $base -}}
+    {{- if or (hasPrefix . "http://") (hasPrefix . "https://") -}}
+      {{- $url = . -}}
+    {{- else -}}
+      {{- $url = printf "%s/%s" $base . -}}
+    {{- end -}}
+  {{- else -}}
+    {{- $url = . | absURL -}}
+  {{- end -}}
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:image" content="{{ $url }}">
+{{- end -}}
+<meta name="twitter:title" content="{{ .Title }}">
+<meta name="twitter:description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Summary }}{{ end }}">

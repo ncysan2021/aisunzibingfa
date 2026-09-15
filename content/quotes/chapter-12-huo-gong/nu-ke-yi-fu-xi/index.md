@@ -86,7 +86,7 @@ faq:
   - q: "赛后复盘时，如何区分可逆失误与不可逆损失？"
     a: "结论：可逆失误能通过后续回合弥补，不可逆损失无法恢复；复盘时重点标注不可逆项，并制定下一次的预防规则。"
 cover:
-  image: "quotes/chapter-12-huo-gong/nu-ke-yi-fu-xi.jpg"
+  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-12-huo-gong/nu-ke-yi-fu-xi.jpg"
   alt: "短道速滑选手在弯道处保持冷静与战术纪律"
   title: "怒可以复喜，愠可以复悦：竞技战略中的情绪复盘"
   caption: "情绪可以恢复，但比赛中的不可逆后果无法重来，战略重心在于赛前预防与赛中熔断。"

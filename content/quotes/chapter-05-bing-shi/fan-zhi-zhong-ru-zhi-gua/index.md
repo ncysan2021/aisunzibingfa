@@ -86,7 +86,7 @@ faq:
   - q: "战术维度上，最容易被忽略的风险是什么？"
     a: "结论：号令系统在高压下失效。若口令不统一或分层不清，奇正切换会变成各自为战，反而被对手抓住空档反击。"
 cover:
-  image: "quotes/chapter-05-bing-shi/fan-zhi-zhong-ru-zhi-gua.jpg"
+  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-05-bing-shi/fan-zhi-zhong-ru-zhi-gua.jpg"
   alt: "篮球运动员在对手全场紧逼下变向出球的战术瞬间"
   title: "治众如治寡：竞技战术中的奇正切换"
   caption: "分层编制与号令同步，让大场面拆成小单元，再用奇正切换攻击对手薄弱点。"

@@ -82,7 +82,7 @@ faq:
   - q: "诱敌战术最大的风险是什么？"
     a: "结论：诱饵被对手识破或让出的空间过大，导致伏击未成反被对手直接得分。"
 cover:
-  image: "quotes/chapter-05-bing-shi/yi-li-dong-zhi.jpg"
+  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-05-bing-shi/yi-li-dong-zhi.jpg"
   alt: "足球比赛中球员让出边路空间引诱对手前压的战术示意图"
   title: "以利动之，以卒待之：竞技诱敌战术"
   caption: "让出边路不是退让，而是为了让对手进入预设的伏击区域。"

@@ -2,10 +2,11 @@
 title: "关于我们"
 description: "AI孙子兵法：将千年智慧《孙子兵法》与现代人工智能技术深度融合的创新平台。免费普惠、质量至上、人才汇聚、创新发展。"
 slug: "about"
+type: "page"
 date: 2025-09-15
 lastmod: 2025-09-15
 cover:
-  image: "pages/about.jpg"
+  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/pages/about.jpg"
   alt: "关于 AI孙子兵法"
   caption: "关于 AI孙子兵法"
 draft: false

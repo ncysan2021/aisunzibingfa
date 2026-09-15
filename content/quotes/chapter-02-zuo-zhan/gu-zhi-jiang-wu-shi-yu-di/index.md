@@ -86,7 +86,7 @@ faq:
   - q: "如何判断一次训练是否「就地取材」成功？"
     a: "结论：看消耗比是否下降。若同样的体能和时间投入带来更明显的技术改进或战术清晰度提升，说明资源用在了高杠杆环节。"
 cover:
-  image: "quotes/chapter-02-zuo-zhan/gu-zhi-jiang-wu-shi-yu-di.jpg"
+  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-02-zuo-zhan/gu-zhi-jiang-wu-shi-yu-di.jpg"
   alt: "短道速滑运动员在冰面上利用对手位置反馈调整滑行路线"
   title: "食敌一钟，当吾二十钟：竞技资源约束示意"
   caption: "资源约束维度下，赛场即时反馈与对手信息是最值得优先使用的「就地资源」。"

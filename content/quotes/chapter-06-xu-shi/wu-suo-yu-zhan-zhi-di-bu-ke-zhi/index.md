@@ -83,7 +83,7 @@ faq:
   - q: "运用这一战术时最大的风险是什么？"
     a: "结论：过度延迟可能导致进攻时间耗尽或失误增加，必须在观察与果断之间设定明确的时间底线。"
 cover:
-  image: "quotes/chapter-06-xu-shi/wu-suo-yu-zhan-zhi-di-bu-ke-zhi.jpg"
+  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-06-xu-shi/wu-suo-yu-zhan-zhi-di-bu-ke-zhi.jpg"
   alt: "篮球进攻中延迟决策与防守分散的战术示意图"
   title: "吾所与战之地不可知：篮球进攻的延迟决策与防守分散术"
   caption: "隐藏主攻方向，迫使防守分散，在局部形成以多打少。"

@@ -2,10 +2,11 @@
 title: "考试局"
 description: "AI孙子兵法考试局：以开放大学系统为蓝本，为学生、导师及非专业人士提供免费注册与登录，通过 AI 赋能的学习与考试系统，掌握《孙子兵法》的精髓。"
 slug: "exam"
+type: "page"
 date: 2026-09-15
 lastmod: 2026-09-15
 cover:
-  image: "pages/exam.jpg"
+  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/pages/exam.jpg"
   alt: "AI孙子兵法考试局"
   caption: "AI孙子兵法考试局"
 draft: false

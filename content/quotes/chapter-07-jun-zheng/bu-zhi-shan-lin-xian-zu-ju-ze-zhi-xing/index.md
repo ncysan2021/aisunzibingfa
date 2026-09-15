@@ -84,7 +84,7 @@ faq:
   - q: "如果赛前无法实地踏勘，如何弥补？"
     a: "结论：用视频回放、历史比赛数据、教练与队友的情报共享来替代，并设置更保守的分段执行卡与备选方案。"
 cover:
-  image: "quotes/chapter-07-jun-zheng/bu-zhi-shan-lin-xian-zu-ju-ze-zhi-xing.jpg"
+  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-07-jun-zheng/bu-zhi-shan-lin-xian-zu-ju-ze-zhi-xing.jpg"
   alt: "山地越野跑选手在赛前勘察赛道地形与风险路段"
   title: "不知山林险阻沮泽之形者不能行军——执行维度的赛前侦察"
   caption: "执行维度的第一步不是冲刺，而是把赛道情报变成可复述、可执行的指令。"

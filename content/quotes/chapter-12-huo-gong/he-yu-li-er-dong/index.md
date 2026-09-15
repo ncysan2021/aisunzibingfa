@@ -82,7 +82,7 @@ faq:
   - q: "如果判断失误导致「动」后失分，该如何调整？"
     a: "结论：立即转为「止」控制节奏，赛后复盘评估指标，优化触发条件。"
 cover:
-  image: "quotes/chapter-12-huo-gong/he-yu-li-er-dong.jpg"
+  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-12-huo-gong/he-yu-li-er-dong.jpg"
   alt: "短道速滑选手在弯道处评估超越时机"
   title: "合于利而动：竞技战略中的进止决策"
   caption: "短道速滑比赛中，选手需实时评估超越的收益与风险，有利则动，无利则止。"

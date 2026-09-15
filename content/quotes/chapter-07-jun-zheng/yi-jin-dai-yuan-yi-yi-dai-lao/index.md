@@ -84,7 +84,7 @@ faq:
   - q: "如何在赛程密集的比赛中落实资源约束策略？"
     a: "结论：优先安排恢复与补给，主动放弃低价值场次的全力的消耗，把体能和注意力集中到关键场次，确保在决定性比赛中处于「佚」与「饱」的状态。"
 cover:
-  image: "quotes/chapter-07-jun-zheng/yi-jin-dai-yuan-yi-yi-dai-lao.jpg"
+  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-07-jun-zheng/yi-jin-dai-yuan-yi-yi-dai-lao.jpg"
   alt: "自行车运动员在公路赛中利用内线卡位节省体能"
   title: "以近待远，以佚待劳：竞技体育中的资源约束"
   caption: "自行车公路赛中，提前卡位占据内线的车手在弯道前能节省体能，这正是「以近待远」的现代演绎。"

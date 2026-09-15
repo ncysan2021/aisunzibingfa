@@ -82,7 +82,7 @@ faq:
   - q: "物理极限维度下，复盘应关注什么指标？"
     a: "结论：关注自身稳定执行率与可重复上限，而非单纯以胜负结果评价表现。"
 cover:
-  image: "quotes/chapter-04-jun-xing/gu-shan-zhan-zhe-neng-wei-bu-ke-sheng.jpg"
+  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-04-jun-xing/gu-shan-zhan-zhe-neng-wei-bu-ke-sheng.jpg"
   alt: "运动员在赛场上专注自身动作稳定，背景为对手模糊身影"
   title: "善战者能为不可胜：物理极限下的竞技稳定"
   caption: "守住自身稳定上限，正视对手不可控的临场发挥。"

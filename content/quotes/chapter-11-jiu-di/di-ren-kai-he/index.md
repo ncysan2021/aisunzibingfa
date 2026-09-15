@@ -86,7 +86,7 @@ faq:
   - q: "在冰壶这类非直接对抗项目中，如何应用这一执行原则？"
     a: "结论：冰壶中对手投壶偏差或战术意图暴露即为「开阖」，须迅速调整己方投壶线路与力度，执行偷分或控分。"
 cover:
-  image: "quotes/chapter-11-jiu-di/di-ren-kai-he.jpg"
+  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-11-jiu-di/di-ren-kai-he.jpg"
   alt: "短道速滑选手在弯道中捕捉对手漏洞完成超越"
   title: "敌人开阖，必亟入之——快节奏比赛中的漏洞捕捉"
   caption: "快节奏竞技中，漏洞窗口稍纵即逝，执行速度决定得分。"

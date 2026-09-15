@@ -27,8 +27,8 @@ params:
   TocOpen: false
 
   # R2 图片基础 URL
-  imageBaseURL: "https://pub-xxxxxxxxxxxx.r2.dev"
-
+  imageBaseURL: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev"
+ 
   # Google AdSense（审核通过后再开）
   adsense:
     enabled: false

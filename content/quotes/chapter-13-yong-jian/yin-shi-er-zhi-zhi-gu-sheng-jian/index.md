@@ -86,7 +86,7 @@ faq:
   - q: "在短道速滑或冰壶项目中，这一原则如何落地？"
     a: "结论：通过反间确认对手赛前冰上训练时段，再派侦察人员按该时段观察其起跑、交接与投壶线路，按期回收用于战术调整。"
 cover:
-  image: "quotes/chapter-13-yong-jian/yin-shi-er-zhi-zhi-gu-sheng-jian.jpg"
+  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-13-yong-jian/yin-shi-er-zhi-zhi-gu-sheng-jian.jpg"
   alt: "短道速滑运动员在赛前观察对手训练，体现反间与生间的情报执行链条"
   title: "因是而知之，故生间可使如期——体育情报执行示意"
   caption: "反间提供时间锚点，生间按期回收情报，执行链条环环相扣。"

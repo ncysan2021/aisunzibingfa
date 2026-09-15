@@ -81,7 +81,7 @@ faq:
   - q: "赛后如何校准实力评估？"
     a: "结论：对比实际表现与赛前评估，修正指标权重，为下一场决策提供更准确依据。"
 cover:
-  image: "quotes/chapter-04-jun-xing/gu-sheng-bing-ruo-yi-yi-cheng-zhu.jpg"
+  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-04-jun-xing/gu-sheng-bing-ruo-yi-yi-cheng-zhu.jpg"
   alt: "以镒称铢：竞技实力评估与资源约束"
   title: "以镒称铢：资源约束下的竞技决策"
   caption: "《孙子兵法·军形篇》以镒称铢的智慧，指导运动员在资源约束下评估实力、设定目标。"

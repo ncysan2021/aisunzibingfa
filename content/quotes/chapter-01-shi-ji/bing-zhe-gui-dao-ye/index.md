@@ -86,7 +86,7 @@ faq:
   - q: "战术欺骗需要什么基础才能奏效？"
     a: "结论：战术欺骗必须建立在扎实的基本功之上，守正才能出奇。没有稳定的常规动作作为参照，任何变化都无法让对手产生错误预期，反而会暴露自己的技术缺陷，加速失败。"
 cover:
-  image: "quotes/chapter-01-shi-ji/bing-zhe-gui-dao-ye.jpg"
+  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-01-shi-ji/bing-zhe-gui-dao-ye.jpg"
   alt: "足球运动员罚点球瞬间，守门员扑向错误方向的战术欺骗场景"
   title: "兵者，诡道也：竞技体育中的战术欺骗"
   caption: "罚点球是「诡道」最直观的体现：射手用节奏与方向的假象，让守门员在最后一刻做出错误判断。"

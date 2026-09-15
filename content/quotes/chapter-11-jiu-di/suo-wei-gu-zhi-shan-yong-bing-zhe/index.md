@@ -82,7 +82,7 @@ faq:
   - q: "执行此战术时最大的风险是什么？"
     a: "结论：施压时自身阵型前压，若被对手突破第一道防线，后场将出现巨大空当，因此必须保持整体移动。"
 cover:
-  image: "quotes/chapter-11-jiu-di/suo-wei-gu-zhi-shan-yong-bing-zhe.jpg"
+  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-11-jiu-di/suo-wei-gu-zhi-shan-yong-bing-zhe.jpg"
   alt: "短道速滑选手在弯道处加速施压，对手阵型前后脱节"
   title: "所谓古之善用兵者：战术割裂的竞技应用"
   caption: "通过节奏变化与局部压迫，使对手前后不相及，是战术执行的高级形态。"

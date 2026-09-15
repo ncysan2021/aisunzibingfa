@@ -2,10 +2,11 @@
 title: "企业蓝图"
 description: "AI孙子兵法：以企业蓝图为核心，融合古老智慧与现代科技的创新平台。通过考试局与导师策略联盟，传播兵商思想，助力个人与企业实现战略成长。"
 slug: "blueprint"
+type: "page"
 date: 2026-09-15
 lastmod: 2026-09-15
 cover:
-  image: "pages/blueprint.jpg"
+  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/pages/blueprint.jpg"
   alt: "企业蓝图"
   caption: "AI孙子兵法企业蓝图"
 draft: false

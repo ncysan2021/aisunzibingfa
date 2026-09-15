@@ -86,7 +86,7 @@ faq:
   - q: "冰壶比赛中如何体现「衢地固其结」？"
     a: "结论：多队积分交织时，需巩固与盟友的信息与战术协同。冰壶循环赛中，队伍可通过观察他队赛果调整自己的投壶策略，确保晋级形势有利。"
 cover:
-  image: "quotes/chapter-11-jiu-di/shi-gu-san-di-wu-jiang-yi-qi-zhi.jpg"
+  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-11-jiu-di/shi-gu-san-di-wu-jiang-yi-qi-zhi.jpg"
   alt: "短道速滑选手在弯道处调整战术位置，体现九地战术指令的动态切换"
   title: "九地战术指令在奥运赛场的分阶段执行"
   caption: "短道速滑比赛中，选手需根据领先、胶着、落后等不同局面切换战术指令"

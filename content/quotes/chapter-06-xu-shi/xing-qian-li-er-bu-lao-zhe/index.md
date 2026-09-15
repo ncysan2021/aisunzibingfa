@@ -84,7 +84,7 @@ faq:
   - q: "手球进攻中如何运用这一战术原则？"
     a: "结论：手球进攻中通过快速转移球至边路空档，避开中路密集防守，以少对抗方式创造射门机会。"
 cover:
-  image: "quotes/chapter-06-xu-shi/xing-qian-li-er-bu-lao-zhe.jpg"
+  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-06-xu-shi/xing-qian-li-er-bu-lao-zhe.jpg"
   alt: "篮球运动员在弱侧空切接球，避开防守密集区"
   title: "行千里而不劳者：篮球进攻避开防守密集区"
   caption: "行于无人之地——篮球进攻中选择弱侧空档，减少对抗消耗，提升得分效率。"

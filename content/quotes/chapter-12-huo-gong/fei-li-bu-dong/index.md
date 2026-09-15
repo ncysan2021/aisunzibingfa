@@ -85,7 +85,7 @@ faq:
   - q: "预赛保留实力是否违背体育精神？"
     a: "结论：预赛保留实力是战略克制而非消极比赛，只要确保晋级并遵守规则，把最佳状态留给决赛是合理的资源分配。"
 cover:
-  image: "quotes/chapter-12-huo-gong/fei-li-bu-dong.jpg"
+  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-12-huo-gong/fei-li-bu-dong.jpg"
   alt: "马拉松选手在比赛中跟随跑，体现非利不动非得不用非危不战的战略克制"
   title: "非利不动，非得不用，非危不战——竞技战略克制"
   caption: "马拉松与短道速滑中的跟随战术，是「非利不动，非得不用，非危不战」的现代竞技体现。"

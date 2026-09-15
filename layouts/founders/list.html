@@ -1,0 +1,40 @@
+{{- define "main" -}}
+
+<header class="page-header">
+  <h1>{{ .Title }}</h1>
+  {{- with .Description }}
+    <div class="page-description">{{ . }}</div>
+  {{- end }}
+</header>
+
+{{- /* 列表页封面 */ -}}
+{{- with .Params.cover.image }}
+  <figure class="entry-cover">
+    <img loading="eager"
+         src="{{ . }}"
+         alt="{{ $.Params.cover.alt | default $.Title }}" />
+    {{- with $.Params.cover.caption }}
+      <figcaption>{{ . }}</figcaption>
+    {{- end }}
+  </figure>
+{{- end }}
+
+{{- /* 故事卡片列表 */ -}}
+{{- range .Pages.ByDate.Reverse }}
+  <article class="post-entry">
+    <header class="entry-header">
+      <h2>{{ .Title }}</h2>
+    </header>
+    <div class="entry-content">
+      <p>{{ .Description }}</p>
+    </div>
+    <footer class="entry-footer">
+      <span>{{ .Params.industry }}</span>
+      <span>&nbsp;·&nbsp;</span>
+      <span>{{ .Date.Format "2006-01-02" }}</span>
+    </footer>
+    <a class="entry-link" aria-label="{{ .Title }}" href="{{ .RelPermalink }}"></a>
+  </article>
+{{- end }}
+
+{{- end -}}

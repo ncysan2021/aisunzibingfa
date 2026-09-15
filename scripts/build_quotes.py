@@ -73,14 +73,20 @@ def generate_slug(original):
     slug = re.sub(r'[^a-z0-9-]', '', slug)
     return slug[:75]
 
+R2_BASE = "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev"
+
 
 def build_cover(q, slug):
-    """生成 cover 字段"""
+    """生成 cover 字段（image 自动加 R2 前缀）"""
     chapter_slug = q["chapter_slug"]
     default_image = f"quotes/{chapter_slug}/{slug}.jpg"
 
     cover = q.get("cover", {}) or {}
     image = cover.get("image", default_image)
+
+    # 如果还不是完整 URL，就加 R2 前缀
+    if not image.startswith(("http://", "https://")):
+        image = f"{R2_BASE}/{image}"
 
     return {
         "image": image,

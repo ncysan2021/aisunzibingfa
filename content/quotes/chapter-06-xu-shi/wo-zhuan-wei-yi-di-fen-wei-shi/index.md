@@ -80,7 +80,7 @@ faq:
   - q: "应用这一战术时最大的风险是什么？"
     a: "结论：过度集中会导致后方空虚，一旦进攻失败容易被对手快速反击，必须守住攻防平衡的底线。"
 cover:
-  image: "quotes/chapter-06-xu-shi/wo-zhuan-wei-yi-di-fen-wei-shi.jpg"
+  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-06-xu-shi/wo-zhuan-wei-yi-di-fen-wei-shi.jpg"
   alt: "足球运动员在弱侧形成局部人数优势的战术示意图"
   title: "我专为一，敌分为十：局部人数优势战术"
   caption: "集中力量攻击对手分散的弱侧，是竞技战术中的经典原则。"
