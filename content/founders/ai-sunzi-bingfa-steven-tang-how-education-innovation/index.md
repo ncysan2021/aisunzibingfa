@@ -27,7 +27,7 @@ ads:
   bottom: true
 ---
 
-![吴雄山与唐锡豪于吉隆坡畅谈AI孙子兵法与教育革新合影](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRmNQaAvSF-V1O7jU_FZBZjKESXhsoO7D_jEnq_zbCecsP_W7pH_aIZjdf3Ic4KJDPInZizyu1EUpEVrUFbqtnf-2E01wkO2Hvx_6344qrrljqoNJL8AAe45_jAfByjRhVDgFxFTeOrvdBpW0Ml5nyZLafz-e0YSff1zcqgHFUJ5wQVrCPYzWnCt-NqDQ/s600/ai%E5%AD%99%E5%AD%90%E5%85%B5%E6%B3%95%E4%B8%8E%E5%94%90%E9%94%A1%E8%B1%AA-1200-675-jpg-1024x576.jpg)
+![吴雄山与唐锡豪于吉隆坡畅谈AI孙子兵法与教育革新合影](https://img.aisunzibingfa.com/founders/ai-sunzi-bingfa-steven-tang-how-education-innovation.jpg)
 
 《AI孙子兵法》创始人吴雄山与马来西亚孙子兵法策略哲理学会财政唐锡豪于蛇年新春首晤，深度畅谈AI兵法在教育革新、房地产、旅游及公益领域的四大融合奇思。
 

@@ -28,7 +28,7 @@ ads:
   bottom: true
 ---
 
-![CSR天使公益社创办人黄振聪与AI孙子兵法创办人吴雄山探讨雪隆20区绿色希望社区教育公益计划](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEissSccQcBllOQBKSstDUOYyaEcxC-zZ0OhtUGBJkEZXVPmg2ZNp0Xvx6V8ZjzBm8vAygYhvGOe2EwXkXGXSGAjMTzhhvlTgM3BSkEUUZ4wIphEih2QCCXSNZ2hueZcqe8srZR5vCOrYcd8Im0KwWUh4VOJeSW3Za8POBbbRhYt6yoMiKn7xC8nKbAQYS8/s1200/%E9%BB%84%E6%8C%AF%E8%81%AAAI%E5%AD%99%E5%AD%90%E5%85%B5%E6%B3%95%E7%BB%BF%E8%89%B2%E5%B8%8C%E6%9C%9B.jpg)
+![CSR天使公益社创办人黄振聪与AI孙子兵法创办人吴雄山探讨雪隆20区绿色希望社区教育公益计划](https://img.aisunzibingfa.com/founders/green-hope-community-ricky-wong-csr-brand-angel.jpg)
 
 CSR 天使公益社创办人黄振聪（Ricky Wong）与《AI 孙子兵法》创办人吴雄山合影，深入探讨覆盖雪隆 20 区的"绿色希望"社区教育公益计划。
 
