@@ -88,7 +88,7 @@ faq:
   - q: "如何在训练中应用「木石之性」的战术原则？"
     a: "结论：训练中设置领先、落后、平局三种态势，反复演练「危则动」与「方则止」的切换。领先时练习保持压迫，落后时练习借势滚动，让运动员形成态势判断的肌肉记忆。"
 cover:
-  image: "https://img.aisunzibingfa.com/quotes/chapter-05-bing-shi/mu-shi-zhi-xing.jpg"
+  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-05-bing-shi/mu-shi-zhi-xing.jpg"
   alt: "孙子兵法兵势篇木石之性战术解读配图"
   title: "木石之性：战术态势决定竞技行为"
   caption: "木石之性，安则静，危则动，方则止，圆则行。"

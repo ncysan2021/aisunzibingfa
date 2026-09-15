@@ -84,7 +84,7 @@ faq:
   - q: "在团队项目中如何执行「后如脱兔」？"
     a: "结论：全队统一突变信号，前段以常规战术消耗对手，末段通过换人、阵型切换或攻防转换突然提速，打乱对手整体防守部署。"
 cover:
-  image: "https://img.aisunzibingfa.com/quotes/chapter-11-jiu-di/shi-gu-shi-ru-chu-nu.jpg"
+  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-11-jiu-di/shi-gu-shi-ru-chu-nu.jpg"
   alt: "短道速滑选手在弯道处突然加速超越对手的瞬间"
   title: "始如处女，后如脱兔：竞技末段节奏突变"
   caption: "前段沉静蓄势，末段突然提速，是执行维度中最具杀伤力的节奏突变。"

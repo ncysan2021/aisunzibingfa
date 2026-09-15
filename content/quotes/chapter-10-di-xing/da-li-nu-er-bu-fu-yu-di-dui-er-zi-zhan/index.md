@@ -82,7 +82,7 @@ faq:
   - q: "「崩」与普通失利有什么区别？"
     a: "结论：「崩」是执行链条从内部断裂导致的自毁型失败，而非被对手正面击溃。"
 cover:
-  image: "https://img.aisunzibingfa.com/quotes/chapter-10-di-xing/da-li-nu-er-bu-fu-yu-di-dui-er-zi-zhan.jpg"
+  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-10-di-xing/da-li-nu-er-bu-fu-yu-di-dui-er-zi-zhan.jpg"
   alt: "短道速滑接力中核心队员情绪失控导致交接棒失误的瞬间"
   title: "大吏怒而不服：核心球员情绪失控瓦解阵型"
   caption: "核心球员擅自变阵，队友无法按预设落位，整体执行链条从内部断裂。"

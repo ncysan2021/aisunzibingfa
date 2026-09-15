@@ -86,7 +86,7 @@ faq:
   - q: "五间框架对短道速滑和冰壶这类项目有什么复盘价值？"
     a: "结论：短道速滑的战术配合与冰壶的投壶决策都高度依赖对手内部信息，复盘时按五间分类核对，能更准确还原对手的临场意图。"
 cover:
-  image: "https://img.aisunzibingfa.com/quotes/chapter-13-yong-jian/wu-jian-zhi-shi-zhu-bi-zhi-zhi.jpg"
+  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-13-yong-jian/wu-jian-zhi-shi-zhu-bi-zhi-zhi.jpg"
   alt: "篮球教练与分析师在赛后复盘比赛录像并核对情报台账"
   title: "五间之事主必知之：竞技情报复盘场景"
   caption: "复盘不只是看录像，更要核对五类情报来源，重点分析对手内部信号。"

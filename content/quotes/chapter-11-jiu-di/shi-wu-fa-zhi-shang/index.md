@@ -84,7 +84,7 @@ faq:
   - q: "使用非常规调整时，最需要警惕什么风险？"
     a: "结论：最需警惕指令不统一导致脱节；若队员理解不一致，非常规调整会变成各自为战，因此必须指定场上中继并限时验证效果。"
 cover:
-  image: "https://img.aisunzibingfa.com/quotes/chapter-11-jiu-di/shi-wu-fa-zhi-shang.jpg"
+  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-11-jiu-di/shi-wu-fa-zhi-shang.jpg"
   alt: "短道速滑选手在弯道交接瞬间，展现团队执行统一如一人"
   title: "施无法之赏，悬无政之令：执行维度的竞技场映射"
   caption: "非常规调整打破惯性，重新统一全队目标——短道速滑接力中的临场换棒是「若使一人」的典型场景。"

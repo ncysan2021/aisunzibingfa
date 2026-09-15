@@ -86,7 +86,7 @@ faq:
   - q: "如何训练选手的临场决策能力而非只练固定套路？"
     a: "结论：在训练中系统引入不确定性。通过随机改变对手强度、比分情境与场地条件，逼迫选手在非预设条件下做出判断，并把复盘重点放在决策逻辑而非动作序列上。"
 cover:
-  image: "https://img.aisunzibingfa.com/quotes/chapter-01-shi-ji/ci-bing-jia-zhi-sheng-bu-ke-xian-chuan-ye.jpg"
+  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-01-shi-ji/ci-bing-jia-zhi-sheng-bu-ke-xian-chuan-ye.jpg"
   alt: "短道速滑选手在弯道处进行战术超越"
   title: "战术不可预制：短道速滑的临场超越"
   caption: "短道速滑的胜负常在弯道一瞬的临场判断中决定，而非赛前写定的剧本。"

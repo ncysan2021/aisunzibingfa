@@ -84,7 +84,7 @@ faq:
   - q: "情报收集是否只适用于个人项目？"
     a: "结论：不是。团队项目同样需要情报，如对手的阵容轮换规律、定位球战术与教练临场指令。"
 cover:
-  image: "https://img.aisunzibingfa.com/quotes/chapter-13-yong-jian/wei-zai-wei-zai.jpg"
+  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-13-yong-jian/wei-zai-wei-zai.jpg"
   alt: "竞技体育中的情报收集与战略预判示意图"
   title: "微哉！微哉！无所不用间也——竞技情报的极致渗透"
   caption: "从称重表情到训练录像，每一个细节都是战略情报的来源。"

@@ -84,7 +84,7 @@ faq:
   - q: "「军士惑矣」和「军士疑矣」在体育团队中分别对应什么表现？"
     a: "结论：惑对应战术方向不清，疑对应指挥权威动摇。前者表现为球员不知道打什么战术，后者表现为球员不再相信教练组的临场判断，两者叠加将直接导致比赛失控。"
 cover:
-  image: "https://img.aisunzibingfa.com/quotes/chapter-03-mou-gong/gu-jun-zhi-suo-yi-huan-yu-jun-zhe-san.jpg"
+  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-03-mou-gong/gu-jun-zhi-suo-yi-huan-yu-jun-zhe-san.jpg"
   alt: "体育场边管理层与教练组沟通场景，象征决策权限边界"
   title: "縻军之患：体育管理越权的代价"
   caption: "《孙子兵法》三种祸军之举在体育管理中的映射：乱命进退、干涉行政、越权指挥。"

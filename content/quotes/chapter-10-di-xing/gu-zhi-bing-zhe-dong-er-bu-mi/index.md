@@ -82,7 +82,7 @@ faq:
   - q: "执行维度下最常见的失败原因是什么？"
     a: "结论：赛前只准备一套方案，临场遇到变化时无备用路径，导致动作变形或节奏失控。"
 cover:
-  image: "https://img.aisunzibingfa.com/quotes/chapter-10-di-xing/gu-zhi-bing-zhe-dong-er-bu-mi.jpg"
+  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-10-di-xing/gu-zhi-bing-zhe-dong-er-bu-mi.jpg"
   alt: "教练在赛场边手持战术板向运动员布置多套预案"
   title: "动而不迷，举而不穷——赛前预案与临场执行"
   caption: "执行维度的关键：赛前多套预案，临场快速切换，每次举措留有后续。"

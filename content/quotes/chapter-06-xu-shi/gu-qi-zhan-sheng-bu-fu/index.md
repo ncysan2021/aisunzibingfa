@@ -82,7 +82,7 @@ faq:
   - q: "普通运动员如何训练「战胜不复」的能力？"
     a: "结论：赛前准备多套战术预案，比赛中观察对手反应并即时切换，赛后复盘每套方案的有效性。"
 cover:
-  image: "https://img.aisunzibingfa.com/quotes/chapter-06-xu-shi/gu-qi-zhan-sheng-bu-fu.jpg"
+  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-06-xu-shi/gu-qi-zhan-sheng-bu-fu.jpg"
   alt: "拳击手在比赛中变换进攻节奏，体现孙子兵法战胜不复的战术思想"
   title: "战胜不复：竞技战术中的无穷变化"
   caption: "取胜方法不重复，根据对手反应无穷变化。"

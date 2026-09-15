@@ -85,7 +85,7 @@ faq:
   - q: "如果对手也试图将我压向边界，该如何应对？"
     a: "结论：优先保持自身重心稳定，利用转身或步法回到中央区域，避免背靠边界，同时寻找对手压上时的反击机会。"
 cover:
-  image: "https://img.aisunzibingfa.com/quotes/chapter-09-xing-jun/wu-yuan-zhi-di-jin-zhi.jpg"
+  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-09-xing-jun/wu-yuan-zhi-di-jin-zhi.jpg"
   alt: "短道速滑选手在内道压制对手，体现空间位势与物理极限"
   title: "吾远之敌近之：执行维度下的空间控制"
   caption: "短道速滑中，内道选手迫使对手外道滑行，消耗其体能。"

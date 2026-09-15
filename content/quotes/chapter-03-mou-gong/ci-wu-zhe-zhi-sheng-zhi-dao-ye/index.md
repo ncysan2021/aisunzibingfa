@@ -88,7 +88,7 @@ faq:
   - q: "过度依赖赛前评估会带来什么风险？"
     a: "结论：过度依赖评估可能制造虚假安全感，忽视临场变数与裁判尺度变化，导致战术僵化、应变能力下降。"
 cover:
-  image: "https://img.aisunzibingfa.com/quotes/chapter-03-mou-gong/ci-wu-zhe-zhi-sheng-zhi-dao-ye.jpg"
+  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-03-mou-gong/ci-wu-zhe-zhi-sheng-zhi-dao-ye.jpg"
   alt: "短道速滑选手在弯道处进行赛前战术评估"
   title: "此五者，知胜之道也——竞技战略中的五维赛前评估"
   caption: "赛前评估五维条件，是竞技战略中预判胜负走向的基础工作。"

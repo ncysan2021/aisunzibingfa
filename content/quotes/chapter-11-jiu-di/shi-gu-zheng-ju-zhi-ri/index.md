@@ -82,7 +82,7 @@ faq:
   - q: "赛后复盘应该重点核对什么？"
     a: "结论：重点核对赛前推演的分支表，逐项检查执行偏差，记录有效口令与需要修改的环节。"
 cover:
-  image: "https://img.aisunzibingfa.com/quotes/chapter-11-jiu-di/shi-gu-zheng-ju-zhi-ri.jpg"
+  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-11-jiu-di/shi-gu-zheng-ju-zhi-ri.jpg"
   alt: "短道速滑运动员在赛前进行战术推演与执行准备"
   title: "九地篇「政举之日」与竞技执行"
   caption: "赛前封关推演，临场只做确认不做发明"

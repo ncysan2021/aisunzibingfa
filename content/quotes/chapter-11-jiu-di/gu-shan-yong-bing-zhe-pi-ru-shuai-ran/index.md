@@ -84,7 +84,7 @@ faq:
   - q: "自动补位机制在比赛落后时还管用吗？"
     a: "结论：管用，但需要额外训练。落后时球员容易急躁单干，必须在训练中设置落后场景，强化补位纪律。"
 cover:
-  image: "https://img.aisunzibingfa.com/quotes/chapter-11-jiu-di/gu-shan-yong-bing-zhe-pi-ru-shuai-ran.jpg"
+  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-11-jiu-di/gu-shan-yong-bing-zhe-pi-ru-shuai-ran.jpg"
   alt: "短道速滑接力队员在弯道处自动补位交接"
   title: "率然之蛇：团队防守的自动补位"
   caption: "局部被突破时，相邻位置按预设轮转自动补位，形成整体联动防守。"

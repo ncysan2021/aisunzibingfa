@@ -88,7 +88,7 @@ faq:
   - q: "如何将「穷寇勿迫」应用到比赛收官阶段？"
     a: "结论：领先时不要追求每一分都碾压，给对手留出看似可行的线路，诱导其进入预设反击区域。"
 cover:
-  image: "https://img.aisunzibingfa.com/quotes/chapter-07-jun-zheng/gu-yong-bing-zhi-fa-gao-ling-wu-xiang.jpg"
+  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-07-jun-zheng/gu-yong-bing-zhi-fa-gao-ling-wu-xiang.jpg"
   alt: "羽毛球运动员在比赛中判断对手站位，准备选择进攻线路"
   title: "高陵勿向：竞技执行中的八条判断法则"
   caption: "执行层的核心不是更拼，而是更准：识别对手陷阱后再出手。"

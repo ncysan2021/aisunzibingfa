@@ -84,7 +84,7 @@ faq:
   - q: "冰壶比赛中如何体现「四军之利」的执行思想？"
     a: "结论：根据冰面变化与对手布局，每一投调整力度与旋转，把局中判断迅速转化为出手动作，减少犹豫与偏差。"
 cover:
-  image: "https://img.aisunzibingfa.com/quotes/chapter-09-xing-jun/fan-ci-si-jun-zhi-li.jpg"
+  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-09-xing-jun/fan-ci-si-jun-zhi-li.jpg"
   alt: "短道速滑选手在弯道处调整位置与节奏"
   title: "凡此四军之利：执行维度下的竞技优势构建"
   caption: "不同位置需要不同的执行策略，正如不同地形需要不同的用兵部署。"

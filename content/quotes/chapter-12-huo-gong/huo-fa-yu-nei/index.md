@@ -85,7 +85,7 @@ faq:
   - q: "执行维度上最容易出现的失误是什么？"
     a: "结论：只关注自身动作，忽略队友启动信号，导致接应延迟、线路出现空当。"
 cover:
-  image: "https://img.aisunzibingfa.com/quotes/chapter-12-huo-gong/huo-fa-yu-nei.jpg"
+  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-12-huo-gong/huo-fa-yu-nei.jpg"
   alt: "羽毛球双打选手同步移动接应示意图"
   title: "火发于内，则早应之于外——竞技同步执行"
   caption: "内部发起与外部接应同步，是双打与接力项目的执行核心。"

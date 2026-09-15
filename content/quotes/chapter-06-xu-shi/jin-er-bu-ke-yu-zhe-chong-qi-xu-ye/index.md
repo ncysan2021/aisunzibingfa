@@ -84,7 +84,7 @@ faq:
   - q: "如何在训练中落实「冲虚」与「速退」？"
     a: "结论：训练中设置攻防转换环节，模拟进攻后立即撤退或防守的场景，并通过录像复盘检验每次决策的时效性。"
 cover:
-  image: "https://img.aisunzibingfa.com/quotes/chapter-06-xu-shi/jin-er-bu-ke-yu-zhe-chong-qi-xu-ye.jpg"
+  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-06-xu-shi/jin-er-bu-ke-yu-zhe-chong-qi-xu-ye.jpg"
   alt: "网球运动员在对手站位靠前时挑高球打身后空当"
   title: "进而不可御者，冲其虚也——竞技战术中的进攻与撤退"
   caption: "进攻打虚、撤退求速：孙子兵法虚实篇的战术智慧在体育竞技中的体现。"

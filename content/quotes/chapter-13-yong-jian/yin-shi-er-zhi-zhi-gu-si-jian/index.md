@@ -84,7 +84,7 @@ faq:
   - q: "释放假情报后自身节奏被打乱怎么办？"
     a: "结论：赛前必须设定止损条件，例如假动作只在前两局使用，之后强制回到主战术，避免执行者被自己的谎言带偏。"
 cover:
-  image: "https://img.aisunzibingfa.com/quotes/chapter-13-yong-jian/yin-shi-er-zhi-zhi-gu-si-jian.jpg"
+  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-13-yong-jian/yin-shi-er-zhi-zhi-gu-si-jian.jpg"
   alt: "短道速滑选手在弯道处观察对手位置，体现情报诱饵与执行欺骗的竞技场景"
   title: "因是而知之，故死间为诳事——执行维度的竞技情报诱饵"
   caption: "死间之术在竞技执行层表现为：先掌握对手判断习惯，再释放可被验证的假信号。"

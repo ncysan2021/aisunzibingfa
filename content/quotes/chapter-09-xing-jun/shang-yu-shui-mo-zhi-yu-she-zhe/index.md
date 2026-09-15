@@ -84,7 +84,7 @@ faq:
   - q: "冬季两项滑雪射击中，暴风雪导致能见度骤降，选手应如何应对？"
     a: "结论：选手应暂停滑行，等待风雪稳定后再继续，防止迷路、摔伤或失温。"
 cover:
-  image: "https://img.aisunzibingfa.com/quotes/chapter-09-xing-jun/shang-yu-shui-mo-zhi-yu-she-zhe.jpg"
+  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-09-xing-jun/shang-yu-shui-mo-zhi-yu-she-zhe.jpg"
   alt: "越野跑选手在溪流前等待水势稳定"
   title: "上雨，水沫至，欲涉者，待其定也——越野跑渡溪的物理极限判断"
   caption: "越野跑选手遇到上游降雨导致的溪水暴涨，应等待水势稳定后再渡溪。"

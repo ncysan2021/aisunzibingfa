@@ -84,7 +84,7 @@ faq:
   - q: "物理极限维度对训练计划有什么指导意义？"
     a: "结论：训练计划应以极限评估为起点，先确认当前真实上限，再在边界内安排负荷与目标，避免制定超出身体承受范围的方案。"
 cover:
-  image: "https://img.aisunzibingfa.com/quotes/chapter-04-jun-xing/gu-yue-sheng-ke-zhi.jpg"
+  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-04-jun-xing/gu-yue-sheng-ke-zhi.jpg"
   alt: "短道速滑选手在弯道中身体倾斜，体现物理极限与赛前判断"
   title: "胜可知而不可为：竞技体育中的物理极限"
   caption: "短道速滑的弯道离心力与冰面摩擦，是运动员无法强行突破的物理边界。"

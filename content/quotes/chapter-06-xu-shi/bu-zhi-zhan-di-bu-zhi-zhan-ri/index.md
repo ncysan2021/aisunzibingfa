@@ -82,7 +82,7 @@ faq:
   - q: "如何避免战术执行中左右无法互救？"
     a: "结论：建立责任区与补位规则，赛中简短口令沟通，赛后复盘落点分布，持续优化预判。"
 cover:
-  image: "https://img.aisunzibingfa.com/quotes/chapter-06-xu-shi/bu-zhi-zhan-di-bu-zhi-zhan-ri.jpg"
+  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-06-xu-shi/bu-zhi-zhan-di-bu-zhi-zhan-ri.jpg"
   alt: "排球队员在接发球时因责任区域模糊而犹豫，象征战术分工不清"
   title: "不知战地不知战日：排球接发球阵型的战术盲区"
   caption: "排球接发球中，责任区域模糊导致左右无法互救，正如孙子所言「左不能救右」。"

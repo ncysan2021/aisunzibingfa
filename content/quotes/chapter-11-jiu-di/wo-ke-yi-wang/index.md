@@ -81,7 +81,7 @@ faq:
   - q: "交地战术在冬季项目中如何体现？"
     a: "结论：短道速滑中多人同场、内外道均可超越，位置频繁互换，交地局面下变速与线路选择直接决定名次。"
 cover:
-  image: "https://img.aisunzibingfa.com/quotes/chapter-11-jiu-di/wo-ke-yi-wang.jpg"
+  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-11-jiu-di/wo-ke-yi-wang.jpg"
   alt: "击剑选手在交地局面中相持对攻的瞬间"
   title: "交地战术：双方都能进攻时的均势博弈"
   caption: "交地局面下，双方攻防机会均等，先改变节奏者先打破僵局。"

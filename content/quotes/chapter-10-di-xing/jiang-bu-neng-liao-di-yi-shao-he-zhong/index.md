@@ -83,7 +83,7 @@ faq:
   - q: "如何避免「以少合众，以弱击强」的执行错误？"
     a: "结论：赛前通过录像分析与数据校准对手实力，赛中识别偏差信号后主动收缩防线，避免低效正面消耗。"
 cover:
-  image: "https://img.aisunzibingfa.com/quotes/chapter-10-di-xing/jiang-bu-neng-liao-di-yi-shao-he-zhong.jpg"
+  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-10-di-xing/jiang-bu-neng-liao-di-yi-shao-he-zhong.jpg"
   alt: "短道速滑选手在弯道处调整战术，体现执行中的防守反击"
   title: "将不能料敌，以少合众，以弱击强，兵无选锋，曰北"
   caption: "竞技执行中，赛前评估偏差与缺乏精选前锋往往导致败北，及时收缩防线转入防守反击是止损关键。"

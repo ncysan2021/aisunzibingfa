@@ -90,7 +90,7 @@ faq:
   - q: "「上下同欲」在团队项目中如何检验？"
     a: "结论：赛前让每名队员独立写出本场目标与自身角色，若表述分歧明显，说明意愿尚未统一，需要先对齐目标再谈战术执行。"
 cover:
-  image: "https://img.aisunzibingfa.com/quotes/chapter-03-mou-gong/gu-zhi-sheng-you-wu.jpg"
+  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-03-mou-gong/gu-zhi-sheng-you-wu.jpg"
   alt: "冰壶运动员在赛前观察冰面与对手布局，体现赛前战略预判"
   title: "知胜有五：竞技赛前胜负预判"
   caption: "赛前逐项核对「知胜有五」，把模糊的感觉变成可讨论的决策依据。"

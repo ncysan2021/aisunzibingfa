@@ -84,7 +84,7 @@ faq:
   - q: "举重比赛中，速胜原则如何应用？"
     a: "结论：举重试举次数有限，每次试举都消耗大量体能，应通过精准的热身和重量选择，以最少的试举次数锁定胜局，避免无谓的体力浪费。"
 cover:
-  image: "https://img.aisunzibingfa.com/quotes/chapter-02-zuo-zhan/gu-bing-gui-sheng-bu-gui-jiu.jpg"
+  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-02-zuo-zhan/gu-bing-gui-sheng-bu-gui-jiu.jpg"
   alt: "羽毛球运动员在比赛中快速下压进攻，体现速胜策略"
   title: "兵贵胜不贵久：资源约束下的竞技速胜"
   caption: "资源有限时，速胜策略比持久消耗更符合竞技理性。"

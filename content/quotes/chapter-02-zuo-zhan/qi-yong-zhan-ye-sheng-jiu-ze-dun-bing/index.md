@@ -84,7 +84,7 @@ faq:
   - q: "资源约束维度下，运动员最需要避免的误区是什么？"
     a: "结论：最需要避免的是被对手节奏带偏而盲目消耗，导致自身资源提前耗尽，应在赛前制定配速计划并严格执行。"
 cover:
-  image: "https://img.aisunzibingfa.com/quotes/chapter-02-zuo-zhan/qi-yong-zhan-ye-sheng-jiu-ze-dun-bing.jpg"
+  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-02-zuo-zhan/qi-yong-zhan-ye-sheng-jiu-ze-dun-bing.jpg"
   alt: "运动员在田径赛道上进行长距离比赛，体现资源约束下的体能分配"
   title: "其用战也胜，久则钝兵挫锐——资源约束下的竞技体能分配"
   caption: "《孙子兵法·作战篇》揭示的资源约束规律在长距离竞技项目中同样适用：前期过度消耗必然导致后程乏力。"

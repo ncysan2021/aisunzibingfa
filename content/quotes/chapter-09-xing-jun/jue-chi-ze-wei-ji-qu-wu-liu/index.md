@@ -84,7 +84,7 @@ faq:
   - q: "如果必须在斥泽区域与对手对抗，应如何执行？"
     a: "结论：优先选择有支撑、有掩护的稳定路线，避免直线硬闯，利用地形减少体能消耗与受伤风险。"
 cover:
-  image: "https://img.aisunzibingfa.com/quotes/chapter-09-xing-jun/jue-chi-ze-wei-ji-qu-wu-liu.jpg"
+  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-09-xing-jun/jue-chi-ze-wei-ji-qu-wu-liu.jpg"
   alt: "越野跑选手快速通过泥沼路段"
   title: "绝斥泽惟亟去无留：执行与物理极限"
   caption: "通过泥沼与冰雪路段时，快速小步、减少停留是执行核心。"

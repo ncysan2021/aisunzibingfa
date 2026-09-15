@@ -82,7 +82,7 @@ faq:
   - q: "冰壶比赛中「止」的典型场景是什么？"
     a: "结论：当对手已形成双得分站位且强攻风险过高时，放弃该局得分，保留后手优势进入下一局，这就是「不合于利而止」。"
 cover:
-  image: "https://img.aisunzibingfa.com/quotes/chapter-11-jiu-di/he-yu-li-er-dong.jpg"
+  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-11-jiu-di/he-yu-li-er-dong.jpg"
   alt: "短道速滑运动员在弯道判断是否超越的瞬间"
   title: "合于利而动，不合于利而止——竞技战术执行"
   caption: "短道速滑中，一次超越是否值得做，取决于投入与回报的比较。"

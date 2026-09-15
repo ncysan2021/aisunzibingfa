@@ -86,7 +86,7 @@ faq:
   - q: "如何训练球员识别围地结构？"
     a: "结论：通过视频复盘与半场攻防演练，让球员统计每次进攻的有效攻击面宽度，建立空间感知。训练重点是横向拉扯与纵向节奏突变的组合。"
 cover:
-  image: "https://img.aisunzibingfa.com/quotes/chapter-11-jiu-di/suo-you-ru-zhe-ai.jpg"
+  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-11-jiu-di/suo-you-ru-zhe-ai.jpg"
   alt: "篮球进攻方在对手压缩防守下寻找空间通道"
   title: "围地之困：空间压缩下的战术破局"
   caption: "当入口狭窄、退路迂回，人数优势不等于得分优势。"

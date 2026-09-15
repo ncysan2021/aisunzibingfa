@@ -84,7 +84,7 @@ faq:
   - q: "如何判断对手已经出现「可胜」的物理极限信号？"
     a: "结论：观察对手的步频或划频是否下降、呼吸是否紊乱、动作是否变形、路线是否偏移。这些信号说明对手已接近或触及极限。"
 cover:
-  image: "https://img.aisunzibingfa.com/quotes/chapter-04-jun-xing/xi-zhi-shan-zhan-zhe.jpg"
+  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-04-jun-xing/xi-zhi-shan-zhan-zhe.jpg"
   alt: "短道速滑选手在比赛中保持稳定节奏等待对手暴露漏洞"
   title: "先为不可胜，以待敌之可胜——物理极限视角下的竞技等待策略"
   caption: "在物理极限维度下，守住自己的体能边界，等待对手先触及极限。"

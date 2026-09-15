@@ -87,7 +87,7 @@ faq:
   - q: "赛前评估中最容易忽略的变量是什么？"
     a: "结论：最容易被忽略的是赛程密度与休息间隔对体能分配的影响，以及对手在近期比赛中出现的技术调整与心理波动规律。"
 cover:
-  image: "https://img.aisunzibingfa.com/quotes/chapter-01-shi-ji/bing-zhe-guo-zhi-da-shi-si-sheng-zhi-di.jpg"
+  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-01-shi-ji/bing-zhe-guo-zhi-da-shi-si-sheng-zhi-di.jpg"
   alt: "短道速滑选手在赛前进行战略评估与战术部署"
   title: "兵者国之大事：赛前战略评估决定竞技成败"
   caption: "重大比赛前的战略评估深度，直接决定战术方案的针对性与临场调整空间。"

@@ -82,7 +82,7 @@ faq:
   - q: "过度追求「无形」会带来什么风险？"
     a: "结论：若基础动作不扎实，过度变化会导致自身失误增多，应在守正基础上再出奇。"
 cover:
-  image: "https://img.aisunzibingfa.com/quotes/chapter-06-xu-shi/gu-xing-bing-zhi-ji-zhi-yu-wu-xing.jpg"
+  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-06-xu-shi/gu-xing-bing-zhi-ji-zhi-yu-wu-xing.jpg"
   alt: "拳击手在擂台上通过步法切换与头部晃动隐藏攻击意图"
   title: "形兵之极至于无形：拳击中的不可预测性战术"
   caption: "拳击对抗中，步法与头部晃动使对手无法锁定攻击目标"

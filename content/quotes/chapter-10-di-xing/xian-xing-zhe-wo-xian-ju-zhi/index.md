@@ -88,7 +88,7 @@ faq:
   - q: "「险形者，我先居之」对赛前战术准备有什么启示？"
     a: "结论：赛前应明确本项目的险形位置，制定先占方案和对手先占时的撤离与调动方案，做到两种局面都有预案。"
 cover:
-  image: "https://img.aisunzibingfa.com/quotes/chapter-10-di-xing/xian-xing-zhe-wo-xian-ju-zhi.jpg"
+  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-10-di-xing/xian-xing-zhe-wo-xian-ju-zhi.jpg"
   alt: "竞技体育中先占有利位置的战术示意图"
   title: "险形者我先居之：竞技体育中的先占与避战战术"
   caption: "《孙子兵法·地形篇》险形战术在网球、篮球、短道速滑中的映射"

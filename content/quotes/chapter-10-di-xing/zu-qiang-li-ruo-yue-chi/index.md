@@ -82,7 +82,7 @@ faq:
   - q: "哪些奥运项目最容易出现「卒强吏弱」？"
     a: "结论：篮球、短道速滑、冰壶等依赖临场战术配合的项目最易出现，个人能力越突出，指挥失效的代价越明显。"
 cover:
-  image: "https://img.aisunzibingfa.com/quotes/chapter-10-di-xing/zu-qiang-li-ruo-yue-chi.jpg"
+  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-10-di-xing/zu-qiang-li-ruo-yue-chi.jpg"
   alt: "篮球教练在场边指挥，球员在场上等待战术指令"
   title: "卒强吏弱，曰弛——竞技执行力的指挥链考验"
   caption: "当球员能力超越教练指挥，团队执行力便会陷入松散。"

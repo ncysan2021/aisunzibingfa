@@ -82,7 +82,7 @@ faq:
   - q: "在通形条件下，如果开局未能抢占高位，应如何调整？"
     a: "结论：应优先保持补给与恢复通道畅通，通过稳定配速和高效补给等待对手失误或体能下降，再寻找重新抢占有利位置的机会。"
 cover:
-  image: "https://img.aisunzibingfa.com/quotes/chapter-10-di-xing/wo-ke-yi-wang-bi-ke-yi-lai.jpg"
+  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-10-di-xing/wo-ke-yi-wang-bi-ke-yi-lai.jpg"
   alt: "运动员在开阔赛道上抢占内道位置并经过补给站"
   title: "通形先居高阳：竞技对抗中的补给与恢复通道"
   caption: "通形场地上，抢占高位与保持补给线畅通是持续输出的战术基础。"

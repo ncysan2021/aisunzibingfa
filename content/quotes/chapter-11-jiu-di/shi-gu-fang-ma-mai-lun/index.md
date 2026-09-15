@@ -82,7 +82,7 @@ faq:
   - q: "「刚柔皆得」在冰壶这类项目中如何体现？"
     a: "结论：进攻型选手负责抢分壶，防守型选手负责控分与保护，教练按局面调用不同特点的人，使强弱都能发挥作用。"
 cover:
-  image: "https://img.aisunzibingfa.com/quotes/chapter-11-jiu-di/shi-gu-fang-ma-mai-lun.jpg"
+  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-11-jiu-di/shi-gu-fang-ma-mai-lun.jpg"
   alt: "短道速滑选手在赛道上按战术角色配合滑行"
   title: "方马埋轮未足恃：战术让不同选手齐勇若一"
   caption: "战术安排不是捆住队员，而是让不同特点的选手在体系中各司其职。"

@@ -84,7 +84,7 @@ faq:
   - q: "足球俱乐部训练迟到屡禁不止会带来什么后果？"
     a: "结论：标准模糊会让球员对战术要求打折扣，关键时刻阵型与跑位无法按计划完成。"
 cover:
-  image: "https://img.aisunzibingfa.com/quotes/chapter-09-xing-jun/zu-yi-qin-fu-er-fa-bu-xing.jpg"
+  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-09-xing-jun/zu-yi-qin-fu-er-fa-bu-xing.jpg"
   alt: "短道速滑运动员在赛道上执行战术纪律"
   title: "卒已亲附而罚不行，则不可用也——执行维度"
   caption: "情感亲近不能替代纪律执行，标准一致才能保证赛场执行力。"

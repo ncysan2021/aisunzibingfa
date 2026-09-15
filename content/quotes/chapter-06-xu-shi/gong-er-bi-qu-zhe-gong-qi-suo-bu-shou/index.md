@@ -82,7 +82,7 @@ faq:
   - q: "在训练中如何模拟「攻其所不守」和「守其所不攻」的战术？"
     a: "结论：通过模拟对手的防守和进攻模式，让球员熟悉攻击薄弱区域和防守关键线路的配合。"
 cover:
-  image: "https://img.aisunzibingfa.com/quotes/chapter-06-xu-shi/gong-er-bi-qu-zhe-gong-qi-suo-bu-shou.jpg"
+  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-06-xu-shi/gong-er-bi-qu-zhe-gong-qi-suo-bu-shou.jpg"
   alt: "足球运动员在定位球中攻击后点区域"
   title: "攻其所不守：足球定位球战术"
   caption: "足球定位球中，攻击对方防守薄弱的后点区域，是「攻其所不守」的典型应用。"

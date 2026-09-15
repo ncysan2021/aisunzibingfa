@@ -83,7 +83,7 @@ faq:
   - q: "赛前情报准备到什么程度才算够用？"
     a: "结论：能覆盖对手最常用的两到三种关键分打法，并对应到具体动作即可，过度收集反而增加执行负担。"
 cover:
-  image: "https://img.aisunzibingfa.com/quotes/chapter-07-jun-zheng/xian-zhi-yu-zhi-zhi-ji-zhe-sheng.jpg"
+  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-07-jun-zheng/xian-zhi-yu-zhi-zhi-ji-zhe-sheng.jpg"
   alt: "短道速滑选手在弯道处观察对手位置，准备执行赛前设定的关键分预案"
   title: "先知迂直之计者胜：赛前情报转化为关键分执行力"
   caption: "赛前研究对手习惯，让关键分执行更快更稳。"

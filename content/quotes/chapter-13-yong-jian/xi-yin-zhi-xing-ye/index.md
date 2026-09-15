@@ -86,7 +86,7 @@ faq:
   - q: "短道速滑和冰壶如何应用这一原则？"
     a: "结论：短道速滑复盘对手弯道超越习惯，冰壶分析四垒关键局投壶偏好，把预判写成具体应对脚本。"
 cover:
-  image: "https://img.aisunzibingfa.com/quotes/chapter-13-yong-jian/xi-yin-zhi-xing-ye.jpg"
+  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-13-yong-jian/xi-yin-zhi-xing-ye.jpg"
   alt: "短道速滑选手在弯道处观察对手位置，体现复盘与情报预判"
   title: "上智为间：竞技体育的复盘情报链"
   caption: "从伊尹、吕牙到现代竞技，高认知情报源决定复盘深度。"

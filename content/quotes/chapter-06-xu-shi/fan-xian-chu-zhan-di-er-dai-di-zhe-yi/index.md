@@ -82,7 +82,7 @@ faq:
   - q: "如何在训练中培养先处战地的能力？"
     a: "结论：通过模拟比赛开局的高强度对抗训练、录像复盘对手开局习惯、以及固定战术套路的反复演练来建立先发优势。"
 cover:
-  image: "https://img.aisunzibingfa.com/quotes/chapter-06-xu-shi/fan-xian-chu-zhan-di-er-dai-di-zhe-yi.jpg"
+  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-06-xu-shi/fan-xian-chu-zhan-di-er-dai-di-zhe-yi.jpg"
   alt: "短道速滑运动员在弯道抢占内道领滑位置"
   title: "先处战地而待敌者佚——竞技战术中的先发制人"
   caption: "先进入节奏、先占据有利位置的一方，往往在体能与心理上占据双重优势。"

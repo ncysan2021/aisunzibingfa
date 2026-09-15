@@ -93,7 +93,7 @@ faq:
   - q: "如何避免把资源约束误读为保守退让？"
     a: "结论：资源约束是精确分配有限体能、时间与空间，而非放弃进攻，出奇窗口正是把节省的资源集中投向地形缝隙。"
 cover:
-  image: "https://img.aisunzibingfa.com/quotes/chapter-01-shi-ji/di-zhe-yuan-jin-xian-yi-guang-xia-si-sheng-ye.jpg"
+  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-01-shi-ji/di-zhe-yuan-jin-xian-yi-guang-xia-si-sheng-ye.jpg"
   alt: "短道速滑选手在弯道处贴冰弧线，展现赛场地形资源约束下的奇正决策"
   title: "地者，远近、险易、广狭、死生也——资源约束下的赛场地形学"
   caption: "赛场地形四维：远近定体能分配，险易定技术选择，广狭定空间调度，死生定风险底线。"

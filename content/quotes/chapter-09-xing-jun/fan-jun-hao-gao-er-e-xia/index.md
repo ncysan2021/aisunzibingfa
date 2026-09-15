@@ -79,7 +79,7 @@ faq:
   - q: "「军无百疾」对多日赛选手的日常执行有何启示？"
     a: "结论：通过环境管理、营养保障与睡眠优先，将生病风险降至最低。"
 cover:
-  image: "https://img.aisunzibingfa.com/quotes/chapter-09-xing-jun/fan-jun-hao-gao-er-e-xia.jpg"
+  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-09-xing-jun/fan-jun-hao-gao-er-e-xia.jpg"
   alt: "自行车多日赛选手在干燥通风的住宿点恢复"
   title: "凡军好高而恶下：自行车多日赛的恢复智慧"
   caption: "选择干燥通风的住宿环境，是自行车多日赛执行力的基础。"

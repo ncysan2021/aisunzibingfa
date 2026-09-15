@@ -84,7 +84,7 @@ faq:
   - q: "短道速滑中「不可胜在己」具体指什么？"
     a: "结论：指选手先确保自身弯道技术稳定、体能分配合理、不犯规不摔倒，把不被击败的主动权握在自己手中，而非寄希望于对手失误。"
 cover:
-  image: "https://img.aisunzibingfa.com/quotes/chapter-04-jun-xing/bu-ke-sheng-zai-ji.jpg"
+  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-04-jun-xing/bu-ke-sheng-zai-ji.jpg"
   alt: "短道速滑选手在弯道中保持身体平衡与速度控制"
   title: "不可胜在己：竞技体育中的物理极限与不败之基"
   caption: "运动员守住自身物理极限的稳定输出，是「不可胜在己」的竞技体现。"

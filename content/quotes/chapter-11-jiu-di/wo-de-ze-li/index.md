@@ -86,7 +86,7 @@ faq:
   - q: "争地战术在冰壶这类冷门项目中如何体现？"
     a: "结论：冰壶的后手局与大本营中心位置就是争地，是否强行得分取决于当前投壶成功率与局面风险。"
 cover:
-  image: "https://img.aisunzibingfa.com/quotes/chapter-11-jiu-di/wo-de-ze-li.jpg"
+  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-11-jiu-di/wo-de-ze-li.jpg"
   alt: "短道速滑选手在弯道内道争夺关键位置"
   title: "争地：关键分战术的抢攻与过渡判断"
   caption: "双方都想要的争地，先看成功率，再决定抢攻还是过渡。"

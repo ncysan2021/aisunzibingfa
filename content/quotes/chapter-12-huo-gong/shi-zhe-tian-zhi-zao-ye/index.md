@@ -84,7 +84,7 @@ faq:
   - q: "如何把「时者，天之燥也」转化为日常训练机制？"
     a: "结论：建立气候模拟训练与数据采集流程，让运动员在多种环境条件下都能稳定执行战术。"
 cover:
-  image: "https://img.aisunzibingfa.com/quotes/chapter-12-huo-gong/shi-zhe-tian-zhi-zao-ye.jpg"
+  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-12-huo-gong/shi-zhe-tian-zhi-zao-ye.jpg"
   alt: "运动员在干燥炎热气候下进行田径比赛，体现物理极限与执行维度"
   title: "时者天之燥也：竞技执行中的物理极限"
   caption: "气候与时间窗口是竞技执行中不可忽视的物理极限"

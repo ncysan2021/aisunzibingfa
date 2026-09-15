@@ -84,7 +84,7 @@ faq:
   - q: "如何判断一名选手是否具备险境执行能力？"
     a: "结论：看其在模拟压力训练中的动作完成度与决策速度是否稳定，而非只看正常训练水平。"
 cover:
-  image: "https://img.aisunzibingfa.com/quotes/chapter-11-jiu-di/fu-zhong-xian-yu-hai.jpg"
+  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-11-jiu-di/fu-zhong-xian-yu-hai.jpg"
   alt: "短道速滑选手在决胜圈并行冲刺的瞬间"
   title: "夫众陷于害，然后能为胜败——执行维度下的险境胜负"
   caption: "实力接近时，险境中的执行质量决定胜负。"

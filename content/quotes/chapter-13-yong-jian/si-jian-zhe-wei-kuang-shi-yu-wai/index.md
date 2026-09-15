@@ -82,7 +82,7 @@ faq:
   - q: "如何判断死间策略是否值得使用？"
     a: "结论：计算三个变量——假信号被识破的概率、被识破后的损失程度、成功误导后的收益大小。只有收益远大于风险且备用方案完备时才值得执行。"
 cover:
-  image: "https://img.aisunzibingfa.com/quotes/chapter-13-yong-jian/si-jian-zhe-wei-kuang-shi-yu-wai.jpg"
+  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-13-yong-jian/si-jian-zhe-wei-kuang-shi-yu-wai.jpg"
   alt: "短道速滑选手在赛前训练中故意保留实力释放虚假状态信号"
   title: "死间策略在体育竞技中的战略应用"
   caption: "死间者，为诳事于外——赛前主动释放假信号，诱使对手做出错误判断"

@@ -84,7 +84,7 @@ faq:
   - q: "准备不足时，比赛中最先崩溃的是什么？"
     a: "结论：最先崩溃的是战术执行的稳定性，运动员会因器材或体能缺口被迫简化动作。"
 cover:
-  image: "https://img.aisunzibingfa.com/quotes/chapter-12-huo-gong/xing-huo-bi-you-yin.jpg"
+  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-12-huo-gong/xing-huo-bi-you-yin.jpg"
   alt: "短道速滑运动员在赛前检查冰刀与装备，体现执行维度的资源约束"
   title: "行火必有因，烟火必素具——赛前准备与资源约束"
   caption: "赛前对装备与体能的准备，决定比赛中战术执行的成功率。"

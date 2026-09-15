@@ -84,7 +84,7 @@ faq:
   - q: "如果首轮成绩不理想，是否就失去衢地优势？"
     a: "结论：不一定。衢地优势在于后续调整空间，首轮落后仍可通过复盘对手、改变节奏与战术变化重新夺回主动权。"
 cover:
-  image: "https://img.aisunzibingfa.com/quotes/chapter-11-jiu-di/zhu-hou-zhi-di-san-shu.jpg"
+  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-11-jiu-di/zhu-hou-zhi-di-san-shu.jpg"
   alt: "短道速滑选手在资格赛首轮抢占内道位置"
   title: "衢地先至：资格赛首轮的战术价值"
   caption: "多方同场的资格赛首轮，先占据有利位置者往往掌握后续战术主动权。"

@@ -84,7 +84,7 @@ faq:
   - q: "奇袭战术失败后如何避免失分？"
     a: "结论：必须在奇袭前预设退防方案，确保攻击未果时能迅速恢复防守阵型，将风险控制在可承受范围内。"
 cover:
-  image: "https://img.aisunzibingfa.com/quotes/chapter-01-shi-ji/gong-qi-wu-bei-chu-qi-bu-yi.jpg"
+  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-01-shi-ji/gong-qi-wu-bei-chu-qi-bu-yi.jpg"
   alt: "足球运动员在定位球瞬间快速开球的战术场景"
   title: "攻其无备，出其不意——体育竞技奇袭战术"
   caption: "在对手防守站位未稳时发动快速攻击，是孙子兵法奇袭思想在体育中的经典体现。"

@@ -84,7 +84,7 @@ faq:
   - q: "普通运动员如何避免只追求高光而忽略细节？"
     a: "结论：把训练目标从「今天有没有高光」改为「今天细节指标是否达标」，用数据记录替代感觉判断。"
 cover:
-  image: "https://img.aisunzibingfa.com/quotes/chapter-04-jun-xing/gu-shan-zhan-zhe-zhi-sheng-ye.jpg"
+  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-04-jun-xing/gu-shan-zhan-zhe-zhi-sheng-ye.jpg"
   alt: "运动员在田径跑道上进行起跑细节训练，背景是计时器与训练数据板"
   title: "善战者之胜：物理极限下的细节优势"
   caption: "物理极限项目中，胜负常由起跑反应、重心控制等微小变量累积决定。"

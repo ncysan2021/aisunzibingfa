@@ -86,7 +86,7 @@ faq:
   - q: "如果队员认为纪律太严，教练该如何处理？"
     a: "结论：回到「文」的层面重新沟通，让队员参与红线制定，但已确认的纪律在比赛中必须无条件执行。"
 cover:
-  image: "https://img.aisunzibingfa.com/quotes/chapter-09-xing-jun/gu-ling-zhi-yi-wen-qi-zhi-yi-wu.jpg"
+  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-09-xing-jun/gu-ling-zhi-yi-wen-qi-zhi-yi-wu.jpg"
   alt: "短道速滑运动员在弯道中执行交接，体现文与武双轨管理"
   title: "令之以文齐之以武：执行维度下的竞技管理"
   caption: "执行维度要求教练在鼓励沟通与纪律约束之间找到精确平衡点"

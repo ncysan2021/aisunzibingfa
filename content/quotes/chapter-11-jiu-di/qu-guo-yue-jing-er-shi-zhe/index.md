@@ -89,7 +89,7 @@ faq:
   - q: "「死地」思路会不会导致盲目冒险？"
     a: "结论：死地不是乱拼，而是集中资源。赛点落后时，应把体能或战术储备压在一个平时训练成功率最高的动作上，而不是全面开花。"
 cover:
-  image: "https://img.aisunzibingfa.com/quotes/chapter-11-jiu-di/qu-guo-yue-jing-er-shi-zhe.jpg"
+  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-11-jiu-di/qu-guo-yue-jing-er-shi-zhe.jpg"
   alt: "短道速滑选手在弯道处判断场地与位置"
   title: "九地篇六种战场环境在竞技体育中的映射"
   caption: "同一支队伍在不同场地与赛程位置下，需要用不同的节奏与风险等级应对。"

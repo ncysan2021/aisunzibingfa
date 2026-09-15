@@ -86,7 +86,7 @@ faq:
   - q: "如何在训练中建立战术威慑的执行机制？"
     a: "结论：通过录像分析识别对手组织窗口，设计针对性的压迫方案，并在训练中反复演练，直到形成条件反射式的执行。"
 cover:
-  image: "https://img.aisunzibingfa.com/quotes/chapter-11-jiu-di/fu-ba-wang-zhi-bing.jpg"
+  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-11-jiu-di/fu-ba-wang-zhi-bing.jpg"
   alt: "短道速滑选手在弯道内道封锁对手路线，体现战术威慑与节奏剥夺"
   title: "霸王之兵：竞技中的战术威慑与节奏剥夺"
   caption: "短道速滑中的内道封锁，是「其众不得聚」在冰面上的直接体现。"

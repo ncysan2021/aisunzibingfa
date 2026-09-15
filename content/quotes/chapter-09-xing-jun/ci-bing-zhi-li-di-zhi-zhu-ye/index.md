@@ -84,7 +84,7 @@ faq:
   - q: "普通运动员没有主场优势时，如何借「地之助」？"
     a: "结论：没有主场优势时，运动员应在赛前适应窗口内快速采集场地物理参数，建立个人调整清单，并通过低强度演练校准动作输出，把陌生场地转化为可控变量。"
 cover:
-  image: "https://img.aisunzibingfa.com/quotes/chapter-09-xing-jun/ci-bing-zhi-li-di-zhi-zhu-ye.jpg"
+  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-09-xing-jun/ci-bing-zhi-li-di-zhi-zhu-ye.jpg"
   alt: "短道速滑运动员在冰面上进行弯道适应训练，借助冰面物理条件提升执行精度"
   title: "此兵之利，地之助也——竞技执行中的物理极限借力"
   caption: "「此兵之利，地之助也」：运动员对场地物理条件的精确适应，是执行精度的重要来源。"

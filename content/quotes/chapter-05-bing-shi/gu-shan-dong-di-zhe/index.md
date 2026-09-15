@@ -84,7 +84,7 @@ faq:
   - q: "短道速滑中如何判断假动作是否有效？"
     a: "结论：观察对手是否因假动作改变滑行路线或重心，若其路线偏移超过半个身位，即为有效调动。"
 cover:
-  image: "https://img.aisunzibingfa.com/quotes/chapter-05-bing-shi/gu-shan-dong-di-zhe.jpg"
+  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-05-bing-shi/gu-shan-dong-di-zhe.jpg"
   alt: "网球运动员用假动作调动对手重心"
   title: "形之予之：战术欺骗在竞技体育中的应用"
   caption: "以假象牵引对手，以微利诱其出手，是《孙子兵法》兵势篇的核心战术思维。"

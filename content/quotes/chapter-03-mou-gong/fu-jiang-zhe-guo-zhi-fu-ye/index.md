@@ -86,7 +86,7 @@ faq:
   - q: "降低核心球员依赖风险的最有效手段是什么？"
     a: "结论：建立多核战术结构与轮换预案，通过模拟缺阵训练提升全队自主决策与协作能力。"
 cover:
-  image: "https://img.aisunzibingfa.com/quotes/chapter-03-mou-gong/fu-jiang-zhe-guo-zhi-fu-ye.jpg"
+  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-03-mou-gong/fu-jiang-zhe-guo-zhi-fu-ye.jpg"
   alt: "篮球比赛中核心球员持球组织进攻，队友围绕其跑位"
   title: "核心球员作为战略枢纽的竞技场景"
   caption: "核心球员的「辅周」程度决定球队整体战力的上限与下限"
