@@ -28,7 +28,7 @@ ads:
   bottom: true
 ---
 
-![关于「人之初性本善还是性本恶」的哲学与心理学维度思考](https://img.aisunzibingfa.com/founders/human-nature-good-or-evil-philosophy-psychology.jpg)
+![关于「人之初性本善还是性本恶」的哲学与心理学维度思考](https://img.aisunzibingfa.com/founders/human-nature-good-or-evil-philosophy-psychology.jpg "关于「人之初性本善还是性本恶」的哲学与心理学维度思考")
 
 ## 人之初性本善，还是性本恶？
 

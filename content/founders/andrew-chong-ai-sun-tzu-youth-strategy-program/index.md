@@ -28,7 +28,7 @@ ads:
   bottom: true
 ---
 
-![封面](https://img.aisunzibingfa.com/founders/andrew-chong-ai-sun-tzu-youth-strategy-program.jpg)
+![封面](https://img.aisunzibingfa.com/founders/andrew-chong-ai-sun-tzu-youth-strategy-program.jpg "封面")
 
 > **青春不是一段时光，而是一种心态。**
 
@@ -69,6 +69,4 @@ ads:
 
 - 📱 [WhatsApp 给张健权老师](http://wa.me/60195730132)
 - 🎓 [进入张健权老师的考试局](https://aisunzibingfa.com/ai%e5%ad%99%e5%ad%90%e5%85%b5%e6%b3%95%e8%80%83%e8%af%95%e5%b1%80/)
-- 💬 微信 wechat：请手机扫一扫以下二维码，加张健权老师
-
-![张健权老师微信二维码](https://aisunzibingfa.com/wp-content/uploads/2025/01/%E5%BC%A0%E5%81%A5%E6%9D%83wechat-748x1024.jpg)
+- 💬 微信 wechat：张健权老师

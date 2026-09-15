@@ -28,7 +28,7 @@ ads:
   bottom: true
 ---
 
-![封面](https://img.aisunzibingfa.com/founders/manja-foods-supply-founder-jac-ho.jpg)
+![封面](https://img.aisunzibingfa.com/founders/manja-foods-supply-founder-jac-ho.jpg "封面")
 
 ## 一、AI孙子兵法网站创办人对话：东马企业家 JAC 何建杰的商业智慧
 
@@ -78,7 +78,7 @@ JAC 何建杰先生的创业故事，是砂拉越（Sarawak）精神在商业领
 
 **公司品牌：**
 
-[![Manja Foods Supply Logo](https://www.manjafoods.com/cdn/shop/files/photo6105069173022502940.jpg)](https://www.manjafoods.com)
+[![Manja Foods Supply Logo](https://www.manjafoods.com/cdn/shop/files/photo6105069173022502940.jpg "Manja Foods Supply Logo")](https://www.manjafoods.com)
 
 👉 [按此，进入《AI孙子兵法》的孙子兵法考试局，欢迎您加入。](https://aisunzibingfa.com/ai%e5%ad%99%e5%ad%90%e5%85%b5%e6%b3%95%e8%80%83%e8%af%95%e5%b1%80/)
 

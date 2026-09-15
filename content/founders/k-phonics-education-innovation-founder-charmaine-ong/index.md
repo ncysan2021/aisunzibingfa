@@ -28,7 +28,7 @@ ads:
   bottom: true
 ---
 
-![封面](https://img.aisunzibingfa.com/founders/k-phonics-education-innovation-founder-charmaine-ong.jpg)
+![封面](https://img.aisunzibingfa.com/founders/k-phonics-education-innovation-founder-charmaine-ong.jpg "封面")
 
 在 Petaling Jaya 的 Damansara Utama，《AI孙子兵法》创办人吴雄山与教育权威翁名颐学前教育硕士的会面，如同孙子兵法中战略布局的开篇，为教育创新领域开启了全新篇章。
 
