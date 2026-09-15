@@ -23,3 +23,8 @@ package-lock.json
 # 敏感信息
 .env
 *.env
+# Cloudflare wrangler 本地缓存
+.wrangler/
+
+# 自动生成的 SQL seed（跑 Python 脚本生成）
+sql/0002_seed.sql

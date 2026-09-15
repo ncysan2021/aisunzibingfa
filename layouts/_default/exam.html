@@ -1,0 +1,141 @@
+{{- define "main" }}
+
+<article class="post-single">
+  <header class="post-header">
+    <h1 class="post-title entry-hint-parent">{{ .Title }}</h1>
+    {{- if .Description }}
+    <div class="post-description">{{ .Description }}</div>
+    {{- end }}
+  </header>
+
+  {{- with .Params.cover }}
+    {{- if .image }}
+    <figure class="entry-cover">
+      <img loading="lazy" src="{{ .image }}" alt="{{ .alt | default .caption | default $.Title }}">
+      {{- with .caption }}
+      <figcaption class="entry-cover-caption">{{ . }}</figcaption>
+      {{- end }}
+    </figure>
+    {{- end }}
+  {{- end }}
+
+  {{- if .Content }}
+  <div class="post-content">
+    {{ .Content }}
+  </div>
+  {{- end }}
+</article>
+
+<hr class="exam-sep">
+
+<div class="exam-wrap">
+  <h2 class="exam-section-title">开始考试</h2>
+  <p class="exam-intro">共 10 题，单选题。全部答完后点「提交」可检查答案，确认无误再点「确认提交」。</p>
+
+  <div id="exam-status" class="exam-status">正在加载题目...</div>
+
+  <div id="exam-view-take" style="display:none">
+    <div id="exam-questions"></div>
+    <div class="exam-actions">
+      <button type="button" id="btn-submit">提交</button>
+    </div>
+  </div>
+
+  <div id="exam-view-review" style="display:none">
+    <h2 class="exam-review-title">请检查你的答案</h2>
+    <div id="exam-review-list"></div>
+    <div class="exam-actions">
+      <button type="button" id="btn-back">返回修改</button>
+      <button type="button" id="btn-confirm">确认提交</button>
+    </div>
+  </div>
+
+  <div id="exam-view-result" style="display:none">
+    <div id="exam-result"></div>
+    <div class="exam-actions">
+      <button type="button" id="btn-retry">重新考试</button>
+    </div>
+  </div>
+</div>
+
+<style>
+.exam-sep { margin: 3rem 0; border: 0; border-top: 1px solid var(--border, #ddd); }
+.exam-section-title { text-align: center; margin-top: 1rem; }
+.exam-wrap { max-width: 760px; margin: 0 auto 4rem; }
+.exam-intro { color: var(--secondary, #666); font-size: .95rem; text-align: center; margin-bottom: 1.5rem; }
+.exam-status { padding: 1rem 0; color: var(--secondary, #666); text-align: center; }
+
+.exam-q {
+  border: 1px solid var(--border, #ddd);
+  border-radius: 8px;
+  padding: 1rem 1.2rem;
+  margin-bottom: 1rem;
+}
+.exam-q-num { font-weight: 600; margin-bottom: .5rem; color: var(--secondary, #666); font-size: .9rem; }
+.exam-q-topic { font-weight: 400; }
+.exam-q-text { font-size: 1.05rem; margin-bottom: .75rem; line-height: 1.5; }
+.exam-opts { display: grid; gap: .4rem; }
+.exam-opt {
+  display: flex; align-items: flex-start; gap: .5rem;
+  padding: .5rem .75rem;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background .15s;
+}
+.exam-opt:hover { background: rgba(128,128,128,.1); }
+.exam-opt input { margin-top: .3rem; flex: 0 0 auto; }
+.exam-opt-letter { font-weight: 600; }
+.exam-opt-text { flex: 1; }
+
+.exam-actions { margin-top: 1.5rem; display: flex; gap: .75rem; justify-content: center; flex-wrap: wrap; }
+.exam-actions button {
+  padding: .6rem 1.4rem;
+  font-size: 1rem;
+  border-radius: 6px;
+  border: 1px solid var(--primary, #333);
+  background: var(--primary, #333);
+  color: var(--theme, #fff);
+  cursor: pointer;
+}
+.exam-actions button:hover { opacity: .85; }
+
+.exam-review-title { margin-top: 1rem; margin-bottom: 1rem; }
+.exam-review-row {
+  border: 1px solid var(--border, #ddd);
+  border-radius: 6px; padding: .75rem 1rem; margin-bottom: .6rem;
+}
+.exam-review-q { font-weight: 500; margin-bottom: .3rem; }
+.exam-review-a { font-size: .9rem; color: var(--secondary, #666); margin-bottom: .4rem; }
+.exam-miss { color: #d33; }
+.exam-edit-btn {
+  padding: .3rem .8rem; font-size: .85rem;
+  border: 1px solid var(--border, #ddd); border-radius: 4px;
+  background: transparent; color: inherit; cursor: pointer;
+}
+.exam-edit-btn:hover { background: rgba(128,128,128,.1); }
+
+.exam-score { text-align: center; padding: 1.5rem 0 2rem; }
+.exam-score-num { font-size: 2.5rem; font-weight: 700; }
+.exam-score-pct { font-size: 1.2rem; color: var(--secondary, #666); }
+
+.exam-result-q {
+  border: 1px solid var(--border, #ddd);
+  border-left-width: 4px;
+  border-radius: 6px;
+  padding: .75rem 1rem;
+  margin-bottom: .75rem;
+}
+.exam-result-q.is-right { border-left-color: #2a9d3f; }
+.exam-result-q.is-wrong { border-left-color: #d33; }
+.exam-result-head { font-weight: 600; margin-bottom: .4rem; }
+.exam-result-text { margin-bottom: .4rem; }
+.exam-result-line { font-size: .95rem; margin-bottom: .2rem; }
+.exam-result-exp {
+  margin-top: .5rem; font-size: .9rem; color: var(--secondary, #666);
+  padding-top: .5rem; border-top: 1px dashed var(--border, #ddd);
+}
+</style>
+
+<script src="/exam/exam.js" defer></script>
+
+{{- end }}
