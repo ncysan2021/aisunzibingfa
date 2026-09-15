@@ -74,6 +74,7 @@
       "@id": {{ $personID | printf "%q" | safeJS }},
       "name": {{ .Params.author | default "吴雄山" | printf "%q" | safeJS }},
       "jobTitle": {{ .Params.authorTitle | default "AI孙子兵法网站创办人" | printf "%q" | safeJS }},
+      "url": {{ (printf "%s/about/" $base) | printf "%q" | safeJS }},
       "address": {
         "@type": "PostalAddress",
         "addressLocality": {{ .Params.authorLocation | default "马来西亚吉隆坡" | printf "%q" | safeJS }},
@@ -317,7 +318,8 @@
       "@type": "Person",
       "@id": {{ $personID | printf "%q" | safeJS }},
       "name": "吴雄山",
-      "jobTitle": "AI孙子兵法网站创办人"
+      "jobTitle": "AI孙子兵法网站创办人",
+      "url": {{ (printf "%s/about/" $base) | printf "%q" | safeJS }}
     },
     {
       "@type": "CollectionPage",
@@ -361,7 +363,8 @@
       "@type": "Person",
       "@id": {{ $personID | printf "%q" | safeJS }},
       "name": "吴雄山",
-      "jobTitle": "AI孙子兵法网站创办人"
+      "jobTitle": "AI孙子兵法网站创办人",
+      "url": {{ (printf "%s/about/" $base) | printf "%q" | safeJS }}
     }
   ]
 }
