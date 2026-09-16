@@ -84,7 +84,7 @@ faq:
   - q: "普通运动员如何训练战术流动性？"
     a: "结论：在训练中随机切换对手策略，让运动员在非预设条件下练习识别与转换，形成条件反射式的战术适应能力。"
 cover:
-  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-06-xu-shi/gu-bing-wu-chang-shi-shui-wu-chang-xing.jpg"
+  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-06.jpg"
   alt: "篮球教练在场边根据对手防守策略调整战术"
   title: "兵无常势，水无常形——战术流动性在竞技体育中的应用"
   caption: "战术没有固定模板，能因敌变化而取胜者，谓之神。"

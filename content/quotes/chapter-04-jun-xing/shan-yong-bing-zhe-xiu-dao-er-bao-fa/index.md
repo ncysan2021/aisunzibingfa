@@ -84,7 +84,7 @@ faq:
   - q: "长期训练中如何避免标准走样？"
     a: "结论：每次训练记录偏差，只调整可控部分，不因单次结果随意改动流程。"
 cover:
-  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-04-jun-xing/shan-yong-bing-zhe-xiu-dao-er-bao-fa.jpg"
+  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-04.jpg"
   alt: "运动员在训练场上按标准流程执行动作，体现修道保法的竞技战略"
   title: "善用兵者修道而保法：竞技战略中的胜负决定权"
   caption: "修明原则、严守纪律，运动员才能把胜负决定权握在自己手中。"

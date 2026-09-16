@@ -82,7 +82,7 @@ faq:
   - q: "击剑防守中如何避免「无所不备」？"
     a: "结论：防守时若同时准备格挡四个部位，剑尖移动幅度过大，反应延迟。应根据对手习惯线路提前锁定防守重点。"
 cover:
-  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-06-xu-shi/gu-bei-qian-ze-hou-gua.jpg"
+  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-06.jpg"
   alt: "网球运动员在底线准备防守，身体重心偏向一侧"
   title: "备前则后寡：网球底线防守的重心分配"
   caption: "网球底线防守中，预判对手回球线路并提前分配重心，是压缩跑动距离的关键。"

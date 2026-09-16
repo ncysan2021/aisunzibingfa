@@ -84,7 +84,7 @@ faq:
   - q: "如果对手也不暴露形迹怎么办？"
     a: "结论：用重复落点或重复线路主动诱导对手形成预判，再突然改变结果，制造其重心提前移动。"
 cover:
-  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-06-xu-shi/gu-xing-ren-er-wo-wu-xing.jpg"
+  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-06.jpg"
   alt: "羽毛球运动员用一致性出拍隐藏落点，对手重心暴露"
   title: "形人而我无形：羽毛球与冰壶的战术隐藏"
   caption: "用动作一致性隐藏意图，迫使对手先暴露重心，再集中攻击其空档。"

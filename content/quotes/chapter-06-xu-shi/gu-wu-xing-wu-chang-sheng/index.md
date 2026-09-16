@@ -84,7 +84,7 @@ faq:
   - q: "冰壶比赛中冰点变化对投壶有何影响？"
     a: "结论：冰面温度与颗粒状态决定壶的滑行轨迹，投壶力度与旋转必须随冰点变化实时调整。"
 cover:
-  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-06-xu-shi/gu-wu-xing-wu-chang-sheng.jpg"
+  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-06.jpg"
   alt: "网球选手在不同场地材质上击球，背景为四季更替与月相变化"
   title: "五行无常胜：竞技体育的物理极限与周期律"
   caption: "场地材质与体能周期如同四季更替，没有选手能永远占优。"

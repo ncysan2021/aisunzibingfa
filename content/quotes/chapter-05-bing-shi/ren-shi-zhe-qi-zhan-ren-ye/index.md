@@ -84,7 +84,7 @@ faq:
   - q: "跟跑战术有什么风险？"
     a: "结论：若过度依赖对手节奏，可能被突然变速带乱配速，或在终点前被对手封堵路线，因此必须设定自身配速底线并预留独立冲刺能力。"
 cover:
-  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-05-bing-shi/ren-shi-zhe-qi-zhan-ren-ye.jpg"
+  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-05.jpg"
   alt: "田径选手在赛道上跟跑破风的战术场景"
   title: "任势者，其战人也，如转木石——跟跑破风与战术造势"
   caption: "跟跑破风是「任势」在田径赛场上的直接体现：借助对手排开的空气，换取后程的体能优势。"

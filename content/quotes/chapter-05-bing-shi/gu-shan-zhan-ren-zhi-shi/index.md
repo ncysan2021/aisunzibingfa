@@ -83,7 +83,7 @@ faq:
   - q: "如何避免累积的势能被对手反转？"
     a: "结论：当对手连续得分或改变节奏时，立即回到基础防守阵型，设置止损底线，避免冒进导致势能反转。"
 cover:
-  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-05-bing-shi/gu-shan-zhan-ren-zhi-shi.jpg"
+  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-05.jpg"
   alt: "篮球比赛中连续得分后全队紧逼防守形成攻防一体态势"
   title: "转圆石于千仞之山：竞技势能的累积与释放"
   caption: "善战者造势，如圆石滚落高山，势不可挡。"

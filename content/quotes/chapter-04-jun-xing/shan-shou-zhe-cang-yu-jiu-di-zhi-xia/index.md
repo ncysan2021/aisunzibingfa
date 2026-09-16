@@ -82,7 +82,7 @@ faq:
   - q: "如何避免在攻守转换中超出物理极限？"
     a: "结论：通过赛前体能测试明确自身极限，赛中设定节奏阈值，赛后复盘节奏偏差，避免盲目发力导致动作变形或受伤。"
 cover:
-  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-04-jun-xing/shan-shou-zhe-cang-yu-jiu-di-zhi-xia.jpg"
+  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-04.jpg"
   alt: "短道速滑选手在弯道隐蔽意图、直道突然加速的攻守节奏控制"
   title: "善守者藏于九地之下，善攻者动于九天之上：物理极限下的攻守节奏控制"
   caption: "短道速滑与击剑中，攻守节奏的物理极限控制是胜负关键。"

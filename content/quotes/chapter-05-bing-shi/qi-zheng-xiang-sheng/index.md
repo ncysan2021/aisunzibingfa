@@ -84,7 +84,7 @@ faq:
   - q: "如何判断切换「奇」的最佳时机？"
     a: "结论：观察对手开始提前移动或站位调整的那一刻，即预判形成的临界点，就是切换变化手段的窗口。"
 cover:
-  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-05-bing-shi/qi-zheng-xiang-sheng.jpg"
+  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-05.jpg"
   alt: "网球选手在发球线上准备发球，背景是球场与观众席"
   title: "奇正相生：网球发球战术的循环变化"
   caption: "强力发球与切削发球交替使用，让对手的接发预判持续失效。"

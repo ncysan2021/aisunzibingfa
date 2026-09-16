@@ -19,7 +19,10 @@
 
   {{- /* ═══ 封面图 ═══ */ -}}
   {{- with .Params.cover.image }}
-    {{- $url := printf "%s/%s" site.Params.imageBaseURL . }}
+        {{- $url := . }}
+    {{- if not (or (hasPrefix . "http://") (hasPrefix . "https://")) }}
+      {{- $url = printf "%s/%s" site.Params.imageBaseURL . }}
+    {{- end }}
     <figure class="entry-cover quote-cover">
       <img loading="eager" src="{{ $url }}" alt="{{ $.Params.cover.alt | default $.Title }}" />
       {{- with $.Params.cover.caption }}

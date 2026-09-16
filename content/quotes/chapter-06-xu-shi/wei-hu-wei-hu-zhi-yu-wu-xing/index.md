@@ -82,7 +82,7 @@ faq:
   - q: "击剑中如何做到无形启动？"
     a: "结论：通过无预兆的弓步或冲刺，在对手反应之前完成有效攻击。"
 cover:
-  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-06-xu-shi/wei-hu-wei-hu-zhi-yu-wu-xing.jpg"
+  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-06.jpg"
   alt: "篮球控球后卫匀速运球隐藏突破意图的战术示意图"
   title: "微乎微乎，至于无形：篮球控卫的无形启动"
   caption: "控球后卫以匀速运球消除加速预兆，使防守者无法判断启动时机。"
