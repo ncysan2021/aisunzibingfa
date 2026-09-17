@@ -26,6 +26,10 @@
 
 {{- $chapterSlug := .Params.chapter_slug | default "" -}}
 {{- $chapterName := .Params.chapter | default "" -}}
+{{- if not $chapterName -}}
+  {{- with .Params.categories -}}{{- $chapterName = index . 0 -}}{{- end -}}
+{{- end -}}
+{{- if not $chapterName -}}{{- $chapterName = .Section -}}{{- end -}}
 {{- $collectionURL := "" -}}
 {{- $collectionID := "" -}}
 {{- if $chapterSlug -}}
@@ -280,8 +284,14 @@
       "@id": {{ $speakableID | printf "%q" | safeJS }},
       "cssSelector": [
         ".tldr-box",
+        {{- if $chapterSlug -}}
         ".quote-sections",
         ".quote-faq-a"
+        {{- else -}}
+        ".post-title",
+        ".post-description",
+        ".post-content"
+        {{- end -}}
       ]
     }
   ]
