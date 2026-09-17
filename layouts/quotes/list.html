@@ -19,7 +19,7 @@
   {{- with .Params.cover.image -}}
     <figure class="entry-cover">
       <img loading="eager"
-           src="{{ printf "%s/%s" site.Params.imageBaseURL . }}"
+           src="{{ if or (hasPrefix . "http://") (hasPrefix . "https://") }}{{ . }}{{ else }}{{ printf "%s/%s" site.Params.imageBaseURL . }}{{ end }}"
            alt="{{ $.Params.cover.alt | default $.Title }}" />
       {{- with $.Params.cover.caption }}
         <figcaption>{{ . }}</figcaption>
@@ -69,7 +69,7 @@
   {{- with .Params.cover.image -}}
     <figure class="entry-cover">
       <img loading="eager"
-           src="{{ printf "%s/%s" site.Params.imageBaseURL . }}"
+           src="{{ if or (hasPrefix . "http://") (hasPrefix . "https://") }}{{ . }}{{ else }}{{ printf "%s/%s" site.Params.imageBaseURL . }}{{ end }}"
            alt="{{ $.Params.cover.alt | default $.Title }}" />
       {{- with $.Params.cover.caption }}
         <figcaption>{{ . }}</figcaption>

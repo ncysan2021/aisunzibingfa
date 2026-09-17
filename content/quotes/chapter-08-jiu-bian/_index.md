@@ -7,7 +7,7 @@ chapter: "九变篇"
 chapter_slug: "chapter-08-jiu-bian"
 chapter_order: 8
 cover:
-  image: "placeholder/quotes.jpg"
+  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-08.jpg"
   alt: "九变篇"
   caption: "九变篇"
 draft: false

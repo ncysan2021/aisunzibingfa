@@ -7,7 +7,7 @@ chapter: "军形篇"
 chapter_slug: "chapter-04-jun-xing"
 chapter_order: 4
 cover:
-  image: "placeholder/cover-chapter-04.jpg"
+  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-04.jpg"
   alt: "军形篇"
   caption: "军形篇"
 draft: false

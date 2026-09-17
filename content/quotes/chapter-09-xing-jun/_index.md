@@ -7,7 +7,7 @@ chapter: "行军篇"
 chapter_slug: "chapter-09-xing-jun"
 chapter_order: 9
 cover:
-  image: "placeholder/quotes.jpg"
+  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-09.jpg"
   alt: "行军篇"
   caption: "行军篇"
 draft: false

@@ -7,7 +7,7 @@ chapter: "军争篇"
 chapter_slug: "chapter-07-jun-zheng"
 chapter_order: 7
 cover:
-  image: "placeholder/quotes.jpg"
+  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-07.jpg"
   alt: "军争篇"
   caption: "军争篇"
 draft: false
