@@ -84,7 +84,7 @@ faq:
   - q: "内部矛盾在比赛中真的能被搁置吗？"
     a: "结论：能，但前提是共同失败风险足够清晰且紧迫，教练需在赛前将目标统一到「同舟」层面，而非依赖个人觉悟。"
 cover:
-  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-11-jiu-di/gan-wen-bing-ke-shi-ru-shuai-ran-hu.jpg"
+  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-11.jpg"
   alt: "短道速滑接力队员在弯道交接时伸手协同"
   title: "同舟共济：率然之势在竞技团队中的体现"
   caption: "短道速滑接力中，交接瞬间的同步与补位，正是「率然」首尾相救的现代竞技写照。"

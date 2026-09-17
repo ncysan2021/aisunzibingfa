@@ -82,7 +82,7 @@ faq:
   - q: "资源约束下最常见的执行错误是什么？"
     a: "结论：过早集中消耗全部体能，导致后程无力应对对手的节奏变化。"
 cover:
-  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-07-jun-zheng/lue-xiang-fen-zhong-kuo-di-fen-li.jpg"
+  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-07.jpg"
   alt: "公路自行车突围集团轮流领骑的场景"
   title: "掠乡分众，廓地分利，悬权而动——执行维度的资源分配"
   caption: "突围集团中车手轮流领骑，正是「掠乡分众」在体育执行中的体现。"

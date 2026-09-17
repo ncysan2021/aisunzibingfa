@@ -88,7 +88,7 @@ faq:
   - q: "帆船比赛遇到风摆频繁时，如何调整战术？"
     a: "结论：把风摆视为「通」与「远」的动态组合，先采集风摆频率与水流方向，再选择航线与帆面弧度，风摆超出阈值时切换保守航线。"
 cover:
-  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-10-di-xing/di-xing-you-tong-zhe-you-gua-zhe.jpg"
+  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-10.jpg"
   alt: "运动员在陌生场地开局试探，采集冰面温度与摩擦力等物理数据"
   title: "地形六态与竞技体育物理极限"
   caption: "地形六态对应竞技体育六类场地物理条件，开局试探是采集数据、校准技术的第一步。"

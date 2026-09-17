@@ -88,7 +88,7 @@ faq:
   - q: "资源占优的一方为什么也会输？"
     a: "结论：资源多容易诱发武进，阵型前压后身后空当扩大，一旦被对手集中反击，资源优势反而变成防守负担。"
 cover:
-  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-09-xing-jun/bing-fei-yi-duo-ye-wei-wu-wu-jin.jpg"
+  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-09.jpg"
   alt: "足球比赛中球队在控球劣势下组织集中反击的战术示意"
   title: "兵非益多也：执行维度下的集中与反击"
   caption: "资源少不等于机会少，执行效率决定反击质量。"

@@ -84,7 +84,7 @@ faq:
   - q: "击剑项目中如何运用任务聚焦来提升执行质量？"
     a: "结论：赛前只给2-3个针对性动作指令，不透露完整战术布局，让选手在交锋中保持决策果断。"
 cover:
-  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-11-jiu-di/fan-zhi-yi-shi.jpg"
+  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-11.jpg"
   alt: "短道速滑运动员在比赛中专注执行交接任务"
   title: "执行维度：信息分层与任务聚焦"
   caption: "「犯之以事，勿告以言」——让运动员专注可执行的动作与节奏，而非全部战术意图。"

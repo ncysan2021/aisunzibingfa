@@ -84,7 +84,7 @@ faq:
   - q: "如何避免在比赛中被对手的假动作误导？"
     a: "结论：观察对手信号是否与其整体节奏一致，若前后矛盾则保持自身节奏锚点，不被单次异常动作带偏。"
 cover:
-  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-09-xing-jun/zhong-shu-dong-zhe-lai-ye.jpg"
+  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-09.jpg"
   alt: "短道速滑选手在弯道中观察前方对手动作信号"
   title: "众树动者来也：竞技执行中的信号读取"
   caption: "执行维度的核心不是反应快，而是判断准：先读取信号，再决定动作。"

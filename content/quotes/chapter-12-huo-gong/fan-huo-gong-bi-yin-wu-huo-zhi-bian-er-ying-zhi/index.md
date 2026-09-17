@@ -82,7 +82,7 @@ faq:
   - q: "如果对手的变化超出预期，应该怎么办？"
     a: "结论：立即回到基础站位与安全回球，重新观察并积累信息，再寻找新的应对方案。"
 cover:
-  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-12-huo-gong/fan-huo-gong-bi-yin-wu-huo-zhi-bian-er-ying-zhi.jpg"
+  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-12.jpg"
   alt: "网球运动员在比赛中调整站位准备回球"
   title: "因五火之变而应之：网球战术调整"
   caption: "对手攻击模式变化时，站位与回球路线的同步调整是战术响应的关键。"

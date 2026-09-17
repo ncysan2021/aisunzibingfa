@@ -86,7 +86,7 @@ faq:
   - q: "执行维度与战略、战术维度有什么不同？"
     a: "结论：执行维度关注「已定方案如何不打折地完成」。战略回答打不打、打哪里，战术回答怎么打，执行回答在高压、疲劳、争议中仍按标准完成动作与配合。"
 cover:
-  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-11-jiu-di/jiang-jun-zhi-shi.jpg"
+  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-11.jpg"
   alt: "短道速滑教练在冰场边冷静指挥队员执行战术"
   title: "将军之事：静以幽，正以治——竞技执行定力"
   caption: "《孙子兵法·九地篇》「静以幽，正以治」在奥运赛场上的执行映射：教练冷静、规则公正、动作有序。"

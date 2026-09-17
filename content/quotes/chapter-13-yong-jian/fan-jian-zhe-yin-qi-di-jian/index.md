@@ -84,7 +84,7 @@ faq:
   - q: "普通运动员如何运用反间思维提升比赛表现？"
     a: "结论：普通运动员可在赛前热身或公开训练中刻意隐藏真实状态或展示非惯用技术，让对手误判己方实力与战术意图，从而在正式比赛中占据主动。"
 cover:
-  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-13-yong-jian/fan-jian-zhe-yin-qi-di-jian.jpg"
+  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-13.jpg"
   alt: "篮球教练在训练场布置战术，场边有对手球探观察"
   title: "反间者，因其敌间而用之——竞技情报战中的战略欺骗"
   caption: "体育竞技中的反间策略：识别对手情报收集行为，主动释放假信息，诱导对手做出错误赛前部署。"

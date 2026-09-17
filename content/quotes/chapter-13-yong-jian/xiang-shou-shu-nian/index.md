@@ -84,7 +84,7 @@ faq:
   - q: "如果预算确实有限，应该先砍掉哪部分情报支出？"
     a: "结论：先砍掉对非直接竞争对手的广泛侦察，保留对决胜轮对手关键回合的深度研究，确保核心情报不断档。"
 cover:
-  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-13-yong-jian/xiang-shou-shu-nian.jpg"
+  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-13.jpg"
   alt: "短道速滑选手在弯道处观察对手位置，体现情报与资源约束下的竞技决策"
   title: "相守数年以争一日之胜：资源约束下的情报投入"
   caption: "长期备战中，情报投入是决定临场先手的关键资源分配。"

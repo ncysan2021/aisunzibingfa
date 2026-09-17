@@ -88,7 +88,7 @@ faq:
   - q: "铁人三项中「役不再籍」对应什么策略？"
     a: "结论：铁人三项中体能不可重复征调，游泳、自行车、跑步三段必须一次规划好配速与补给，避免后程崩盘。"
 cover:
-  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-02-zuo-zhan/shan-yong-bing-zhe-yi-bu-zai-ji.jpg"
+  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-02.jpg"
   alt: "篮球比赛中球员制造对手犯规并执行罚球，体现资源约束下的竞技策略"
   title: "善用兵者，役不再籍，粮不三载——资源约束下的竞技制胜法则"
   caption: "资源约束维度：以最小消耗获取最大战果，将对手资源转化为己方优势。"

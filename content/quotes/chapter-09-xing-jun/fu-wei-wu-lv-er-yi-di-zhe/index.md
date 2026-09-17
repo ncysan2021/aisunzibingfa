@@ -84,7 +84,7 @@ faq:
   - q: "击剑比赛中，轻敌如何影响执行？"
     a: "结论：轻视对手的节奏变化，距离控制松散，被对手连续抢攻得分后心态崩盘。"
 cover:
-  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-09-xing-jun/fu-wei-wu-lv-er-yi-di-zhe.jpg"
+  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-09.jpg"
   alt: "运动员在赛前专注研究对手录像，体现执行维度的准备纪律"
   title: "夫惟无虑而易敌者，必擒于人：竞技执行中的准备纪律"
   caption: "赛前评估与针对性准备，是执行维度中最容易被轻敌心理侵蚀的环节。"

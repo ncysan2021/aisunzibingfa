@@ -86,7 +86,7 @@ faq:
   - q: "九地态势判断适用于个人项目吗？"
     a: "结论：适用。个人项目如田径、击剑同样需要根据体能分配、对手强弱和规则限制切换战术。"
 cover:
-  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-11-jiu-di/shi-gu-san-di-ze-wu-zhan.jpg"
+  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-11.jpg"
   alt: "短道速滑选手在弯道处判断战术态势"
   title: "九地篇战术执行与竞技态势判断"
   caption: "散地无战，死地则战：竞技赛场上的九种态势对应九种战术指令。"

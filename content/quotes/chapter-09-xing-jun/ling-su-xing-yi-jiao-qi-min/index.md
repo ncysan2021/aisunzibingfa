@@ -82,7 +82,7 @@ faq:
   - q: "如何判断一支队伍的执行机制是否有效？"
     a: "结论：看训练记录是否可追溯、规则是否对所有人一致、偏差是否被即时反馈。"
 cover:
-  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-09-xing-jun/ling-su-xing-yi-jiao-qi-min.jpg"
+  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-09.jpg"
   alt: "教练在训练场边与队员一同执行训练规则"
   title: "令素行以教其民：执行从教练自身开始"
   caption: "规则先在自己身上一贯执行，再要求队员，队员才会心服。"

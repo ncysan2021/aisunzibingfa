@@ -90,7 +90,7 @@ faq:
   - q: "冰壶比赛中面对对手后手强势局，应该怎样执行避战策略？"
     a: "结论：简化局面、清理壶位，放弃偷分机会，将比赛拖入对手气势回落的局次再争取大分，避免在对手强势局硬碰。"
 cover:
-  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-07-jun-zheng/wu-yao-zheng-zheng-zhi-qi-wu-ji-tang-tang-zhi-chen.jpg"
+  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-07.jpg"
   alt: "篮球教练在对手连续得分后请求暂停，球员围拢听取战术调整"
   title: "无邀正正之旗，勿击堂堂之陈——竞技执行中的避实击虚"
   caption: "面对对手气势高峰，果断打断节奏比正面硬碰更符合执行维度的战术原则。"

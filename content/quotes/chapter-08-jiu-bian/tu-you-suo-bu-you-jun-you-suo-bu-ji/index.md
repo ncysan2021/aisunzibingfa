@@ -84,7 +84,7 @@ faq:
   - q: "「君命有所不受」在竞技体育中如何理解？"
     a: "结论：教练的赛前指令并非全部必须执行，运动员应根据临场状态做出调整。但调整必须基于赛前约定的授权范围与触发条件，而非随意违背，否则会破坏团队执行的一致性。"
 cover:
-  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-08-jiu-bian/tu-you-suo-bu-you-jun-you-suo-bu-ji.jpg"
+  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-08.jpg"
   alt: "马拉松运动员在比赛中调整配速，体现执行取舍的竞技场景"
   title: "涂有所不由：竞技执行中的取舍智慧"
   caption: "执行阶段主动放弃次要目标，集中资源保住核心目标，是《九变篇》在竞技体育中的核心启示。"

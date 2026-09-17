@@ -85,7 +85,7 @@ faq:
   - q: "冰壶比赛中，如何避免体力透支？"
     a: "结论：了解冰面摩擦和投壶力度的体力消耗，合理分配四垒的投掷力量，确保关键壶的精准度。"
 cover:
-  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-02-zuo-zhan/gu-bu-jin-zhi-yong-bing-zhi-hai-zhe.jpg"
+  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-02.jpg"
   alt: "运动员在田径赛道上合理分配体能"
   title: "资源约束下的竞技体能分配"
   caption: "了解体能透支的后果，才能掌握体能分配的红利"

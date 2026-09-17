@@ -82,7 +82,7 @@ faq:
   - q: "执行维度中，避锐击惰的最大风险是什么？"
     a: "结论：误判对手惰归时机或自身储备不足，导致进攻过早被反制，或过晚错失窗口。"
 cover:
-  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-07-jun-zheng/gu-shan-yong-bing-zhe-bi-qi-rui-qi-ji-qi-duo-gui.jpg"
+  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-07.jpg"
   alt: "运动员在比赛中等待对手疲劳时机的执行策略示意图"
   title: "避锐击惰：体育竞技中的执行时机"
   caption: "避开对手锐气，在其惰归阶段发动决定性进攻"

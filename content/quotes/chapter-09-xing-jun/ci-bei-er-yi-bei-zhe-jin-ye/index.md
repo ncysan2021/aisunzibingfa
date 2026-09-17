@@ -84,7 +84,7 @@ faq:
   - q: "执行维度上，赛前信号识别最关键的一步是什么？"
     a: "结论：建立可观察、可验证的对手行为基线，并设定分级临场调整预案，减少开场决策延迟。"
 cover:
-  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-09-xing-jun/ci-bei-er-yi-bei-zhe-jin-ye.jpg"
+  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-09.jpg"
   alt: "足球教练在场边观察对手赛前热身与阵型变化"
   title: "赛前信号识别：从言行反差判断对手战术意图"
   caption: "对手的赛前表态与备战动作之间的反差，是执行维度最重要的情报窗口。"

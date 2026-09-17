@@ -84,7 +84,7 @@ faq:
   - q: "执行维度中，逆势强攻会带来什么后果？"
     a: "结论：逆势强攻会加速体能消耗、暴露防守空档，并让对手获得反击机会，最终导致回合失控与战术被动。"
 cover:
-  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-12-huo-gong/huo-fa-shang-feng.jpg"
+  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-12.jpg"
   alt: "冰壶运动员在冰面上观察壶位与旋转方向，体现位置优势与执行时机"
   title: "火发上风，无攻下风：竞技执行中的位置法则"
   caption: "占据有利位置再执行，比逆势强攻更高效"

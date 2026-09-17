@@ -82,7 +82,7 @@ faq:
   - q: "背水一战的压力一定会提升执行力吗？"
     a: "结论：不一定。只有当团队平时已建立清晰的职责与信任，压力才会触发自动执行；否则压力会引发混乱。"
 cover:
-  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-11-jiu-di/shi-gu-qi-bing-bu-xiu-er-jie.jpg"
+  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-11.jpg"
   alt: "短道速滑接力队员在弯道交接瞬间的默契配合"
   title: "不修而戒：压力下的执行自动启动"
   caption: "高压局面下，团队执行力从刻意控制转为自动运行，这正是「不修而戒」的竞技写照。"

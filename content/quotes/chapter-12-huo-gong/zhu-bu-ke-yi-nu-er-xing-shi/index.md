@@ -84,7 +84,7 @@ faq:
   - q: "如何建立团队层面的情绪管理机制？"
     a: "结论：赛前设定情绪红线和暂停触发条件，赛后复盘情绪节点，把情绪管理纳入日常训练而非只在比赛时提醒。"
 cover:
-  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-12-huo-gong/zhu-bu-ke-yi-nu-er-xing-shi.jpg"
+  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-12.jpg"
   alt: "短道速滑选手在比赛中保持冷静执行战术"
   title: "主不可以怒而兴师：竞技体育中的情绪与战略"
   caption: "情绪失控是战术执行的最大敌人，冷静评估才能掌握战略主动权。"

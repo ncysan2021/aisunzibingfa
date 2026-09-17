@@ -86,7 +86,7 @@ faq:
   - q: "战术伪装失败的主要原因是什么？"
     a: "结论：伪装信号不一致或自身能力不足，导致对手识破意图或伪装后无法执行真实动作。"
 cover:
-  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-01-shi-ji/gu-neng-er-shi-zhi-bu-neng.jpg"
+  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-01.jpg"
   alt: "足球边锋在边路带球，用身体朝向伪装突破方向"
   title: "能而示之不能：体育竞技中的战术伪装"
   caption: "足球边锋以身体朝向与步频变化隐藏真实突破意图，体现《孙子兵法》「能而示之不能」的战术智慧。"

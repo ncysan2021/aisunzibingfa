@@ -90,7 +90,7 @@ faq:
   - q: "普通运动员如何建立自己的情报收集习惯？"
     a: "结论：从因间和生间入手，先系统收集对手公开比赛数据，再争取现场观摩机会，逐步扩展至内部动态与反制虚假信息，形成个人情报网络。"
 cover:
-  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-13-yong-jian/gu-yong-jian-you-wu.jpg"
+  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-13.jpg"
   alt: "冰壶运动员在赛前观察对手投壶路线与冰面阅读习惯"
   title: "五类情报源拼出对手完整画像"
   caption: "冰壶比赛中，赛前对对手投壶习惯、冰面阅读方式与沟通模式的多源情报收集，是制定战术的基础。"

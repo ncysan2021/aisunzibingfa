@@ -82,7 +82,7 @@ faq:
   - q: "如何在日常训练中培养随敌调整的能力？"
     a: "结论：在训练中引入随机对手行为、压缩决策时间、设置调整优先级，并坚持赛后复盘调整质量，逐步形成临场决策习惯。"
 cover:
-  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-11-jiu-di/jian-mo-sui-di.jpg"
+  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-11.jpg"
   alt: "短道速滑选手在比赛中根据对手位置实时调整滑行路线"
   title: "践墨随敌：竞技执行中的实时调整"
   caption: "执行不是死守计划，而是在对抗中依据对手反应持续微调。"

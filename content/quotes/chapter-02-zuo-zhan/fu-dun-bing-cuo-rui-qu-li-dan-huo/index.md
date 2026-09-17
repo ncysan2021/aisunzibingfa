@@ -85,7 +85,7 @@ faq:
   - q: "如何避免「虽有智者，不能善其后」的局面？"
     a: "结论：赛季前设定体能负荷红线与轮换预案，赛季中每两周复盘资源消耗，及时调整训练与出场时间。"
 cover:
-  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-02-zuo-zhan/fu-dun-bing-cuo-rui-qu-li-dan-huo.jpg"
+  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-02.jpg"
   alt: "短道速滑运动员在赛季中段体能透支的竞技场景"
   title: "钝兵挫锐，屈力殚货：资源约束下的竞技风险"
   caption: "赛季中段过度消耗主力，如同钝兵挫锐，关键比赛将失去竞争力。"

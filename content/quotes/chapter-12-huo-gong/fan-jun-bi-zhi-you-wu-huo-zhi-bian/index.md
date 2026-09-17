@@ -83,7 +83,7 @@ faq:
   - q: "冰壶和短道速滑如何体现「以数守之」的执行原则？"
     a: "结论：冰壶靠投壶成功率与对手习惯数据选择战术，短道速滑靠圈速与超越点统计执行超越时机。"
 cover:
-  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-12-huo-gong/fan-jun-bi-zhi-you-wu-huo-zhi-bian.jpg"
+  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-12.jpg"
   alt: "排球比赛中教练与球员在关键分前查看统计数据的场景"
   title: "排球关键分执行与复盘"
   caption: "以数守之：用统计与复盘约束关键分执行"

@@ -92,7 +92,7 @@ faq:
   - q: "七计打分会不会因为主观而失真？"
     a: "结论：打分失真的根源是缺少数据支撑，应尽量用近期比赛成绩、训练监测数据与录像统计作为打分依据，并在赛后用实际结果回填校验，逐步校准评分标准。"
 cover:
-  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-01-shi-ji/gu-xiao-zhi-yi-ji-er-suo-qi-qing.jpg"
+  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-01.jpg"
   alt: "短道速滑选手在冰面弯道处并排竞速，体现赛前七计对比的竞技场景"
   title: "校之以计而索其情：赛前七计评估法"
   caption: "七计对比法把赛前判断从感觉变成可打分的清单，帮助教练组锁定最弱一环。"

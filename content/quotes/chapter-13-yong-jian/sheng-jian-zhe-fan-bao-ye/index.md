@@ -85,7 +85,7 @@ faq:
   - q: "生间策略在体育竞技中最大的风险是什么？"
     a: "结论：最大风险是侦察人员暴露意图或返回信息失真，导致己方基于错误情报做出错误调整。"
 cover:
-  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-13-yong-jian/sheng-jian-zhe-fan-bao-ye.jpg"
+  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-13.jpg"
   alt: "体育教练在场边观察对手热身并记录情报"
   title: "生间者反报也：体育竞技中的赛前情报侦察"
   caption: "生间行动的关键不只在派出，更在于安全返回并输出可验证的情报。"

@@ -89,7 +89,7 @@ faq:
   - q: "冰壶比赛的赛前决策与其他项目有何不同？"
     a: "结论：冰壶更依赖赛前对冰面速度、对手投壶风格和局数节奏的分析，战略评估的重点在于先后手选择和得分局规划。"
 cover:
-  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-12-huo-gong/ming-zhu-lv-zhi.jpg"
+  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-12.jpg"
   alt: "短道速滑选手在赛前进行战术讨论与状态评估"
   title: "明主虑之，良将修之：赛前评估与竞技战略决策"
   caption: "赛前评估是竞技战略的第一道防线，决定比赛中的每一个关键决策。"

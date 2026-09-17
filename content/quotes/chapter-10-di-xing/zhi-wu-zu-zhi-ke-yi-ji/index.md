@@ -88,7 +88,7 @@ faq:
   - q: "冰壶比赛中，赛前评估如何体现「知吾卒之可以击，知敌之可击，知地形之不可以战」的三重校验？"
     a: "结论：冰壶的赛前评估天然对应三重校验。本队投壶成功率与扫冰默契对应「知吾卒」，对手的战术偏好与关键壶处理能力对应「知敌」，冰面滑涩度、温度与赛道弧度对应「知地形」。三者交叉验证后，才能决定是先手压迫还是后手控分，避免单一维度判断导致战术失误。"
 cover:
-  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-10-di-xing/zhi-wu-zu-zhi-ke-yi-ji.jpg"
+  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-10.jpg"
   alt: "短道速滑运动员在冰面上进行赛前战术评估，背景为赛道与计时数据"
   title: "知吾卒之可以击：竞技赛前评估的三角校验"
   caption: "赛前评估须同时掌握本队、对手与场地三要素，缺一即「胜之半也」。"

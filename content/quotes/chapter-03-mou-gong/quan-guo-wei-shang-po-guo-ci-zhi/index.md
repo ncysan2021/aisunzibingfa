@@ -82,7 +82,7 @@ faq:
   - q: "现代五项选手如何应用「全国为上」原则？"
     a: "结论：现代五项选手需在五个项目中分配体能，优先保证各项完整完赛，避免某一项过度消耗导致后续项目崩盘，以整体完整状态争取总成绩。"
 cover:
-  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-03-mou-gong/quan-guo-wei-shang-po-guo-ci-zhi.jpg"
+  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-03.jpg"
   alt: "《孙子兵法》谋攻篇全国为上战略维度与竞技体育应用"
   title: "全国为上：战略维度下的完整取胜之道"
   caption: "以《孙子兵法》谋攻篇「全国为上」解析竞技体育中的节奏控制与损耗管理。"

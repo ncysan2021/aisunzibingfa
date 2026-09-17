@@ -90,7 +90,7 @@ faq:
   - q: "比赛进入最后阶段，什么时候应该执行「死地则战」？"
     a: "结论：当比赛进入决胜时刻且无退路时，将剩余体能全部投入，不再保留余量。"
 cover:
-  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-08-jiu-bian/pi-di-wu-she-qu-di-jiao-he.jpg"
+  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-08.jpg"
   alt: "自行车运动员在起伏赛道上调整配速与位置"
   title: "圮地无舍，衢地交合：竞技战术中的地形与体能分配"
   caption: "赛道地形与赛程阶段决定体能分配方式，圮地降载、衢地借力、死地决战。"

@@ -84,7 +84,7 @@ faq:
   - q: "战略维度下最常见的执行误区是什么？"
     a: "结论：把每场都当决赛打，导致核心球员或运动员在赛季中途透支，关键时刻反而无人可用、无牌可争。"
 cover:
-  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-03-mou-gong/bi-yi-quan-zheng-yu-tian-xia.jpg"
+  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-03.jpg"
   alt: "短道速滑选手在奥运赛道上进行体能分配与轮换策略示意"
   title: "必以全争于天下：奥运赛场的全胜战略"
   caption: "奥运赛场的全胜战略：以轮换与体能分配实现兵不顿而利可全。"

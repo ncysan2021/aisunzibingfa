@@ -84,7 +84,7 @@ faq:
   - q: "如何避免「用兵之灾」在比赛中发生？"
     a: "结论：把个人缺陷当作制度问题处理，用规则、轮换与简化战术保护执行链条，让失误在可控范围内被吸收。"
 cover:
-  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-08-jiu-bian/fan-ci-wu-zhe-jiang-zhi-guo-ye.jpg"
+  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-08.jpg"
   alt: "短道速滑接力交接瞬间，运动员在冰面上高速传递，体现执行链条的紧张传导"
   title: "执行维度：个人缺陷如何传导为团队失败"
   caption: "「凡此五者，将之过也，用兵之灾也」——执行链条上任何个人偏差都会被放大为整体灾难。"

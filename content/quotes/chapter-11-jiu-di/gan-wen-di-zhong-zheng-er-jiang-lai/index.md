@@ -82,7 +82,7 @@ faq:
   - q: "过度使用「先夺其所爱」战术有什么风险？"
     a: "结论：过度包夹或施压会暴露防守空档，若对手核心具备出色的分球能力，可能被其利用空档打出高效得分，因此必须保持整体防守的平衡。"
 cover:
-  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-11-jiu-di/gan-wen-di-zhong-zheng-er-jiang-lai.jpg"
+  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-11.jpg"
   alt: "篮球比赛中防守球员包夹对方组织核心的战术执行瞬间"
   title: "先夺所爱：限制组织核心的竞技战术"
   caption: "当对手整体占优时，优先限制其组织核心，切断得分来源。"

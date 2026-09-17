@@ -86,7 +86,7 @@ faq:
   - q: "冰壶比赛中，为什么战术预设比单纯了解对手更重要？"
     a: "结论：冰壶的每一投都受上一投结果影响，对手的投壶变化会改变整局布局。只了解对手习惯而不预设应对方案，就无法在局面变化时做出有效调整。"
 cover:
-  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-08-jiu-bian/jiang-bu-tong-yu-jiu-bian-zhi-li-zhe.jpg"
+  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-08.jpg"
   alt: "网球选手在比赛中根据对手变化调整战术的瞬间"
   title: "将不通于九变之利者——赛前情报与临场变通"
   caption: "赛前情报充分不等于赛场取胜，临场变通才是将情报转化为优势的关键。"

@@ -82,7 +82,7 @@ faq:
   - q: "冰壶项目中如何应用反间思维？"
     a: "结论：在冰壶比赛中，可通过故意在训练中暴露虚假的投壶线路或战术配合，诱导对手在比赛中做出错误预判，但需确保不违反竞赛规则。"
 cover:
-  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-13-yong-jian/bi-suo-di-ren-zhi-jian-lai-jian-wo-zhe.jpg"
+  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-13.jpg"
   alt: "足球教练在场边观察训练，背景有冰壶赛道图案"
   title: "反间之计在体育竞技中的执行应用"
   caption: "从《孙子兵法》用间篇看体育情报战的反间执行策略"

@@ -87,7 +87,7 @@ faq:
   - q: "如何判断是否因气候条件而退赛？"
     a: "结论：出现头晕、恶心、寒战等热应激或失温症状时，应立即退赛以保安全。"
 cover:
-  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-01-shi-ji/tian-zhe-yin-yang-han-shu-shi-zhi-ye.jpg"
+  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-01.jpg"
   alt: "运动员在高温高湿环境下进行长距离耐力比赛"
   title: "天者，阴阳、寒暑、时制也——气候资源约束"
   caption: "气候条件构成体育竞技中不可谈判的资源约束，配速策略必须随之调整。"

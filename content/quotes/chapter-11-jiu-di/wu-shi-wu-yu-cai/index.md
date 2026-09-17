@@ -84,7 +84,7 @@ faq:
   - q: "哪些奥运项目最典型体现这种执行机制？"
     a: "结论：短道速滑接力、铁人三项混合接力、自行车团体追逐、冰壶四人队等，都需要选手在生死阶段牺牲个人数据。"
 cover:
-  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-11-jiu-di/wu-shi-wu-yu-cai.jpg"
+  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-11.jpg"
   alt: "短道速滑选手在接力生死阶段放弃个人数据，执行团队战术"
   title: "吾士无余财无余命：竞技执行维度"
   caption: "生死阶段，选手主动放弃个人数据，把资源押在团队结果上。"

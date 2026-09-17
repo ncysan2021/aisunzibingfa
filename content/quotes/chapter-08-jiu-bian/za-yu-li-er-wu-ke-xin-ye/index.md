@@ -86,7 +86,7 @@ faq:
   - q: "如何在日常训练中培养运动员的利害双算能力？"
     a: "结论：在训练中设置领先与落后两种模拟场景，要求运动员分别写出三个有利因素与三个不利因素，并制定应对方案。"
 cover:
-  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-08-jiu-bian/za-yu-li-er-wu-ke-xin-ye.jpg"
+  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-08.jpg"
   alt: "篮球比赛中教练与球员在暂停时进行战术沟通，体现利害双算的战略思维"
   title: "杂于利而务可信：体育战略中的利害双算"
   caption: "优势时计算风险，劣势时寻找机会，是竞技战略的核心素养。"

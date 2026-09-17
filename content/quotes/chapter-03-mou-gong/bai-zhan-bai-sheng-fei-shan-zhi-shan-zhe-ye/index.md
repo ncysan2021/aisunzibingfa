@@ -82,7 +82,7 @@ faq:
   - q: "过度追求「不战而屈人」会有什么风险？"
     a: "结论：若威慑被对手识破或自身状态下滑，可能反被针对；必须保留硬碰硬的执行力，否则战略优势会变成逃避对抗的借口。"
 cover:
-  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-03-mou-gong/bai-zhan-bai-sheng-fei-shan-zhi-shan-zhe-ye.jpg"
+  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-03.jpg"
   alt: "短道速滑选手在赛前观察对手站位，体现战术与心理优势"
   title: "百战百胜非善之善：竞技体育中的不战而屈人"
   caption: "以战术布局与心理威慑让对手赛前处于劣势，减少硬碰硬消耗。"

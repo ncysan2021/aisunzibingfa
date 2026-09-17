@@ -84,7 +84,7 @@ faq:
   - q: "使用这类战略施压时最大的风险是什么？"
     a: "结论：若自身防守与体能储备不足，施压未成先自乱阵脚，被对手利用空档反击，反而丧失比赛主动权。"
 cover:
-  image: "https://pub-f9d6c3356fb44ce0b1e0f09cb4ddf49a.r2.dev/quotes/chapter-08-jiu-bian/shi-gu-qu-zhu-hou-zhe-yi-hai.jpg"
+  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-08.jpg"
   alt: "篮球比赛中全场紧逼防守的战略施压场景"
   title: "屈诸侯者以害：竞技战略中的施压与博弈"
   caption: "战略维度下的竞技对抗：通过施压、消耗与牵引，迫使对手偏离舒适节奏。"
