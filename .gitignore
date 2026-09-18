@@ -28,3 +28,13 @@ package-lock.json
 
 # 自动生成的 SQL seed（跑 Python 脚本生成）
 sql/0002_seed.sql
+
+# 调试 / 检查产物
+check_*.txt
+dir_list.txt
+dirs.txt
+all.txt
+*.bak
+*.bak2
+*.bak3
+image-audit.csv
