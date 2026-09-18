@@ -28,8 +28,6 @@
   {{- end }}
 </article>
 
-  {{- partial "comments.html" . -}}
-
 <hr class="exam-sep">
 
 <div class="exam-wrap">

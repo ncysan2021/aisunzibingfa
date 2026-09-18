@@ -40,6 +40,4 @@
 
 </article>
 
-  {{- partial "comments.html" . -}}
-
 {{- end -}}
