@@ -38,3 +38,10 @@ all.txt
 *.bak2
 *.bak3
 image-audit.csv
+
+# 备份目录
+content/*.bak-cover/
+content/*.bak-*/
+
+# 临时检查文件
+_*.txt
