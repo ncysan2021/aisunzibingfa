@@ -293,9 +293,7 @@
       "@type": "SpeakableSpecification",
       "@id": {{ $speakableID | printf "%q" | safeJS }},
       "cssSelector": [
-        {{- if or .Params.tldr .Description -}}
         ".tldr-box",
-        {{- end -}}
         {{- if $chapterSlug -}}
         ".quote-sections",
         ".quote-faq-a"

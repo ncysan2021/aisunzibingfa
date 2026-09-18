@@ -7,8 +7,6 @@
   {{- end }}
 </header>
 
-  {{- partial "tldr.html" . -}}
-
 {{- /* 列表页封面 */ -}}
 {{- with .Params.cover.image }}
   <figure class="entry-cover">

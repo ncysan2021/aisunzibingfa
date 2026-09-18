@@ -1,0 +1,45 @@
+=== A) 哪些文件里提到 tldr ===
+
+Path                                                                            LineNumber Line
+----                                                                            ---------- ----
+C:\Users\san-20250514\aisunzibingfa\layouts\partials\templates\schema_json.html        296         ".tldr-box",
+C:\Users\san-20250514\aisunzibingfa\layouts\quotes\single.html                          35   {{- with .Params.tldr }}
+C:\Users\san-20250514\aisunzibingfa\layouts\quotes\single.html                          36     <div class="tldr-box" aria-label="TL;DR">
+C:\Users\san-20250514\aisunzibingfa\layouts\quotes\single.html                          37       <h2 class="tldr-title">📌 核心速览</h2>
+
+
+
+=== B) 上述 URL 对应的 content 文件 ===
+--- founders 目录 ---
+
+FullName
+--------
+C:\Users\san-20250514\aisunzibingfa\content\founders\_index.md
+C:\Users\san-20250514\aisunzibingfa\content\founders\ai-sunzi-bingfa-steven-tang-how-education-innovation\index.md
+C:\Users\san-20250514\aisunzibingfa\content\founders\andrew-chong-ai-sun-tzu-youth-strategy-program\index.md
+C:\Users\san-20250514\aisunzibingfa\content\founders\green-hope-community-ricky-wong-csr-brand-angel\index.md
+C:\Users\san-20250514\aisunzibingfa\content\founders\her-inner-bloom-founder-ivi-leong\index.md
+C:\Users\san-20250514\aisunzibingfa\content\founders\human-nature-good-or-evil-philosophy-psychology\human-nature-good-or-evil-philosophy-psychology.jpg
+C:\Users\san-20250514\aisunzibingfa\content\founders\human-nature-good-or-evil-philosophy-psychology\index.md
+C:\Users\san-20250514\aisunzibingfa\content\founders\k-phonics-education-innovation-founder-charmaine-ong\index.md
+C:\Users\san-20250514\aisunzibingfa\content\founders\manja-foods-supply-founder-jac-ho\index.md
+
+
+
+=== C) 这些页面用的是哪个 layout ===
+
+FullName
+--------
+C:\Users\san-20250514\aisunzibingfa\layouts\_default\exam.html
+C:\Users\san-20250514\aisunzibingfa\layouts\founders\list.html
+C:\Users\san-20250514\aisunzibingfa\layouts\page\single.html
+C:\Users\san-20250514\aisunzibingfa\layouts\partials\templates\schema_json.html
+C:\Users\san-20250514\aisunzibingfa\layouts\partials\adsense.html
+C:\Users\san-20250514\aisunzibingfa\layouts\partials\cover.html
+C:\Users\san-20250514\aisunzibingfa\layouts\partials\opengraph.html
+C:\Users\san-20250514\aisunzibingfa\layouts\partials\paginav.html
+C:\Users\san-20250514\aisunzibingfa\layouts\quotes\list.html
+C:\Users\san-20250514\aisunzibingfa\layouts\quotes\single.html
+C:\Users\san-20250514\aisunzibingfa\layouts\shortcodes\table.html
+
+

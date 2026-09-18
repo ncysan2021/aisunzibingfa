@@ -1,0 +1,17 @@
+{{- /* 通用 TL;DR 盒：优先 .Params.tldr（数组），否则回退 .Description */ -}}
+{{- $items := .Params.tldr | default (slice) -}}
+{{- if not $items -}}
+  {{- with .Description -}}
+    {{- $items = slice . -}}
+  {{- end -}}
+{{- end -}}
+{{- with $items -}}
+<div class="tldr-box" aria-label="TL;DR">
+  <h2 class="tldr-title">📌 核心速览</h2>
+  <ul>
+    {{- range . -}}
+    <li>{{ . }}</li>
+    {{- end -}}
+  </ul>
+</div>
+{{- end -}}

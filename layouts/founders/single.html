@@ -15,13 +15,14 @@
     {{- end }}
     <div class="post-meta">
       {{- with .Date }}<span>{{ .Format "2006-01-02" }}</span>{{ end }}
-      {{- with .Params.author }}<span>&nbsp;·&nbsp;{{ . }}</span>{{ end }}
+      {{- with .Params.founder }}<span>&nbsp;·&nbsp;{{ . }}</span>{{ end }}
+      {{- with .Params.company }}<span>&nbsp;·&nbsp;{{ . }}</span>{{ end }}
+      {{- with .Params.industry }}<span>&nbsp;·&nbsp;{{ . }}</span>{{ end }}
     </div>
   </header>
 
   {{- partial "tldr.html" . -}}
 
-  {{- /* ★ 封面图：直接读取 Front Matter 的 cover.image，不做模板转换 */ -}}
   {{- with .Params.cover.image }}
     <figure class="entry-cover">
       <img loading="eager"

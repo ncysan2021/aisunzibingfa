@@ -8,8 +8,6 @@
     {{- end }}
   </header>
 
-  {{- partial "tldr.html" . -}}
-
   {{- with .Params.cover }}
     {{- if .image }}
     <figure class="entry-cover">

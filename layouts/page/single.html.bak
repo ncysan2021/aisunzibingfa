@@ -19,8 +19,6 @@
     </div>
   </header>
 
-  {{- partial "tldr.html" . -}}
-
   {{- /* ★ 封面图：直接读取 Front Matter 的 cover.image，不做模板转换 */ -}}
   {{- with .Params.cover.image }}
     <figure class="entry-cover">
