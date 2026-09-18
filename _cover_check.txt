@@ -1,0 +1,77 @@
+=== manja-foods 的 front matter + 正文前 30 行 ===
+   1: ---
+   2: title: "AI孙子兵法网站创办人对话：东马企业家JAC何建杰的商业智慧"
+   3: description: "AI孙子兵法网站创办人吴雄山专程拜访 MANJA FOODS SUPPLY 有限公司创办人 JAC 何建杰，深度解析传统小镇精神、现代海鲜供应链与《孙子兵法》商业哲学的完美融合。"
+   4: slug: "manja-foods-supply-founder-jac-ho"
+   5: date: 2026-09-13
+   6: lastmod: 2026-09-13
+   7: 
+   8: type: "founders"
+   9: founder: "JAC 何建杰"
+  10: company: "MANJA FOODS SUPPLY 有限公司"
+  11: industry: "食品供应链"
+  12: stage: "成熟期"
+  13: location: "马来西亚雪兰莪士拉扬"
+  14: 
+  15: tags: ["孙子兵法", "AI孙子兵法", "MANJA FOODS SUPPLY", "MJ满佳品牌", "JAC何建杰", "海鲜供应链"]
+  16: keywords: ["孙子兵法", "AI孙子兵法", "知己知彼", "因敌制胜", "兵贵胜不贵久", "守正出奇", "因地制宜", "胜兵先胜而后求战", "MANJA FOODS SUPPLY", "MJ 满佳品牌", "JAC 何建杰", "海鲜供应链"]
+  17: 
+  18: faq: []
+  19: 
+  20: cover:
+  21:   image: "https://img.aisunzibingfa.com/founders/manja-foods-supply-founder-jac-ho.jpg"
+  22:   alt: "AI孙子兵法网站创办人吴雄山与MANJA FOODS SUPPLY创办人JAC何建杰"
+  23:   caption: "吴雄山拜访 MANJA FOODS SUPPLY 创办人 JAC 何建杰"
+  24: 
+  25: draft: false
+  26: ads:
+  27:   top: true
+  28:   bottom: true
+  29: ---
+  30: 
+  31: ![封面](https://img.aisunzibingfa.com/founders/manja-foods-supply-founder-jac-ho.jpg "封面")
+  32: 
+  33: ## 一、AI孙子兵法网站创办人对话：东马企业家 JAC 何建杰的商业智慧
+  34: 
+  35: 近日，AI 孙子兵法网站创办人吴雄山专程前往雪兰莪士拉扬（Selangor, Selayang）的 MANJA FOODS SUPPLY 有限公司总部，与公司创办人兼董事经理 JAC 何建杰先生展开深度交流。作为「MJ 满佳品牌」的掌舵人，JAC 何建杰向吴雄山分享了从小镇到大吉隆坡（Greater Kuala Lumpur）的创业历程，并揭秘了将传统小镇精神与现代供应链技术融合的商业哲学。他提到，成功的秘诀在于**孙子兵法的"知己知彼"**：了解自身优势与市场需求的结合，才能在竞争中立于不败之地。
+  36: 
+  37: 吴雄山在会谈中介绍了其创立的 AI 孙子兵法网站 —— 一个融合商业案例解析与《孙子兵法》智慧测评体系的创新平台。他特别强调，网站博文均以植入兵法元素为特色，旨在挖掘民间商业智慧，正如他所言：「高手在民间，真正的商道往往源于最朴素的生存智慧。」这一理念与 JAC 何建杰从小镇居民到企业家的成长轨迹形成奇妙共鸣。
+  38: 
+  39: ## 二、砂拉越精神的商业传承：从小镇到吉隆坡的海鲜供应链传奇
+  40: 
+
+=== 所有 founders 文章里，正文前 30 行内出现的图片 ===
+
+--- ai-sunzi-bingfa-steven-tang-how-education-innovation ---
+  19: cover:
+  20:   image: "https://img.aisunzibingfa.com/founders/ai-sunzi-bingfa-steven-tang-how-education-innovation.jpg"
+  30: ![吴雄山与唐锡豪于吉隆坡畅谈AI孙子兵法与教育革新合影](https://img.aisunzibingfa.com/founders/ai-sunzi-bingfa-steven-tang-how-education-innovation.jpg "吴雄山与唐锡豪于吉隆坡畅谈AI孙子兵法与教育革新合影")
+
+--- andrew-chong-ai-sun-tzu-youth-strategy-program ---
+  20: cover:
+  21:   image: "https://img.aisunzibingfa.com/founders/andrew-chong-ai-sun-tzu-youth-strategy-program.jpg"
+  31: ![封面](https://img.aisunzibingfa.com/founders/andrew-chong-ai-sun-tzu-youth-strategy-program.jpg "封面")
+
+--- green-hope-community-ricky-wong-csr-brand-angel ---
+  20: cover:
+  21:   image: "https://img.aisunzibingfa.com/founders/green-hope-community-ricky-wong-csr-brand-angel.jpg"
+  31: ![CSR天使公益社创办人黄振聪与AI孙子兵法创办人吴雄山探讨雪隆20区绿色希望社区教育公益计划](https://img.aisunzibingfa.com/founders/green-hope-community-ricky-wong-csr-brand-angel.jpg "CSR天使公益社创办人黄振聪与AI孙子兵法创办人吴雄山探讨雪隆20区绿色希望社区教育公益计划")
+
+--- her-inner-bloom-founder-ivi-leong ---
+  12: image: "https://img.aisunzibingfa.com/founders/her-inner-bloom-founder-ivi-leong.jpg"
+  24: ![Ivi Leong 个人专业照](https://img.aisunzibingfa.com/founders/ivi-leong-professional-portrait.jpg)
+
+--- human-nature-good-or-evil-philosophy-psychology ---
+  20: cover:
+  21:   image: "https://img.aisunzibingfa.com/founders/human-nature-good-or-evil-philosophy-psychology.jpg"
+  31: ![关于「人之初性本善还是性本恶」的哲学与心理学维度思考](https://img.aisunzibingfa.com/founders/human-nature-good-or-evil-philosophy-psychology.jpg "关于「人之初性本善还是性本恶」的哲学与心理学维度思考")
+
+--- k-phonics-education-innovation-founder-charmaine-ong ---
+  20: cover:
+  21:   image: "https://img.aisunzibingfa.com/founders/k-phonics-education-innovation-founder-charmaine-ong.jpg"
+  31: ![封面](https://img.aisunzibingfa.com/founders/k-phonics-education-innovation-founder-charmaine-ong.jpg "封面")
+
+--- manja-foods-supply-founder-jac-ho ---
+  20: cover:
+  21:   image: "https://img.aisunzibingfa.com/founders/manja-foods-supply-founder-jac-ho.jpg"
+  31: ![封面](https://img.aisunzibingfa.com/founders/manja-foods-supply-founder-jac-ho.jpg "封面")

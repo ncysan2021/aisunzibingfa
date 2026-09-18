@@ -130,6 +130,8 @@
     </nav>
   {{- end }}
 
+
+  {{- if (.Param "ShowShareButtons") -}}{{ partial "share_icons.html" . }}{{- end -}}
 </article>
 
   {{- partial "comments.html" . -}}

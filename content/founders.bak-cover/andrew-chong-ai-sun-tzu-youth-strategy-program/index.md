@@ -28,6 +28,7 @@ ads:
   bottom: true
 ---
 
+![封面](https://img.aisunzibingfa.com/founders/andrew-chong-ai-sun-tzu-youth-strategy-program.jpg "封面")
 
 > **青春不是一段时光，而是一种心态。**
 

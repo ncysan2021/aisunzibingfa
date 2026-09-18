@@ -28,6 +28,7 @@ ads:
   bottom: true
 ---
 
+![封面](https://img.aisunzibingfa.com/founders/manja-foods-supply-founder-jac-ho.jpg "封面")
 
 ## 一、AI孙子兵法网站创办人对话：东马企业家 JAC 何建杰的商业智慧
 

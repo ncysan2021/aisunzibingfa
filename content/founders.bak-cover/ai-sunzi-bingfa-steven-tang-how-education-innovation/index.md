@@ -27,6 +27,7 @@ ads:
   bottom: true
 ---
 
+![吴雄山与唐锡豪于吉隆坡畅谈AI孙子兵法与教育革新合影](https://img.aisunzibingfa.com/founders/ai-sunzi-bingfa-steven-tang-how-education-innovation.jpg "吴雄山与唐锡豪于吉隆坡畅谈AI孙子兵法与教育革新合影")
 
 《AI孙子兵法》创始人吴雄山与马来西亚孙子兵法策略哲理学会财政唐锡豪于蛇年新春首晤，深度畅谈AI兵法在教育革新、房地产、旅游及公益领域的四大融合奇思。
 

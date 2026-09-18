@@ -12,10 +12,6 @@ keywords: ["Ivi Leong", "梁雁姚", "Her Inner Bloom", "创业故事", "Life He
 image: "https://img.aisunzibingfa.com/founders/her-inner-bloom-founder-ivi-leong.jpg"
 images:
   - "https://img.aisunzibingfa.com/founders/her-inner-bloom-founder-ivi-leong.jpg"
-cover:
-  image: "https://img.aisunzibingfa.com/founders/her-inner-bloom-founder-ivi-leong.jpg"
-  alt: "Her Inner Bloom 创办人 Ivi Leong"
-  caption: "Ivi Leong（梁雁姚）"
 ---
 # Her Inner Bloom 创办人 Ivi Leong：从 2015 到 2026 的 5 个创业关键节点
 
@@ -27,6 +23,10 @@ cover:
 
 ![Ivi Leong 个人专业照](https://img.aisunzibingfa.com/founders/ivi-leong-professional-portrait.jpg)
 
+<div class="tldr-box">
+<strong>TL;DR：</strong>
+Ivi Leong（梁雁姚）是 Her Inner Bloom 创办人、Founder & Brand Visionary、Life, Health & Wealth Strategist。她从 2015 年创立 IM Consultancy Services，2024 年成立 IM Integrative Health & Wealth Solutions，2026 年建立 Her Inner Bloom 个人品牌，并计划于 2026 年 10 月 11 日举行 Official Launch。她在保障、遗嘱、信托与传承规划方面拥有超过 15 年经验，是 Rockwills Franchisee；在催眠教练与健康指导中，她强调专业边界与转介。
+</div>
 
 ## 为什么关注 Ivi Leong？
 
