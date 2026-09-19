@@ -15,7 +15,7 @@ pagination:
 
 params:
   env: production
-  description: "《孙子兵法》十三篇经典语录，从体育竞技视角解读，每条附原文、翻译、FAQ 与竞技应用。"
+  description: "AI孙子兵法收录《孙子兵法》十三篇全部经典语录，从体育竞技、商业管理与人生决策视角深度解读。每条语录附原文、白话翻译、FAQ 常见问答与竞技应用示范，帮助读者在比赛、职场与人生博弈中活用兵法智慧。"
   author: "吴雄山"
   defaultTheme: "auto"
   ShowReadingTime: false
