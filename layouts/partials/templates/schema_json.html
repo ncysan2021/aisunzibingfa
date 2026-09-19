@@ -5,6 +5,14 @@
 
 {{- $base := strings.TrimRight "/" site.Home.Permalink -}}
 {{- $tz := "+08:00" -}}
+{{- $sameAs := slice -}}
+{{- range site.Params.socialIcons -}}
+  {{- with .url -}}
+    {{- if not (strings.Contains . "facebook") -}}
+      {{- $sameAs = $sameAs | append . -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
 
 {{- if .IsPage -}}
 {{- /* ========== 单篇页面：14 实体 @graph ========== */ -}}
@@ -81,7 +89,8 @@
         "@type": "ImageObject",
         "url": {{ (printf "%s/aisunzibingfa-logo-512.png" $base) | printf "%q" | safeJS }}
       },
-      "founder": { "@id": {{ $personID | printf "%q" | safeJS }} }
+      "founder": { "@id": {{ $personID | printf "%q" | safeJS }} },
+      "sameAs": {{ $sameAs | jsonify | safeJS }}
     },
     {
       "@type": "Person",
@@ -89,6 +98,7 @@
       "name": {{ .Params.author | default "吴雄山" | printf "%q" | safeJS }},
       "jobTitle": {{ .Params.authorTitle | default "AI孙子兵法网站创办人" | printf "%q" | safeJS }},
       "url": {{ (printf "%s/about/" $base) | printf "%q" | safeJS }},
+      "sameAs": {{ $sameAs | jsonify | safeJS }},
       "address": {
         "@type": "PostalAddress",
         "addressLocality": {{ .Params.authorLocation | default "马来西亚吉隆坡" | printf "%q" | safeJS }},
@@ -334,14 +344,16 @@
       "@id": {{ $orgID | printf "%q" | safeJS }},
       "name": {{ site.Title | printf "%q" | safeJS }},
       "url": {{ $base | printf "%q" | safeJS }},
-      "founder": { "@id": {{ $personID | printf "%q" | safeJS }} }
+      "founder": { "@id": {{ $personID | printf "%q" | safeJS }} },
+      "sameAs": {{ $sameAs | jsonify | safeJS }}
     },
     {
       "@type": "Person",
       "@id": {{ $personID | printf "%q" | safeJS }},
       "name": "吴雄山",
       "jobTitle": "AI孙子兵法网站创办人",
-      "url": {{ (printf "%s/about/" $base) | printf "%q" | safeJS }}
+      "url": {{ (printf "%s/about/" $base) | printf "%q" | safeJS }},
+      "sameAs": {{ $sameAs | jsonify | safeJS }}
     },
     {
       "@type": "CollectionPage",
@@ -379,14 +391,16 @@
       "@id": {{ $orgID | printf "%q" | safeJS }},
       "name": {{ site.Title | printf "%q" | safeJS }},
       "url": {{ $base | printf "%q" | safeJS }},
-      "founder": { "@id": {{ $personID | printf "%q" | safeJS }} }
+      "founder": { "@id": {{ $personID | printf "%q" | safeJS }} },
+      "sameAs": {{ $sameAs | jsonify | safeJS }}
     },
     {
       "@type": "Person",
       "@id": {{ $personID | printf "%q" | safeJS }},
       "name": "吴雄山",
       "jobTitle": "AI孙子兵法网站创办人",
-      "url": {{ (printf "%s/about/" $base) | printf "%q" | safeJS }}
+      "url": {{ (printf "%s/about/" $base) | printf "%q" | safeJS }},
+      "sameAs": {{ $sameAs | jsonify | safeJS }}
     }
   ]
 }
