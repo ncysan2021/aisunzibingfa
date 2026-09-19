@@ -45,3 +45,15 @@ content/*.bak-*/
 
 # 临时检查文件
 _*.txt
+
+# === 一次性脚本与提交材料（不要进仓库） ===
+*.pdf
+jpg/
+convert_pdf.py
+filter_facebook.py
+fix_*.py
+inject_sameas.py
+*.bak
+*.bak2
+*.bak3
+*.bak_sameAs
