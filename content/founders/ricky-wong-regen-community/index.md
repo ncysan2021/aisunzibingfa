@@ -9,11 +9,11 @@ slug: "ricky-wong-regen-community"
 tags: ["黄振聪", "Ricky Wong", "高手在民间", "RE:GEN", "RE:GEN Community Initiative", "CSR Brand Angel", "社区教育", "植树", "森林复育", "社会影响力", "AI孙子兵法", "朋友创业圈"]
 categories: ["朋友创业圈"]
 keywords: ["黄振聪", "Ricky Wong", "RE:GEN Community Initiative", "高手在民间", "社区教育", "植树", "森林复育", "CSR", "ESG", "Time Bank", "AI Community Platform", "CSR Brand Angel", "AI孙子兵法", "朋友创业圈"]
-image: "https://img.aisunzibingfa.com/founders/ricky-wong-regen-community.jpg"
+image: "ricky-wong-regen-community.jpg"
 images:
-  - "https://img.aisunzibingfa.com/founders/ricky-wong-regen-community.jpg"
+  - "ricky-wong-regen-community.jpg"
 cover:
-  image: "https://img.aisunzibingfa.com/founders/ricky-wong-regen-community.jpg"
+  image: "ricky-wong-regen-community.jpg"
   alt: "RE:GEN Community Initiative 创办人 Ricky Wong"
   caption: "RE:GEN Community Initiative 创办人 Ricky Wong"
 
