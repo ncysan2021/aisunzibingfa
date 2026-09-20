@@ -12,6 +12,11 @@ keywords: ["黄振聪", "Ricky Wong", "RE:GEN Community Initiative", "高手在�
 image: "https://img.aisunzibingfa.com/founders/ricky-wong-regen-community.jpg"
 images:
   - "https://img.aisunzibingfa.com/founders/ricky-wong-regen-community.jpg"
+cover:
+  image: "https://img.aisunzibingfa.com/founders/ricky-wong-regen-community.jpg"
+  alt: "RE:GEN Community Initiative 创办人 Ricky Wong"
+  caption: "RE:GEN Community Initiative 创办人 Ricky Wong"
+
 ---
 # 黄振聪：从社区教育到 RE:GEN 再生社区倡议
 
@@ -77,22 +82,27 @@ images:
 
 黄振聪 Ricky Wong 是社区倡议发起人、社会影响力实践者、CSR/ESG 社区项目策划者，也是 CSR Brand Angel Organisation 创办人、RE:GEN Community Initiative 发起人。
 
-### 事业架构
+<h3 id="事业架构">事业架构</h3>
+<p>他目前有一个组织，加上一个社区倡议：</p>
 
-他目前有一个组织，加上一个社区倡议：
-
-1. **CSR Brand Angel Organisation**
-   Founder。
-   十多年持续参与及推动社区教育、环境行动、大型植树、森林复育、青年参与、农业、CSR 与社会影响力项目。
-   <p align="center">
-  <img src="https://img.aisunzibingfa.com/founders/ricky-wong/ricky-wong-regen-community-csr-brand-angel-logo.jpg" alt="CSR Brand Angel Organisation Logo" width="200">  </p>
-
-2. **RE:GEN Community Initiative**
-   Initiator。
-   2026 年正式整合，以“从人开始 - 回到社区 - 重新连接自然”为路径，形成社区再生系统。
-  <p align="center">
-  <img src="https://img.aisunzibingfa.com/founders/ricky-wong/ricky-wong-regen-community-regen-community-initiative-logo.jpg" alt="RE:GEN Community Initiative Logo" width="200">
-</p>
+<ol>
+  <li>
+    <strong>CSR Brand Angel Organisation</strong><br>
+    Founder。<br>
+    十多年持续参与及推动社区教育、环境行动、大型植树、森林复育、青年参与、农业、CSR 与社会影响力项目。
+    <p align="center">
+      <img src="https://img.aisunzibingfa.com/founders/ricky-wong/ricky-wong-regen-community-csr-brand-angel-logo.jpg" alt="CSR Brand Angel Organisation Logo" width="200">
+    </p>
+  </li>
+  <li>
+    <strong>RE:GEN Community Initiative</strong><br>
+    Initiator。<br>
+    2026 年正式整合，以“从人开始 - 回到社区 - 重新连接自然”为路径，形成社区再生系统。
+    <p align="center">
+      <img src="https://img.aisunzibingfa.com/founders/ricky-wong/ricky-wong-regen-community-regen-community-initiative-logo.jpg" alt="RE:GEN Community Initiative Logo" width="200">
+    </p>
+  </li>
+</ol>
 
 ### 核心理念
 
@@ -484,7 +494,6 @@ CSR Brand Angel Organisation 是黄振聪创办的组织，十多年持续参与
 
 ---
 
-## 编辑用：补充事项（按 Ricky Wong 修改版本优先，以下为发布前需补齐内容）
 
 ### 主 CTA（联系 Ricky）
 
