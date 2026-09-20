@@ -34,6 +34,8 @@
     {{- end -}}
   </div>
 
+
+  
 {{- else -}}
   {{- /* ═══════════════════════════════════
        篇内：显示 6 维度分组 + 封面
@@ -122,4 +124,6 @@
 
 {{- end -}}
 
+
+  {{- if (.Param "ShowShareButtons") -}}{{ partial "share_icons.html" . }}{{- end -}}
 {{- end -}}

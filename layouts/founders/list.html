@@ -39,4 +39,6 @@
   </article>
 {{- end }}
 
+
+{{- if (.Param "ShowShareButtons") -}}{{ partial "share_icons.html" . }}{{- end -}}
 {{- end -}}
