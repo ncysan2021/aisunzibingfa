@@ -5,8 +5,4 @@ type: "quotes"
 keywords: ["孙子兵法", "经典语录", "十三篇", "兵法智慧", "竞技应用", "原文翻译"]
 cascade:
   type: "quotes"
-cover:
-  image: "placeholder/quotes.jpg"
-  alt: "经典语录"
-  caption: "AI孙子兵法·经典语录"
 ---

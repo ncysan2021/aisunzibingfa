@@ -1,21 +1,33 @@
-{{- /* PaperMod cover 覆盖版：支持 imageBaseURL（R2） */ -}}
-{{- with .Params.cover.image -}}
-  {{- $base := site.Params.imageBaseURL -}}
-  {{- $url := "" -}}
-  {{- if $base -}}
-    {{- /* 如果 image 已是完整 URL，直接用 */ -}}
-    {{- if or (hasPrefix . "http://") (hasPrefix . "https://") -}}
-      {{- $url = . -}}
-    {{- else -}}
-      {{- $url = printf "%s/%s" $base . -}}
-    {{- end -}}
+{{- /* PaperMod cover 覆盖版：优先解析 leaf bundle 同目录图片，绝对路径 */ -}}
+{{- $img := "" -}}
+{{- $alt := "" -}}
+{{- $caption := "" -}}
+{{- with .Params.cover -}}
+  {{- if reflect.IsMap . -}}
+    {{- with .image -}}{{- $img = . -}}{{- end -}}
+    {{- with .alt -}}{{- $alt = . -}}{{- end -}}
+    {{- with .caption -}}{{- $caption = . -}}{{- end -}}
   {{- else -}}
-    {{- $url = . | absURL -}}
+    {{- $img = . -}}
   {{- end -}}
-  {{- $alt := $.Params.cover.alt | default $.Title -}}
-  {{- $caption := $.Params.cover.caption | default "" -}}
+{{- end -}}
+{{- if not $img -}}{{- with .Params.image -}}{{- $img = . -}}{{- end -}}{{- end -}}
+{{- if not $img -}}{{- with .Params.images -}}{{- $img = index . 0 -}}{{- end -}}{{- end -}}
+
+{{- if $img -}}
+  {{- if not (or (hasPrefix $img "http://") (hasPrefix $img "https://")) -}}
+    {{- $img = strings.TrimPrefix "./" $img -}}
+    {{- $img = strings.TrimPrefix "/" $img -}}
+    {{- $res := $.Resources.Get $img -}}
+    {{- if $res -}}
+      {{- $img = $res.Permalink -}}
+    {{- else -}}
+      {{- $img = $img | absURL -}}
+    {{- end -}}
+  {{- end -}}
+  {{- if not $alt -}}{{- $alt = $.Title -}}{{- end -}}
   <figure class="entry-cover">
-    <img loading="lazy" src="{{ $url }}" alt="{{ $alt }}" />
+    <img loading="lazy" src="{{ $img }}" alt="{{ $alt }}" />
     {{- with $caption -}}
       <figcaption>{{ . }}</figcaption>
     {{- end -}}

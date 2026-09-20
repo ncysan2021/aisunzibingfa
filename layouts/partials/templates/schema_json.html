@@ -44,22 +44,27 @@
   {{- $collectionURL = printf "%s/quotes/%s/" $base $chapterSlug -}}
   {{- $collectionID = printf "%s#collectionpage" $collectionURL -}}
 {{- end -}}
+
 {{- $coverImage := "" -}}
-{{- with .Params.cover.image -}}
-  {{- if hasPrefix . "http" -}}
-    {{- $coverImage = . -}}
+{{- with .Params.cover -}}
+  {{- if reflect.IsMap . -}}
+    {{- with .image -}}{{- $coverImage = . -}}{{- end -}}
   {{- else -}}
-    {{- $coverImage = printf "%s/%s" site.Params.imageBaseURL . -}}
-  {{- end -}}
-{{- end -}}
-{{- if not $coverImage -}}
-  {{- with .Params.image -}}
     {{- $coverImage = . -}}
   {{- end -}}
 {{- end -}}
-{{- if not $coverImage -}}
-  {{- with .Params.images -}}
-    {{- $coverImage = index . 0 -}}
+{{- if not $coverImage -}}{{- with .Params.image -}}{{- $coverImage = . -}}{{- end -}}{{- end -}}
+{{- if not $coverImage -}}{{- with .Params.images -}}{{- $coverImage = index . 0 -}}{{- end -}}{{- end -}}
+{{- if $coverImage -}}
+  {{- if not (or (hasPrefix $coverImage "http://") (hasPrefix $coverImage "https://")) -}}
+    {{- $coverImage = strings.TrimPrefix "./" $coverImage -}}
+    {{- $coverImage = strings.TrimPrefix "/" $coverImage -}}
+    {{- $res := $.Resources.Get $coverImage -}}
+    {{- if $res -}}
+      {{- $coverImage = $res.Permalink -}}
+    {{- else -}}
+      {{- $coverImage = $coverImage | absURL -}}
+    {{- end -}}
   {{- end -}}
 {{- end -}}
 

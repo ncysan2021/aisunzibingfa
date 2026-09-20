@@ -1,0 +1,36 @@
+{{- /* Twitter Cards 覆盖版：与 OpenGraph 共用图片逻辑 */ -}}
+{{- $twImage := "" -}}
+{{- with .Params.cover -}}
+  {{- if reflect.IsMap . -}}
+    {{- with .image -}}{{- $twImage = . -}}{{- end -}}
+  {{- else -}}
+    {{- $twImage = . -}}
+  {{- end -}}
+{{- end -}}
+{{- if not $twImage -}}{{- with .Params.image -}}{{- $twImage = . -}}{{- end -}}{{- end -}}
+{{- if not $twImage -}}{{- with .Params.images -}}{{- $twImage = index . 0 -}}{{- end -}}{{- end -}}
+
+{{- if $twImage -}}
+  {{- if not (or (hasPrefix $twImage "http://") (hasPrefix $twImage "https://")) -}}
+    {{- $twImage = strings.TrimPrefix "./" $twImage -}}
+    {{- $twImage = strings.TrimPrefix "/" $twImage -}}
+    {{- $res := $.Resources.Get $twImage -}}
+    {{- if $res -}}
+      {{- $twImage = $res.Permalink -}}
+    {{- else -}}
+      {{- $twImage = $twImage | absURL -}}
+    {{- end -}}
+  {{- end -}}
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:image" content="{{ $twImage }}">
+  <meta name="twitter:image:alt" content="{{ .Title }}">
+{{- else -}}
+  <meta name="twitter:card" content="summary">
+{{- end -}}
+
+{{- with or .Title site.Title site.Params.title | plainify -}}
+<meta name="twitter:title" content="{{ . }}">
+{{- end -}}
+{{- with or .Description .Summary site.Params.description | plainify | htmlUnescape -}}
+<meta name="twitter:description" content="{{ trim . "\n\r\t " }}">
+{{- end -}}

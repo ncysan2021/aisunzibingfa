@@ -1,50 +1,45 @@
-{{- /* OpenGraph 覆盖版：支持 imageBaseURL（R2） */ -}}
+{{- /* OpenGraph 覆盖版：干净、无重复、绝对路径 */ -}}
+{{- $ogTitle := .Title -}}
+{{- if .IsHome -}}{{- $ogTitle = site.Title -}}{{- end -}}
+{{- $ogDesc := .Description | default .Summary | plainify | htmlUnescape | strings.TrimSpace | truncate 200 -}}
+
 <meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
-<meta property="og:title" content="{{ .Title }}">
-<meta property="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Summary }}{{ end }}">
+<meta property="og:title" content="{{ $ogTitle }}">
+<meta property="og:description" content="{{ $ogDesc }}">
 <meta property="og:url" content="{{ .Permalink }}">
 <meta property="og:site_name" content="{{ site.Title }}">
 <meta property="og:locale" content="zh_Hans">
 
-{{- with .Params.cover.image -}}
-  {{- $base := site.Params.imageBaseURL -}}
-  {{- $url := "" -}}
-  {{- if $base -}}
-    {{- if or (hasPrefix . "http://") (hasPrefix . "https://") -}}
-      {{- $url = . -}}
-    {{- else -}}
-      {{- $url = printf "%s/%s" $base . -}}
-    {{- end -}}
+{{- $ogImage := "" -}}
+{{- with .Params.cover -}}
+  {{- if reflect.IsMap . -}}
+    {{- with .image -}}{{- $ogImage = . -}}{{- end -}}
   {{- else -}}
-    {{- $url = . | absURL -}}
+    {{- $ogImage = . -}}
   {{- end -}}
-  <meta property="og:image" content="{{ $url }}">
-  <meta property="og:image:width" content="1200">
-  <meta property="og:image:height" content="630">
+{{- end -}}
+{{- if not $ogImage -}}{{- with .Params.image -}}{{- $ogImage = . -}}{{- end -}}{{- end -}}
+{{- if not $ogImage -}}{{- with .Params.images -}}{{- $ogImage = index . 0 -}}{{- end -}}{{- end -}}
+
+{{- if $ogImage -}}
+  {{- if not (or (hasPrefix $ogImage "http://") (hasPrefix $ogImage "https://")) -}}
+    {{- $ogImage = strings.TrimPrefix "./" $ogImage -}}
+    {{- $ogImage = strings.TrimPrefix "/" $ogImage -}}
+    {{- $res := $.Resources.Get $ogImage -}}
+    {{- if $res -}}
+      {{- $ogImage = $res.Permalink -}}
+    {{- else -}}
+      {{- $ogImage = $ogImage | absURL -}}
+    {{- end -}}
+  {{- end -}}
+  <meta property="og:image" content="{{ $ogImage }}">
+  <meta property="og:image:alt" content="{{ .Title }}">
 {{- end -}}
 
 {{- if .IsPage -}}
-  <meta property="article:published_time" content="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
-  <meta property="article:modified_time" content="{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}">
-  {{- range .Params.tags -}}
-    <meta property="article:tag" content="{{ . }}">
-  {{- end -}}
+<meta property="article:published_time" content="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
+<meta property="article:modified_time" content="{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}">
+{{- range .Params.tags -}}
+<meta property="article:tag" content="{{ . }}">
 {{- end -}}
-
-{{- with .Params.cover.image -}}
-  {{- $base := site.Params.imageBaseURL -}}
-  {{- $url := "" -}}
-  {{- if $base -}}
-    {{- if or (hasPrefix . "http://") (hasPrefix . "https://") -}}
-      {{- $url = . -}}
-    {{- else -}}
-      {{- $url = printf "%s/%s" $base . -}}
-    {{- end -}}
-  {{- else -}}
-    {{- $url = . | absURL -}}
-  {{- end -}}
-  <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:image" content="{{ $url }}">
 {{- end -}}
-<meta name="twitter:title" content="{{ .Title }}">
-<meta name="twitter:description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Summary }}{{ end }}">
