@@ -16,7 +16,7 @@
     {{- $twImage = strings.TrimPrefix "/" $twImage -}}
     {{- $res := $.Resources.Get $twImage -}}
     {{- if $res -}}
-      {{- $twImage = $res.Permalink -}}
+      {{- $v := $.Lastmod.Unix -}}{{- if not $v -}}{{- $v = $.Date.Unix -}}{{- end -}}{{- $twImage = printf "%s?v=%d" $res.Permalink $v -}}
     {{- else -}}
       {{- $twImage = $twImage | absURL -}}
     {{- end -}}
