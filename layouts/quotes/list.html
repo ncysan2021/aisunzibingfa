@@ -16,16 +16,7 @@
   </header>
 
   {{- /* 封面图 */ -}}
-  {{- with .Params.cover.image -}}
-    <figure class="entry-cover">
-      <img loading="eager"
-           src="{{ if or (hasPrefix . "http://") (hasPrefix . "https://") }}{{ . }}{{ else }}{{ printf "%s/%s" site.Params.imageBaseURL . }}{{ end }}"
-           alt="{{ $.Params.cover.alt | default $.Title }}" />
-      {{- with $.Params.cover.caption }}
-        <figcaption>{{ . }}</figcaption>
-      {{- end }}
-    </figure>
-  {{- end -}}
+  {{- partial "cover.html" . -}}
 
   <div class="chapter-list">
     {{- range .Pages.ByParam "weight" -}}
@@ -66,16 +57,7 @@
   </header>
 
   {{- /* 封面图 */ -}}
-  {{- with .Params.cover.image -}}
-    <figure class="entry-cover">
-      <img loading="eager"
-           src="{{ if or (hasPrefix . "http://") (hasPrefix . "https://") }}{{ . }}{{ else }}{{ printf "%s/%s" site.Params.imageBaseURL . }}{{ end }}"
-           alt="{{ $.Params.cover.alt | default $.Title }}" />
-      {{- with $.Params.cover.caption }}
-        <figcaption>{{ . }}</figcaption>
-      {{- end }}
-    </figure>
-  {{- end -}}
+  {{- partial "cover.html" . -}}
 
   {{- $pages := .Pages.ByParam "order" -}}
 

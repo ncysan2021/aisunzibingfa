@@ -18,18 +18,7 @@
   </header>
 
   {{- /* ═══ 封面图 ═══ */ -}}
-  {{- with .Params.cover.image }}
-        {{- $url := . }}
-    {{- if not (or (hasPrefix . "http://") (hasPrefix . "https://")) }}
-      {{- $url = printf "%s/%s" site.Params.imageBaseURL . }}
-    {{- end }}
-    <figure class="entry-cover quote-cover">
-      <img loading="eager" src="{{ $url }}" alt="{{ $.Params.cover.alt | default $.Title }}" />
-      {{- with $.Params.cover.caption }}
-        <figcaption>{{ . }}</figcaption>
-      {{- end }}
-    </figure>
-  {{- end }}
+  {{- partial "cover.html" . -}}
 
   {{- /* ═══ 核心速览盒（V8.5） ═══ */ -}}
   {{- with .Params.tldr }}
