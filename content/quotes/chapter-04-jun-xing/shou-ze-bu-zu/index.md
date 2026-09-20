@@ -84,7 +84,7 @@ faq:
   - q: "赛艇比赛中如何体现资源约束下的攻防选择？"
     a: "结论：桨频与划距就是资源账本。前半程盲目拉高桨频等于提前透支，后程必然被反超，应先稳住节奏再择机冲刺。"
 cover:
-  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-04.jpg"
+  image: "cover-chapter-04.jpg"
   alt: "短道速滑选手在弯道处判断攻防时机"
   title: "守则不足，攻则有余：竞技攻防抉择"
   caption: "资源约束下，守与攻不是勇气问题，而是存量问题。"

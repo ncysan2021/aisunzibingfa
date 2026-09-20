@@ -84,7 +84,7 @@ faq:
   - q: "冰壶复盘如何同时做到知彼与知己？"
     a: "结论：记录双方每壶的投掷路线与成功率，分别更新对手投壶偏好与自身力量控制评估，两套数据同步修正。"
 cover:
-  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-03.jpg"
+  image: "cover-chapter-03.jpg"
   alt: "短道速滑运动员在赛后观看比赛录像进行复盘分析"
   title: "知彼知己：赛后复盘同时校准对手与自我认知"
   caption: "赛后复盘不是只找自己的问题，而是同时更新对手模型与自我模型，降低下一场决策偏差。"

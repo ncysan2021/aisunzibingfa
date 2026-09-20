@@ -83,7 +83,7 @@ faq:
   - q: "短道速滑选手在弯道被封锁时，强行超越是否明智？"
     a: "结论：强行超越通常只在最后阶段使用，因为体能消耗与犯规风险极高，属于不得已时的强攻手段。"
 cover:
-  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-03.jpg"
+  image: "cover-chapter-03.jpg"
   alt: "体育竞技中强攻时机的战略决策示意图"
   title: "攻城之法为不得已：体育竞技中的强攻时机"
   caption: "强攻是最后手段，战略耐心与果断出击的平衡决定比赛走向。"

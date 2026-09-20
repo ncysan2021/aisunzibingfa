@@ -84,7 +84,7 @@ faq:
   - q: "冰壶等冷门项目的资源约束有何特殊之处？"
     a: "结论：场地与器材费用高、训练时段受限，业余队伍需更早评估承载力并选择匹配的赛事级别。"
 cover:
-  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-13.jpg"
+  image: "cover-chapter-13.jpg"
   alt: "马拉松跑者在城市道路上训练，背景是训练装备与计时器"
   title: "竞技体育的资源约束：训练投入与生活承载力的平衡"
   caption: "训练投入超出生活承载力时，竞技表现与生活秩序会同时受损。"

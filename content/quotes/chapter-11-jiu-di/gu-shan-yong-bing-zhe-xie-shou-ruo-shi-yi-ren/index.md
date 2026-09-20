@@ -82,7 +82,7 @@ faq:
   - q: "短道速滑接力和冰壶为什么适合说明这一战术执行原则？"
     a: "结论：两个项目都在极短时间内要求多人动作同步，压力越大，统一执行的价值越明显。"
 cover:
-  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-11.jpg"
+  image: "cover-chapter-11.jpg"
   alt: "短道速滑接力队员在弯道交接时高度同步"
   title: "携手若使一人：短道速滑接力的同步执行"
   caption: "压力情境下，短道速滑接力交接要求两名队员像一个人完成速度与路线的同步。"

@@ -6,7 +6,7 @@ type: "page"
 date: 2026-09-15
 lastmod: 2026-09-15
 cover:
-  image: "https://img.aisunzibingfa.com/pages/blueprint.jpg"
+  image: "blueprint.jpg"
   alt: "企业蓝图"
   caption: "AI孙子兵法企业蓝图"
 draft: false

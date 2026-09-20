@@ -82,7 +82,7 @@ faq:
   - q: "「浅则散」在奥运比赛中有哪些典型表现？"
     a: "结论：预赛或开局阶段选手容易因选项多、退路多而分心。例如射击资格赛前几枪、短道速滑预赛前半程，都是浅层涣散的高发时段。"
 cover:
-  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-11.jpg"
+  image: "cover-chapter-11.jpg"
   alt: "短道速滑选手在比赛中专注滑行"
   title: "深则专浅则散：竞技专注力管理"
   caption: "比赛纵深越深，选手专注度越高，浅层试探阶段反而容易涣散。"

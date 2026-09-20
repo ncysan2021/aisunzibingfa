@@ -90,7 +90,7 @@ faq:
   - q: "五事评分法能否用于冰壶这类策略型项目？"
     a: "结论：冰壶高度依赖团队共识与场地阅读，道与地的权重应提高，同时将的临场决策与法的战术执行也需纳入评分。"
 cover:
-  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-01.jpg"
+  image: "cover-chapter-01.jpg"
   alt: "奥运短道速滑选手在赛前进行战术部署与评分分析"
   title: "孙子兵法五事评分法在奥运赛前准备中的应用"
   caption: "以「道天地将法」五维统摄赛前准备，把直觉判断转化为可比较的评分体系。"

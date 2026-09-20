@@ -88,7 +88,7 @@ faq:
   - q: "情报收集只需赛前一次完成吗？"
     a: "结论：不是，情报收集是贯穿整个备战周期的持续过程，每场比赛后都需更新对手档案与自身评估。"
 cover:
-  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-13.jpg"
+  image: "cover-chapter-13.jpg"
   alt: "古代兵法竹简与现代体育赛场情报分析对比图"
   title: "先知而后动：赛前情报决定竞技胜负"
   caption: "《孙子兵法》「先知」思想在体育竞技中的战略应用"

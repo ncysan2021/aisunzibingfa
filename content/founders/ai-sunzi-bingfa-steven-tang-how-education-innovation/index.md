@@ -17,7 +17,7 @@ keywords: ["AI孙子兵法", "蛇年新春首晤", "教育革新", "吴雄山", 
 faq: []
 
 cover:
-  image: "https://img.aisunzibingfa.com/founders/ai-sunzi-bingfa-steven-tang-how-education-innovation.jpg"
+  image: "ai-sunzi-bingfa-steven-tang-how-education-innovation.jpg"
   alt: "吴雄山与唐锡豪于吉隆坡畅谈AI孙子兵法与教育革新合影"
   caption: "AI孙子兵法创始人吴雄山与马来西亚孙子兵法策略哲理学会财政唐锡豪蛇年新春首晤"
 

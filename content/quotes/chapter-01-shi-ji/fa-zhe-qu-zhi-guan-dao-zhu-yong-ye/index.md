@@ -86,7 +86,7 @@ faq:
   - q: "如何判断队内「法」的制度设计是否有效？"
     a: "结论：看比赛与训练中是否出现因职责不清或物资短缺导致的失误。若频繁出现换人混乱、器材故障、补给断档，说明制度约束未落实，须立即复盘调整。"
 cover:
-  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-01.jpg"
+  image: "cover-chapter-01.jpg"
   alt: "短道速滑运动员在弯道处列队滑行，体现团队组织与资源约束"
   title: "孙子兵法资源约束与体育竞技制度设计"
   caption: "短道速滑的队形与战术执行依赖严密的组织编制与职责分工"

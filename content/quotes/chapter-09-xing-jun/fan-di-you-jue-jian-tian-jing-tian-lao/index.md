@@ -84,7 +84,7 @@ faq:
   - q: "「必亟去之，勿近也」对赛前准备有什么具体执行要求？"
     a: "结论：赛前必须完成危险地形清单与绕行方案。逐一标记高危点，设定减速点与放弃阈值，确保比赛中不临场犹豫。"
 cover:
-  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-09.jpg"
+  image: "cover-chapter-09.jpg"
   alt: "山地自行车选手在狭窄岩壁夹缝前减速绕行"
   title: "绝涧天隙不可近：赛道物理极限规避"
   caption: "面对不可逆的危险地形，提前减速绕行是执行维度的第一原则。"

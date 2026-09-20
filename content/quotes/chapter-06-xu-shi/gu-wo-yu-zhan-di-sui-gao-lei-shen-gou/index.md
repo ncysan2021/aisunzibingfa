@@ -82,7 +82,7 @@ faq:
   - q: "「画地而守之」在体育防守中意味着什么？"
     a: "结论：收缩防守区域，封锁关键路线，使对手无法形成有效进攻。"
 cover:
-  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-06.jpg"
+  image: "cover-chapter-06.jpg"
   alt: "足球运动员在边路传中，防守球员被迫离开原位补位"
   title: "攻其必救：足球边路传中战术示意"
   caption: "攻击中卫与边卫之间的空当，迫使防守者离开原位补位。"

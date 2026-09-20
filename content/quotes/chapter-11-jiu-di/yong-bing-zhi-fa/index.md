@@ -83,7 +83,7 @@ faq:
   - q: "冰壶比赛中哪些局面属于「重地」？"
     a: "结论：客场作战且大比分落后时，每一局都退无可退，需集中资源打确定性高的战术组合。"
 cover:
-  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-11.jpg"
+  image: "cover-chapter-11.jpg"
   alt: "短道速滑选手在弯道处进行战术位置争夺"
   title: "九地篇与竞技情境分类"
   caption: "短道速滑中的位置争夺，是「争地」与「重地」的典型竞技映射。"

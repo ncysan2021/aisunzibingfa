@@ -88,7 +88,7 @@ faq:
   - q: "六败中哪一种在团队项目中最常见？"
     a: "结论：崩与乱最常见。团队项目中，指挥与执行脱节、连续失分后阵型混乱，往往比个人能力不足更直接导致失利。"
 cover:
-  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-10.jpg"
+  image: "cover-chapter-10.jpg"
   alt: "《孙子兵法》六败复盘框架与竞技体育赛后归因分析示意图"
   title: "兵有六败：竞技复盘中的归因逻辑"
   caption: "六败不是宿命，而是复盘时用来定位问题的分类框架。"

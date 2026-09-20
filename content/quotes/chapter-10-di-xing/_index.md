@@ -7,7 +7,7 @@ chapter: "地形篇"
 chapter_slug: "chapter-10-di-xing"
 chapter_order: 10
 cover:
-  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-10.jpg"
+  image: "cover-chapter-10.jpg"
   alt: "地形篇"
   caption: "地形篇"
 draft: false

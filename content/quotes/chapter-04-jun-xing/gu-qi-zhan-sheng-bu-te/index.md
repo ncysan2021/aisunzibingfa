@@ -82,7 +82,7 @@ faq:
   - q: "如果赛前计算出现偏差，赛中还能补救吗？"
     a: "结论：可以微调，但确定性会下降。补救手段限于切换节奏或改变攻击窗口，不能弥补体能储备不足的根本问题。"
 cover:
-  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-04.jpg"
+  image: "cover-chapter-04.jpg"
   alt: "短道速滑选手在弯道处压步滑行，体现物理极限下的战术执行"
   title: "故其战胜不忒：物理极限与竞技确定性"
   caption: "胜利的确定性来自赛前对物理极限的精确计算，而非赛中的偶然爆发。"

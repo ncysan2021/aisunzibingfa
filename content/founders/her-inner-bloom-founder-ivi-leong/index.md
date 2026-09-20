@@ -9,11 +9,8 @@ slug: "her-inner-bloom-founder-ivi-leong"
 tags: ["Ivi Leong", "梁雁姚", "Her Inner Bloom", "创业故事", "Life Health Wealth", "Rockwills", "Hypnotherapy", "NLP Coaching", "AI孙子兵法", "朋友创业圈"]
 categories: ["朋友创业圈"]
 keywords: ["Ivi Leong", "梁雁姚", "Her Inner Bloom", "创业故事", "Life Health Wealth", "IM Consultancy Services", "IM Integrative Health & Wealth Solutions", "Rockwills", "Hypnotherapy", "NLP Coaching", "AI孙子兵法", "朋友创业圈"]
-image: "https://img.aisunzibingfa.com/founders/her-inner-bloom-founder-ivi-leong.jpg"
-images:
-  - "https://img.aisunzibingfa.com/founders/her-inner-bloom-founder-ivi-leong.jpg"
 cover:
-  image: "https://img.aisunzibingfa.com/founders/her-inner-bloom-founder-ivi-leong.jpg"
+  image: "her-inner-bloom-founder-ivi-leong.jpg"
   alt: "Her Inner Bloom 创办人 Ivi Leong"
   caption: "Ivi Leong（梁雁姚）"
 ---

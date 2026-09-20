@@ -84,7 +84,7 @@ faq:
   - q: "冰壶双飞击打为何是利危同源的典型？"
     a: "结论：双飞成功可一壶清两壶，但力度与角度容错极低，失误后己方壶被清出，反而把主动权与得分区同时让给对手。"
 cover:
-  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-07.jpg"
+  image: "cover-chapter-07.jpg"
   alt: "足球运动员高位逼抢与短道速滑选手内道超越的竞技执行场景"
   title: "军争为利，军争为危：执行维度的资源约束"
   caption: "主动争夺既创造机会也暴露风险，执行前须算清资源边界。"

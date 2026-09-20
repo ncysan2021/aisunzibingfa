@@ -82,7 +82,7 @@ faq:
   - q: "战术欺骗的前提条件是什么？"
     a: "结论：基础动作必须稳定、落点必须精准，否则变化本身就会成为失误来源，欺骗效果无法兑现。"
 cover:
-  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-06.jpg"
+  image: "cover-chapter-06.jpg"
   alt: "羽毛球单打选手重复压后场后突然吊网前的战术示意图"
   title: "出其所不趋，趋其所不意——羽毛球单打战术欺骗"
   caption: "重复压后场使对手重心后移，突然吊网前攻击其不趋之处。"

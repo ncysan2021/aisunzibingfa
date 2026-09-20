@@ -84,7 +84,7 @@ faq:
   - q: "执行维度上，教练应如何平衡关爱与纪律？"
     a: "结论：把情感支持放在独立沟通通道，把战术执行放在统一标准通道，两条线分开管理，互不干扰。"
 cover:
-  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-10.jpg"
+  image: "cover-chapter-10.jpg"
   alt: "教练在训练场上向运动员强调战术执行标准"
   title: "厚而不能使，爱而不能令——竞技执行维度解析"
   caption: "关爱不能替代纪律，训练强度是比赛执行力的根基。"

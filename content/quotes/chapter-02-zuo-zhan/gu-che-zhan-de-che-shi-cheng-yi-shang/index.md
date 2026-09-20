@@ -84,7 +84,7 @@ faq:
   - q: "如何在训练中落实「胜敌而益强」的资源转化机制？"
     a: "结论：通过模拟对手失误场景、设立即时奖励、统计转化效率并复盘，形成可重复的训练与比赛执行机制。"
 cover:
-  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-02.jpg"
+  image: "cover-chapter-02.jpg"
   alt: "篮球比赛中球员制造对手进攻犯规后获得球权"
   title: "资源约束下的竞技资源转化"
   caption: "从《孙子兵法·作战篇》看体育竞技中的资源转化与即时奖励"

@@ -87,7 +87,7 @@ faq:
   - q: "权变是否意味着放弃赛前计划？"
     a: "结论：不是，权变以守「正」为基础，先有扎实基本功与固定战术，再在有利态势出现时出「奇」调整。"
 cover:
-  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-01.jpg"
+  image: "cover-chapter-01.jpg"
   alt: "短道速滑选手在弯道依据有利位置调整滑行路线的临场权变瞬间"
   title: "势者，因利而制权也：短道速滑的临场战术调整"
   caption: "短道速滑弯道中，选手依据对手位置与自身节奏即时选择内道超越或外道蓄力，体现「因利而制权」。"

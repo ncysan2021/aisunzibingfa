@@ -82,7 +82,7 @@ faq:
   - q: "如何训练运动员的实时战术应变能力？"
     a: "结论：通过小场地对抗、限制触球次数、随机变换对手阵型等训练，迫使运动员在压力下观察、判断并快速执行调整。"
 cover:
-  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-06.jpg"
+  image: "cover-chapter-06.jpg"
   alt: "足球与冰壶运动员根据对手阵型调整战术的示意图"
   title: "水因地而制流，兵因敌而制胜——竞技战术应变"
   caption: "战术如水流，随对手之形而变化。"

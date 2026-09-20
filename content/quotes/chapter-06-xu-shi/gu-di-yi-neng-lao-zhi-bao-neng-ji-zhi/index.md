@@ -84,7 +84,7 @@ faq:
   - q: "运用这条战术原则时最大的风险是什么？"
     a: "结论：最大风险是自身阵型因过度压上或传球失误而暴露空当，被对手反击得手，因此每次调动前必须确保本队补位到位。"
 cover:
-  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-06.jpg"
+  image: "cover-chapter-06.jpg"
   alt: "足球运动员在比赛中通过横向转移球调动对手防线"
   title: "故敌佚能劳之：竞技体育中的战术消耗"
   caption: "横向转移球迫使防守阵型反复移动，是「敌佚能劳之」在现代足球中的典型应用。"

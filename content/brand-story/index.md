@@ -6,7 +6,7 @@ type: "page"
 date: 2026-09-15
 lastmod: 2026-09-15
 cover:
-  image: "https://img.aisunzibingfa.com/pages/brand-story.jpg"
+  image: "brand-story.jpg"
   alt: "AI孙子兵法品牌故事"
   caption: "AI孙子兵法品牌故事"
 draft: false

@@ -7,7 +7,7 @@ chapter: "火攻篇"
 chapter_slug: "chapter-12-huo-gong"
 chapter_order: 12
 cover:
-  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-12.jpg"
+  image: "cover-chapter-12.jpg"
   alt: "火攻篇"
   caption: "火攻篇"
 draft: false

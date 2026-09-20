@@ -82,7 +82,7 @@ faq:
   - q: "如何判断一次硬拼是合理冒险还是战术失误？"
     a: "结论：看是否偏离赛前设定的红线与收益预期。若硬拼后体能透支、犯规累积且分差扩大，即为战术失误；若制造了对手失误或罚球，则为合理冒险。"
 cover:
-  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-03.jpg"
+  image: "cover-chapter-03.jpg"
   alt: "短道速滑选手在弯道处与对手保持距离，避免正面硬拼"
   title: "小敌之坚，大敌之擒也——弱队战术选择"
   caption: "弱队若固执硬拼，往往加速溃败；避实击虚才是战术出路。"

@@ -86,7 +86,7 @@ faq:
   - q: "如果蓄势不足就强行出手，会带来什么风险？"
     a: "结论：动作变形、失误率上升，还会暴露意图让对手提前预判并反击。"
 cover:
-  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-05.jpg"
+  image: "cover-chapter-05.jpg"
   alt: "网球选手在对手回球出浅时缩短引拍准备截击，体现蓄势与触发节奏"
   title: "势如彍弩，节如发机：网球截击的蓄势与触发"
   caption: "蓄势如拉满弩弓，触发如扣动弩机，网球截击的胜负常在零点几秒内决定。"

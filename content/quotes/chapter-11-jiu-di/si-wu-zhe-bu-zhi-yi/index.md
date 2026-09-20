@@ -86,7 +86,7 @@ faq:
   - q: "如何在赛前有限时间内高效完成情报补缺？"
     a: "结论：按影响权重排序，只补最关键的1至2项盲区，其余通过备选方案覆盖。试图补齐所有信息反而会分散备战精力。"
 cover:
-  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-11.jpg"
+  image: "cover-chapter-11.jpg"
   alt: "短道速滑选手在弯道处观察对手位置，体现赛前情报与战术执行的关系"
   title: "赛前情报完整度决定竞技战术执行成败"
   caption: "《孙子兵法·九地篇》「四五者，不知一，非霸王之兵也」——赛前情报缺一项，战术执行就多一个缺口。"

@@ -7,7 +7,7 @@ chapter: "谋攻篇"
 chapter_slug: "chapter-03-mou-gong"
 chapter_order: 3
 cover:
-  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-03.jpg"
+  image: "cover-chapter-03.jpg"
   alt: "谋攻篇"
   caption: "谋攻篇"
 draft: false

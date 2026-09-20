@@ -82,7 +82,7 @@ faq:
   - q: "训练中如何培养「节短」能力？"
     a: "结论：用计时器限制每次关键动作的完成时间，如五秒内完成射门或超越，反复练习形成肌肉记忆。"
 cover:
-  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-05.jpg"
+  image: "cover-chapter-05.jpg"
   alt: "短道速滑选手在弯道加速超越，体现「其势险，其节短」的战术节奏"
   title: "其势险，其节短——短道速滑弯道超越瞬间"
   caption: "短道速滑弯道超越是「势险节短」的典型战术场景：先施压，再在极短窗口内完成关键动作。"

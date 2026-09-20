@@ -84,7 +84,7 @@ faq:
   - q: "短道速滑中，分合节奏变化的关键执行点是什么？"
     a: "结论：弯道进出时机与内外道切换。在对手重心转换瞬间完成分合切换，可制造判断延迟与超越机会。"
 cover:
-  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-07.jpg"
+  image: "cover-chapter-07.jpg"
   alt: "短道速滑选手在弯道中隐藏意图与对手周旋"
   title: "兵以诈立，以利动，以分合为变：执行维度下的竞技战术欺骗"
   caption: "执行维度的核心：用欺骗隐藏意图，按利益决定行动，靠分合节奏掌控比赛。"

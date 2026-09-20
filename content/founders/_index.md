@@ -5,7 +5,7 @@ type: "founders"
 cascade:
   type: "founders"
 cover:
-  image: "https://img.aisunzibingfa.com/placeholder/founders.jpg"
+  image: "founders.jpg"
   alt: "朋友创业圈"
   caption: "朋友创业圈"
 ---

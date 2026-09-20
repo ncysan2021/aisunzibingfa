@@ -90,7 +90,7 @@ faq:
   - q: "如何判断实力档位在比赛中发生了变化？"
     a: "结论：观察对手节奏、站位、体能信号与失误频率，若对手明显下滑可升档进攻，若自身出现体能或犯规危机则降档周旋。"
 cover:
-  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-03.jpg"
+  image: "cover-chapter-03.jpg"
   alt: "短道速滑运动员在弯道处调整战术强度"
   title: "十则围之，五则攻之：竞技战术强度调控"
   caption: "依据实力倍数差选择压制、强攻、分化、周旋或避战，是战术维度的核心决策。"

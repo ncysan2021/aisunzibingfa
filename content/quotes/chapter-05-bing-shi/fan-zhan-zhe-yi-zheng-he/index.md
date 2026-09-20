@@ -87,7 +87,7 @@ faq:
   - q: "普通运动员如何训练正奇转换能力？"
     a: "结论：在训练中设置「常规回合」与「变化回合」的交替练习，并请教练或队友扮演对手进行预判对抗。正奇转换是练出来的节奏感，不是临场想出来的灵感。"
 cover:
-  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-05.jpg"
+  image: "cover-chapter-05.jpg"
   alt: "短道速滑选手在弯道处从外道超越对手的瞬间"
   title: "以正合，以奇胜——竞技战术中的正奇之变"
   caption: "常规跟滑稳住阵脚，外道突袭打破预判，正是「以正合，以奇胜」的冰上演绎。"

@@ -6,7 +6,7 @@ type: "page"
 date: 2026-09-15
 lastmod: 2026-09-15
 cover:
-  image: "https://img.aisunzibingfa.com/pages/contact.jpg"
+  image: "contact.jpg"
   alt: "联系我们"
   caption: "联系我们"
 draft: false

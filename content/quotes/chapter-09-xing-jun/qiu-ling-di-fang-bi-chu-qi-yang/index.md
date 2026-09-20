@@ -82,7 +82,7 @@ faq:
   - q: "执行边线防守时最容易犯的错误是什么？"
     a: "结论：只盯球不卡位，让对手从底线溜走，或者过度压上被一步过掉，身后没有协防依托。"
 cover:
-  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-09.jpg"
+  image: "cover-chapter-09.jpg"
   alt: "篮球防守球员将持球者逼向边线死角"
   title: "丘陵堤防必处其阳：篮球边线防守执行示意"
   caption: "边线是免费的防守者，底线是天然的包夹点。"

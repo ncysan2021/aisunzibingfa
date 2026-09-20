@@ -85,7 +85,7 @@ faq:
   - q: "执行路线变化时最容易犯的错误是什么？"
     a: "结论：为了变而变，导致自身节奏被打乱。正确做法是先锚定呼吸与步频，再叠加小幅度路线调整，确保变化在可控范围内。"
 cover:
-  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-11.jpg"
+  image: "cover-chapter-11.jpg"
   alt: "短道速滑选手在弯道中变换路线，体现执行维度中的路线欺骗"
   title: "易其居，迂其途——执行维度的竞技路线欺骗"
   caption: "短道速滑弯道变线是「易其居，迂其途」在现代竞技中的典型执行场景。"

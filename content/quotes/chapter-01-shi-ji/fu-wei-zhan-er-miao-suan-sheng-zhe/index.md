@@ -87,7 +87,7 @@ faq:
   - q: "庙算清单多久更新一次？"
     a: "结论：每场比赛后都应更新。对手状态、场地条件、自身技术都在变化，庙算清单必须随比赛进程动态修正。"
 cover:
-  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-01.jpg"
+  image: "cover-chapter-01.jpg"
   alt: "运动员在赛前研究战术板与对手资料，象征庙算与赛前准备"
   title: "夫未战而庙算胜者，得算多也——赛前庙算与竞技战略"
   caption: "赛前的每一次推演，都是把胜负条件提前算清的过程。"

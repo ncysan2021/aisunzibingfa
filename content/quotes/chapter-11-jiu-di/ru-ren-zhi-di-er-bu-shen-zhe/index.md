@@ -84,7 +84,7 @@ faq:
   - q: "轻地战术与「置之死地而后生」是否矛盾？"
     a: "结论：不矛盾。两者对应不同地形阶段，轻地强调未深入时先稳，死地则是已深入无退路时全力一搏，战术选择取决于阶段判断。"
 cover:
-  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-11.jpg"
+  image: "cover-chapter-11.jpg"
   alt: "冰壶比赛中选手在客场环境下控制节奏与防守布局"
   title: "轻地战术：客场初入的防守定调"
   caption: "客场作战但局面尚不紧迫时，先稳固防守、控制节奏，再寻找反击窗口。"

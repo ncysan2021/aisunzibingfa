@@ -84,7 +84,7 @@ faq:
   - q: "如何训练运动员的独立出手决策能力？"
     a: "结论：在对抗训练中刻意减少传球选项，设定明确的触发条件，强制在三秒内完成射门或击打决定。"
 cover:
-  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-12.jpg"
+  image: "cover-chapter-12.jpg"
   alt: "足球运动员在禁区外远射，冰壶运动员独立击打，跳台滑雪选手起跳瞬间"
   title: "火可发于外：独立执行法则在竞技体育中的应用"
   caption: "外部发起、独立执行——远射、冰壶击打与跳台滑雪起跳的共同逻辑。"

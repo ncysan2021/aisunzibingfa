@@ -81,7 +81,7 @@ faq:
   - q: "在篮球比赛中，对手疲劳时有哪些信号？"
     a: "结论：投篮命中率下降、防守脚步变慢、失误增多，此时应加强紧逼防守和快速反击。"
 cover:
-  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-09.jpg"
+  image: "cover-chapter-09.jpg"
   alt: "运动员在比赛中弯腰撑膝，显示疲劳状态"
   title: "杖而立者饥也：竞技体育中的疲劳信号识别"
   caption: "《孙子兵法》行军篇的观察智慧在体育竞技中的应用"

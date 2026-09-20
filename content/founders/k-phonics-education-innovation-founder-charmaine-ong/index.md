@@ -18,7 +18,7 @@ keywords: ["孙子兵法", "教育创新", "AI孙子兵法", "翁名颐", "吴�
 faq: []
 
 cover:
-  image: "https://img.aisunzibingfa.com/founders/k-phonics-education-innovation-founder-charmaine-ong.jpg"
+  image: "k-phonics-education-innovation-founder-charmaine-ong.jpg"
   alt: "AI孙子兵法创办人吴雄山与教育权威翁名颐硕士"
   caption: "吴雄山与翁名颐老师会面，共探教育创新"
 

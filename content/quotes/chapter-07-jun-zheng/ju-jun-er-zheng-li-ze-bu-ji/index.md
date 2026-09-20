@@ -84,7 +84,7 @@ faq:
   - q: "冬季两项选手如何平衡滑行与射击的资源分配？"
     a: "结论：冬季两项需在进入射击区前主动降速稳定心率，用可控的滑行损失换取射击命中率，避免罚圈抵消优势。"
 cover:
-  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-07.jpg"
+  image: "cover-chapter-07.jpg"
   alt: "运动员在马拉松起跑阶段跟随领先集团，体现举军而争利的执行资源约束"
   title: "举军而争利则不及：竞技执行中的资源约束"
   caption: "全力争利不等于最优执行，资源约束下需要先守正再出奇。"

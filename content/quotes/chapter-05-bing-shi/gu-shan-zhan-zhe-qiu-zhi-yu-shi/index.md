@@ -84,7 +84,7 @@ faq:
   - q: "如果态势已经不利，是否还要坚持原定战术？"
     a: "结论：不应坚持。善战者会根据比分和对手变化动态调势，及时改变节奏或阵型重新制造优势，而非要求运动员硬扛不利局面。"
 cover:
-  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-05.jpg"
+  image: "cover-chapter-05.jpg"
   alt: "短道速滑运动员在弯道中利用战术态势超越对手"
   title: "故善战者求之于势不责于人：竞技战术中的择人任势"
   caption: "短道速滑比赛中，选手通过弯道站位与节奏变化制造有利态势，释放自身速度优势。"

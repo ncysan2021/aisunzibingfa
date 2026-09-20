@@ -85,7 +85,7 @@ faq:
   - q: "短道速滑中如何体现「得人之用」？"
     a: "结论：根据对手滑行路线与体力分配，让队友在合适圈次领滑或封线，而不是各滑各的。"
 cover:
-  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-08.jpg"
+  image: "cover-chapter-08.jpg"
   alt: "篮球教练在场边手持战术板，替补球员准备登场"
   title: "治兵不知九变之术：执行维度的灵活调度"
   caption: "执行维度的胜负，往往在换人与变阵的几分钟内决定。"

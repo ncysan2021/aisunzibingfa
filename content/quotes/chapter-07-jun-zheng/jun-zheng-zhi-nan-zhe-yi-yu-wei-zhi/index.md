@@ -84,7 +84,7 @@ faq:
   - q: "执行「以患为利」时最容易犯的错误是什么？"
     a: "结论：把临时起意当成战术变化。没有赛前预设和训练积累的节奏突变，往往变成盲目冒险，反而放大失误风险。"
 cover:
-  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-07.jpg"
+  image: "cover-chapter-07.jpg"
   alt: "短道速滑选手在外道蓄力准备超越"
   title: "以迂为直：短道速滑中的外道超越战术"
   caption: "不利道次迫使选手改变节奏，利用对手预判盲区创造进攻机会。"

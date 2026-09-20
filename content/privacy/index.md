@@ -6,7 +6,7 @@ type: "page"
 date: 2026-09-15
 lastmod: 2026-09-15
 cover:
-  image: "https://img.aisunzibingfa.com/pages/privacy.jpg"
+  image: "privacy.jpg"
   alt: "AI孙子兵法隐私政策"
   caption: "AI孙子兵法隐私政策"
 draft: false

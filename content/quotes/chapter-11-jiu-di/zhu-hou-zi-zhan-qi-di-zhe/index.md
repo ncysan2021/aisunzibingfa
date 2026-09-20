@@ -84,7 +84,7 @@ faq:
   - q: "散地战术是否意味着放弃主场优势？"
     a: "结论：不是放弃，而是重新定义优势。主场熟悉场地、免于旅途劳顿仍是实在利好，战术上要抑制的是期望负荷而非主场本身。"
 cover:
-  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-11.jpg"
+  image: "cover-chapter-11.jpg"
   alt: "短道速滑运动员在主场冰面上准备起跑，看台观众模糊成背景"
   title: "散地困境：主场作战的战术心理"
   caption: "主场观众既是动力也是负荷，散地战术要求运动员把注意力从看台拉回冰面。"

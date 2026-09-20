@@ -79,7 +79,7 @@ faq:
   - q: "如何在训练中提升发力窗口的命中率？"
     a: "结论：把起跳或加速绑定到可观察的触发信号上，用视频复盘统计命中率，再分别调整势与节。"
 cover:
-  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-05.jpg"
+  image: "cover-chapter-05.jpg"
   alt: "排球攻手在二传触球瞬间起跳扣杀，体现势与节的战术配合"
   title: "激水漂石与鸷鸟毁折：势与节在排球快攻中的体现"
   caption: "势是持续压迫积累的战术压强，节是短促精准的发力窗口。"

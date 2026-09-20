@@ -85,7 +85,7 @@ faq:
   - q: "冰壶项目中如何体现「不可象于事」的赛前准备？"
     a: "结论：不能仅凭过往经验类比对手，必须研究对手近期完整比赛录像中的投壶线路与战术选择。"
 cover:
-  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-13.jpg"
+  image: "cover-chapter-13.jpg"
   alt: "拳击手在赛前观看对手完整比赛录像进行情报复盘"
   title: "先知者不可取于鬼神：拳击赛前情报复盘"
   caption: "赛前情报必须来自真实对手数据，而非主观推测。"

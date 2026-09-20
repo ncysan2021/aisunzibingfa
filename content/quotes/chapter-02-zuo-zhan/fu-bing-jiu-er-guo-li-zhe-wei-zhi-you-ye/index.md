@@ -85,7 +85,7 @@ faq:
   - q: "如果赛季中途发现运动员已处于隐性疲劳，还能补救吗？"
     a: "结论：可以补救，立即减量并放弃非目标赛事，用两到三周低强度期换回神经与体能储备。"
 cover:
-  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-02.jpg"
+  image: "cover-chapter-02.jpg"
   alt: "短道速滑运动员在连续赛程后于场边进行恢复拉伸的场景"
   title: "夫兵久而国利者，未之有也——资源约束下的运动员负荷管理"
   caption: "长期疲劳不会立刻反映在成绩上，却会先侵蚀反应速度与决策质量。"

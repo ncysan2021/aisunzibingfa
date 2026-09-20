@@ -88,7 +88,7 @@ faq:
   - q: "执行干扰手段时最大的风险是什么？"
     a: "结论：自身失误率上升与节奏反噬。若连续干扰被对手预判反击，必须立即回到守正基础，用固定发球与回球线路稳住自身执行基线。"
 cover:
-  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-07.jpg"
+  image: "cover-chapter-07.jpg"
   alt: "羽毛球运动员用假动作欺骗对手，体现三军可夺气将军可夺心的执行维度"
   title: "三军可夺气，将军可夺心——执行维度的竞技干扰术"
   caption: "执行维度的核心：先稳住自身节奏，再用假动作与变速打击对手士气与决策信心。"

@@ -82,7 +82,7 @@ faq:
   - q: "执行维度下，如何避免赛季前集训流于形式？"
     a: "结论：设定分阶段量化指标，每日检查完成情况，并在集训后期安排模拟比赛检验执行效果。"
 cover:
-  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-08.jpg"
+  image: "cover-chapter-08.jpg"
   alt: "短道速滑运动员在赛季前集训中集结训练"
   title: "将受命于君，合军聚众：执行维度下的赛季备战"
   caption: "赛季前集训的集结效率，直接影响整个赛季的体能储备与战术磨合。"

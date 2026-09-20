@@ -82,7 +82,7 @@ faq:
   - q: "普通运动员如何训练出奇能力？"
     a: "结论：先建立技术清单，再在训练中模拟关键分强制调用第二、第三套方案，逐步形成条件反射。"
 cover:
-  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-05.jpg"
+  image: "cover-chapter-05.jpg"
   alt: "短道速滑选手在弯道突然变线超越对手的瞬间"
   title: "故善出奇者，无穷如天地——战术变化与关键分预判"
   caption: "出奇不是冒险，而是技术储备在关键分上的隐蔽调用。"

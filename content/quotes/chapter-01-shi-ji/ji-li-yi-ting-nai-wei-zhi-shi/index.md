@@ -86,7 +86,7 @@ faq:
   - q: "击剑项目中，造势与战术被接受之间是什么关系？"
     a: "结论：战术被接受只是认知层面，造势是通过模拟对抗把认知转化为肌肉记忆和临场反应，两者缺一不可。"
 cover:
-  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-01.jpg"
+  image: "cover-chapter-01.jpg"
   alt: "短道速滑运动员在模拟对抗训练中执行战术造势"
   title: "计利以听，乃为之势——体育竞技中的战术造势"
   caption: "战术被接受后，模拟对抗是造势的关键环节"

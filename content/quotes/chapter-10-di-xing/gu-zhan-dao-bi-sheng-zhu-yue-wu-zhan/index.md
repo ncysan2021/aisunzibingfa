@@ -81,7 +81,7 @@ faq:
   - q: "战略自主权与团队纪律如何平衡？"
     a: "结论：自主权应在赛前明确授权范围内行使，超出范围需与教练组沟通，避免破坏团队整体战术执行。"
 cover:
-  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-10.jpg"
+  image: "cover-chapter-10.jpg"
   alt: "短道速滑选手在比赛中根据体能和对手位置做出战略决策"
   title: "战道必胜：竞技场上的战略自主权"
   caption: "当专业判断显示胜算充足时，即使既定计划保守，也应果断出战。"

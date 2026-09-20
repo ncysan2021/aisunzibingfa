@@ -82,7 +82,7 @@ faq:
   - q: "如何避免因短期成绩压力而做出不审慎的决策？"
     a: "结论：建立长期战略视角，设定清晰的优先级和风险阈值，用制度化的决策流程替代情绪化反应。"
 cover:
-  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-12.jpg"
+  image: "cover-chapter-12.jpg"
   alt: "冰壶运动员在比赛中审慎决策的瞬间"
   title: "明君慎之良将警之：竞技体育的战略审慎"
   caption: "冰壶比赛中的每一次投壶都体现着战略审慎与风险控制"

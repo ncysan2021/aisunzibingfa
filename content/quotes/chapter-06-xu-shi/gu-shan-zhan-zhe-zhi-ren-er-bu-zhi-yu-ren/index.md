@@ -84,7 +84,7 @@ faq:
   - q: "主动调动对手时，最大的风险是什么？"
     a: "结论：最大风险是自身阵型被带乱，主动变化若缺乏结构支撑，反而会暴露空当，被对手抓住机会反制。"
 cover:
-  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-06.jpg"
+  image: "cover-chapter-06.jpg"
   alt: "篮球控球后卫在比赛中通过变速运球调动防守队员站位"
   title: "致人而不致于人：竞技战术中的节奏掌控"
   caption: "善于掌控节奏的一方，能让对手始终处于被动调整的状态。"

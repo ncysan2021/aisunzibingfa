@@ -90,7 +90,7 @@ faq:
   - q: "冰壶比赛中资源约束如何影响胜负？"
     a: "结论：冰面摩擦系数与壶体轨迹决定投壶力度与旋转策略，队伍据此分配后手局资源，推演得分趋势。"
 cover:
-  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-04.jpg"
+  image: "cover-chapter-04.jpg"
   alt: "竞技体育教练组在赛场边根据场地条件与资源数据推演比赛策略"
   title: "地生度，度生量：资源约束下的竞技决策"
   caption: "从场地条件到胜负趋势，资源约束维度贯穿赛前推演全过程。"

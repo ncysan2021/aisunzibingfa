@@ -85,7 +85,7 @@ faq:
   - q: "如果赛前情报有限，战术上应该怎么补救？"
     a: "结论：优先保留一套最稳健的守正方案，把不确定性集中在少数可控环节，赛中通过向导反馈逐步修正。"
 cover:
-  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-11.jpg"
+  image: "cover-chapter-11.jpg"
   alt: "短道速滑选手在赛前观察冰面与对手热身，教练在场边记录情报"
   title: "赛前情报链：对手意图、场地条件与现场向导"
   caption: "《九地篇》提醒：不知对手、不知地形、不用向导，战术执行就会失去支点。"

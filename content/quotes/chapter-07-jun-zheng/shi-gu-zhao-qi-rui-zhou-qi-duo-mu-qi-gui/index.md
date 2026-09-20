@@ -84,7 +84,7 @@ faq:
   - q: "如何避免末段归气段出现执行力崩溃？"
     a: "结论：通过提前轮换、节奏控制和心理锚点，把末段注意力重新拉回当前任务，减少失误。"
 cover:
-  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-07.jpg"
+  image: "cover-chapter-07.jpg"
   alt: "足球运动员在比赛开场阶段进行高位逼抢"
   title: "朝气锐，昼气惰，暮气归：竞技执行节律"
   caption: "开场锐气窗口是执行高强度战术的最佳时段"

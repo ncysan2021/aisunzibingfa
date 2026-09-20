@@ -18,7 +18,7 @@ keywords: ["孙子兵法与青年未来", "张健权", "怡保", "青年战略�
 faq: []
 
 cover:
-  image: "https://img.aisunzibingfa.com/founders/andrew-chong-ai-sun-tzu-youth-strategy-program.jpg"
+  image: "andrew-chong-ai-sun-tzu-youth-strategy-program.jpg"
   alt: "孙子兵法与青年未来计划新闻发布会现场"
   caption: "张健权老师主持《孙子兵法与青年未来》计划新闻发布会"
 

@@ -18,7 +18,7 @@ keywords: ["孙子兵法", "绿色希望", "雪隆20区", "CSR天使公益社", 
 faq: []
 
 cover:
-  image: "https://img.aisunzibingfa.com/founders/green-hope-community-ricky-wong-csr-brand-angel.jpg"
+  image: "green-hope-community-ricky-wong-csr-brand-angel.jpg"
   alt: "CSR天使公益社创办人黄振聪与AI孙子兵法创办人吴雄山"
   caption: "黄振聪与吴雄山探讨雪隆20区绿色希望社区教育公益计划"
 

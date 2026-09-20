@@ -7,7 +7,7 @@ chapter: "九地篇"
 chapter_slug: "chapter-11-jiu-di"
 chapter_order: 11
 cover:
-  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-11.jpg"
+  image: "cover-chapter-11.jpg"
   alt: "九地篇"
   caption: "九地篇"
 draft: false

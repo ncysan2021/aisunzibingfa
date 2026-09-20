@@ -83,7 +83,7 @@ faq:
   - q: "情报失误后，团队最该先做什么？"
     a: "结论：立即回查情报采集与传递环节，定位失真点，再调整下一场的侦察与判断流程。"
 cover:
-  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-13.jpg"
+  image: "cover-chapter-13.jpg"
   alt: "教练团队在赛后复盘中回看比赛录像与情报记录"
   title: "此兵之要，三军之所恃而动也——复盘维度"
   caption: "情报是竞技行动的起点，复盘要逐层回查情报链是否失真。"

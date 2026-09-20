@@ -82,7 +82,7 @@ faq:
   - q: "教练强、队员弱，是否应该换掉队员？"
     a: "结论：先判断是能力问题还是匹配问题。若队员在简化战术下能稳定完成，说明是设计复杂度不匹配，调整方案比换人更快见效。"
 cover:
-  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-10.jpg"
+  image: "cover-chapter-10.jpg"
   alt: "短道速滑队员在弯道执行战术时出现失误的瞬间"
   title: "吏强卒弱，曰陷——战术执行断层"
   caption: "指挥层再强，执行层跟不上，整体就陷入失败结构。"

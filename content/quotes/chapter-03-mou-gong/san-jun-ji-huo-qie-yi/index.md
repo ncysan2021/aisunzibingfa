@@ -82,7 +82,7 @@ faq:
   - q: "预防「乱军引胜」最关键的赛前准备是什么？"
     a: "结论：最关键的是赛前统一战术指令并明确每位队员的角色与决策权限，同时通过信任演练降低内部怀疑，确保比赛中出现意外时仍能保持行动一致。"
 cover:
-  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-03.jpg"
+  image: "cover-chapter-03.jpg"
   alt: "短道速滑接力队员在比赛中交接棒时出现犹豫，体现团队战术混乱"
   title: "三军既惑且疑——竞技体育内部混乱的代价"
   caption: "内部战术分歧与信任崩塌，如同诸侯乘虚而入，让对手在关键时刻迅速取胜。"

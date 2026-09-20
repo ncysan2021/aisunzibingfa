@@ -84,7 +84,7 @@ faq:
   - q: "短道速滑与越野滑雪中，前程过度发力为何同样是执行失误？"
     a: "结论：这两类项目对后程弯道支撑与有氧续航要求极高，前程超额输出会直接压缩后程可用体能。"
 cover:
-  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-07.jpg"
+  image: "cover-chapter-07.jpg"
   alt: "马拉松选手在前程超速后后程掉速的竞技场景"
   title: "卷甲而趋，日夜不处：竞技执行中的资源约束"
   caption: "前程强行提速如同卷甲急行，后程资源耗尽则十一而至。"

@@ -18,7 +18,7 @@ keywords: ["孙子兵法", "AI孙子兵法", "知己知彼", "因敌制胜", "�
 faq: []
 
 cover:
-  image: "https://img.aisunzibingfa.com/founders/manja-foods-supply-founder-jac-ho.jpg"
+  image: "manja-foods-supply-founder-jac-ho.jpg"
   alt: "AI孙子兵法网站创办人吴雄山与MANJA FOODS SUPPLY创办人JAC何建杰"
   caption: "吴雄山拜访 MANJA FOODS SUPPLY 创办人 JAC 何建杰"
 

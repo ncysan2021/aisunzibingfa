@@ -86,7 +86,7 @@ faq:
   - q: "资源约束下，教练团队应优先保障哪些备战环节？"
     a: "结论：优先保障对比赛结果影响最大的核心环节，如短道速滑的弯道超越、田径的起跑与冲刺、赛艇的桨频与配合，其余环节维持基本水平即可。"
 cover:
-  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-03.jpg"
+  image: "cover-chapter-03.jpg"
   alt: "短道速滑运动员在赛前进行体能储备与器材调试"
   title: "修橹轒辒，三月而后成：资源约束下的赛前备战"
   caption: "赛前备战资源投入并非越多越好，超过阈值后边际效益递减。"

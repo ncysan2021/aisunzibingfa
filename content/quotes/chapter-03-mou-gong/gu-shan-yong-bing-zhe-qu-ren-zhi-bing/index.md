@@ -82,7 +82,7 @@ faq:
   - q: "赛前战术预演的关键步骤是什么？"
     a: "结论：先收集对手习惯数据，识别犹豫触发点，再设计针对性方案并模拟验证，最后在比赛中执行与调整。"
 cover:
-  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-03.jpg"
+  image: "cover-chapter-03.jpg"
   alt: "短道速滑运动员在赛前研究对手录像，进行战术预演"
   title: "不战而屈人之兵：赛前战术预演"
   caption: "赛前视频分析与战术预演，是「屈人之兵而非战也」在现代竞技中的核心体现。"

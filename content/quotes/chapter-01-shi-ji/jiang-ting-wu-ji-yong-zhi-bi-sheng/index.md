@@ -85,7 +85,7 @@ faq:
   - q: "冰壶混双中，个人擅自改变战术会带来什么风险？"
     a: "结论：每一投都服务于预设布局，擅自改变旋转或力量会破坏全队得分计划，甚至送给对手偷分机会。"
 cover:
-  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-01.jpg"
+  image: "cover-chapter-01.jpg"
   alt: "短道速滑接力赛中队员交接瞬间的战术配合"
   title: "将听吾计，用之必胜——战术纪律决定去留"
   caption: "短道速滑接力赛中，每一次交接都依赖队员对战术的绝对执行。"

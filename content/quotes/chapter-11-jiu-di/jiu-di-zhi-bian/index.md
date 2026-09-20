@@ -85,7 +85,7 @@ faq:
   - q: "如何训练选手的节奏切换能力？"
     a: "结论：在训练中模拟比分变化与时间压力，反复练习从进攻转防守或从防守转进攻的完整动作链，并记录切换时机与效果。"
 cover:
-  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-11.jpg"
+  image: "cover-chapter-11.jpg"
   alt: "短道速滑选手在弯道中调整节奏与身位"
   title: "九地之变与屈伸之利：战术执行中的节奏调控"
   caption: "比赛中根据比分与对手位置主动切换攻防节奏，是屈伸之利的现代竞技体现。"

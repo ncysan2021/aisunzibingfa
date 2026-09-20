@@ -82,7 +82,7 @@ faq:
   - q: "执行维度上，激活情报链最关键的是什么？"
     a: "结论：最关键的是顺序：先策反关键人物，再验证信息，最后才扩大信息源使用范围，任何顺序颠倒都可能导致情报链暴露或失效。"
 cover:
-  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-13.jpg"
+  image: "cover-chapter-13.jpg"
   alt: "短道速滑选手在比赛中观察对手动态，体现情报收集与执行决策"
   title: "因是而知之：反间突破激活体育情报网络"
   caption: "反间突破是激活其他情报渠道的前提，执行顺序决定情报链的可靠性与时效性。"

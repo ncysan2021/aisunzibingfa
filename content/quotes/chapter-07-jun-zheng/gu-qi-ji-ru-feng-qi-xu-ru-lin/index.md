@@ -86,7 +86,7 @@ faq:
   - q: "训练中如何有效提升节奏切换能力？"
     a: "结论：先用固定节奏建立执行基线，再分段强化突变并加入随机指令干扰，最后通过录像复盘统计切换后三拍得分率。"
 cover:
-  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-07.jpg"
+  image: "cover-chapter-07.jpg"
   alt: "羽毛球双打选手在快速平抽后突然放网前小球，体现节奏切换的执行能力"
   title: "疾如风徐如林：羽毛球双打节奏切换执行"
   caption: "连续平抽建立节奏惯性后突然放网，是「侵掠如火」转「不动如山」的执行样本。"

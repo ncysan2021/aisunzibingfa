@@ -86,7 +86,7 @@ faq:
   - q: "远途参赛后最容易被忽视的资源损耗是什么？"
     a: "结论：旅途疲劳与恢复窗口被压缩，常导致后续训练质量下降而未被察觉。"
 cover:
-  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-02.jpg"
+  image: "cover-chapter-02.jpg"
   alt: "运动员在远途参赛途中整理装备与预算清单"
   title: "资源约束下的远途参赛成本控制"
   caption: "远途参赛的交通住宿成本会直接挤占训练与恢复资源，需要提前核算与排序。"

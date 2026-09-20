@@ -85,7 +85,7 @@ faq:
   - q: "如果诱敌失败、对手不追怎么办？"
     a: "结论：立即恢复相持，不因急躁而强行出击，避免在支形中先动而失分。"
 cover:
-  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-10.jpg"
+  image: "cover-chapter-10.jpg"
   alt: "羽毛球运动员在相持中判断是否跟进对手露出的破绽"
   title: "支形之戒：竞技相持中的出击纪律"
   caption: "对手露出的破绽未必是机会，先算回位成本再决定是否出击。"

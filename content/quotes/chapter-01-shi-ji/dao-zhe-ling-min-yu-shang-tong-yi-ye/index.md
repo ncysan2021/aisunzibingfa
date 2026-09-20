@@ -86,7 +86,7 @@ faq:
   - q: "冰壶项目中目标认同如何影响比赛？"
     a: "结论：冰壶依赖团队沟通与战术共识，四名队员对战略目标的认同度直接决定投壶决策的执行一致性。"
 cover:
-  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-01.jpg"
+  image: "cover-chapter-01.jpg"
   alt: "短道速滑运动员在赛道上与教练组目标一致的团队协作场景"
   title: "道者令民与上同意——体育竞技战略认同"
   caption: "目标一致是战术执行的战略根基，图为短道速滑团队配合瞬间"

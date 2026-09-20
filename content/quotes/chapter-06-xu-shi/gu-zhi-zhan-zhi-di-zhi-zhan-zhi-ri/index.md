@@ -84,7 +84,7 @@ faq:
   - q: "过度依赖赛前预判会有什么风险？"
     a: "结论：场地或天气突变时，固守原计划会导致节奏失控，必须保留临场调整的弹性。"
 cover:
-  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-06.jpg"
+  image: "cover-chapter-06.jpg"
   alt: "运动员在赛前勘察场地并标记关键点位"
   title: "知战之地知战之日：赛前时空预判"
   caption: "赛前掌握比赛地点与时间信息，是战术执行的第一步。"

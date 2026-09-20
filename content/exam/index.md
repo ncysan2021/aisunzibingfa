@@ -7,7 +7,7 @@ layout: "exam"
 date: 2026-09-15
 lastmod: 2026-09-16
 cover:
-  image: "https://img.aisunzibingfa.com/pages/exam.jpg"
+  image: "exam.jpg"
   alt: "AI孙子兵法考试局"
   caption: "AI孙子兵法考试局"
 draft: false

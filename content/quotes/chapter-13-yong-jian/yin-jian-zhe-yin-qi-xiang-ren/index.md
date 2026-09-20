@@ -84,7 +84,7 @@ faq:
   - q: "因间与内间的情报如何转化为竞技优势？"
     a: "结论：通过针对性战术设计、人员调配和心理战，将情报优势转化为比赛中的决策优势。"
 cover:
-  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-13.jpg"
+  image: "cover-chapter-13.jpg"
   alt: "体育竞技中的情报收集与战略分析"
   title: "因间与内间：体育情报战略"
   caption: "利用对手内部人员获取情报，是竞技战略的重要一环。"

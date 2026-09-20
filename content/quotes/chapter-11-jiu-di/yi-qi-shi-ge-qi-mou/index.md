@@ -84,7 +84,7 @@ faq:
   - q: "冰壶比赛中如何运用「使人无识」？"
     a: "结论：通过传击与占位的交替使用，让对手无法判断己方是保分还是偷分，从而在局分节奏上保持主动。"
 cover:
-  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-11.jpg"
+  image: "cover-chapter-11.jpg"
   alt: "短道速滑选手在弯道处调整线路，体现战术变招与节奏控制"
   title: "易其事革其谋：执行维度下的战术变招"
   caption: "执行维度的核心：变的是局部手段，不变的是整体节奏。"

@@ -82,7 +82,7 @@ faq:
   - q: "如果选手在比赛中完全不了解整体意图，最大的风险是什么？"
     a: "结论：最大风险是应变能力下降。当对手节奏突变或裁判尺度变化时，选手无法自主调整，容易连续失误。"
 cover:
-  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-11.jpg"
+  image: "cover-chapter-11.jpg"
   alt: "短道速滑选手在弯道中执行教练指令的瞬间"
   title: "焚舟破釜：执行维度下的竞技指令"
   caption: "短道速滑比赛中，选手在高速弯道中执行短指令，注意力高度集中。"

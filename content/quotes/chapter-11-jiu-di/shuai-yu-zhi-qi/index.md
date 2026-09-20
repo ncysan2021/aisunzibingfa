@@ -84,7 +84,7 @@ faq:
   - q: "如何在日常训练中模拟「去梯」情境？"
     a: "结论：在训练赛中设定硬性规则，如落后时必须使用最高难度动作，并用计时器记录决策速度，逐步压缩决策窗口。"
 cover:
-  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-11.jpg"
+  image: "cover-chapter-11.jpg"
   alt: "短道速滑选手在弯道加速，身后冰面留下清晰轨迹"
   title: "帅与之期，如登高而去其梯——执行维度下的竞技孤注一掷"
   caption: "无退路情境下的执行加速：短道速滑选手在最后一圈选择外道超越。"

@@ -91,7 +91,7 @@ faq:
   - q: "业余选手没有专业情报团队，怎么落地四维情报？"
     a: "结论：用公开成绩、天气预报、赛道图和自身训练日志四项免费信息，赛前各花十分钟整理，就能形成基础版四维情报。"
 cover:
-  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-10.jpg"
+  image: "cover-chapter-10.jpg"
   alt: "田径选手在赛前查看赛道坡度与天气数据"
   title: "知彼知己，胜乃不殆：四维情报与竞技决策"
   caption: "赛前把对手、自己、天气、场地四类情报整合成可执行的配速方案。"

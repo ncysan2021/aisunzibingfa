@@ -7,7 +7,7 @@ chapter: "兵势篇"
 chapter_slug: "chapter-05-bing-shi"
 chapter_order: 5
 cover:
-  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-05.jpg"
+  image: "cover-chapter-05.jpg"
   alt: "兵势篇"
   caption: "兵势篇"
 draft: false

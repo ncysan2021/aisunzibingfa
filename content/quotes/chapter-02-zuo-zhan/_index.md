@@ -7,7 +7,7 @@ chapter: "作战篇"
 chapter_slug: "chapter-02-zuo-zhan"
 chapter_order: 2
 cover:
-  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-02.jpg"
+  image: "cover-chapter-02.jpg"
   alt: "作战篇"
   caption: "作战篇"
 draft: false

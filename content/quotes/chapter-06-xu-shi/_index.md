@@ -7,7 +7,7 @@ chapter: "虚实篇"
 chapter_slug: "chapter-06-xu-shi"
 chapter_order: 6
 cover:
-  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-06.jpg"
+  image: "cover-chapter-06.jpg"
   alt: "虚实篇"
   caption: "虚实篇"
 draft: false

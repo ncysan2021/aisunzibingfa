@@ -86,7 +86,7 @@ faq:
   - q: "如何判断队员是否真正「知」？"
     a: "结论：让队员在随机情境中限时做出选择并说明依据，若选择与依据一致且可复盘，才算真正理解。"
 cover:
-  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-01.jpg"
+  image: "cover-chapter-01.jpg"
   alt: "短道速滑选手在弯道处观察对手位置并调整滑行路线"
   title: "知之者胜：从纸面战术到场上直觉"
   caption: "战略认知的差距，往往在弯道与最后一圈才显现。"

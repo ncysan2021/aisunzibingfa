@@ -82,7 +82,7 @@ faq:
   - q: "如何判断自己是否进入了「远形」状态？"
     a: "结论：当双方距离目标均远、体能接近极限且单次挑战成功率低于训练均值时，即进入远形状态。"
 cover:
-  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-10.jpg"
+  image: "cover-chapter-10.jpg"
   alt: "高尔夫选手在远距离球位选择保守过渡，体现物理极限下的竞技决策"
   title: "远形者势均难挑战：物理极限下的竞技决策"
   caption: "远形状态下，保守过渡优于强行挑战——物理极限维度的竞技智慧"

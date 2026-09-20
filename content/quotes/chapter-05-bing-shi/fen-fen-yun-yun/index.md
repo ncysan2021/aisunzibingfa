@@ -83,7 +83,7 @@ faq:
   - q: "「形圆而不可败」在防守中具体指什么？"
     a: "结论：指阵型没有明显缺口，任何方向受压迫都能就近补位，不出现结构性漏洞，让对手找不到一击致命的位置。"
 cover:
-  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-05.jpg"
+  image: "cover-chapter-05.jpg"
   alt: "篮球比赛中球员在混乱场面下保持防守轮转站位"
   title: "纷纷纭纭，斗乱而不可乱——球场乱局中的战术秩序"
   caption: "场面可以乱，轮转与站位规则不能乱。"

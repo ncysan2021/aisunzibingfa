@@ -88,7 +88,7 @@ faq:
   - q: "死地战术失败后如何调整？"
     a: "结论：立即切换回保守控场，停止继续释放体能，将剩余资源用于防守与减少失分，赛后复盘窗口选择与体能分配比例，而非否定疾战本身。"
 cover:
-  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-11.jpg"
+  image: "cover-chapter-11.jpg"
   alt: "短道速滑选手在末圈外道加速超越的瞬间"
   title: "疾战则存：死地战术的竞技呈现"
   caption: "死地疾战不是盲目加速，而是在对手失误率上升的窗口集中释放体能。"

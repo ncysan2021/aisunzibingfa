@@ -87,7 +87,7 @@ faq:
   - q: "挂形战术在冰壶比赛中如何具体应用？"
     a: "结论：冰壶偷分前须确认对手防守壶布局，若对手已有双壶保护则不宜冒险，应转为保守投壶保留后手优势。"
 cover:
-  image: "https://img.aisunzibingfa.com/placeholder/cover-chapter-10.jpg"
+  image: "cover-chapter-10.jpg"
   alt: "短道速滑选手在弯道尝试外道超越的挂形战术场景"
   title: "挂形战术：短道速滑外道超越的回位风险"
   caption: "挂形决策核心：进攻得分后能否安全回位，决定战术价值。"
