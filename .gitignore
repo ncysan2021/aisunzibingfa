@@ -57,3 +57,11 @@ inject_sameas.py
 *.bak2
 *.bak3
 *.bak_sameAs
+
+# === search 功能开发过程中的临时产物 ===
+public-old-*/
+hugo.yaml.bak-*
+r2-tree.txt
+local-images.txt
+root.txt
+check-search-step1.txt
