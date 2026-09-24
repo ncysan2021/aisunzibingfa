@@ -65,3 +65,7 @@ r2-tree.txt
 local-images.txt
 root.txt
 check-search-step1.txt
+
+# 本地 Front Matter 备份（不提交）
+_backup-fm-*/
+
