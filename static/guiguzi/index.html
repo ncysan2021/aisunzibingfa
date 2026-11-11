@@ -1,0 +1,414 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>鬼谷子导读｜原文解析、商业谈判与职场沟通 - AI孙子兵法</title>
+<meta name="description" content="《鬼谷子》现代导读：从捭阖、反应、内揵等经典篇章出发，结合古文注释、历史背景与商业谈判、职场沟通、战略决策，探索传统谋略的现代应用。">
+<meta name="author" content="吴雄山">
+<link rel="canonical" href="https://aisunzibingfa.com/guiguzi/">
+
+<style>
+  :root {
+    --bg-color: #f5f6f8;
+    --card-bg: #ffffff;
+    --text-main: #1f2937;
+    --text-muted: #4b5563;
+    --accent: #a65306;
+    --accent-hover: #854204;
+    --border: #e5e7eb;
+    --tag-bg: #f3f4f6;
+    --tag-text: #374151;
+    --shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+    --shadow-hover: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+  }
+
+  body.night {
+    --bg-color: #111827;
+    --card-bg: #1f2937;
+    --text-main: #f9fafb;
+    --text-muted: #9ca3af;
+    --accent: #f59e0b;
+    --accent-hover: #fbbf24;
+    --border: #374151;
+    --tag-bg: #374151;
+    --tag-text: #d1d5db;
+    --shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.3);
+    --shadow-hover: 0 10px 15px -3px rgba(0, 0, 0, 0.5);
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    background-color: var(--bg-color);
+    color: var(--text-main);
+    line-height: 1.6;
+    transition: background-color 0.3s, color 0.3s;
+  }
+
+  /* 顶部导航 */
+  header {
+    display: flex; justify-content: space-between; align-items: center;
+    padding: 20px 40px;
+    background-color: var(--card-bg);
+    box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+    position: sticky; top: 0; z-index: 100;
+    transition: background-color 0.3s;
+  }
+  .logo { font-size: 20px; font-weight: bold; color: var(--text-main); text-decoration: none; letter-spacing: 1px; }
+  .logo span { color: var(--accent); }
+  .nav-right { display: flex; align-items: center; gap: 20px; }
+  .nav-right a { text-decoration: none; color: var(--text-muted); font-size: 15px; transition: color 0.2s; }
+  .nav-right a:hover { color: var(--accent); }
+  .theme-toggle {
+    background: none; border: 1px solid var(--border); color: var(--text-main);
+    padding: 6px 12px; border-radius: 20px; cursor: pointer; font-size: 14px;
+    transition: all 0.2s;
+  }
+  .theme-toggle:hover { border-color: var(--accent); color: var(--accent); }
+
+  /* 英雄区 Hero */
+  .hero {
+    text-align: center; padding: 60px 20px;
+    background: linear-gradient(135deg, var(--card-bg) 0%, var(--bg-color) 100%);
+    border-bottom: 1px solid var(--border);
+  }
+  .hero h1 { font-size: 38px; margin-bottom: 16px; letter-spacing: 1px; line-height: 1.3; }
+  .hero h1 span { color: var(--accent); }
+  .hero p { font-size: 17px; color: var(--text-muted); max-width: 760px; margin: 0 auto 30px; line-height: 1.8; }
+  .hero-btn {
+    display: inline-block; background-color: var(--accent); color: #fff;
+    padding: 12px 32px; border-radius: 8px; text-decoration: none; font-weight: bold;
+    transition: background 0.3s, transform 0.2s;
+    box-shadow: 0 4px 14px rgba(166, 83, 6, 0.3);
+  }
+  .hero-btn:hover { background-color: var(--accent-hover); transform: translateY(-2px); }
+  
+  /* 修复夜间模式按钮对比度 */
+  body.night .hero-btn { color: #111827; box-shadow: 0 4px 14px rgba(245, 158, 11, 0.3); }
+
+  /* 导读知识区 */
+  .intro-section {
+    max-width: 900px; margin: 0 auto; padding: 40px 20px; text-align: left;
+  }
+  .intro-section h2 { font-size: 24px; margin-bottom: 16px; color: var(--text-main); display: flex; align-items: center; gap: 10px; }
+  .intro-section h2::before { content: ""; display: block; width: 6px; height: 24px; background: var(--accent); border-radius: 3px; }
+  .intro-section p { font-size: 16px; color: var(--text-muted); margin-bottom: 16px; line-height: 1.8; }
+
+  /* 核心应用场景 */
+  .scenarios { max-width: 1200px; margin: 0 auto 20px; padding: 0 20px; }
+  .scenarios-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; }
+  .scenario-card {
+    background: var(--card-bg); padding: 20px; border-radius: 12px; text-align: center;
+    box-shadow: var(--shadow); border: 1px solid var(--border);
+    text-decoration: none; color: var(--text-main); transition: all 0.3s;
+    display: block;
+  }
+  .scenario-card.active:hover { transform: translateY(-5px); box-shadow: var(--shadow-hover); border-color: var(--accent); }
+  .scenario-card h3 { font-size: 18px; margin-bottom: 8px; color: var(--accent); }
+  .scenario-card p { font-size: 14px; color: var(--text-muted); }
+  
+  /* 压低未上线场景的视觉比重 */
+  .scenario-card.disabled { opacity: 0.5; cursor: not-allowed; background: var(--bg-color); box-shadow: none; border-style: dashed; }
+  .scenario-card.disabled h3 { color: var(--text-muted); }
+
+  /* 篇目列表区 */
+  .main-content { max-width: 1200px; margin: 0 auto; padding: 20px 20px 80px; }
+  .section-title {
+    font-size: 24px; margin: 40px 0 20px; padding-bottom: 10px; border-bottom: 2px solid var(--border);
+    display: flex; align-items: center; gap: 10px;
+  }
+  .section-title::before { content: ""; display: block; width: 6px; height: 24px; background: var(--accent); border-radius: 3px; }
+
+  .chapter-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 24px; }
+  
+  .chapter-card {
+    background: var(--card-bg); border-radius: 16px; overflow: hidden;
+    border: 1px solid var(--border); box-shadow: var(--shadow); transition: all 0.3s;
+    display: flex; flex-direction: column; text-decoration: none; color: inherit;
+  }
+  a.chapter-card:hover { transform: translateY(-6px); box-shadow: var(--shadow-hover); border-color: var(--accent); }
+  
+  /* 卡片顶部配图/渐变 */
+  .card-image { height: 140px; background: linear-gradient(45deg, #1f2937, #4b5563); position: relative; }
+  .card-image.yang { background: linear-gradient(135deg, #f59e0b, #ef4444); }
+  .card-image.yin { background: linear-gradient(135deg, #3b82f6, #1e3a8a); }
+  .card-image.gray { background: #4b5563; }
+  
+  .card-content { padding: 20px; flex: 1; display: flex; flex-direction: column; }
+  .card-title { font-size: 20px; font-weight: bold; margin-bottom: 10px; display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; gap: 8px; }
+  .card-title span.no { font-size: 13px; color: var(--text-muted); font-weight: normal; background: var(--tag-bg); padding: 2px 8px; border-radius: 4px; }
+  .card-desc { font-size: 14px; color: var(--text-muted); margin-bottom: 20px; flex: 1; line-height: 1.7; }
+  .card-desc strong { color: var(--text-main); display: block; margin-bottom: 6px; font-size: 15px; }
+  
+  .card-tags { display: flex; gap: 8px; flex-wrap: wrap; }
+  .tag { background: var(--tag-bg); color: var(--tag-text); font-size: 12px; padding: 4px 10px; border-radius: 99px; }
+
+  /* ===== 修复 1：已上线标签的对比度控制 ===== */
+  .status-live {
+    background: #a65306 !important;
+    color: #fff !important;
+  }
+  body.night .status-live {
+    background: #f59e0b !important;
+    color: #111827 !important;
+  }
+
+  /* 筹备中篇目特殊样式（降低视觉比重） */
+  .chapter-card.disabled { opacity: 0.55; cursor: not-allowed; filter: grayscale(1); box-shadow: none; border-style: dashed; }
+  .chapter-card.disabled:hover { transform: none; box-shadow: none; border-color: var(--border); }
+
+  /* ===== 修复 2：已亡佚文献专属样式（不能等同于筹备中） ===== */
+  .chapter-card.archived {
+    opacity: 0.85; /* 保证文字可读性 */
+    border-style: solid; /* 不用虚线，区别于筹备中 */
+  }
+  .chapter-card.archived:hover {
+    transform: none;
+    box-shadow: var(--shadow);
+    border-color: var(--border);
+  }
+  .chapter-card.archived .card-image {
+    filter: grayscale(1); /* 仅图片灰显，文字保持清晰 */
+  }
+  .chapter-card.archived .no {
+    background: #6b7280 !important;
+    color: #fff !important;
+  }
+
+  /* 页脚 */
+  footer { text-align: center; padding: 40px 20px; border-top: 1px solid var(--border); color: var(--text-muted); font-size: 14px; }
+
+  /* 用户减少动态效果适配 */
+  @media (prefers-reduced-motion: reduce) {
+    *, *::before, *::after {
+      animation-duration: 0.01ms !important;
+      transition-duration: 0.01ms !important;
+      scroll-behavior: auto !important;
+    }
+  }
+
+  @media (max-width: 768px) {
+    header { padding: 15px 20px; flex-direction: row; flex-wrap: wrap; gap: 10px; }
+    .nav-right { width: auto; justify-content: flex-end; gap: 12px; }
+    .nav-right a { display: none; }
+    .hero { padding: 40px 20px; }
+    .hero h1 { font-size: 28px; }
+    .hero p { font-size: 15px; }
+    .chapter-grid { grid-template-columns: 1fr; }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <a href="/" class="logo">AI孙子兵法<span>·鬼谷子</span></a>
+  <div class="nav-right">
+    <a href="/">返回主站</a>
+    <a href="#intro">导读</a>
+    <a href="#chapters">篇目全解</a>
+    <button class="theme-toggle" id="themeToggle" aria-label="切换日夜模式">🌙 夜间模式</button>
+  </div>
+</header>
+
+<main>
+  <section class="hero">
+    <h1>理解人性与沟通的<br><span>战略逻辑</span></h1>
+    <p>从《捭阖第一》开始，系统学习《鬼谷子》的游说、观察与谋略思想。结合原文精校、历史案例与现代商业情境，探索经典智慧在职场沟通与决策中的实际应用。</p>
+    <a href="./baihe/" class="hero-btn">开始阅读：捭阖第一 →</a>
+  </section>
+
+  <section class="intro-section" id="intro">
+    <h2>什么是《鬼谷子》？</h2>
+    <p>《鬼谷子》是一部以游说、谋略、观察与决策为核心内容的中国古代典籍。它重点探讨了如何理解人的真实意图、如何判断复杂局势，以及如何根据不同的情境调整言语与行动。</p>
+    <p>本站以通行本原文为基础，参考历代注释与校勘资料，逐篇建设《鬼谷子》深度导读。每篇结合原文、白话解释、历史背景和现代应用，帮助读者理解经典思想及其现实局限。</p>
+  </section>
+
+  <section class="scenarios" aria-labelledby="scenario-title">
+    <h2 id="scenario-title" class="section-title">按实战场景学习</h2>
+    <div class="scenarios-grid">
+      <a href="./baihe/" class="scenario-card active">
+        <h3>🤝 商务谈判</h3>
+        <p>如何识别需求与把握谈判节奏？</p>
+      </a>
+      <div class="scenario-card disabled" title="内容筹备中，敬请期待">
+        <h3>💼 职场沟通</h3>
+        <p>如何通过提问发现真实诉求？（筹备中）</p>
+      </div>
+      <div class="scenario-card disabled" title="内容筹备中，敬请期待">
+        <h3>🛡️ 危机决策</h3>
+        <p>如何洞察裂痕与及时补救？（筹备中）</p>
+      </div>
+    </div>
+  </section>
+
+  <div class="main-content" id="chapters">
+    
+    <!-- 上卷 -->
+    <h2 class="section-title">📖 上卷 · 洞察与博弈</h2>
+    <div class="chapter-grid">
+      <a href="./baihe/" class="chapter-card">
+        <div class="card-image yang"></div>
+        <div class="card-content">
+          <!-- 应用了 status-live 类以修复夜间模式对比度 -->
+          <div class="card-title"><h3>捭阖第一</h3> <span class="no status-live">已上线</span></div>
+          <div class="card-desc">
+            <strong>什么时候该说，什么时候该听？</strong>
+            从《鬼谷子》的开合思想出发，理解提问、倾听与表达时机，学习如何在信息不充分时作出沟通决策。
+          </div>
+          <div class="card-tags"><span class="tag">谈判节奏</span><span class="tag">信息控制</span></div>
+        </div>
+      </a>
+      
+      <div class="chapter-card disabled">
+        <div class="card-image yin"></div>
+        <div class="card-content">
+          <div class="card-title"><h3>反应第二</h3> <span class="no">筹备中</span></div>
+          <div class="card-desc">
+            <strong>如何通过反问探求对方的真实底牌？</strong>
+            欲擒故纵的倾听技巧，用历史与反证来刺激对方，通过对方的反应摸清其真实意图。
+          </div>
+          <div class="card-tags"><span class="tag">倾听</span><span class="tag">刺探</span></div>
+        </div>
+      </div>
+
+      <div class="chapter-card disabled">
+        <div class="card-image"></div>
+        <div class="card-content">
+          <div class="card-title"><h3>内揵第三</h3> <span class="no">筹备中</span></div>
+          <div class="card-desc">
+            <strong>如何建立牢不可破的信任关系？</strong>
+            从情感与利益两个维度，将自己与决策者的心思绑定，实现深度向上管理。
+          </div>
+          <div class="card-tags"><span class="tag">向上管理</span><span class="tag">信任建立</span></div>
+        </div>
+      </div>
+
+      <div class="chapter-card disabled">
+        <div class="card-image yang"></div>
+        <div class="card-content">
+          <div class="card-title"><h3>抵巇第四</h3> <span class="no">筹备中</span></div>
+          <div class="card-desc">
+            <strong>危机出现时如何补救或重建？</strong>
+            裂缝刚出现时如何弥补？无法弥补时，如何借势将其彻底推翻并重建秩序。
+          </div>
+          <div class="card-tags"><span class="tag">危机公关</span><span class="tag">防微杜渐</span></div>
+        </div>
+      </div>
+    </div>
+
+    <!-- 中卷 -->
+    <h2 class="section-title">🗣️ 中卷 · 说服与谋划</h2>
+    <div class="chapter-grid">
+      <div class="chapter-card disabled">
+        <div class="card-image"></div>
+        <div class="card-content">
+          <div class="card-title"><h3>飞箝第五</h3> <span class="no">筹备中</span></div>
+          <div class="card-desc">
+            <strong>如何先赞赏对方，再有效影响决策？</strong>
+            先抬高对方（飞），再钳制对方（箝），利用对方的虚荣心与欲望施加影响。
+          </div>
+          <div class="card-tags"><span class="tag">赞赏</span><span class="tag">影响力</span></div>
+        </div>
+      </div>
+      <div class="chapter-card disabled">
+        <div class="card-image"></div>
+        <div class="card-content">
+          <div class="card-title"><h3>忤合第六</h3> <span class="no">筹备中</span></div>
+          <div class="card-desc">
+            <strong>在多方势力之间如何做出有利的选择？</strong>
+            忠诚与背叛的辩证法。良禽择木而栖，权衡利弊，作出最有利的站队与战略选择。
+          </div>
+          <div class="card-tags"><span class="tag">战略选择</span><span class="tag">职业规划</span></div>
+        </div>
+      </div>
+      <div class="chapter-card disabled">
+        <div class="card-image"></div>
+        <div class="card-content">
+          <div class="card-title"><h3>揣第七 / 摩第八</h3> <span class="no">筹备中</span></div>
+          <div class="card-desc">
+            <strong>如何暗中揣测，并正面验证？</strong>
+            揣，是暗中揣测对方的权势与心理；摩，是正面接触去验证你的猜测，形成情报闭环。
+          </div>
+          <div class="card-tags"><span class="tag">揣摩人心</span><span class="tag">尽调</span></div>
+        </div>
+      </div>
+      <div class="chapter-card disabled">
+        <div class="card-image"></div>
+        <div class="card-content">
+          <div class="card-title"><h3>权第九 / 谋第十 / 决十一</h3> <span class="no">筹备中</span></div>
+          <div class="card-desc">
+            <strong>从策划到执行的完整说服链条。</strong>
+            权（修饰说辞）、谋（制定策略）、决（临门一脚拍板），系统化的决策与游说模型。
+          </div>
+          <div class="card-tags"><span class="tag">演讲</span><span class="tag">战略布局</span><span class="tag">决策</span></div>
+        </div>
+      </div>
+    </div>
+
+    <!-- 下卷与亡佚 -->
+    <h2 class="section-title">🧘 下卷 · 修身内敛与亡佚考证</h2>
+    <div class="chapter-grid">
+      <div class="chapter-card disabled">
+        <div class="card-image yin"></div>
+        <div class="card-content">
+          <div class="card-title"><h3>本经阴符七术等</h3> <span class="no">筹备中</span></div>
+          <div class="card-desc">
+            <strong>精神内守与能量管理。</strong>
+            盛神、养志、实意...注重内在精神修炼，强调“欲动天下者，先动自己”。
+          </div>
+          <div class="card-tags"><span class="tag">心流</span><span class="tag">精力管理</span></div>
+        </div>
+      </div>
+
+      <!-- 应用了 archived 类以区分“亡佚”与“筹备中” -->
+      <div class="chapter-card archived">
+        <div class="card-image gray"></div>
+        <div class="card-content">
+          <div class="card-title"><h3>转丸 / 胠乱</h3> <span class="no">已亡佚</span></div>
+          <div class="card-desc">
+            <strong>文献考证声明。</strong>
+            此两篇自唐代后便已失传。仅存篇目，无具体文字。为保持学术严谨，故留档标记。
+          </div>
+          <div class="card-tags"><span class="tag">亡佚文献</span></div>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</main>
+
+<footer id="about">
+  <p>© 2026 AI孙子兵法 (aisunzibingfa.com). 保留所有权利。</p>
+  <p style="margin-top: 10px; font-size: 13px;">《鬼谷子》原文及陶弘景注、俞樾校勘等已进入公有领域。本站现代解读与应用实例为原创内容，采用 CC BY-NC 4.0 协议。</p>
+</footer>
+
+<script>
+  // 夜间模式切换逻辑
+  const themeBtn = document.getElementById('themeToggle');
+  const body = document.body;
+  
+  try {
+    const savedTheme = localStorage.getItem('ggz_theme');
+    if (savedTheme === 'night' || (!savedTheme && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+      body.classList.add('night');
+      themeBtn.innerHTML = '☀️ 日间模式';
+      themeBtn.setAttribute('aria-pressed', 'true');
+    }
+  } catch(e) {
+    console.warn('Local storage is not available.');
+  }
+
+  themeBtn.addEventListener('click', () => {
+    body.classList.toggle('night');
+    const isNight = body.classList.contains('night');
+    themeBtn.innerHTML = isNight ? '☀️ 日间模式' : '🌙 夜间模式';
+    themeBtn.setAttribute('aria-pressed', isNight ? 'true' : 'false');
+    
+    try {
+      localStorage.setItem('ggz_theme', isNight ? 'night' : 'light');
+    } catch(e) {}
+  });
+</script>
+</body>
+</html>
