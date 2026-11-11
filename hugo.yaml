@@ -80,6 +80,10 @@ menu:
       name: 经典语录
       url: /quotes/
       weight: 10
+    - identifier: guiguzi
+      name: 鬼谷子实战
+      url: /guiguzi/
+      weight: 15
     - identifier: founders
       name: 朋友创业圈
       url: /founders/
