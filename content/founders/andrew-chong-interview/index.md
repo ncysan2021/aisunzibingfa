@@ -13,7 +13,8 @@ cover:
 他是“天才种子学习法（ACM）”的创办人，也是许多学员眼中的“潜能唤醒师”。本篇专访将带您走进天才种子教育学院，与他聊聊如何将兵法哲思融入教育实践，帮助更多人找到属于自己的“学习心法”。
 
 <div style="text-align: center; margin-top: 40px;">
-    <a href="/founders/andrew-chong.html" style="display: inline-block; background-color: #B8860B; color: white; padding: 12px 24px; border-radius: 8px; text-decoration: none; font-weight: bold; font-size: 16px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+    <a href="/founders/andrew-chong" style="display: inline-block; background-color: #B8860B; color: white; padding: 12px 24px; border-radius: 8px; text-decoration: none; font-weight: bold; font-size: 16px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
         👉 点击阅读完整专访（精美排版）
     </a>
 </div>
+
