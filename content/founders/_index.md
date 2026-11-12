@@ -18,3 +18,5 @@ cover:
 - **[吴雄山谈人性本源：人之初性本善、性本恶、性本定还是性本利？](/founders/human-nature-good-or-evil-philosophy-psychology/)** — 从孟子性善论、荀子性恶论、行为遗传学的性本定，到经济学的性本利，四个维度系统解析人性本源，重新理解这道哲学与心理学交叉命题。
 - **[翁名颐硕士与AI孙子兵法网站跨界，解锁5大教育创新玩法](/founders/k-phonics-education-innovation-founder-charmaine-ong/)** — 《AI孙子兵法》创办人吴雄山与教育权威翁名颐硕士会面，融合《孙子兵法》智慧与现代教育课程，开启教育创新新篇章。
 - **[AI孙子兵法网站创办人对话：东马企业家JAC何建杰的商业智慧](/founders/manja-foods-supply-founder-jac-ho/)** — AI孙子兵法网站创办人吴雄山专程拜访 MANJA FOODS SUPPLY 有限公司创办人 JAC 何建杰，深度解析传统小镇精神、现代海鲜供应链与《孙子兵法》商业哲学的完美融合。
+
+- **[专访张健权 Andrew Chong：唤醒无限潜能，让每一颗种子都能绽放](/founders/andrew-chong.html)** — 天才种子学习法（ACM）创办人张健权深度专访。探讨如何将兵法哲思融入教育实践，通过潜能开发、专注力、快速阅读及超强记忆训练，帮助学员突破学习局限。
