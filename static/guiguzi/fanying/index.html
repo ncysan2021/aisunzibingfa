@@ -9,6 +9,9 @@
 <meta name="keywords" content="鬼谷子, 反应第二, 鬼谷子原文, 套话技巧, 商业尽调, 谈判试探">
 <link rel="canonical" href="https://aisunzibingfa.com/guiguzi/fanying/">
 
+<!-- Google AdSense Global Script -->
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXXXXXXXXXXXX" crossorigin="anonymous"></script>
+
 <!-- OpenGraph (Facebook, LinkedIn, 微信等) -->
 <meta property="og:type" content="article">
 <meta property="og:title" content="鬼谷子·反应第二｜原文翻译与反向试探解析">
@@ -136,7 +139,6 @@
   .seg-no{font-size:calc(var(--fs) * 0.7);color:var(--muted);letter-spacing:3px;margin:0;font-weight:normal;} 
   .seg-actions{display:flex;gap:8px;} .action-btn{opacity:0;transition:.2s;font-size:12px;padding:3px 8px;} .seg:hover .action-btn{opacity:1;}
   
-  /* 强制相对定位，确保朗读按钮在右上方 */
   .source{font-size:var(--fs);line-height:2.15;letter-spacing:.5px;position:relative !important; display:block; padding-top: 5px;} 
   .source p{margin:0;text-indent:2em}
   .source.content-example { font-size: calc(var(--fs) - 2px); line-height: 1.9; }
@@ -180,7 +182,6 @@
   .trans > p {margin:0;text-indent:2em} 
   .trans::before{content:"译";display:block;font-size:11px;letter-spacing:2px;color:var(--accent);margin-bottom:6px;opacity:.8;}
   
-  /* 朗读按钮常显并带图标 */
   .btn-tts { position:absolute;right:0px;top:0px; padding:2px 8px;font-size:12px;border-radius:4px; border:1px solid var(--border);color:var(--muted); background:var(--panel);opacity:0.8;transition:all 0.2s;z-index:5; cursor:pointer;} 
   .trans:hover > .btn-tts, .plain-text:hover > .btn-tts, .example-wrapper:hover > .btn-tts, .story-wrapper:hover > .btn-tts, .source:hover > .btn-tts {opacity:1;} 
   .btn-tts.playing { color:var(--accent);border-color:var(--accent); background: rgba(138,90,43,0.1); background: color-mix(in srgb,var(--accent) 10%,transparent);opacity:1; }
@@ -190,6 +191,24 @@
   .plain-text > p { margin: 0; text-indent: 2em; }
   .example-wrapper, .story-wrapper { position: relative; margin-top: 10px; padding-top: 5px;} 
   body.hide-notes .notes{display:none} body.hide-trans .trans{display:none} body.hide-plain .plain-text{display:none}
+  
+  /* ====== 广告占位样式 ====== */
+  .ad-container {
+    margin: 26px 0;
+    padding: 10px;
+    background: rgba(138,90,43,0.03);
+    background: color-mix(in srgb, var(--accent) 3%, var(--panel));
+    border: 1px dashed var(--accent);
+    border-radius: 12px;
+    min-height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+  }
+  .seg .ad-container {
+    min-height: 250px;
+  }
   
   .commentary{background:var(--panel);border:1px solid var(--border);border-radius:12px;padding:22px 26px;margin-top:8px;scroll-margin-top:80px;} .commentary h2{font-size:16px;letter-spacing:3px;margin:0 0 14px;color:var(--accent);font-weight:600} .commentary p{margin:0 0 12px;font-size:15px;line-height:1.95;opacity:.92} .commentary p:last-child{margin-bottom:0}
   
@@ -308,6 +327,17 @@
       </div>
     </div>
 
+    <!-- 头部广告位 -->
+    <div class="ad-container">
+      <ins class="adsbygoogle"
+           style="display:block"
+           data-ad-client="ca-pub-XXXXXXXXXXXXXXXX"
+           data-ad-slot="1234567890"
+           data-ad-format="auto"
+           data-full-width-responsive="true"></ins>
+      <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+    </div>
+
     <div class="seg-jump top-jump">
       <span class="jump-label">段落速达</span>
       <button data-jump="seg1">一</button>
@@ -391,6 +421,17 @@
       </div>
     </section>
 
+    <!-- 文中广告位 -->
+    <div class="ad-container">
+      <ins class="adsbygoogle"
+           style="display:block"
+           data-ad-client="ca-pub-XXXXXXXXXXXXXXXX"
+           data-ad-slot="1234567890"
+           data-ad-format="auto"
+           data-full-width-responsive="true"></ins>
+      <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+    </div>
+
     <!-- 评析 -->
     <section class="commentary" id="commentary">
       <h2>评 析</h2>
@@ -434,6 +475,17 @@
         </div>
       </div>
     </section>
+
+    <!-- 底部广告位 -->
+    <div class="ad-container">
+      <ins class="adsbygoogle"
+           style="display:block"
+           data-ad-client="ca-pub-XXXXXXXXXXXXXXXX"
+           data-ad-slot="1234567890"
+           data-ad-format="auto"
+           data-full-width-responsive="true"></ins>
+      <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+    </div>
 
     <!-- ================= EEAT (编注) ================= -->
     <section class="seg eeat-box" id="eeat">
@@ -665,11 +717,10 @@
     initTTS('.plain-text', function(el) { return el.querySelector('p').innerText; });
     initTTS('.example-wrapper, .story-wrapper', function(el) {
       var clone = el.querySelector('.source').cloneNode(true);
-      clone.querySelectorAll('.img-container, .btn-tts').forEach(function(n){ n.remove(); }); // 排除按钮
+      clone.querySelectorAll('.img-container, .btn-tts').forEach(function(n){ n.remove(); });
       return clone.innerText;
     });
 
-    // 原文朗读注入（已彻底排除按钮和上标）
     initTTS('.seg > .source', function(el) {
       var clone = el.cloneNode(true);
       clone.querySelectorAll('sup, .img-container, .btn-tts').forEach(function(n){ n.remove(); });
@@ -709,7 +760,7 @@
         if (!node.nodeValue || !node.nodeValue.trim()) return NodeFilter.FILTER_REJECT;
         var p = node.parentElement;
         if (!p) return NodeFilter.FILTER_REJECT;
-        if (p.closest('script,style,button,.tags,sup,.seg-jump,.img-container')) return NodeFilter.FILTER_REJECT;
+        if (p.closest('script,style,button,.tags,sup,.seg-jump,.img-container,.ad-container')) return NodeFilter.FILTER_REJECT;
         if (notesHidden && p.closest('.notes')) return NodeFilter.FILTER_REJECT;
         if (transHidden && p.closest('.trans')) return NodeFilter.FILTER_REJECT;
         if (plainHidden && p.closest('.plain-text')) return NodeFilter.FILTER_REJECT;
