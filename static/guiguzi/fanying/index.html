@@ -136,8 +136,9 @@
   .seg-no{font-size:calc(var(--fs) * 0.7);color:var(--muted);letter-spacing:3px;margin:0;font-weight:normal;} 
   .seg-actions{display:flex;gap:8px;} .action-btn{opacity:0;transition:.2s;font-size:12px;padding:3px 8px;} .seg:hover .action-btn{opacity:1;}
   
-  /* 关键修改：为 .source 增加相对定位 */
-  .source{font-size:var(--fs);line-height:2.15;letter-spacing:.5px;position:relative} .source p{margin:0;text-indent:2em}
+  /* 关键修复：强制相对定位，让按钮绝迹于右上角 */
+  .source{font-size:var(--fs);line-height:2.15;letter-spacing:.5px;position:relative !important; display:block; padding-top: 5px;} 
+  .source p{margin:0;text-indent:2em}
   .source.content-example { font-size: calc(var(--fs) - 2px); line-height: 1.9; }
   
   .ref{position:relative;color:var(--accent);font-size:.62em;cursor:pointer;padding:0 1px;vertical-align:super;line-height:0;transition:.2s} 
@@ -179,14 +180,15 @@
   .trans > p {margin:0;text-indent:2em} 
   .trans::before{content:"译";display:block;font-size:11px;letter-spacing:2px;color:var(--accent);margin-bottom:6px;opacity:.8;}
   
-  .btn-tts { position:absolute;right:12px;top:10px; padding:2px 8px;font-size:12px;border-radius:4px; border:1px solid var(--border);color:var(--muted); background:var(--panel);opacity:0.6;transition:all 0.2s;z-index:2; } 
+  /* 朗读按钮高亮常驻，带图标 */
+  .btn-tts { position:absolute;right:0px;top:0px; padding:2px 8px;font-size:12px;border-radius:4px; border:1px solid var(--border);color:var(--muted); background:var(--panel);opacity:0.8;transition:all 0.2s;z-index:5; cursor:pointer;} 
   .trans:hover > .btn-tts, .plain-text:hover > .btn-tts, .example-wrapper:hover > .btn-tts, .story-wrapper:hover > .btn-tts, .source:hover > .btn-tts {opacity:1;} 
   .btn-tts.playing { color:var(--accent);border-color:var(--accent); background: rgba(138,90,43,0.1); background: color-mix(in srgb,var(--accent) 10%,transparent);opacity:1; }
   
   .plain-text { position: relative; margin-top: 12px; padding: 12px 16px; background: var(--plain-bg); border-left: 3px solid var(--plain-border); border-radius: 4px; font-size: calc(var(--fs) - 3px); line-height: 1.8; } 
   .plain-text::before { content: "大白话"; display: block; font-size: 11px; color: var(--plain-border); font-weight: 600; margin-bottom: 4px; letter-spacing: 1px; } 
   .plain-text > p { margin: 0; text-indent: 2em; }
-  .example-wrapper, .story-wrapper { position: relative; margin-top: 10px; } 
+  .example-wrapper, .story-wrapper { position: relative; margin-top: 10px; padding-top: 5px;} 
   body.hide-notes .notes{display:none} body.hide-trans .trans{display:none} body.hide-plain .plain-text{display:none}
   
   .commentary{background:var(--panel);border:1px solid var(--border);border-radius:12px;padding:22px 26px;margin-top:8px;scroll-margin-top:80px;} .commentary h2{font-size:16px;letter-spacing:3px;margin:0 0 14px;color:var(--accent);font-weight:600} .commentary p{margin:0 0 12px;font-size:15px;line-height:1.95;opacity:.92} .commentary p:last-child{margin-bottom:0}
@@ -327,12 +329,15 @@
       </div>
       <div class="seg-jump inline-jump"><span class="jump-label">段落速达</span><button data-jump="seg1">一</button><button data-jump="seg2">二</button><button data-jump="seg3">三</button><button data-jump="commentary">评析</button><button data-jump="example">实例</button><button data-jump="story">故事</button><button data-jump="eeat">编注</button></div>
       <div class="source">
-        <p>古善反听者，乃变鬼神<sup class="ref" data-n="1" data-tip="指极其隐秘、难以捉摸的变化之境。">①</sup>以得其情。变鬼神者，其事神也。反<sup class="ref" data-n="2" data-tip="同“返”，返回、反推。">②</sup>而应之，故事<sup class="ref" data-n="3" data-tip="处理事情、谋划局势。">③</sup>无不可。反以观往，复以验来；反以知古，复以知今；反以知彼，复以知己。动静虚实之理，不合于今，反古而求之。事有反，而求其应者，圣人之意也。</p>
+        <p>古善反听<sup class="ref" data-n="1">①</sup>者，乃变鬼神<sup class="ref" data-n="2">②</sup>以得其情。变鬼神者，其事神也。反<sup class="ref" data-n="3">③</sup>而应之，故事无不可。反以观往<sup class="ref" data-n="4">④</sup>，复以验来<sup class="ref" data-n="5">⑤</sup>；反以知古，复以知今；反以知彼，复以知己。动静虚实<sup class="ref" data-n="6">⑥</sup>之理，不合于今，反古而求之。事有反而求其应者，圣人之意也。</p>
       </div>
       <ol class="notes">
-        <li class="note" data-n="1"><span class="num">①</span><b>鬼神</b>：此处并非指迷信的鬼怪，而是指“极其隐秘、难以捉摸”的变化之境。陶弘景注：“神者，不测也。”</li>
-        <li class="note" data-n="2"><span class="num">②</span><b>反</b>：同“返”，返回、反推。即不要只盯住对方，而是要反观自己、反观历史。</li>
-        <li class="note" data-n="3"><span class="num">③</span><b>事</b>：处理事情、谋划局势。</li>
+        <li class="note" data-n="1"><span class="num">①</span><b>反听</b>：指通过反向刺激（如提问、反驳、沉默）来听取对方的真实反应，从而获取信息。</li>
+        <li class="note" data-n="2"><span class="num">②</span><b>变鬼神</b>：指手段隐秘莫测，如鬼神般不可捉摸。</li>
+        <li class="note" data-n="3"><span class="num">③</span><b>反</b>：同“返”，返回、反推。即不要只盯住对方，而是要反观自己、反观历史。</li>
+        <li class="note" data-n="4"><span class="num">④</span><b>观往</b>：观察过去的历史经验。</li>
+        <li class="note" data-n="5"><span class="num">⑤</span><b>验来</b>：验证未来的发展趋势。</li>
+        <li class="note" data-n="6"><span class="num">⑥</span><b>动静虚实</b>：指对方行动与静止、真实与虚假的状态。</li>
       </ol>
       <div class="trans">
         <p>古代善于运用“反听”之术的人，能够像鬼神一样变化莫测，从而探知对方的真实内情。所谓“变鬼神”，是指其手段神秘莫测。通过反向推求和回应对方，处理事情就能无往不利。反推可以观察过去，回推可以验证未来；反推可以了解古代，回推可以了解当今；反推可以了解对方，回推可以了解自己。如果对方动静虚实的规律，与现在的情况不符，就需要反推古代的历史经验来探求原因。遇到事情通过反推而求得对方的回应，这就是圣人的用意所在。</p>
@@ -347,10 +352,16 @@
       <div class="seg-head"><h2 class="seg-no">二</h2><div class="seg-actions"><button class="action-btn copy" data-seg="seg2">复制</button></div></div>
       <div class="seg-jump inline-jump"><span class="jump-label">段落速达</span><button data-jump="seg1">一</button><button data-jump="seg2">二</button><button data-jump="seg3">三</button><button data-jump="commentary">评析</button><button data-jump="example">实例</button><button data-jump="story">故事</button><button data-jump="eeat">编注</button></div>
       <div class="source">
-        <p>人言者，动也；己默者，静也。因其言，听其辞。言有不合者，反而求之，其应必出。言有象，事有比。其有象比，以观其次。象者象其事，比者比其辞也。以无形求有声，其钓语<sup class="ref" data-n="1" data-tip="像钓鱼一样用语言去引诱对方开口。">①</sup>合事，得人实也。若张置网而取兽也，多张其会而司之。道合其事，彼自出之，此钓人之网也。</p>
+        <p>人言者，动也；己默者，静也。因其言，听其辞。言有不合<sup class="ref" data-n="1">①</sup>者，反而求之，其应必出。言有象<sup class="ref" data-n="2">②</sup>，事有比<sup class="ref" data-n="3">③</sup>。其有象比，以观其次<sup class="ref" data-n="4">④</sup>。象者象其事，比者比其辞也。以无形求有声，其钓语<sup class="ref" data-n="5">⑤</sup>合事，得人实也。若张置网而取兽也，多张其会<sup class="ref" data-n="6">⑥</sup>而司<sup class="ref" data-n="7">⑦</sup>之。道合其事，彼自出之，此钓人之网也。</p>
       </div>
       <ol class="notes">
-        <li class="note" data-n="1"><span class="num">①</span><b>钓语</b>：像钓鱼一样用语言去引诱对方开口。这是“反应”篇中最核心的技巧。</li>
+        <li class="note" data-n="1"><span class="num">①</span><b>不合</b>：不合情理、前后矛盾。</li>
+        <li class="note" data-n="2"><span class="num">②</span><b>象</b>：表象、象征（如举出具体例子）。</li>
+        <li class="note" data-n="3"><span class="num">③</span><b>比</b>：类比、参照（如引用类似的事件）。</li>
+        <li class="note" data-n="4"><span class="num">④</span><b>次</b>：次序、发展轨迹、下一步动向。</li>
+        <li class="note" data-n="5"><span class="num">⑤</span><b>钓语</b>：如同钓鱼下饵一样，用话语引诱对方开口。</li>
+        <li class="note" data-n="6"><span class="num">⑥</span><b>会</b>：指兽群经常出没交汇的地方（即关键节点）。</li>
+        <li class="note" data-n="7"><span class="num">⑦</span><b>司</b>：通“伺”，暗中观察、守候。</li>
       </ol>
       <div class="trans">
         <p>别人说话，是“动”；自己保持沉默，是“静”。顺着对方的话，去听他的言辞。如果他的言辞中有不合情理的地方，就反向去追问，他必然会做出回应。言语有表象，事物有类比。通过表象和类比，可以观察下一步的发展。用无形的诱导去探求有声的言辞，用“钓语”去契合事理，就能得到对方的实情。这就像张开网捕猎野兽一样，多张几张网等待它，只要方法契合，对方自然会露出破绽，这就是“钓人之网”。</p>
@@ -365,10 +376,12 @@
       <div class="seg-head"><h2 class="seg-no">三</h2><div class="seg-actions"><button class="action-btn copy" data-seg="seg3">复制</button></div></div>
       <div class="seg-jump inline-jump"><span class="jump-label">段落速达</span><button data-jump="seg1">一</button><button data-jump="seg2">二</button><button data-jump="seg3">三</button><button data-jump="commentary">评析</button><button data-jump="example">实例</button><button data-jump="story">故事</button><button data-jump="eeat">编注</button></div>
       <div class="source">
-        <p>常持其网驱之，其不言无比，乃为之变。以象动之，以报其心，见其情，随而牧<sup class="ref" data-n="1" data-tip="驾驭、控制。">①</sup>之。己反往，彼复来，言有象比，因而定基。重之袭之，反之复之，万事不失其辞。圣人所愚智，事皆不疑。</p>
+        <p>常持其网驱之，其不言无比，乃为之变。以象动之，以报其心，见其情，随而牧<sup class="ref" data-n="1">①</sup>之。己反往<sup class="ref" data-n="2">②</sup>，彼复来，言有象比，因而定基。重之袭之<sup class="ref" data-n="3">③</sup>，反之复之，万事不失其辞。圣人所愚智，事皆不疑。</p>
       </div>
       <ol class="notes">
         <li class="note" data-n="1"><span class="num">①</span><b>牧</b>：驾驭、控制。</li>
+        <li class="note" data-n="2"><span class="num">②</span><b>己反往</b>：自己抛出反向的试探。</li>
+        <li class="note" data-n="3"><span class="num">③</span><b>重之袭之</b>：反复试探、层层深入。</li>
       </ol>
       <div class="trans">
         <p>经常拿着这张“网”去驱使对方，如果对方不说话或者没有反应，就改变策略。用表象去触动他，迎合他的心理，察见他的实情，然后顺势驾驭他。自己反推过去，对方回应过来，言辞有了表象和类比，就可以奠定基础。反复试探、反复验证，万事都不会偏离实情。圣人能够看透愚者和智者，遇事就不会有疑惑。</p>
@@ -615,7 +628,7 @@
     function stopTTS() {
       if (window.speechSynthesis.speaking) { window.speechSynthesis.cancel(); }
       if (currentBtn) {
-        currentBtn.innerHTML = currentBtn.innerHTML.replace('⏸ 停止', '朗读').replace('▶ 朗读', '朗读');
+        currentBtn.innerHTML = currentBtn.innerHTML.replace('⏸ 停止', '🔊 朗读').replace('▶ 朗读', '🔊 朗读');
         currentBtn.classList.remove('playing');
         currentBtn = null;
       }
@@ -639,7 +652,7 @@
       $$(selector).forEach(function(el) {
         var btn = document.createElement('button');
         btn.className = 'btn-tts';
-        btn.innerHTML = '朗读';
+        btn.innerHTML = '🔊 朗读';
         el.appendChild(btn);
         btn.onclick = function(e) {
           e.stopPropagation();
@@ -648,7 +661,6 @@
       });
     }
 
-    // 注入翻译、大白话、实例、故事
     initTTS('.trans', function(el) { return el.querySelector('p').innerText; });
     initTTS('.plain-text', function(el) { return el.querySelector('p').innerText; });
     initTTS('.example-wrapper, .story-wrapper', function(el) {
@@ -657,17 +669,15 @@
       return clone.innerText;
     });
 
-    // 【新增】注入原文朗读
+    // 原文朗读注入
     initTTS('.seg > .source', function(el) {
       var clone = el.cloneNode(true);
-      // 剔除上标注释和图片容器（如果有）
       clone.querySelectorAll('sup, .img-container').forEach(function(n){ n.remove(); });
       return clone.innerText;
     });
 
     document.addEventListener('visibilitychange', function() { if (document.hidden) stopTTS(); });
   } else {
-    // 不支持 TTS 的浏览器
     $$('.trans, .plain-text, .example-wrapper, .story-wrapper, .seg > .source').forEach(function(el) {
       var btn = document.createElement('button');
       btn.className = 'btn-tts';
