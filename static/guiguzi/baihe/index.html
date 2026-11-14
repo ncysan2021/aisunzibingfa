@@ -50,7 +50,7 @@
         "url": "https://aisunzibingfa.com"
       },
       "datePublished": "2026-11-12",
-      "dateModified": "2026-11-14",
+      "dateModified": "2026-11-15",
       "wordCount": 5000
     },
     {
@@ -88,7 +88,8 @@
   .progress{position:fixed;top:0;left:0;width:100%;height:2px;z-index:100;pointer-events:none} .progress i{display:block;height:100%;width:0;background:var(--accent);transition:width .1s linear}
   
   .topbar{position:sticky;top:0;z-index:60;display:flex;align-items:center;justify-content:space-between;gap:12px;padding:10px 20px;
-    background: rgba(244,241,234,0.9); background: color-mix(in srgb,var(--bg) 88%,transparent);
+    background: rgba(244,241,234,0.9); 
+    background: color-mix(in srgb,var(--bg) 88%,transparent);
     backdrop-filter:blur(10px);-webkit-backdrop-filter:blur(10px);border-bottom:1px solid var(--border);}
   body.night .topbar { background: rgba(20,22,26,0.9); background: color-mix(in srgb,var(--bg) 88%,transparent); }
   
@@ -132,7 +133,8 @@
   .seg-no{font-size:calc(var(--fs) * 0.7);color:var(--muted);letter-spacing:3px;margin:0;font-weight:normal;} 
   .seg-actions{display:flex;gap:8px;} .action-btn{opacity:0;transition:.2s;font-size:12px;padding:3px 8px;} .seg:hover .action-btn{opacity:1;}
   
-  .source{font-size:var(--fs);line-height:2.15;letter-spacing:.5px} .source p{margin:0;text-indent:2em}
+  /* 关键修改：为 .source 增加相对定位，以支持朗读按钮 */
+  .source{font-size:var(--fs);line-height:2.15;letter-spacing:.5px;position:relative} .source p{margin:0;text-indent:2em}
   .source.content-example { font-size: calc(var(--fs) - 2px); line-height: 1.9; }
   
   .ref{position:relative;color:var(--accent);font-size:.62em;cursor:pointer;padding:0 1px;vertical-align:super;line-height:0;transition:.2s} 
@@ -156,9 +158,7 @@
     pointer-events: none;
     line-height: 1.5;
   }
-  @media (max-width: 600px) {
-    .ref:hover::after { display: none; }
-  }
+  @media (max-width: 600px) { .ref:hover::after { display: none; } }
   
   .notes{list-style:none;margin:16px 0 0;padding:12px 0 0;border-top:1px dashed var(--border);font-size:calc(var(--fs) * 0.75);color:var(--muted);line-height:1.85;} 
   .note{position:relative;padding:3px 6px 3px 24px;margin-bottom:4px;border-radius:5px;transition:background .3s;scroll-margin-top:140px;cursor:default} 
@@ -177,7 +177,7 @@
   .trans::before{content:"译";display:block;font-size:11px;letter-spacing:2px;color:var(--accent);margin-bottom:6px;opacity:.8;}
   
   .btn-tts { position:absolute;right:12px;top:10px; padding:2px 8px;font-size:12px;border-radius:4px; border:1px solid var(--border);color:var(--muted); background:var(--panel);opacity:0.6;transition:all 0.2s;z-index:2; } 
-  .trans:hover > .btn-tts, .plain-text:hover > .btn-tts, .example-wrapper:hover > .btn-tts, .story-wrapper:hover > .btn-tts {opacity:1;} 
+  .trans:hover > .btn-tts, .plain-text:hover > .btn-tts, .example-wrapper:hover > .btn-tts, .story-wrapper:hover > .btn-tts, .source:hover > .btn-tts {opacity:1;} 
   .btn-tts.playing { color:var(--accent);border-color:var(--accent); background: rgba(138,90,43,0.1); background: color-mix(in srgb,var(--accent) 10%,transparent);opacity:1; }
   
   .plain-text { position: relative; margin-top: 12px; padding: 12px 16px; background: var(--plain-bg); border-left: 3px solid var(--plain-border); border-radius: 4px; font-size: calc(var(--fs) - 3px); line-height: 1.8; } 
@@ -628,36 +628,28 @@
     toastTimer = setTimeout(function(){ el.classList.remove('show'); }, 1800);
   }
 
-  /* 字号 */
   var fs = store.get('fs', 18);
   function applyFs(){ document.documentElement.style.setProperty('--fs', fs + 'px'); }
   applyFs();
   $('#btnFsPlus').onclick = function(){ fs = Math.min(26, fs + 1); applyFs(); store.set('fs', fs); };
   $('#btnFsMinus').onclick = function(){ fs = Math.max(14, fs - 1); applyFs(); store.set('fs', fs); };
 
-  /* 夜间模式智能跟随 + 实时监听系统变化 */
   var nightBtn = $('#btnNight');
   var mediaQuery = window.matchMedia('(prefers-color-scheme: dark)');
-  
   function syncNight(){
     var on = document.body.classList.contains('night');
     nightBtn.classList.toggle('on', on);
     nightBtn.textContent = on ? '☀' : '☾';
     nightBtn.setAttribute('aria-pressed', on ? 'true' : 'false');
   }
-  
   var userDark = store.get('night', null);
-  if (userDark === null ? mediaQuery.matches : userDark) {
-    document.body.classList.add('night');
-  }
+  if (userDark === null ? mediaQuery.matches : userDark) { document.body.classList.add('night'); }
   syncNight();
-
   nightBtn.onclick = function(){
     document.body.classList.toggle('night');
     store.set('night', document.body.classList.contains('night'));
     syncNight();
   };
-
   mediaQuery.addEventListener('change', function(e) {
     if (store.get('night', null) === null) {
       document.body.classList.toggle('night', e.matches);
@@ -665,7 +657,6 @@
     }
   });
 
-  /* 注释/译文/白话开关 */
   function initToggle(sel, cls, key){
     var btn = $(sel);
     var on = store.get(key, true);
@@ -683,7 +674,6 @@
   initToggle('#btnTrans', 'hide-trans', 'trans');
   initToggle('#btnPlain', 'hide-plain', 'plain');
 
-  /* 动态生成注释悬浮 data-tip */
   $$('.seg').forEach(function(seg){
     var notes = seg.querySelectorAll('.note');
     notes.forEach(function(note){
@@ -691,23 +681,17 @@
       if(!n) return;
       var ref = seg.querySelector('.ref[data-n="' + n + '"]');
       if(!ref) return;
-      
-      // 提取注释文本，去掉圈号和粗体标签
       var clone = note.cloneNode(true);
       var numSpan = clone.querySelector('.num');
       if(numSpan) numSpan.remove();
       var bTag = clone.querySelector('b');
       if(bTag) bTag.remove();
-      
       var text = clone.textContent.replace(/^：/, '').trim();
-      // 如果太长则截断
       if(text.length > 60) text = text.substring(0, 60) + '...';
-      
       ref.setAttribute('data-tip', text);
     });
   });
 
-  /* 原文 ↔ 注释 跳转 */
   $$('.ref').forEach(function(ref){
     ref.addEventListener('click', function(){
       var seg  = ref.closest('.seg');
@@ -730,35 +714,25 @@
     });
   });
 
-  /* 拦截底部导航无效点击 */
   var disabledNav = document.querySelector('.post-nav a.disabled');
-  if (disabledNav) {
-    disabledNav.addEventListener('click', function(e){ e.preventDefault(); });
-  }
+  if (disabledNav) { disabledNav.addEventListener('click', function(e){ e.preventDefault(); }); }
 
-  /* 复制本段 */
   $$('.copy').forEach(function(btn){
     btn.addEventListener('click', function(){
       var seg = document.getElementById(btn.dataset.seg);
       if (!seg) return;
-      
       var content = seg.querySelector('.source') || seg.querySelector('.eeat-content');
       if (!content) return;
-      
       var clone = content.cloneNode(true);
       clone.querySelectorAll('sup, .img-container').forEach(function(s){ s.remove(); });
       var text = (clone.textContent || '').trim();
-
       var tr = seg.querySelector('.trans');
       if (tr) text += '\n\n【译文】\n' + (tr.querySelector('p').textContent || '').trim();
-      
       var plain = seg.querySelector('.plain-text');
       if (plain && !document.body.classList.contains('hide-plain')) {
         text += '\n\n【大白话】\n' + (plain.querySelector('p').textContent || '').trim();
       }
-      
       text += '\n\n——《鬼谷子·捭阖第一》';
-
       var done = function(){ toast('已复制内容'); };
       if (navigator.clipboard && navigator.clipboard.writeText) {
         navigator.clipboard.writeText(text).then(done, fallback);
@@ -776,15 +750,11 @@
     });
   });
 
-  /* ================= 封装后的 TTS 朗读逻辑 ================= */
   if ('speechSynthesis' in window) {
     var currentUtterance = null;
     var currentBtn = null;
-
     function stopTTS() {
-      if (window.speechSynthesis.speaking) {
-        window.speechSynthesis.cancel();
-      }
+      if (window.speechSynthesis.speaking) { window.speechSynthesis.cancel(); }
       if (currentBtn) {
         currentBtn.innerHTML = currentBtn.innerHTML.replace('⏸ 停止', '朗读').replace('▶ 朗读', '朗读');
         currentBtn.classList.remove('playing');
@@ -792,48 +762,33 @@
       }
       currentUtterance = null;
     }
-
     function playTTS(text, btn) {
-      if (currentBtn === btn) {
-        stopTTS(); 
-        return;
-      }
+      if (currentBtn === btn) { stopTTS(); return; }
       stopTTS();
-
       currentBtn = btn;
       currentBtn.innerHTML = '⏸ 停止';
       currentBtn.classList.add('playing');
-
       currentUtterance = new SpeechSynthesisUtterance(text);
       currentUtterance.lang = 'zh-CN';
       currentUtterance.rate = 0.9;
-
       currentUtterance.onend = stopTTS;
-      currentUtterance.onerror = function() {
-        stopTTS();
-        toast('朗读失败，可能浏览器不支持中文语音包');
-      };
-
+      currentUtterance.onerror = function() { stopTTS(); toast('朗读失败'); };
       window.speechSynthesis.speak(currentUtterance);
     }
-
-    // 通用注入函数
     function initTTS(selector, getTextFn) {
       $$(selector).forEach(function(el) {
         var btn = document.createElement('button');
         btn.className = 'btn-tts';
         btn.innerHTML = '朗读';
         el.appendChild(btn);
-        
         btn.onclick = function(e) {
           e.stopPropagation();
-          var text = getTextFn(el);
-          playTTS(text, btn);
+          playTTS(getTextFn(el), btn);
         };
       });
     }
-
-    // 分别注入
+    
+    // 注入翻译、大白话、实例、故事
     initTTS('.trans', function(el) { return el.querySelector('p').innerText; });
     initTTS('.plain-text', function(el) { return el.querySelector('p').innerText; });
     initTTS('.example-wrapper, .story-wrapper', function(el) {
@@ -842,13 +797,16 @@
       return clone.innerText;
     });
 
-    document.addEventListener('visibilitychange', function() {
-      if (document.hidden) stopTTS();
+    // 【新增】注入原文朗读
+    initTTS('.seg > .source', function(el) {
+      var clone = el.cloneNode(true);
+      clone.querySelectorAll('sup, .img-container').forEach(function(n){ n.remove(); });
+      return clone.innerText;
     });
 
+    document.addEventListener('visibilitychange', function() { if (document.hidden) stopTTS(); });
   } else {
-    // 不支持 TTS 的浏览器
-    $$('.trans, .plain-text, .example-wrapper, .story-wrapper').forEach(function(el) {
+    $$('.trans, .plain-text, .example-wrapper, .story-wrapper, .seg > .source').forEach(function(el) {
       var btn = document.createElement('button');
       btn.className = 'btn-tts';
       btn.innerHTML = '不支持朗读';
@@ -857,7 +815,6 @@
     });
   }
 
-  /* 页内搜索 (跳过图片) */
   var searchbar   = $('#searchbar');
   var searchInput = $('#searchInput');
   var searchCount = $('#searchCount');
@@ -865,14 +822,9 @@
   var activeIdx = -1;
 
   function clearHL(){
-    $$('mark.hl').forEach(function(m){
-      m.replaceWith(document.createTextNode(m.textContent));
-    });
-    var reader = $('#reader');
-    if (reader) reader.normalize();
-    marks = [];
-    activeIdx = -1;
-    searchCount.textContent = '0/0';
+    $$('mark.hl').forEach(function(m){ m.replaceWith(document.createTextNode(m.textContent)); });
+    var reader = $('#reader'); if (reader) reader.normalize();
+    marks = []; activeIdx = -1; searchCount.textContent = '0/0';
   }
 
   function doHighlight(q){
@@ -894,14 +846,12 @@
     });
     var nodes = [];
     while (walker.nextNode()) nodes.push(walker.currentNode);
-
     var needle = q.toLowerCase();
     nodes.forEach(function(node){
       var text = node.nodeValue;
       var lower = text.toLowerCase();
       var idx = lower.indexOf(needle);
       if (idx === -1) return;
-
       var frag = document.createDocumentFragment();
       var last = 0;
       while (idx !== -1) {
@@ -938,34 +888,18 @@
     else searchCount.textContent = '0/0';
   }
 
-  $('#btnSearch').onclick = function(){
-    searchbar.classList.toggle('open');
-    if (searchbar.classList.contains('open')) {
-      searchInput.focus();
-    } else {
-      searchInput.value = '';
-      clearHL();
-    }
-  };
-  $('#btnCloseSearch').onclick = function(){
-    searchbar.classList.remove('open');
-    searchInput.value = '';
-    clearHL();
-  };
+  $('#btnSearch').onclick = function(){ searchbar.classList.toggle('open'); if (searchbar.classList.contains('open')) { searchInput.focus(); } else { searchInput.value = ''; clearHL(); } };
+  $('#btnCloseSearch').onclick = function(){ searchbar.classList.remove('open'); searchInput.value = ''; clearHL(); };
   $('#btnPrev').onclick = function(){ if (marks.length) setActive(activeIdx - 1); };
   $('#btnNext').onclick = function(){ if (marks.length) setActive(activeIdx + 1); };
 
   var searchTimer = null;
-  searchInput.addEventListener('input', function(){
-    clearTimeout(searchTimer);
-    searchTimer = setTimeout(runSearch, 160);
-  });
+  searchInput.addEventListener('input', function(){ clearTimeout(searchTimer); searchTimer = setTimeout(runSearch, 160); });
   searchInput.addEventListener('keydown', function(e){
     if (e.key === 'Enter') { e.preventDefault(); if (marks.length) setActive(activeIdx + 1); }
     if (e.key === 'Escape') { $('#btnCloseSearch').click(); }
   });
 
-  /* 进度 + 位置保存 + 返回顶部 */
   var progressBar = $('#progressBar');
   var backToTop = $('#backToTop');
   var rafId = null;
@@ -989,63 +923,38 @@
       var max = h.scrollHeight - h.clientHeight;
       var pct = max > 0 ? (h.scrollTop / max) : 0;
       progressBar.style.width = (pct * 100).toFixed(2) + '%';
-      
-      if (h.scrollTop > 600) {
-        backToTop.classList.add('show');
-      } else {
-        backToTop.classList.remove('show');
-      }
-      
+      if (h.scrollTop > 600) { backToTop.classList.add('show'); } else { backToTop.classList.remove('show'); }
       savePos();
     });
   }, { passive: true });
 
-  backToTop.addEventListener('click', function(){
-    window.scrollTo({ top: 0, behavior: 'smooth' });
-  });
+  backToTop.addEventListener('click', function(){ window.scrollTo({ top: 0, behavior: 'smooth' }); });
 
-  /* 恢复阅读 */
   window.addEventListener('load', function(){
     var pos = store.get('pos', null);
     if (!pos || !pos.y || pos.y < 500) return;
     var el = $('#resume');
     el.querySelector('span').textContent = '上次读到 ' + Math.min(100, pos.pct || 0) + '%';
     el.classList.remove('hidden');
-
-    $('#resumeGo').onclick = function(){
-      window.scrollTo({ top: pos.y, behavior: 'smooth' });
-      el.classList.add('hidden');
-    };
+    $('#resumeGo').onclick = function(){ window.scrollTo({ top: pos.y, behavior: 'smooth' }); el.classList.add('hidden'); };
     $('#resumeClose').onclick = function(){ el.classList.add('hidden'); };
-
-    window.addEventListener('scroll', function hide(){
-      el.classList.add('hidden');
-      window.removeEventListener('scroll', hide);
-    }, { passive: true });
+    window.addEventListener('scroll', function hide(){ el.classList.add('hidden'); window.removeEventListener('scroll', hide); }, { passive: true });
   });
 
-  /* 书签 */
   var markBtn = $('#btnMark');
   function syncMark(){ markBtn.classList.toggle('on', !!store.get('mark', null)); }
   syncMark();
   markBtn.onclick = function(){
-    if (store.get('mark', null)) {
-      store.set('mark', null);
-      toast('已取消书签');
-    } else {
+    if (store.get('mark', null)) { store.set('mark', null); toast('已取消书签'); }
+    else {
       var h = document.documentElement;
       var max = h.scrollHeight - h.clientHeight;
-      store.set('mark', {
-        y: h.scrollTop,
-        pct: max > 0 ? Math.round((h.scrollTop / max) * 100) : 0,
-        t: Date.now()
-      });
+      store.set('mark', { y: h.scrollTop, pct: max > 0 ? Math.round((h.scrollTop / max) * 100) : 0, t: Date.now() });
       toast('已加书签');
     }
     syncMark();
   };
 
-  /* 段落速达 */
   var jumpBtns = $$('.seg-jump button');
   jumpBtns.forEach(function(btn){
     btn.addEventListener('click', function(){
@@ -1060,18 +969,12 @@
       entries.forEach(function(en){
         if (en.isIntersecting) {
           var id = en.target.id;
-          jumpBtns.forEach(function(x){
-            x.classList.toggle('active', x.dataset.jump === id);
-          });
+          jumpBtns.forEach(function(x){ x.classList.toggle('active', x.dataset.jump === id); });
         }
       });
     }, { rootMargin: '-45% 0px -45% 0px', threshold: 0 });
-    
     $$('.seg').forEach(function(s){ obs.observe(s); });
-    ['commentary', 'example', 'story', 'eeat'].forEach(function(id){
-      var el = document.getElementById(id);
-      if(el) obs.observe(el);
-    });
+    ['commentary', 'example', 'story', 'eeat'].forEach(function(id){ var el = document.getElementById(id); if(el) obs.observe(el); });
   }
 
 })();
