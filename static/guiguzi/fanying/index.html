@@ -136,7 +136,7 @@
   .seg-no{font-size:calc(var(--fs) * 0.7);color:var(--muted);letter-spacing:3px;margin:0;font-weight:normal;} 
   .seg-actions{display:flex;gap:8px;} .action-btn{opacity:0;transition:.2s;font-size:12px;padding:3px 8px;} .seg:hover .action-btn{opacity:1;}
   
-  /* 关键修复：强制相对定位，让按钮绝迹于右上角 */
+  /* 强制相对定位，确保朗读按钮在右上方 */
   .source{font-size:var(--fs);line-height:2.15;letter-spacing:.5px;position:relative !important; display:block; padding-top: 5px;} 
   .source p{margin:0;text-indent:2em}
   .source.content-example { font-size: calc(var(--fs) - 2px); line-height: 1.9; }
@@ -180,7 +180,7 @@
   .trans > p {margin:0;text-indent:2em} 
   .trans::before{content:"译";display:block;font-size:11px;letter-spacing:2px;color:var(--accent);margin-bottom:6px;opacity:.8;}
   
-  /* 朗读按钮高亮常驻，带图标 */
+  /* 朗读按钮常显并带图标 */
   .btn-tts { position:absolute;right:0px;top:0px; padding:2px 8px;font-size:12px;border-radius:4px; border:1px solid var(--border);color:var(--muted); background:var(--panel);opacity:0.8;transition:all 0.2s;z-index:5; cursor:pointer;} 
   .trans:hover > .btn-tts, .plain-text:hover > .btn-tts, .example-wrapper:hover > .btn-tts, .story-wrapper:hover > .btn-tts, .source:hover > .btn-tts {opacity:1;} 
   .btn-tts.playing { color:var(--accent);border-color:var(--accent); background: rgba(138,90,43,0.1); background: color-mix(in srgb,var(--accent) 10%,transparent);opacity:1; }
@@ -596,7 +596,7 @@
       var content = seg.querySelector('.source') || seg.querySelector('.eeat-content');
       if (!content) return;
       var clone = content.cloneNode(true);
-      clone.querySelectorAll('sup, .img-container').forEach(function(s){ s.remove(); });
+      clone.querySelectorAll('sup, .img-container, .btn-tts').forEach(function(s){ s.remove(); });
       var text = (clone.textContent || '').trim();
       var tr = seg.querySelector('.trans');
       if (tr) text += '\n\n【译文】\n' + (tr.querySelector('p').textContent || '').trim();
@@ -665,14 +665,14 @@
     initTTS('.plain-text', function(el) { return el.querySelector('p').innerText; });
     initTTS('.example-wrapper, .story-wrapper', function(el) {
       var clone = el.querySelector('.source').cloneNode(true);
-      clone.querySelectorAll('.img-container').forEach(function(imgDiv){ imgDiv.remove(); });
+      clone.querySelectorAll('.img-container, .btn-tts').forEach(function(n){ n.remove(); }); // 排除按钮
       return clone.innerText;
     });
 
-    // 原文朗读注入
+    // 原文朗读注入（已彻底排除按钮和上标）
     initTTS('.seg > .source', function(el) {
       var clone = el.cloneNode(true);
-      clone.querySelectorAll('sup, .img-container').forEach(function(n){ n.remove(); });
+      clone.querySelectorAll('sup, .img-container, .btn-tts').forEach(function(n){ n.remove(); });
       return clone.innerText;
     });
 
