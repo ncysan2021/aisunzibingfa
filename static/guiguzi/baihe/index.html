@@ -245,6 +245,20 @@
   #backToTop:hover { background: var(--accent); color: #fff; border-color: var(--accent); }
 
   @media (max-width:880px){ .layout{grid-template-columns:1fr;padding:18px 14px 80px;gap:0} nav.toc{display:none} .seg{padding:18px 16px 16px;border-radius:10px;scroll-margin-top:70px} .chapter-head h1{font-size:24px;letter-spacing:3px} .topbar{padding:8px 12px;gap:8px} .topbar .book,.topbar .sep{display:none} .searchbar{top:49px;padding:8px 12px} .action-btn{opacity:1;} .btn-tts{opacity:1;} .resume{right:12px;bottom:70px} .seg-jump button{height:28px;min-width:28px;padding:0 10px;font-size:12px} #backToTop{right: 12px; bottom: 130px;} }
+
+  /* 广告位居中与提示文字 */
+  .ad-container {
+    flex-direction: column;
+    gap: 8px;
+  }
+  .ad-container::before {
+    content: "广 告 位";
+    color: var(--muted);
+    font-size: 12px;
+    letter-spacing: 2px;
+    opacity: 0.5;
+    pointer-events: none;
+  }
 </style>
 </head>
 <body>
