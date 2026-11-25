@@ -1,0 +1,549 @@
+﻿<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>孙子兵法导读｜十三篇六维地图、原文翻译与复盘</title>
+<meta name="description" content="AI孙子兵法导读：用“战略、战术、执行、复盘、资源约束、物理极限”六维地图重读《孙子兵法》十三篇。从始计第一开始，逐篇提供原文、注解、翻译、现代应用与复盘三问。">
+<meta name="author" content="吴雄山">
+<meta name="keywords" content="AI孙子兵法, 孙子兵法, 孙子兵法导读, 十三篇, 始计, 五事七计, 庙算, 复盘, 战略, 战术, 执行, 资源约束, 物理极限">
+<link rel="canonical" href="https://aisunzibingfa.com/sunzi/">
+
+<!-- Google AdSense Global Script -->
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8780108680378831" crossorigin="anonymous"></script>
+
+<!-- OpenGraph -->
+<meta property="og:type" content="website">
+<meta property="og:title" content="孙子兵法导读｜十三篇六维地图">
+<meta property="og:description" content="战略、战术、执行、复盘、资源约束、物理极限：用六维地图重读《孙子兵法》十三篇。">
+<meta property="og:url" content="https://aisunzibingfa.com/sunzi/">
+<meta property="og:image" content="https://img.aisunzibingfa.com/sunzi-header.jpg">
+<meta property="og:image:width" content="1000">
+<meta property="og:image:height" content="576">
+<meta property="og:site_name" content="AI孙子兵法">
+
+<!-- Twitter Card -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="孙子兵法导读｜十三篇六维地图">
+<meta name="twitter:image" content="https://img.aisunzibingfa.com/sunzi-header.jpg">
+<meta name="twitter:description" content="战略、战术、执行、复盘、资源约束、物理极限：用六维地图重读《孙子兵法》十三篇。">
+
+<!-- AEO / SEO 结构化数据 -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "CollectionPage",
+      "name": "孙子兵法导读",
+      "description": "用战略、战术、执行、复盘、资源约束、物理极限六维地图重读《孙子兵法》十三篇。",
+      "image": "https://img.aisunzibingfa.com/sunzi-header.jpg",
+      "url": "https://aisunzibingfa.com/sunzi/",
+      "inLanguage": "zh-CN",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "AI孙子兵法",
+        "url": "https://aisunzibingfa.com"
+      }
+    },
+    {
+      "@type": "ItemList",
+      "name": "孙子兵法十三篇",
+      "numberOfItems": 13,
+      "itemListElement": [
+        {"@type": "ListItem", "position": 1, "name": "始计第一", "url": "https://aisunzibingfa.com/sunzi/shi-ji/"},
+        {"@type": "ListItem", "position": 2, "name": "作战第二"},
+        {"@type": "ListItem", "position": 3, "name": "谋攻第三"},
+        {"@type": "ListItem", "position": 4, "name": "军形第四"},
+        {"@type": "ListItem", "position": 5, "name": "兵势第五"},
+        {"@type": "ListItem", "position": 6, "name": "虚实第六"},
+        {"@type": "ListItem", "position": 7, "name": "军争第七"},
+        {"@type": "ListItem", "position": 8, "name": "九变第八"},
+        {"@type": "ListItem", "position": 9, "name": "行军第九"},
+        {"@type": "ListItem", "position": 10, "name": "地形第十"},
+        {"@type": "ListItem", "position": 11, "name": "九地第十一"},
+        {"@type": "ListItem", "position": 12, "name": "火攻第十二"},
+        {"@type": "ListItem", "position": 13, "name": "用间第十三"}
+      ]
+    }
+  ]
+}
+</script>
+
+<style>
+  :root{
+    --bg:#f2ede3; --panel:#fffdf8; --ink:#241f1a; --muted:#7b7061; --line:#ded3c2;
+    --bronze:#965b27; --bronze-2:#c18b4f; --red:#a23d2d; --green:#4e6b58; --blue:#4a607a; --olive:#7a6a39; --gray:#5c5b57;
+    --serif:"Noto Serif SC","Songti SC","SimSun","Source Han Serif SC",serif;
+    --sans:-apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans SC","Microsoft YaHei",sans-serif;
+    --shadow:0 10px 30px rgba(60,45,30,.07);
+  }
+  body.night{
+    --bg:#141511; --panel:#1c1e19; --ink:#e6dfd2; --muted:#9c9384; --line:#33362d;
+    --bronze:#c89254; --bronze-2:#e0b477; --red:#c46a58; --green:#7fa28a; --blue:#8ba6c4; --olive:#b3a06a; --gray:#a8a59d;
+    --shadow:0 10px 30px rgba(0,0,0,.25);
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  html{scroll-behavior:smooth}
+  body{
+    background:var(--bg);color:var(--ink);font-family:var(--sans);line-height:1.75;
+    background-image:
+      radial-gradient(circle at 18% 8%, color-mix(in srgb,var(--bronze) 8%, transparent), transparent 34%),
+      radial-gradient(circle at 88% 0%, rgba(74,96,122,.06), transparent 30%),
+      repeating-linear-gradient(0deg, rgba(120,100,70,.022) 0 1px, transparent 1px 4px);
+    transition:background .3s,color .3s;
+  }
+  a{color:inherit;text-decoration:none}
+  button{font-family:inherit}
+  .wrap{max-width:1180px;margin:0 auto;padding:0 24px}
+
+  /* header */
+  header.site-header{
+    position:sticky;top:0;z-index:100;border-bottom:1px solid var(--line);
+    background:color-mix(in srgb,var(--bg) 90%,transparent);
+    backdrop-filter:blur(14px);-webkit-backdrop-filter:blur(14px);
+  }
+  .header-inner{max-width:1180px;margin:0 auto;padding:14px 24px;display:flex;align-items:center;justify-content:space-between;gap:20px}
+  .logo{display:flex;align-items:baseline;gap:8px;font-family:var(--serif);font-size:20px;letter-spacing:1px;font-weight:600}
+  .logo b{color:var(--bronze);font-weight:600}
+  .logo small{font-family:var(--sans);font-size:11px;letter-spacing:3px;color:var(--muted);font-weight:400}
+  .nav-right{display:flex;align-items:center;gap:18px;font-size:13px;color:var(--muted)}
+  .nav-right a{transition:color .2s}
+  .nav-right a:hover{color:var(--bronze)}
+  .theme-toggle{border:1px solid var(--line);background:var(--panel);color:var(--ink);border-radius:99px;padding:5px 12px;cursor:pointer;font-size:12px}
+  .theme-toggle:hover{border-color:var(--bronze);color:var(--bronze)}
+
+  /* hero */
+  .hero{padding:72px 0 36px}
+  .hero-grid{display:grid;grid-template-columns:minmax(0,1.15fr) minmax(300px,.85fr);gap:48px;align-items:center}
+  .kicker{display:inline-flex;align-items:center;gap:8px;font-size:12px;letter-spacing:3px;color:var(--bronze);margin-bottom:16px}
+  .kicker::before{content:"";width:28px;height:1px;background:var(--bronze)}
+  .hero h1{font-family:var(--serif);font-size:clamp(38px,5.2vw,68px);line-height:1.12;letter-spacing:8px;font-weight:600;margin-bottom:18px}
+  .hero h1 span{color:var(--bronze)}
+  .hero .lead{font-family:var(--serif);font-size:19px;line-height:1.9;color:var(--ink);max-width:620px;margin-bottom:12px}
+  .hero .sub{font-size:14px;line-height:1.9;color:var(--muted);max-width:620px;margin-bottom:26px}
+  .hero-actions{display:flex;flex-wrap:wrap;gap:12px;align-items:center}
+  .btn{display:inline-flex;align-items:center;justify-content:center;padding:11px 20px;border-radius:9px;font-size:14px;font-weight:600;transition:.2s;border:1px solid transparent}
+  .btn-primary{background:var(--bronze);color:#fff;box-shadow:0 8px 20px color-mix(in srgb,var(--bronze) 28%,transparent)}
+  .btn-primary:hover{background:color-mix(in srgb,var(--bronze) 86%,#000);transform:translateY(-1px)}
+  .btn-ghost{border-color:var(--line);color:var(--muted);background:var(--panel)}
+  .btn-ghost:hover{border-color:var(--bronze);color:var(--bronze)}
+  .hero-note{font-size:12px;letter-spacing:1px;color:var(--muted);margin-top:16px}
+  .hero-note b{color:var(--bronze)}
+
+  .hero-art{
+    position:relative;min-height:360px;border:1px solid var(--line);border-radius:24px;
+    background:linear-gradient(145deg,color-mix(in srgb,var(--panel) 90%,#fff),var(--panel));
+    box-shadow:var(--shadow);overflow:hidden;padding:28px;
+  }
+  .hero-art::before{
+    content:"兵";position:absolute;right:-24px;bottom:-62px;font-family:var(--serif);
+    font-size:270px;line-height:1;color:color-mix(in srgb,var(--bronze) 8%,transparent);
+  }
+  .hero-art.photo{padding:0;min-height:300px;aspect-ratio:16/9;background:#17130f;overflow:hidden;}
+  .hero-art.photo::before{display:none;}
+  .hero-art.photo > img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:65% center;display:block;}
+  .photo-overlay{position:absolute;inset:0;background:linear-gradient(180deg,rgba(0,0,0,.42),transparent 34%,transparent 62%,rgba(0,0,0,.58));pointer-events:none;}
+  .photo-top{position:absolute;top:0;left:0;right:0;display:flex;justify-content:space-between;padding:14px 16px;color:rgba(255,255,255,.86);font-size:11px;letter-spacing:2px;z-index:2;}
+  .photo-caption{position:absolute;left:16px;right:16px;bottom:14px;color:#fff;font-size:13px;letter-spacing:1px;z-index:2;text-shadow:0 1px 8px rgba(0,0,0,.5);}
+  .art-top{display:flex;justify-content:space-between;align-items:center;position:relative;z-index:1}
+  .art-top span{font-size:11px;letter-spacing:3px;color:var(--muted)}
+  .art-progress{font-family:var(--serif);font-size:13px;color:var(--bronze)}
+  .art-number{font-family:var(--serif);font-size:88px;line-height:1;color:var(--bronze);letter-spacing:-2px;margin:34px 0 6px;position:relative;z-index:1}
+  .art-number small{font-size:22px;color:var(--muted);letter-spacing:2px;margin-left:8px}
+  .art-label{font-size:13px;letter-spacing:2px;color:var(--muted);position:relative;z-index:1;margin-bottom:22px}
+  .art-dims{position:relative;z-index:1;display:flex;flex-wrap:wrap;gap:7px}
+  .art-dims span{font-size:11px;padding:4px 9px;border:1px solid var(--line);border-radius:99px;color:var(--muted);background:var(--panel)}
+  .art-dims span:first-child{color:#fff;background:var(--bronze);border-color:var(--bronze)}
+
+  /* section headers */
+  .section{padding:44px 0}
+  .section-head{display:flex;align-items:flex-end;justify-content:space-between;gap:20px;margin-bottom:22px;border-bottom:1px solid var(--line);padding-bottom:14px}
+  .section-head h2{font-family:var(--serif);font-size:26px;letter-spacing:3px;font-weight:600}
+  .section-head p{font-size:13px;color:var(--muted);max-width:560px;text-align:right;line-height:1.7}
+  .section-kicker{font-size:11px;letter-spacing:3px;color:var(--bronze);margin-bottom:6px}
+
+  /* OS board */
+  .os-board{background:var(--panel);border:1px solid var(--line);border-radius:22px;padding:28px;box-shadow:var(--shadow)}
+  .os-flow{display:grid;grid-template-columns:repeat(4,1fr);gap:10px}
+  .os-step{position:relative;border:1px solid var(--line);border-radius:14px;padding:18px 14px;background:color-mix(in srgb,var(--panel) 88%,var(--bg))}
+  .os-step:not(:last-child)::after{content:"→";position:absolute;right:-13px;top:50%;transform:translateY(-50%);color:var(--bronze);font-size:15px;z-index:2}
+  .os-step .no{font-family:var(--serif);font-size:12px;color:var(--bronze);letter-spacing:2px;margin-bottom:8px}
+  .os-step h3{font-family:var(--serif);font-size:21px;letter-spacing:2px;margin-bottom:4px}
+  .os-step p{font-size:12px;color:var(--muted);line-height:1.6}
+  .os-loop{margin:14px 0 0;text-align:center;font-size:12px;color:var(--bronze);letter-spacing:1px}
+  .os-loop::before{content:"↺ ";font-size:16px}
+  .os-constraints{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin-top:16px}
+  .os-constraint{border:1px dashed color-mix(in srgb,var(--bronze) 55%,var(--line));border-radius:12px;padding:14px 16px;background:color-mix(in srgb,var(--bronze) 4%,var(--panel))}
+  .os-constraint h4{font-family:var(--serif);font-size:16px;letter-spacing:2px;color:var(--bronze);margin-bottom:3px}
+  .os-constraint p{font-size:12px;color:var(--muted)}
+
+  /* dimension sections */
+  .dim{padding:28px 0 8px}
+  .dim-head{display:flex;align-items:center;gap:12px;margin-bottom:14px}
+  .dim-dot{width:10px;height:10px;border-radius:50%;background:var(--dim);box-shadow:0 0 0 5px color-mix(in srgb,var(--dim) 12%,transparent)}
+  .dim-head h3{font-family:var(--serif);font-size:23px;letter-spacing:3px;font-weight:600}
+  .dim-head .dim-en{font-size:10px;letter-spacing:3px;color:var(--muted);text-transform:uppercase;margin-left:2px}
+  .dim-head .dim-note{font-size:12px;color:var(--muted);margin-left:auto}
+  .card-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(310px,1fr));gap:14px}
+  .chapter-card{
+    position:relative;display:flex;flex-direction:column;min-height:172px;
+    background:var(--panel);border:1px solid var(--line);border-radius:16px;padding:20px 20px 16px;
+    border-top:2px solid var(--dim);transition:.22s;overflow:hidden;
+  }
+  a.chapter-card:hover{transform:translateY(-3px);box-shadow:var(--shadow);border-color:color-mix(in srgb,var(--dim) 55%,var(--line))}
+  .chapter-card::after{content:attr(data-no);position:absolute;right:12px;bottom:4px;font-family:var(--serif);font-size:62px;line-height:1;color:color-mix(in srgb,var(--dim) 8%,transparent);pointer-events:none}
+  .card-top{display:flex;justify-content:space-between;align-items:center;gap:10px;margin-bottom:8px}
+  .card-tag{font-size:10px;letter-spacing:2px;color:var(--dim);font-weight:600}
+  .card-status{font-size:10px;padding:2px 8px;border-radius:99px;border:1px solid var(--line);color:var(--muted)}
+  .card-status.live{color:#fff;background:var(--dim);border-color:var(--dim)}
+  .chapter-card h4{font-family:var(--serif);font-size:20px;letter-spacing:1px;margin-bottom:5px}
+  .chapter-card p{font-size:13px;color:var(--muted);line-height:1.7;max-width:90%;margin-bottom:12px}
+  .card-tags{display:flex;flex-wrap:wrap;gap:5px;margin-top:auto}
+  .card-tags span{font-size:10px;padding:2px 7px;border-radius:99px;background:color-mix(in srgb,var(--dim) 7%,var(--bg));color:var(--dim)}
+  .chapter-card.planned{opacity:.78}
+  .chapter-card.planned:hover{opacity:1}
+
+  /* routes */
+  .routes{display:grid;grid-template-columns:repeat(3,1fr);gap:14px}
+  .route{background:var(--panel);border:1px solid var(--line);border-radius:16px;padding:20px}
+  .route h3{font-family:var(--serif);font-size:19px;letter-spacing:2px;margin-bottom:4px}
+  .route .route-sub{font-size:12px;color:var(--muted);margin-bottom:12px}
+  .route ol{list-style:none;counter-reset:r;display:flex;flex-wrap:wrap;gap:6px;align-items:center}
+  .route li{counter-increment:r;font-size:12px;color:var(--muted)}
+  .route li::after{content:"→";margin-left:6px;color:var(--line)}
+  .route li:last-child::after{content:""}
+  .route li b{color:var(--ink);font-weight:500}
+  .route a{color:var(--bronze);border-bottom:1px dotted var(--bronze)}
+
+  /* method */
+  .method{display:grid;grid-template-columns:repeat(4,1fr);gap:12px}
+  .method-step{background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:18px}
+  .method-step .no{font-family:var(--serif);font-size:13px;color:var(--bronze);letter-spacing:2px;margin-bottom:8px}
+  .method-step h4{font-size:15px;margin-bottom:4px}
+  .method-step p{font-size:12px;color:var(--muted);line-height:1.65}
+
+  /* bottom */
+  .bottom-cta{margin:52px 0 0;padding:34px;border:1px solid var(--line);border-radius:22px;background:linear-gradient(135deg,color-mix(in srgb,var(--bronze) 7%,var(--panel)),var(--panel));display:flex;align-items:center;justify-content:space-between;gap:24px}
+  .bottom-cta h2{font-family:var(--serif);font-size:26px;letter-spacing:3px;margin-bottom:6px}
+  .bottom-cta p{font-size:13px;color:var(--muted)}
+  .bottom-actions{display:flex;gap:10px;flex-wrap:wrap}
+  footer{border-top:1px solid var(--line);margin-top:56px;padding:28px 0 40px;color:var(--muted);font-size:12px;line-height:1.8}
+  .footer-inner{display:flex;justify-content:space-between;gap:20px;flex-wrap:wrap}
+  footer a{color:var(--bronze)}
+
+  @media (max-width:900px){
+    .hero-grid{grid-template-columns:1fr;gap:28px}
+    .hero-art{min-height:300px}
+    .os-flow{grid-template-columns:1fr 1fr}
+    .os-step:nth-child(2)::after{display:none}
+    .routes{grid-template-columns:1fr}
+    .method{grid-template-columns:1fr 1fr}
+    .section-head{flex-direction:column;align-items:flex-start;gap:8px}
+    .section-head p{text-align:left}
+    .bottom-cta{flex-direction:column;align-items:flex-start}
+  }
+  @media (max-width:600px){
+    .wrap{padding:0 16px}
+    .header-inner{flex-wrap:wrap;padding:8px 16px;gap:6px}
+    .logo{width:100%;font-size:18px;white-space:nowrap}
+    .logo span{font-size:12px;letter-spacing:1px}
+    .nav-right{width:100%;justify-content:space-between;gap:8px;font-size:12px}
+    .theme-toggle{padding:4px 9px;font-size:11px}
+    .hero{padding:44px 0 24px}
+    .hero h1{font-size:38px;letter-spacing:4px}
+    .hero .lead{font-size:16px}
+    .hero-art{padding:20px;min-height:260px}
+    .hero-art.photo{min-height:220px;padding:0}
+    .art-number{font-size:70px;margin-top:22px}
+    .os-board{padding:18px}
+    .os-flow{grid-template-columns:1fr}
+    .os-step::after{display:none}
+    .os-constraints{grid-template-columns:1fr}
+    .card-grid{grid-template-columns:1fr}
+    .method{grid-template-columns:1fr}
+    .dim-head .dim-note{display:none}
+    .bottom-cta{padding:24px 18px}
+    .bottom-cta h2{font-size:22px}
+  }
+  @media (prefers-reduced-motion:reduce){*{transition:none!important;scroll-behavior:auto!important}}
+</style>
+</head>
+<body>
+
+<header class="site-header">
+  <div class="header-inner">
+    <a href="/" class="logo"><b>AI孙子兵法</b><span>· 孙子兵法导读</span></a>
+    <nav class="nav-right" aria-label="页面导航">
+      <a href="/">返回主站</a>
+      <a href="#os">六维地图</a>
+      <a href="#chapters">十三篇</a>
+      <a href="/quotes/">经典语录</a>
+      <button class="theme-toggle" id="themeToggle" aria-label="切换夜间模式">🌙 夜间</button>
+    </nav>
+  </div>
+</header>
+
+<main>
+  <section class="hero">
+    <div class="wrap hero-grid">
+      <div>
+        <div class="kicker">AI 视角 · 战略操作系统</div>
+        <h1>孙子兵法<span>导读</span></h1>
+        <p class="lead">十三篇，不是十三篇文章，而是一套从庙算到复盘的战争操作系统。</p>
+        <p class="sub">先看六维地图，再按篇章读。每一篇都回到同一个问题：在今天，它还能怎么用？</p>
+        <div class="hero-actions">
+          <a class="btn btn-primary" href="./shi-ji/">从始计第一开始 →</a>
+          <a class="btn btn-ghost" href="#chapters">先看十三篇地图</a>
+        </div>
+        <p class="hero-note">当前进度 <b>1 / 13</b> · 始计第一已上线，其余篇章按顺序更新</p>
+      </div>
+      <div class="hero-art photo">
+        <img src="https://img.aisunzibingfa.com/sunzi-header.jpg" width="1000" height="576" alt="孙子兵法导读：战略导师在战争地图前" loading="eager">
+        <div class="photo-overlay" aria-hidden="true"></div>
+        <div class="photo-top"><span>十三篇 · 六维</span><span>01 / 13</span></div>
+        <div class="photo-caption">从“为什么打”到“怎么复盘”</div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section" id="os">
+    <div class="wrap">
+      <div class="section-head">
+        <div>
+          <div class="section-kicker">THE OPERATING SYSTEM</div>
+          <h2>六维战略操作系统</h2>
+        </div>
+        <p>不是六个互斥抽屉，而是“4 个流程 + 2 条底线”。主维度用于归类，交叉标签用于定位。</p>
+      </div>
+      <div class="os-board">
+        <div class="os-flow">
+          <div class="os-step"><div class="no">01 / STRATEGY</div><h3>战略</h3><p>为什么打、打什么、值不值得打。</p></div>
+          <div class="os-step"><div class="no">02 / TACTICS</div><h3>战术</h3><p>怎么打、怎么造势、怎么虚实。</p></div>
+          <div class="os-step"><div class="no">03 / EXECUTION</div><h3>执行</h3><p>怎么走、怎么争、怎么协同。</p></div>
+          <div class="os-step"><div class="no">04 / REVIEW</div><h3>复盘</h3><p>怎么算、怎么变、怎么校验。</p></div>
+        </div>
+        <div class="os-loop">复盘回到战略：每一仗都变成下一仗的算法</div>
+        <div class="os-constraints">
+          <div class="os-constraint"><h4>资源约束</h4><p>钱粮、后勤、时间、成本。先算打得起打不起。</p></div>
+          <div class="os-constraint"><h4>物理极限</h4><p>地形、天气、距离、空间。条件不会因为意志而改变。</p></div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section" id="chapters">
+    <div class="wrap">
+      <div class="section-head">
+        <div>
+          <div class="section-kicker">THE THIRTEEN CHAPTERS</div>
+          <h2>十三篇地图</h2>
+        </div>
+        <p>按六维分组，不按原文顺序读也可以；但第一次读，建议仍按原书顺序。</p>
+      </div>
+
+      <div class="dim" style="--dim:var(--bronze)">
+        <div class="dim-head"><span class="dim-dot"></span><h3>战略</h3><span class="dim-en">Strategy</span><span class="dim-note">先决定打不打，再决定怎么打</span></div>
+        <div class="card-grid">
+          <a class="chapter-card" href="./shi-ji/" data-no="01" style="--dim:var(--bronze)">
+            <div class="card-top"><span class="card-tag">战略 · 复盘</span><span class="card-status live">已上线</span></div>
+            <h4>始计第一</h4>
+            <p>五事七计，先算后战。战前庙算，是战略的起点，也是复盘的原型。</p>
+            <div class="card-tags"><span>五事七计</span><span>庙算</span><span>诡道</span></div>
+          </a>
+          <article class="chapter-card planned" data-no="03" style="--dim:var(--bronze)">
+            <div class="card-top"><span class="card-tag">战略 · 战术</span><span class="card-status">筹备中</span></div>
+            <h4>谋攻第三</h4>
+            <p>全胜为上，伐谋伐交。先问能不能不打，再问怎么打。</p>
+            <div class="card-tags"><span>全胜</span><span>伐谋</span><span>兵力比</span></div>
+          </article>
+        </div>
+      </div>
+
+      <div class="dim" style="--dim:var(--green)">
+        <div class="dim-head"><span class="dim-dot"></span><h3>战术</h3><span class="dim-en">Tactics</span><span class="dim-note">在局部制造优势</span></div>
+        <div class="card-grid">
+          <article class="chapter-card planned" data-no="04" style="--dim:var(--green)">
+            <div class="card-top"><span class="card-tag">战术 · 执行</span><span class="card-status">筹备中</span></div>
+            <h4>军形第四</h4>
+            <p>先为不可胜，以待敌之可胜。先站稳，再找机会。</p>
+            <div class="card-tags"><span>形</span><span>攻守</span><span>度量</span></div>
+          </article>
+          <article class="chapter-card planned" data-no="05" style="--dim:var(--green)">
+            <div class="card-top"><span class="card-tag">战术 · 执行</span><span class="card-status">筹备中</span></div>
+            <h4>兵势第五</h4>
+            <p>奇正相生，势如彍弩。用结构和节奏，把力量放大。</p>
+            <div class="card-tags"><span>奇正</span><span>势</span><span>节奏</span></div>
+          </article>
+          <article class="chapter-card planned" data-no="06" style="--dim:var(--green)">
+            <div class="card-top"><span class="card-tag">战术 · 复盘</span><span class="card-status">筹备中</span></div>
+            <h4>虚实第六</h4>
+            <p>避实击虚，致人而不致于人。让对方跟着你的节奏走。</p>
+            <div class="card-tags"><span>虚实</span><span>主动权</span><span>调动</span></div>
+          </article>
+        </div>
+      </div>
+
+      <div class="dim" style="--dim:var(--blue)">
+        <div class="dim-head"><span class="dim-dot"></span><h3>执行</h3><span class="dim-en">Execution</span><span class="dim-note">把计划变成动作</span></div>
+        <div class="card-grid">
+          <article class="chapter-card planned" data-no="07" style="--dim:var(--blue)">
+            <div class="card-top"><span class="card-tag">执行 · 资源约束</span><span class="card-status">筹备中</span></div>
+            <h4>军争第七</h4>
+            <p>以迂为直，以患为利。争利，但不被利拖死。</p>
+            <div class="card-tags"><span>军争</span><span>速度</span><span>协同</span></div>
+          </article>
+          <article class="chapter-card planned" data-no="09" style="--dim:var(--blue)">
+            <div class="card-top"><span class="card-tag">执行 · 物理极限</span><span class="card-status">筹备中</span></div>
+            <h4>行军第九</h4>
+            <p>处军相敌，令行禁止。走得对，也要走得稳。</p>
+            <div class="card-tags"><span>行军</span><span>处军</span><span>纪律</span></div>
+          </article>
+        </div>
+      </div>
+
+      <div class="dim" style="--dim:var(--red)">
+        <div class="dim-head"><span class="dim-dot"></span><h3>复盘</h3><span class="dim-en">Review</span><span class="dim-note">把结果变成下一轮判断</span></div>
+        <div class="card-grid">
+          <article class="chapter-card planned" data-no="08" style="--dim:var(--red)">
+            <div class="card-top"><span class="card-tag">复盘 · 战术</span><span class="card-status">筹备中</span></div>
+            <h4>九变第八</h4>
+            <p>九变之利，通于九变。不是随机应变，而是重新评估。</p>
+            <div class="card-tags"><span>九变</span><span>权变</span><span>五危</span></div>
+          </article>
+          <article class="chapter-card planned" data-no="13" style="--dim:var(--red)">
+            <div class="card-top"><span class="card-tag">复盘 · 战略</span><span class="card-status">筹备中</span></div>
+            <h4>用间第十三</h4>
+            <p>先知者，必取于人。没有真实情报，复盘就是自说自话。</p>
+            <div class="card-tags"><span>用间</span><span>情报</span><span>校验</span></div>
+          </article>
+        </div>
+      </div>
+
+      <div class="dim" style="--dim:var(--olive)">
+        <div class="dim-head"><span class="dim-dot"></span><h3>资源约束</h3><span class="dim-en">Resources</span><span class="dim-note">先算成本，再谈野心</span></div>
+        <div class="card-grid">
+          <article class="chapter-card planned" data-no="02" style="--dim:var(--olive)">
+            <div class="card-top"><span class="card-tag">资源约束 · 执行</span><span class="card-status">筹备中</span></div>
+            <h4>作战第二</h4>
+            <p>日费千金，速战速决。战争首先是后勤和财政。</p>
+            <div class="card-tags"><span>成本</span><span>粮草</span><span>速胜</span></div>
+          </article>
+          <article class="chapter-card planned" data-no="12" style="--dim:var(--olive)">
+            <div class="card-top"><span class="card-tag">资源约束 · 物理极限</span><span class="card-status">筹备中</span></div>
+            <h4>火攻第十二</h4>
+            <p>发火有时，起火有日。火攻不是点火，是先算条件。</p>
+            <div class="card-tags"><span>火攻</span><span>条件</span><span>风向</span></div>
+          </article>
+        </div>
+      </div>
+
+      <div class="dim" style="--dim:var(--gray)">
+        <div class="dim-head"><span class="dim-dot"></span><h3>物理极限</h3><span class="dim-en">Physical Limits</span><span class="dim-note">地形、天气、距离，不会说谎</span></div>
+        <div class="card-grid">
+          <article class="chapter-card planned" data-no="10" style="--dim:var(--gray)">
+            <div class="card-top"><span class="card-tag">物理极限 · 执行</span><span class="card-status">筹备中</span></div>
+            <h4>地形第十</h4>
+            <p>六地之道，地形者兵之助。先看地，再看兵。</p>
+            <div class="card-tags"><span>六地</span><span>地利</span><span>判断</span></div>
+          </article>
+          <article class="chapter-card planned" data-no="11" style="--dim:var(--gray)">
+            <div class="card-top"><span class="card-tag">物理极限 · 执行 / 复盘</span><span class="card-status">筹备中</span></div>
+            <h4>九地第十一</h4>
+            <p>九地之变，人情之理。处境会改变人的心理。</p>
+            <div class="card-tags"><span>九地</span><span>处境</span><span>士气</span></div>
+          </article>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section" id="routes">
+    <div class="wrap">
+      <div class="section-head">
+        <div>
+          <div class="section-kicker">READING ROUTES</div>
+          <h2>三条阅读路线</h2>
+        </div>
+        <p>不想从第一页读到第十三页，可以按你的场景选一条。</p>
+      </div>
+      <div class="routes">
+        <div class="route">
+          <h3>快速入门</h3>
+          <p class="route-sub">先建立全局感，不被术语卡住</p>
+          <ol><li><a href="./shi-ji/">始计</a></li><li><b>谋攻</b></li><li><b>军形</b></li><li><b>虚实</b></li><li><b>用间</b></li></ol>
+        </div>
+        <div class="route">
+          <h3>管理者路线</h3>
+          <p class="route-sub">从战略到组织，再到落地</p>
+          <ol><li><a href="./shi-ji/">始计</a></li><li><b>作战</b></li><li><b>谋攻</b></li><li><b>九变</b></li><li><b>地形</b></li><li><b>九地</b></li></ol>
+        </div>
+        <div class="route">
+          <h3>竞技 / 博弈路线</h3>
+          <p class="route-sub">看态势、节奏与临场变化</p>
+          <ol><li><a href="./shi-ji/">始计</a></li><li><b>兵势</b></li><li><b>虚实</b></li><li><b>军争</b></li><li><b>九变</b></li></ol>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section" id="how">
+    <div class="wrap">
+      <div class="section-head">
+        <div>
+          <div class="section-kicker">HOW TO READ</div>
+          <h2>一篇怎么读</h2>
+        </div>
+        <p>不是背原文，而是把每一篇变成一次判断训练。</p>
+      </div>
+      <div class="method">
+        <div class="method-step"><div class="no">STEP 01</div><h4>看六维定位</h4><p>先知道这一篇在战略、战术、执行、复盘、资源、物理中的位置。</p></div>
+        <div class="method-step"><div class="no">STEP 02</div><h4>读原文与注解</h4><p>先读原文，再看逐句注解；生僻字和异文都标出来。</p></div>
+        <div class="method-step"><div class="no">STEP 03</div><h4>看译文与评析</h4><p>用白话过一遍，再看它和现代管理、职场、竞技的映射。</p></div>
+        <div class="method-step"><div class="no">STEP 04</div><h4>做复盘三问</h4><p>把这一篇带回你正在做的项目：目标、假设、止损点。</p></div>
+      </div>
+    </div>
+  </section>
+
+  <section class="wrap">
+    <div class="bottom-cta">
+      <div>
+        <h2>先从始计第一开始</h2>
+        <p>十三篇的地图已经画好，第一篇已经可以读。</p>
+      </div>
+      <div class="bottom-actions">
+        <a class="btn btn-primary" href="./shi-ji/">阅读始计第一 →</a>
+        <a class="btn btn-ghost" href="/quotes/">先看经典语录</a>
+      </div>
+    </div>
+  </section>
+
+  <footer>
+    <div class="wrap footer-inner">
+      <div>© 2026 AI孙子兵法 · 孙子兵法导读<br>《孙子兵法》原文及古注已进入公有领域；现代解读与应用案例为原创内容。</div>
+      <div><a href="/">返回主站</a> · <a href="/guiguzi/">鬼谷子实战</a> · <a href="/quotes/">经典语录</a></div>
+    </div>
+  </footer>
+</main>
+
+<script>
+  (function(){
+    var btn = document.getElementById('themeToggle');
+    var body = document.body;
+    try {
+      var saved = localStorage.getItem('sunzi_theme');
+      if (saved === 'night' || (!saved && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+        body.classList.add('night');
+        btn.textContent = '☀️ 日间';
+      }
+    } catch(e) {}
+    btn.addEventListener('click', function(){
+      body.classList.toggle('night');
+      var night = body.classList.contains('night');
+      btn.textContent = night ? '☀️ 日间' : '🌙 夜间';
+      try { localStorage.setItem('sunzi_theme', night ? 'night' : 'light'); } catch(e) {}
+    });
+  })();
+</script>
+</body>
+</html>

@@ -80,6 +80,10 @@ menu:
       name: 经典语录
       url: /quotes/
       weight: 10
+    - identifier: sunzi
+      name: 孙子兵法导读
+      url: /sunzi/
+      weight: 12
     - identifier: guiguzi
       name: 鬼谷子实战
       url: /guiguzi/
